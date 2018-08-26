@@ -1,0 +1,18 @@
+{
+    "name": "sanmai/pindx",
+    "description": "Эталонный справочник почтовых индексов объектов почтовой связи",
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit": ">=6"
+    },
+    "license": "Apache-2.0",
+    "require": {
+        "php": ">=7"
+    },
+    "autoload": {
+        "psr-4": {"RussianPostIndex\\": "src/"}
+    },
+    "autoload-dev": {
+        "psr-4": {"Tests\\RussianPostIndex\\": "tests/"}
+    }
+}
