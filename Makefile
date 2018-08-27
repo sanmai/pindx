@@ -1,6 +1,6 @@
 SHELL=/bin/bash
 
-all: src/MainDirectory.php src/PrefixDirectory.php json
+all: src/MainDirectory.php src/PrefixDirectory.php json src/ByCity
 
 clean:
 	rm -v PIndx.tsv PIndx.txt
@@ -28,3 +28,7 @@ src/PrefixDirectory.php: PIndx.tsv
 
 json: PIndx.tsv
 	php bin/JSONIndex.php
+
+src/ByCity: PIndx.tsv
+	php bin/PHPExport.php
+	php vendor/bin/php-cs-fixer fix -v src/ByCity/

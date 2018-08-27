@@ -43,4 +43,30 @@ class PrefixDirectoryTest extends TestCase
         $this->assertFalse(\RussianPostIndex\PrefixDirectory::postalCodeValid(105003));
         $this->assertFalse(\RussianPostIndex\PrefixDirectory::postalCodeValid(105981));
     }
+
+    public function testMissingOffice()
+    {
+        $this->assertNull(\RussianPostIndex\PrefixDirectory::getOffice(999999));
+        $this->assertNull(\RussianPostIndex\PrefixDirectory::getOffice(105001));
+        $this->assertNull(\RussianPostIndex\PrefixDirectory::getOffice(105010));
+    }
+
+    public function testValidOffice()
+    {
+        $this->assertInstanceOf(\RussianPostIndex\Record::class, \RussianPostIndex\PrefixDirectory::getOffice(105005));
+
+        $office101000 = \RussianPostIndex\PrefixDirectory::getOffice(101000);
+        $this->assertInstanceOf(\RussianPostIndex\Record::class, $office101000);
+
+        $this->assertSame(101000, $office101000->getIndex());
+        $this->assertSame('МОСКВА', $office101000->getName());
+        $this->assertSame('О', $office101000->getType());
+        $this->assertSame(127950, $office101000->getSuperior());
+        $this->assertSame('МОСКВА', $office101000->getRegion());
+        $this->assertSame('', $office101000->getAutonomousRegion());
+        $this->assertSame('', $office101000->getArea());
+        $this->assertSame('', $office101000->getCity());
+        $this->assertSame('', $office101000->getDistrict());
+        $this->assertSame('2011-01-21', $office101000->getDate()->format('Y-m-d'));
+    }
 }

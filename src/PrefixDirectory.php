@@ -1068,4 +1068,26 @@ final class PrefixDirectory
 
         return true;
     }
+
+    /**
+     * @param string|int $postalCode
+     * @return \RussianPostIndex\Record|null
+     */
+    public static function getOffice($postalCode)
+    {
+        $postalCode = (string) $postalCode;
+
+        if (!self::postalCodeValid($postalCode)) {
+            return null;
+        }
+
+        $cityCode = substr($postalCode, 0, 3);
+        $fqcn = "\RussianPostIndex\ByCity\City{$cityCode}\Office{$postalCode}";
+
+        if (!class_exists($fqcn)) {
+            return null;
+        }
+
+        return new $fqcn;
+    }
 }
