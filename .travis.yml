@@ -1,0 +1,20 @@
+sudo: false
+
+language: php
+php:
+  - 7.0
+  - 7.1
+  - 7.2
+
+cache:
+  directories:
+    - $HOME/.composer
+    - build/cache
+
+install:
+  - composer install --prefer-dist
+
+script:
+  - vendor/bin/phpunit
+  - vendor/bin/php-cs-fixer --dry-run --stop-on-violation fix
+  - composer validate
