@@ -3,7 +3,8 @@
     "description": "Эталонный справочник почтовых индексов объектов почтовой связи",
     "type": "library",
     "require-dev": {
-        "phpunit/phpunit": ">=6"
+        "phpunit/phpunit": ">=6",
+        "friendsofphp/php-cs-fixer": "^2.13"
     },
     "license": "Apache-2.0",
     "require": {
@@ -13,6 +14,6 @@
         "psr-4": {"RussianPostIndex\\": "src/"}
     },
     "autoload-dev": {
-        "psr-4": {"Tests\\RussianPostIndex\\": "tests/"}
+        "psr-4": {"PIndxTools\\": "tools/", "Tests\\PIndxTools\\": "tests/"}
     }
 }
