@@ -16,20 +16,23 @@
  */
 
 declare(strict_types=1);
-require 'vendor/autoload.php';
 
-$reader = new \PIndxTools\Reader();
-$pipeline = \Pipeline\take($reader->read());
-$pipeline->map(function (\PIndxTools\Record $record) {
-    return $record->Index;
-});
+namespace Tests\PIndxTools;
 
-$mainDirectory = file_get_contents('src/MainDirectory.php');
+use PHPUnit\Framework\TestCase;
 
-ob_start();
-echo "[\n\t\t";
-echo join(",\n\t\t", $pipeline->toArray());
-echo "\n\t]";
-$mainDirectory = preg_replace('/INDEX_LIST = \[[^]]*\]/s', 'INDEX_LIST = '.ob_get_clean(), $mainDirectory);
+/**
+ * @covers \RussianPostIndex\MainDirectory
+ */
+class MainDirectoryTest extends TestCase
+{
+    public function testPostalCodeValid()
+    {
+        $this->assertTrue(\RussianPostIndex\MainDirectory::postalCodeValid(997060));
+    }
 
-file_put_contents('src/MainDirectory.php', $mainDirectory);
+    public function testPostalCodeInvalid()
+    {
+        $this->assertFalse(\RussianPostIndex\MainDirectory::postalCodeValid(999999));
+    }
+}
