@@ -19,7 +19,10 @@ declare(strict_types=1);
 
 namespace PIndxTools;
 
-class Reader
+/**
+ * @internal
+ */
+final class Reader
 {
     const TSV_SOURCE = 'PIndx.tsv';
 

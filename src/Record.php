@@ -17,91 +17,59 @@
 
 declare(strict_types=1);
 
-namespace PIndxTools;
+namespace RussianPostIndex;
 
-/**
- * Данные из исходного файла.
- *
- * @internal
- */
-class Record implements \RussianPostIndex\Record
+interface Record
 {
-    use \RussianPostIndex\Util\RecordTrait;
-
     /**
      * Почтовый индекс объекта почтовой связи в соответствии с действующей системой индексации.
-     *
-     * @var int
      */
-    public $Index;
+    public function getIndex(): int;
 
     /**
      * Наименование объекта почтовой связи.
-     *
-     * @var string
      */
-    public $OPSName;
+    public function getName(): string;
 
     /**
      * Тип объекта почтовой связи.
-     *
-     * @var string
      */
-    public $OPSType;
+    public function getType(): string;
 
     /**
      * Индекс вышестоящего по иерархии подчиненности объекта почтовой связи.
-     *
-     * @var int
      */
-    public $OPSSubm;
+    public function getSuperior(): int;
 
     /**
      * Наименование области, края, республики, в которой находится объект почтовой связи.
      *
      * @var string
      */
-    public $Region;
+    public function getRegion(): string;
 
     /**
      * Наименование автономной области, в которой находится объект почтовой связи.
-     *
-     * @var string
      */
-    public $Autonom;
+    public function getAutonomousRegion(): string;
 
     /**
      * Наименование района, в котором находится объект почтовой связи.
-     *
-     * @var string
      */
-    public $Area;
+    public function getArea(): string;
 
     /**
      * Наименование населенного пункта, в котором находится объект почтовой связи.
-     *
-     * @var string
      */
-    public $City;
+    public function getCity(): string;
 
     /**
      * Наименование подчиненного населенного пункта, в котором находится объект почтовой связи.
-     *
-     * @var string
      */
-    public $City1;
+    public function getDistrict(): string;
 
     /**
      * Дата актуализации информации об объекте почтовой связи.
-     *
-     * @var string
      */
-    public $ActDate;
-
-    /**
-     * Почтовый индекс объект почтовой связи до ввода действующей системы индексации.
-     *
-     * @var string
-     */
-    public $IndexOld;
+    public function getDate(): \DateTimeInterface;
 }
