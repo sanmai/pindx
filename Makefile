@@ -1,6 +1,6 @@
 SHELL=/bin/bash
 
-all: src/MainDirectory.php
+all: src/MainDirectory.php src/PrefixDirectory.php
 
 clean:
 	rm -v PIndx.tsv PIndx.txt
@@ -22,3 +22,6 @@ PIndx.tsv: PIndx.dbf
 
 src/MainDirectory.php: PIndx.tsv
 	php bin/MainDirectory.php
+
+src/PrefixDirectory.php: PIndx.tsv
+	php bin/PrefixDirectory.php

@@ -22,25 +22,25 @@ namespace Tests\PIndxTools;
 use PHPUnit\Framework\TestCase;
 
 /**
- * @covers \RussianPostIndex\MainDirectory
+ * @covers \RussianPostIndex\PrefixDirectory
  */
-class MainDirectoryTest extends TestCase
+class PrefixDirectoryTest extends TestCase
 {
     public function testPostalCodeValid()
     {
-        $this->assertTrue(\RussianPostIndex\MainDirectory::postalCodeValid(997060));
+        $this->assertTrue(\RussianPostIndex\PrefixDirectory::postalCodeValid(997060));
 
-        $this->assertTrue(\RussianPostIndex\MainDirectory::postalCodeValid(105005));
-        $this->assertTrue(\RussianPostIndex\MainDirectory::postalCodeValid(105043));
-        $this->assertTrue(\RussianPostIndex\MainDirectory::postalCodeValid(105980));
+        $this->assertTrue(\RussianPostIndex\PrefixDirectory::postalCodeValid(105005));
+        $this->assertTrue(\RussianPostIndex\PrefixDirectory::postalCodeValid(105010));
+        $this->assertTrue(\RussianPostIndex\PrefixDirectory::postalCodeValid(105980));
     }
 
     public function testPostalCodeInvalid()
     {
-        $this->assertFalse(\RussianPostIndex\MainDirectory::postalCodeValid(999999));
+        $this->assertFalse(\RussianPostIndex\PrefixDirectory::postalCodeValid(999999));
 
-        $this->assertFalse(\RussianPostIndex\MainDirectory::postalCodeValid(105001));
-        $this->assertFalse(\RussianPostIndex\MainDirectory::postalCodeValid(105003));
-        $this->assertFalse(\RussianPostIndex\MainDirectory::postalCodeValid(105981));
+        $this->assertFalse(\RussianPostIndex\PrefixDirectory::postalCodeValid(105001));
+        $this->assertFalse(\RussianPostIndex\PrefixDirectory::postalCodeValid(105003));
+        $this->assertFalse(\RussianPostIndex\PrefixDirectory::postalCodeValid(105981));
     }
 }
