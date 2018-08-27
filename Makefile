@@ -18,3 +18,4 @@ PIndx.txt: PIndx.dbf
 PIndx.tsv: PIndx.dbf
 	dbview PIndx.dbf | iconv -f CP866 | grep -q $$'\t' && echo "Found a tab character, cannot proceed with .tsv conversion" || true
 	dbview -t -b -d$$'\t' PIndx.dbf | iconv -f CP866 > PIndx.tsv
+	grep -q ^0 PIndx.tsv && echo "Found a postal code beginning with a zero" || true
