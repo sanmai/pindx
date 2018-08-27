@@ -1,6 +1,6 @@
 SHELL=/bin/bash
 
-all: src/MainDirectory.php src/PrefixDirectory.php
+all: src/MainDirectory.php src/PrefixDirectory.php json
 
 clean:
 	rm -v PIndx.tsv PIndx.txt
@@ -25,3 +25,6 @@ src/MainDirectory.php: PIndx.tsv
 
 src/PrefixDirectory.php: PIndx.tsv
 	php bin/PrefixDirectory.php
+
+json: PIndx.tsv
+	php bin/JSONIndex.php
