@@ -19,6 +19,9 @@ declare(strict_types=1);
 
 namespace PIndxTools;
 
+/**
+ * Данные из исходного файла.
+ */
 class Record
 {
     /**
