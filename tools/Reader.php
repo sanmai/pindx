@@ -26,6 +26,22 @@ final class Reader
 {
     const TSV_SOURCE = 'PIndx.tsv';
 
+    const LOWER_CASE_WORDS = [
+        'Район' => 'район',
+        'Область' => 'область',
+        'Край' => 'край',
+        'Округ' => 'округ',
+        'Автономный' => 'автономный',
+        'Автономная' => 'автономная',
+        'Немецкий' => 'немецкий',
+        'Национальный' => 'национальный',
+    ];
+
+    public static function updateCyrillicCasing(string $input): string
+    {
+        return str_replace(array_keys(self::LOWER_CASE_WORDS), self::LOWER_CASE_WORDS, mb_convert_case($input, MB_CASE_TITLE));
+    }
+
     /**
      * @param string|resource $input
      *
