@@ -1071,6 +1071,7 @@ final class PrefixDirectory
 
     /**
      * @param string|int $postalCode
+     *
      * @return \RussianPostIndex\Record|null
      */
     public static function getOffice($postalCode)
@@ -1088,6 +1089,6 @@ final class PrefixDirectory
             return null;
         }
 
-        return new $fqcn;
+        return new $fqcn();
     }
 }

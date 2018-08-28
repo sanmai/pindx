@@ -45,7 +45,7 @@ $mainDirectory = file_get_contents('src/PrefixDirectory.php');
 
 ob_start();
 
-echo str_replace(['array (', '  ', ')', ' 0 => ', ' 1 => '], ['[', '        ', ']', '', ''], var_export($tree, true));
+echo str_replace(['array (', '  ', ')', ' 0 => ', ' 1 => ', "=> \n"], ['[', '        ', ']', '', '', "=>\n"], var_export($tree, true));
 
 $mainDirectory = preg_replace('/CITY_LIST = \[[^;]*\]/s', 'CITY_LIST = '.ob_get_clean(), $mainDirectory);
 
