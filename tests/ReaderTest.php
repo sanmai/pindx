@@ -51,5 +51,6 @@ class ReaderTest extends TestCase
         $this->assertSame('Саратовская область, Красноармейский район', \PIndxTools\Reader::updateCyrillicCasing('САРАТОВСКАЯ ОБЛАСТЬ, КРАСНОАРМЕЙСКИЙ РАЙОН'));
         $this->assertSame('Саха (Якутия) Республика', \PIndxTools\Reader::updateCyrillicCasing('САХА (ЯКУТИЯ) РЕСПУБЛИКА'));
         $this->assertSame('Тюменская область', \PIndxTools\Reader::updateCyrillicCasing('ТЮМЕНСКАЯ ОБЛАСТЬ'));
+        $this->assertSame('Казанский ЛПЦ ММПО Цех EMS', \PIndxTools\Reader::updateCyrillicCasing('КАЗАНСКИЙ ЛПЦ ММПО ЦЕХ EMS'));
     }
 }
