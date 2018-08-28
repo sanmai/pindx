@@ -42,7 +42,10 @@ foreach ($pipeline as $filename => $record) {
 
     echo "<?php\n\nnamespace {$record->namespace};\n";
 
-    echo "class $className implements \RussianPostIndex\Record\n{\nuse \RussianPostIndex\Util\RecordTrait;\n\n";
+    echo "/**\n";
+    echo " * @internal\n";
+    echo " */\n";
+    echo "final class $className implements \RussianPostIndex\Record\n{\nuse \RussianPostIndex\Util\RecordTrait;\n\n";
 
     foreach ($vars as $varName) {
         echo "private \${$varName} = ";
