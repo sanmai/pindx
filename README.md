@@ -1,4 +1,6 @@
-# Справочник почтовых индексов
+[![Build Status](https://travis-ci.org/sanmai/pindx.svg?branch=master)](https://travis-ci.org/sanmai/pindx)
+
+# Справочник почтовых индексов 
 
 Установка делается как обычно.
 
