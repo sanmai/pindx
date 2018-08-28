@@ -56,7 +56,7 @@ final class Reader
             $record = new Record();
 
             foreach ($fields as $fieldNo => $fieldName) {
-                $record->{$fieldName} = $data[$fieldNo];
+                $record->{$fieldName} = self::updateCyrillicCasing($data[$fieldNo]);
             }
 
             $record->Index = (int) $record->Index;

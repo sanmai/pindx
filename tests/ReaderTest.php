@@ -38,7 +38,7 @@ class ReaderTest extends TestCase
         }
 
         $this->assertSame(101000, $rec->Index);
-        $this->assertSame('МОСКВА', $rec->OPSName);
+        $this->assertSame('Москва', $rec->OPSName);
         $this->assertSame(127950, $rec->OPSSubm);
         $this->assertSame('20110121', $rec->ActDate);
     }
