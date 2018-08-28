@@ -28,7 +28,7 @@ final class Office652458 implements \RussianPostIndex\Record
 
     private $Index = 652458;
     private $OPSName = 'Салтымаково';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 650999;
     private $Region = 'Кемеровская область';
     private $Autonom = '';

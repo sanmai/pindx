@@ -28,7 +28,7 @@ final class Office423377 implements \RussianPostIndex\Record
 
     private $Index = 423377;
     private $OPSName = 'Сарманово 7';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 423539;
     private $Region = 'Татарстан Республика';
     private $Autonom = '';

@@ -28,7 +28,7 @@ final class Office659457 implements \RussianPostIndex\Record
 
     private $Index = 659457;
     private $OPSName = 'Тогул';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 659159;
     private $Region = 'Алтайский край';
     private $Autonom = '';

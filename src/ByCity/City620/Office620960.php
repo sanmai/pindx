@@ -27,8 +27,8 @@ final class Office620960 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 620960;
-    private $OPSName = 'Екатеринбург Мсц';
-    private $OPSType = 'Мсц';
+    private $OPSName = 'Екатеринбург МСЦ';
+    private $OPSType = 'МСЦ';
     private $OPSSubm = 620700;
     private $Region = 'Свердловская область';
     private $Autonom = '';

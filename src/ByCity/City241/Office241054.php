@@ -27,8 +27,8 @@ final class Office241054 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 241054;
-    private $OPSName = 'Брянск 54 Ппс';
-    private $OPSType = 'Ппс';
+    private $OPSName = 'Брянск 54 ППС';
+    private $OPSType = 'ППС';
     private $OPSSubm = 241000;
     private $Region = 'Брянская область';
     private $Autonom = '';

@@ -28,7 +28,7 @@ final class Office155058 implements \RussianPostIndex\Record
 
     private $Index = 155058;
     private $OPSName = 'Тейково-Пос';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 155059;
     private $Region = 'Ивановская область';
     private $Autonom = '';

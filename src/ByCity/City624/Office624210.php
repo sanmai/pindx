@@ -27,8 +27,8 @@ final class Office624210 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 624210;
-    private $OPSName = 'Лесной Укд';
-    private $OPSType = 'Укд';
+    private $OPSName = 'Лесной УКД';
+    private $OPSType = 'УКД';
     private $OPSSubm = 620700;
     private $Region = 'Свердловская область';
     private $Autonom = '';

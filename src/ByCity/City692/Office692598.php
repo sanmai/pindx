@@ -28,7 +28,7 @@ final class Office692598 implements \RussianPostIndex\Record
 
     private $Index = 692598;
     private $OPSName = 'Пограничный Попс';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 692580;
     private $Region = 'Приморский край';
     private $Autonom = '';

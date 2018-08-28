@@ -28,7 +28,7 @@ final class Office155371 implements \RussianPostIndex\Record
 
     private $Index = 155371;
     private $OPSName = 'Пучеж 11';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 155389;
     private $Region = 'Ивановская область';
     private $Autonom = '';

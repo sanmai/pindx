@@ -28,7 +28,7 @@ final class Office164886 implements \RussianPostIndex\Record
 
     private $Index = 164886;
     private $OPSName = 'Онега 46';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 164529;
     private $Region = 'Архангельская область';
     private $Autonom = '';

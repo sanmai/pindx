@@ -28,7 +28,7 @@ final class Office671345 implements \RussianPostIndex\Record
 
     private $Index = 671345;
     private $OPSName = 'Мухоршибирь 5';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 671389;
     private $Region = 'Бурятия Республика';
     private $Autonom = '';

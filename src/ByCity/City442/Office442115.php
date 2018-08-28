@@ -28,7 +28,7 @@ final class Office442115 implements \RussianPostIndex\Record
 
     private $Index = 442115;
     private $OPSName = 'Пачелма 5';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 442169;
     private $Region = 'Пензенская область';
     private $Autonom = '';

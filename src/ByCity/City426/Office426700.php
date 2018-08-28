@@ -27,8 +27,8 @@ final class Office426700 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 426700;
-    private $OPSName = 'Уфпс Удмуртской Республики';
-    private $OPSType = 'Уфпс';
+    private $OPSName = 'УФПС Удмуртской Республики';
+    private $OPSType = 'УФПС';
     private $OPSSubm = 0;
     private $Region = 'Удмуртская Республика';
     private $Autonom = '';

@@ -28,7 +28,7 @@ final class Office216272 implements \RussianPostIndex\Record
 
     private $Index = 216272;
     private $OPSName = 'Демидов 2';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 216279;
     private $Region = 'Смоленская область';
     private $Autonom = '';

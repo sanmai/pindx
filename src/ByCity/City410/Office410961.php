@@ -27,7 +27,7 @@ final class Office410961 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 410961;
-    private $OPSName = 'Саратов Мсц-1';
+    private $OPSName = 'Саратов МСЦ-1';
     private $OPSType = 'О';
     private $OPSSubm = 410960;
     private $Region = 'Саратовская область';

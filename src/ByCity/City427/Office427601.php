@@ -28,7 +28,7 @@ final class Office427601 implements \RussianPostIndex\Record
 
     private $Index = 427601;
     private $OPSName = 'Глазов 21';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 427649;
     private $Region = 'Удмуртская Республика';
     private $Autonom = '';

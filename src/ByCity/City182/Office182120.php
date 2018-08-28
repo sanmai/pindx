@@ -27,8 +27,8 @@ final class Office182120 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 182120;
-    private $OPSName = 'Великие Луки Укд';
-    private $OPSType = 'Укд';
+    private $OPSName = 'Великие Луки УКД';
+    private $OPSType = 'УКД';
     private $OPSSubm = 180700;
     private $Region = 'Псковская область';
     private $Autonom = '';

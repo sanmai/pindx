@@ -28,7 +28,7 @@ final class Office671339 implements \RussianPostIndex\Record
 
     private $Index = 671339;
     private $OPSName = 'Заиграево-Попс 4';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 670999;
     private $Region = 'Бурятия Республика';
     private $Autonom = '';

@@ -28,7 +28,7 @@ final class Office393584 implements \RussianPostIndex\Record
 
     private $Index = 393584;
     private $OPSName = 'Уварово 84';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 393469;
     private $Region = 'Тамбовская область';
     private $Autonom = '';

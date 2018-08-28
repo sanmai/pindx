@@ -28,7 +28,7 @@ final class Office456924 implements \RussianPostIndex\Record
 
     private $Index = 456924;
     private $OPSName = 'Сатка 24';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 456299;
     private $Region = 'Челябинская область';
     private $Autonom = '';

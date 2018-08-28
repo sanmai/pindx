@@ -27,7 +27,7 @@ final class Office678195 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 678195;
-    private $OPSName = 'Мирный Ммпо Цех Обмена';
+    private $OPSName = 'Мирный ММПО Цех Обмена';
     private $OPSType = 'Цех';
     private $OPSSubm = 678199;
     private $Region = 'Саха (Якутия) Республика';

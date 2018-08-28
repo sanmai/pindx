@@ -27,8 +27,8 @@ final class Office362980 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 362980;
-    private $OPSName = 'Владикавказ Ммпо';
-    private $OPSType = 'Ммпо';
+    private $OPSName = 'Владикавказ ММПО';
+    private $OPSType = 'ММПО';
     private $OPSSubm = 357260;
     private $Region = 'Северная Осетия - Алания Республика';
     private $Autonom = '';

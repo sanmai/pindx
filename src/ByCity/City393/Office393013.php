@@ -28,7 +28,7 @@ final class Office393013 implements \RussianPostIndex\Record
 
     private $Index = 393013;
     private $OPSName = 'Мичуринск 23';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 393779;
     private $Region = 'Тамбовская область';
     private $Autonom = '';

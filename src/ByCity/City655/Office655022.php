@@ -28,7 +28,7 @@ final class Office655022 implements \RussianPostIndex\Record
 
     private $Index = 655022;
     private $OPSName = 'Абакан 22';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 655000;
     private $Region = 'Хакасия Республика';
     private $Autonom = '';

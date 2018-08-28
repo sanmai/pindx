@@ -28,7 +28,7 @@ final class Office658250 implements \RussianPostIndex\Record
 
     private $Index = 658250;
     private $OPSName = 'Рубцовск';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 658229;
     private $Region = 'Алтайский край';
     private $Autonom = '';

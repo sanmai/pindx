@@ -28,7 +28,7 @@ final class Office301133 implements \RussianPostIndex\Record
 
     private $Index = 301133;
     private $OPSName = 'Ленинский 3';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 300999;
     private $Region = 'Тульская область';
     private $Autonom = '';

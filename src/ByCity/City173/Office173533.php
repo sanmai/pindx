@@ -28,7 +28,7 @@ final class Office173533 implements \RussianPostIndex\Record
 
     private $Index = 173533;
     private $OPSName = 'Великий Новгород 533';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 173999;
     private $Region = 'Новгородская область';
     private $Autonom = '';

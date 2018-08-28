@@ -27,8 +27,8 @@ final class Office392040 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 392040;
-    private $OPSName = 'Тамбов 40 Ппс';
-    private $OPSType = 'Ппс';
+    private $OPSName = 'Тамбов 40 ППС';
+    private $OPSType = 'ППС';
     private $OPSSubm = 392999;
     private $Region = 'Тамбовская область';
     private $Autonom = '';

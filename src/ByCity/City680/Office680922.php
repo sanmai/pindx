@@ -27,8 +27,8 @@ final class Office680922 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 680922;
-    private $OPSName = 'Хабаровск-Дти';
-    private $OPSType = 'Дти';
+    private $OPSName = 'Хабаровск-ДТИ';
+    private $OPSType = 'ДТИ';
     private $OPSSubm = 680000;
     private $Region = 'Хабаровский край';
     private $Autonom = '';

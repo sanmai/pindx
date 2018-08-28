@@ -28,7 +28,7 @@ final class Office641976 implements \RussianPostIndex\Record
 
     private $Index = 641976;
     private $OPSName = 'Шатрово 16';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 641889;
     private $Region = 'Курганская область';
     private $Autonom = '';

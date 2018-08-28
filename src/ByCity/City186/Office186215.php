@@ -28,7 +28,7 @@ final class Office186215 implements \RussianPostIndex\Record
 
     private $Index = 186215;
     private $OPSName = 'Кондопога 15';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 185000;
     private $Region = 'Карелия Республика';
     private $Autonom = '';

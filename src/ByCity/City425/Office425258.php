@@ -28,7 +28,7 @@ final class Office425258 implements \RussianPostIndex\Record
 
     private $Index = 425258;
     private $OPSName = 'Оршанка-Попс 1';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 424999;
     private $Region = 'Марий Эл Республика';
     private $Autonom = '';

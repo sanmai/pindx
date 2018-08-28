@@ -27,8 +27,8 @@ final class Office166100 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 166100;
-    private $OPSName = 'Уфпс Ненецкого Автономного округа';
-    private $OPSType = 'Уфпс';
+    private $OPSName = 'УФПС Ненецкого Автономного округа';
+    private $OPSType = 'УФПС';
     private $OPSSubm = 0;
     private $Region = '';
     private $Autonom = 'Ненецкий автономный округ';

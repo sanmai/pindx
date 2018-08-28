@@ -28,7 +28,7 @@ final class Office632255 implements \RussianPostIndex\Record
 
     private $Index = 632255;
     private $OPSName = 'Чаны 55';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 632200;
     private $Region = 'Новосибирская область';
     private $Autonom = '';

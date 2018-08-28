@@ -28,7 +28,7 @@ final class Office391953 implements \RussianPostIndex\Record
 
     private $Index = 391953;
     private $OPSName = 'Собчаково';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 391549;
     private $Region = 'Рязанская область';
     private $Autonom = '';

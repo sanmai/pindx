@@ -27,8 +27,8 @@ final class Office678985 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 678985;
-    private $OPSName = 'Нерюнгри Умсц';
-    private $OPSType = 'Умсц';
+    private $OPSName = 'Нерюнгри УМСЦ';
+    private $OPSType = 'УМСЦ';
     private $OPSSubm = 677960;
     private $Region = 'Саха (Якутия) Республика';
     private $Autonom = '';

@@ -28,7 +28,7 @@ final class Office423627 implements \RussianPostIndex\Record
 
     private $Index = 423627;
     private $OPSName = 'Елабуга 27';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 423639;
     private $Region = 'Татарстан Республика';
     private $Autonom = '';

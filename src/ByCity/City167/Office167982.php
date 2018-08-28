@@ -27,8 +27,8 @@ final class Office167982 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 167982;
-    private $OPSName = 'Сыктывкар Гсп-2';
-    private $OPSType = 'Гсп';
+    private $OPSName = 'Сыктывкар ГСП-2';
+    private $OPSType = 'ГСП';
     private $OPSSubm = 167999;
     private $Region = 'Коми Республика';
     private $Autonom = '';

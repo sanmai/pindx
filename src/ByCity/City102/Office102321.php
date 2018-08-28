@@ -27,7 +27,7 @@ final class Office102321 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 102321;
-    private $OPSName = 'Москва-Домодедово Аопп-1';
+    private $OPSName = 'Москва-Домодедово АОПП-1';
     private $OPSType = 'О';
     private $OPSSubm = 102320;
     private $Region = 'Московская область';

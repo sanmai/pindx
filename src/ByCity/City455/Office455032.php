@@ -27,8 +27,8 @@ final class Office455032 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 455032;
-    private $OPSName = 'Магнитогорск 32 Ппс';
-    private $OPSType = 'Ппс';
+    private $OPSName = 'Магнитогорск 32 ППС';
+    private $OPSType = 'ППС';
     private $OPSSubm = 455999;
     private $Region = 'Челябинская область';
     private $Autonom = '';

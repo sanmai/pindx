@@ -27,8 +27,8 @@ final class Office600039 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 600039;
-    private $OPSName = 'Владимир-Дти';
-    private $OPSType = 'Дти';
+    private $OPSName = 'Владимир-ДТИ';
+    private $OPSType = 'ДТИ';
     private $OPSSubm = 600036;
     private $Region = 'Владимирская область';
     private $Autonom = '';

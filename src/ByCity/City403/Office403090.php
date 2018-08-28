@@ -27,8 +27,8 @@ final class Office403090 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 403090;
-    private $OPSName = 'Камышин Укд';
-    private $OPSType = 'Укд';
+    private $OPSName = 'Камышин УКД';
+    private $OPSType = 'УКД';
     private $OPSSubm = 400700;
     private $Region = 'Волгоградская область';
     private $Autonom = '';

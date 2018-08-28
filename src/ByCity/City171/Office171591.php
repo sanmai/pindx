@@ -28,7 +28,7 @@ final class Office171591 implements \RussianPostIndex\Record
 
     private $Index = 171591;
     private $OPSName = 'Кашин 91';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 171649;
     private $Region = 'Тверская область';
     private $Autonom = '';

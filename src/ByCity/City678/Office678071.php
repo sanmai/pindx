@@ -27,8 +27,8 @@ final class Office678071 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 678071;
-    private $OPSName = 'Чюйя Ппс';
-    private $OPSType = 'Ппс';
+    private $OPSName = 'Чюйя ППС';
+    private $OPSType = 'ППС';
     private $OPSSubm = 678099;
     private $Region = 'Саха (Якутия) Республика';
     private $Autonom = '';

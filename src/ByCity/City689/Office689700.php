@@ -27,8 +27,8 @@ final class Office689700 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 689700;
-    private $OPSName = 'Уфпс Чукотского Автономного округа';
-    private $OPSType = 'Уфпс';
+    private $OPSName = 'УФПС Чукотского Автономного округа';
+    private $OPSType = 'УФПС';
     private $OPSSubm = 0;
     private $Region = '';
     private $Autonom = 'Чукотский автономный округ';

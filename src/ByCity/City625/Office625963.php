@@ -27,7 +27,7 @@ final class Office625963 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 625963;
-    private $OPSName = 'Тюмень Мсц Уоп';
+    private $OPSName = 'Тюмень МСЦ Уоп';
     private $OPSType = 'Участок';
     private $OPSSubm = 625960;
     private $Region = 'Тюменская область';

@@ -27,8 +27,8 @@ final class Office460980 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 460980;
-    private $OPSName = 'Оренбург Ммпо';
-    private $OPSType = 'Ммпо';
+    private $OPSName = 'Оренбург ММПО';
+    private $OPSType = 'ММПО';
     private $OPSSubm = 460960;
     private $Region = 'Оренбургская область';
     private $Autonom = '';

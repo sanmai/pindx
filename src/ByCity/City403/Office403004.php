@@ -27,8 +27,8 @@ final class Office403004 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 403004;
-    private $OPSName = 'Городище 4 Ппс';
-    private $OPSType = 'Ппс';
+    private $OPSName = 'Городище 4 ППС';
+    private $OPSType = 'ППС';
     private $OPSSubm = 404029;
     private $Region = 'Волгоградская область';
     private $Autonom = '';

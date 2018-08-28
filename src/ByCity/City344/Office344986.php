@@ -27,8 +27,8 @@ final class Office344986 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 344986;
-    private $OPSName = 'Ростов-На-Дону-Дти';
-    private $OPSType = 'Дти';
+    private $OPSName = 'Ростов-На-Дону-ДТИ';
+    private $OPSType = 'ДТИ';
     private $OPSSubm = 344000;
     private $Region = 'Ростовская область';
     private $Autonom = '';

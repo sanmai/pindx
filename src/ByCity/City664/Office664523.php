@@ -27,8 +27,8 @@ final class Office664523 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 664523;
-    private $OPSName = 'Березовый Ппс';
-    private $OPSType = 'Ппс';
+    private $OPSName = 'Березовый ППС';
+    private $OPSType = 'ППС';
     private $OPSSubm = 664000;
     private $Region = 'Иркутская область';
     private $Autonom = '';

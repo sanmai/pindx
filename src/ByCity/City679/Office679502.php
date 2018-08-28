@@ -28,7 +28,7 @@ final class Office679502 implements \RussianPostIndex\Record
 
     private $Index = 679502;
     private $OPSName = 'Биробиджан 502';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 679700;
     private $Region = '';
     private $Autonom = 'Еврейская автономная область';

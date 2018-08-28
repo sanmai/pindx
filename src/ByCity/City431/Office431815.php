@@ -28,7 +28,7 @@ final class Office431815 implements \RussianPostIndex\Record
 
     private $Index = 431815;
     private $OPSName = 'Чамзинка 5';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 431849;
     private $Region = 'Мордовия Республика';
     private $Autonom = '';

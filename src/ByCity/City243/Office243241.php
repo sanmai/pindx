@@ -27,8 +27,8 @@ final class Office243241 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 243241;
-    private $OPSName = 'Стародуб Ппс';
-    private $OPSType = 'Ппс';
+    private $OPSName = 'Стародуб ППС';
+    private $OPSType = 'ППС';
     private $OPSSubm = 243289;
     private $Region = 'Брянская область';
     private $Autonom = '';

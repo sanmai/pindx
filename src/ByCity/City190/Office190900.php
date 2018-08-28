@@ -28,7 +28,7 @@ final class Office190900 implements \RussianPostIndex\Record
 
     private $Index = 190900;
     private $OPSName = 'Санкт-Петербург Почтамт Бокс-Сервис';
-    private $OPSType = 'Гсп';
+    private $OPSType = 'ГСП';
     private $OPSSubm = 190999;
     private $Region = 'Санкт-Петербург';
     private $Autonom = '';

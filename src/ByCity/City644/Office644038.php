@@ -27,8 +27,8 @@ final class Office644038 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 644038;
-    private $OPSName = 'Омск 38 Ппс';
-    private $OPSType = 'Ппс';
+    private $OPSName = 'Омск 38 ППС';
+    private $OPSType = 'ППС';
     private $OPSSubm = 644000;
     private $Region = 'Омская область';
     private $Autonom = '';

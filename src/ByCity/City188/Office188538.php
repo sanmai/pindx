@@ -28,7 +28,7 @@ final class Office188538 implements \RussianPostIndex\Record
 
     private $Index = 188538;
     private $OPSName = 'Волосово 38';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 188449;
     private $Region = 'Ленинградская область';
     private $Autonom = '';

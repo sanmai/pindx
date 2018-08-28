@@ -28,7 +28,7 @@ final class Office664084 implements \RussianPostIndex\Record
 
     private $Index = 664084;
     private $OPSName = 'Иркутск 84';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 664000;
     private $Region = 'Иркутская область';
     private $Autonom = '';

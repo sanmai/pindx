@@ -28,7 +28,7 @@ final class Office423847 implements \RussianPostIndex\Record
 
     private $Index = 423847;
     private $OPSName = 'Набережные Челны 47';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 423849;
     private $Region = 'Татарстан Республика';
     private $Autonom = '';

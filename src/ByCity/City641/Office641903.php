@@ -28,7 +28,7 @@ final class Office641903 implements \RussianPostIndex\Record
 
     private $Index = 641903;
     private $OPSName = 'Каргаполье 3';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 641889;
     private $Region = 'Курганская область';
     private $Autonom = '';

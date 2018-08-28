@@ -28,7 +28,7 @@ final class Office309581 implements \RussianPostIndex\Record
 
     private $Index = 309581;
     private $OPSName = 'Чернянка 21';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 309500;
     private $Region = 'Белгородская область';
     private $Autonom = '';

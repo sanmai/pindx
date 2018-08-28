@@ -28,7 +28,7 @@ final class Office423247 implements \RussianPostIndex\Record
 
     private $Index = 423247;
     private $OPSName = 'Бугульма 17';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 423249;
     private $Region = 'Татарстан Республика';
     private $Autonom = '';

@@ -27,8 +27,8 @@ final class Office430932 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 430932;
-    private $OPSName = 'Рузаевка-Дти';
-    private $OPSType = 'Дти';
+    private $OPSName = 'Рузаевка-ДТИ';
+    private $OPSType = 'ДТИ';
     private $OPSSubm = 431440;
     private $Region = 'Мордовия Республика';
     private $Autonom = '';

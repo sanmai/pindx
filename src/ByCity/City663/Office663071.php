@@ -28,7 +28,7 @@ final class Office663071 implements \RussianPostIndex\Record
 
     private $Index = 663071;
     private $OPSName = 'Большая Мурта 11';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 662989;
     private $Region = 'Красноярский край';
     private $Autonom = '';

@@ -27,8 +27,8 @@ final class Office166970 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 166970;
-    private $OPSName = 'Нарьян-Мар Аопп';
-    private $OPSType = 'Аопп';
+    private $OPSName = 'Нарьян-Мар АОПП';
+    private $OPSType = 'АОПП';
     private $OPSSubm = 166100;
     private $Region = '';
     private $Autonom = 'Ненецкий автономный округ';

@@ -27,8 +27,8 @@ final class Office632340 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 632340;
-    private $OPSName = 'Барабинск Укд';
-    private $OPSType = 'Укд';
+    private $OPSName = 'Барабинск УКД';
+    private $OPSType = 'УКД';
     private $OPSSubm = 630700;
     private $Region = 'Новосибирская область';
     private $Autonom = '';

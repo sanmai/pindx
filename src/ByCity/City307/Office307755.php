@@ -28,7 +28,7 @@ final class Office307755 implements \RussianPostIndex\Record
 
     private $Index = 307755;
     private $OPSName = 'Льгов 5';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 307759;
     private $Region = 'Курская область';
     private $Autonom = '';

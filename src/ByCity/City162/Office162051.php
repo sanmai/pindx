@@ -28,7 +28,7 @@ final class Office162051 implements \RussianPostIndex\Record
 
     private $Index = 162051;
     private $OPSName = 'Вологда 51';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 160999;
     private $Region = 'Вологодская область';
     private $Autonom = '';

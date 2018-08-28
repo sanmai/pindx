@@ -28,7 +28,7 @@ final class Office403001 implements \RussianPostIndex\Record
 
     private $Index = 403001;
     private $OPSName = 'Дубовка';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 404029;
     private $Region = 'Волгоградская область';
     private $Autonom = '';

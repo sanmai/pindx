@@ -27,8 +27,8 @@ final class Office606415 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 606415;
-    private $OPSName = 'Замятино Ппс';
-    private $OPSType = 'Ппс';
+    private $OPSName = 'Замятино ППС';
+    private $OPSType = 'ППС';
     private $OPSSubm = 606429;
     private $Region = 'Нижегородская область';
     private $Autonom = '';

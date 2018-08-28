@@ -28,7 +28,7 @@ final class Office683041 implements \RussianPostIndex\Record
 
     private $Index = 683041;
     private $OPSName = 'Петропавловск-Камчатский 41';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 683000;
     private $Region = 'Камчатский край';
     private $Autonom = '';

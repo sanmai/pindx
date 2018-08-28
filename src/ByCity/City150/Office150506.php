@@ -28,7 +28,7 @@ final class Office150506 implements \RussianPostIndex\Record
 
     private $Index = 150506;
     private $OPSName = 'Бекренево';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 150599;
     private $Region = 'Ярославская область';
     private $Autonom = '';

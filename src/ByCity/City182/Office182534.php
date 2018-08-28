@@ -28,7 +28,7 @@ final class Office182534 implements \RussianPostIndex\Record
 
     private $Index = 182534;
     private $OPSName = 'Сыроквашино';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 182549;
     private $Region = 'Псковская область';
     private $Autonom = '';

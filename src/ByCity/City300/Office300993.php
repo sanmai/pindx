@@ -27,8 +27,8 @@ final class Office300993 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 300993;
-    private $OPSName = 'Тула-Дти';
-    private $OPSType = 'Дти';
+    private $OPSName = 'Тула-ДТИ';
+    private $OPSType = 'ДТИ';
     private $OPSSubm = 300004;
     private $Region = 'Тульская область';
     private $Autonom = '';

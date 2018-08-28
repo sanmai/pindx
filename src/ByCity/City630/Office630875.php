@@ -27,7 +27,7 @@ final class Office630875 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 630875;
-    private $OPSName = 'Толмачево Аопп Ммпо Mps1-См';
+    private $OPSName = 'Толмачево АОПП ММПО Mps1-См';
     private $OPSType = 'Ти';
     private $OPSSubm = 630874;
     private $Region = 'Новосибирская область';

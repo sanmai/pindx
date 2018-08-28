@@ -28,7 +28,7 @@ final class Office632727 implements \RussianPostIndex\Record
 
     private $Index = 632727;
     private $OPSName = 'Чистоозерное 7';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 632730;
     private $Region = 'Новосибирская область';
     private $Autonom = '';

@@ -27,7 +27,7 @@ final class Office650963 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 650963;
-    private $OPSName = 'Кемерово Мсц Уопк';
+    private $OPSName = 'Кемерово МСЦ Уопк';
     private $OPSType = 'Участок';
     private $OPSSubm = 650960;
     private $Region = 'Кемеровская область';

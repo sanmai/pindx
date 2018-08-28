@@ -27,8 +27,8 @@ final class Office607644 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 607644;
-    private $OPSName = 'Кстово-Дти';
-    private $OPSType = 'Дти';
+    private $OPSName = 'Кстово-ДТИ';
+    private $OPSType = 'ДТИ';
     private $OPSSubm = 607650;
     private $Region = 'Нижегородская область';
     private $Autonom = '';

@@ -27,7 +27,7 @@ final class Office357265 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 357265;
-    private $OPSName = 'Минеральные Воды Мсц Уч. Тары';
+    private $OPSName = 'Минеральные Воды МСЦ Уч. Тары';
     private $OPSType = 'Ти';
     private $OPSSubm = 357260;
     private $Region = 'Ставропольский край';

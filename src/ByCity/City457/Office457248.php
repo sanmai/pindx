@@ -28,7 +28,7 @@ final class Office457248 implements \RussianPostIndex\Record
 
     private $Index = 457248;
     private $OPSName = 'Троицк 48';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 457149;
     private $Region = 'Челябинская область';
     private $Autonom = '';

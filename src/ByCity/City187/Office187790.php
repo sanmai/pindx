@@ -28,7 +28,7 @@ final class Office187790 implements \RussianPostIndex\Record
 
     private $Index = 187790;
     private $OPSName = 'Лодейное Поле 90';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 187739;
     private $Region = 'Ленинградская область';
     private $Autonom = '';

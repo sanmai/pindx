@@ -27,8 +27,8 @@ final class Office630911 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 630911;
-    private $OPSName = 'Новосибирск-Дти';
-    private $OPSType = 'Дти';
+    private $OPSName = 'Новосибирск-ДТИ';
+    private $OPSType = 'ДТИ';
     private $OPSSubm = 630007;
     private $Region = 'Новосибирская область';
     private $Autonom = '';

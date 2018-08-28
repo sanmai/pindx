@@ -27,8 +27,8 @@ final class Office454970 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 454970;
-    private $OPSName = 'Челябинск Аопп';
-    private $OPSType = 'Аопп';
+    private $OPSName = 'Челябинск АОПП';
+    private $OPSType = 'АОПП';
     private $OPSSubm = 454960;
     private $Region = 'Челябинская область';
     private $Autonom = '';

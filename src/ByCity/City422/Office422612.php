@@ -27,8 +27,8 @@ final class Office422612 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 422612;
-    private $OPSName = 'Пелево Ппс';
-    private $OPSType = 'Ппс';
+    private $OPSName = 'Пелево ППС';
+    private $OPSType = 'ППС';
     private $OPSSubm = 420999;
     private $Region = 'Татарстан Республика';
     private $Autonom = '';

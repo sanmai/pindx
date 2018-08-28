@@ -27,8 +27,8 @@ final class Office132700 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 132700;
-    private $OPSName = 'Асц-Филиал Фгуп "почта России"';
-    private $OPSType = 'Уфпс';
+    private $OPSName = 'Асц-Филиал ФГУП "почта России"';
+    private $OPSType = 'УФПС';
     private $OPSSubm = 0;
     private $Region = 'Московская область';
     private $Autonom = '';

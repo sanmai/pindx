@@ -28,7 +28,7 @@ final class Office613463 implements \RussianPostIndex\Record
 
     private $Index = 613463;
     private $OPSName = 'Нолинск 23';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 613459;
     private $Region = 'Кировская область';
     private $Autonom = '';

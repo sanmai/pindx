@@ -27,8 +27,8 @@ final class Office400880 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 400880;
-    private $OPSName = 'Волгоград Укд';
-    private $OPSType = 'Укд';
+    private $OPSName = 'Волгоград УКД';
+    private $OPSType = 'УКД';
     private $OPSSubm = 400700;
     private $Region = 'Волгоградская область';
     private $Autonom = '';

@@ -27,8 +27,8 @@ final class Office156911 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 156911;
-    private $OPSName = 'Кострома-Дти';
-    private $OPSType = 'Дти';
+    private $OPSName = 'Кострома-ДТИ';
+    private $OPSType = 'ДТИ';
     private $OPSSubm = 156000;
     private $Region = 'Костромская область';
     private $Autonom = '';

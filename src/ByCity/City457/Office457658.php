@@ -28,7 +28,7 @@ final class Office457658 implements \RussianPostIndex\Record
 
     private $Index = 457658;
     private $OPSName = 'Магнитогорск 58';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 455999;
     private $Region = 'Челябинская область';
     private $Autonom = '';

@@ -28,7 +28,7 @@ final class Office601619 implements \RussianPostIndex\Record
 
     private $Index = 601619;
     private $OPSName = 'Бакино';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 601659;
     private $Region = 'Владимирская область';
     private $Autonom = '';

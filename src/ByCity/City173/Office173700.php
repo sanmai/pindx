@@ -27,8 +27,8 @@ final class Office173700 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 173700;
-    private $OPSName = 'Уфпс Новгородской Области';
-    private $OPSType = 'Уфпс';
+    private $OPSName = 'УФПС Новгородской Области';
+    private $OPSType = 'УФПС';
     private $OPSSubm = 0;
     private $Region = 'Новгородская область';
     private $Autonom = '';

@@ -27,7 +27,7 @@ final class Office620971 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 620971;
-    private $OPSName = 'Екатеринбург Аопп Уч-1';
+    private $OPSName = 'Екатеринбург АОПП Уч-1';
     private $OPSType = 'Участок';
     private $OPSSubm = 620970;
     private $Region = 'Свердловская область';

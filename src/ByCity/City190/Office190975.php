@@ -27,8 +27,8 @@ final class Office190975 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 190975;
-    private $OPSName = 'Санкт-Петербург-Пулково Ммпо';
-    private $OPSType = 'Ммпо';
+    private $OPSName = 'Санкт-Петербург-Пулково ММПО';
+    private $OPSType = 'ММПО';
     private $OPSSubm = 190970;
     private $Region = 'Санкт-Петербург';
     private $Autonom = '';

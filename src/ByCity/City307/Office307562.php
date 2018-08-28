@@ -28,7 +28,7 @@ final class Office307562 implements \RussianPostIndex\Record
 
     private $Index = 307562;
     private $OPSName = 'Железногорск 12';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 307189;
     private $Region = 'Курская область';
     private $Autonom = '';

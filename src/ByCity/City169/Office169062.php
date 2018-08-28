@@ -28,7 +28,7 @@ final class Office169062 implements \RussianPostIndex\Record
 
     private $Index = 169062;
     private $OPSName = 'Микунь-2';
-    private $OPSType = 'Ппс';
+    private $OPSType = 'ППС';
     private $OPSSubm = 169069;
     private $Region = 'Коми Республика';
     private $Autonom = '';

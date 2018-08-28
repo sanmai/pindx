@@ -27,8 +27,8 @@ final class Office629100 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 629100;
-    private $OPSName = 'Уфпс Ямало-Ненецкого Автономного округа';
-    private $OPSType = 'Уфпс';
+    private $OPSName = 'УФПС Ямало-Ненецкого Автономного округа';
+    private $OPSType = 'УФПС';
     private $OPSSubm = 0;
     private $Region = '';
     private $Autonom = 'Ямало-Ненецкий автономный округ';

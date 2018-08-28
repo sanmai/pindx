@@ -28,7 +28,7 @@ final class Office399002 implements \RussianPostIndex\Record
 
     private $Index = 399002;
     private $OPSName = 'Елец';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 399799;
     private $Region = 'Липецкая область';
     private $Autonom = '';

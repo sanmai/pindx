@@ -28,7 +28,7 @@ final class Office172123 implements \RussianPostIndex\Record
 
     private $Index = 172123;
     private $OPSName = 'Нелидово';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 172520;
     private $Region = 'Тверская область';
     private $Autonom = '';

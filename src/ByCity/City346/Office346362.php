@@ -28,7 +28,7 @@ final class Office346362 implements \RussianPostIndex\Record
 
     private $Index = 346362;
     private $OPSName = 'Красный Сулин 12';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 346369;
     private $Region = 'Ростовская область';
     private $Autonom = '';

@@ -27,8 +27,8 @@ final class Office171110 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 171110;
-    private $OPSName = 'Вышний Волочек Укд';
-    private $OPSType = 'Укд';
+    private $OPSName = 'Вышний Волочек УКД';
+    private $OPSType = 'УКД';
     private $OPSSubm = 170700;
     private $Region = 'Тверская область';
     private $Autonom = '';

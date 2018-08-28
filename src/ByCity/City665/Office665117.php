@@ -28,7 +28,7 @@ final class Office665117 implements \RussianPostIndex\Record
 
     private $Index = 665117;
     private $OPSName = 'Нижнеудинск 7';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 665100;
     private $Region = 'Иркутская область';
     private $Autonom = '';

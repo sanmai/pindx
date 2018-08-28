@@ -27,8 +27,8 @@ final class Office303807 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 303807;
-    private $OPSName = 'Орлово Ппс';
-    private $OPSType = 'Ппс';
+    private $OPSName = 'Орлово ППС';
+    private $OPSType = 'ППС';
     private $OPSSubm = 303859;
     private $Region = 'Орловская область';
     private $Autonom = '';

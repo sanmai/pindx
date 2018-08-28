@@ -27,8 +27,8 @@ final class Office393796 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 393796;
-    private $OPSName = 'Мичуринск-Дти';
-    private $OPSType = 'Дти';
+    private $OPSName = 'Мичуринск-ДТИ';
+    private $OPSType = 'ДТИ';
     private $OPSSubm = 393760;
     private $Region = 'Тамбовская область';
     private $Autonom = '';

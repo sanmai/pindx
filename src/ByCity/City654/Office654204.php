@@ -28,7 +28,7 @@ final class Office654204 implements \RussianPostIndex\Record
 
     private $Index = 654204;
     private $OPSName = 'Таргайский Дом Отдыха';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 654099;
     private $Region = 'Кемеровская область';
     private $Autonom = '';

@@ -27,8 +27,8 @@ final class Office414055 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 414055;
-    private $OPSName = 'Астрахань 55 Ппс';
-    private $OPSType = 'Ппс';
+    private $OPSName = 'Астрахань 55 ППС';
+    private $OPSType = 'ППС';
     private $OPSSubm = 414999;
     private $Region = 'Астраханская область';
     private $Autonom = '';

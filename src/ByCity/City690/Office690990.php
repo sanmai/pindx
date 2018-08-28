@@ -27,8 +27,8 @@ final class Office690990 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 690990;
-    private $OPSName = 'Владивосток Гсп';
-    private $OPSType = 'Гсп';
+    private $OPSName = 'Владивосток ГСП';
+    private $OPSType = 'ГСП';
     private $OPSSubm = 690000;
     private $Region = 'Приморский край';
     private $Autonom = '';

@@ -28,7 +28,7 @@ final class Office171668 implements \RussianPostIndex\Record
 
     private $Index = 171668;
     private $OPSName = 'Красный Холм 8';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 171679;
     private $Region = 'Тверская область';
     private $Autonom = '';

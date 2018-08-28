@@ -27,7 +27,7 @@ final class Office130330 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 130330;
-    private $OPSName = 'Москва Сц Кд Уч-30';
+    private $OPSName = 'Москва СЦ Кд Уч-30';
     private $OPSType = 'Участок';
     private $OPSSubm = 130100;
     private $Region = 'Москва';

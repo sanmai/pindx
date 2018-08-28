@@ -27,7 +27,7 @@ final class Office150598 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 150598;
-    private $OPSName = 'Ярославль Мрп Кладовая Хранения Нерозданных По';
+    private $OPSName = 'Ярославль МРП Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 150599;
     private $Region = 'Ярославская область';

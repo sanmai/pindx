@@ -28,7 +28,7 @@ final class Office666423 implements \RussianPostIndex\Record
 
     private $Index = 666423;
     private $OPSName = 'Еланцы 3';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 669000;
     private $Region = 'Иркутская область';
     private $Autonom = '';

@@ -27,7 +27,7 @@ final class Office170987 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 170987;
-    private $OPSName = 'Тверь Уду';
+    private $OPSName = 'Тверь УДУ';
     private $OPSType = 'Уду';
     private $OPSSubm = 170000;
     private $Region = 'Тверская область';

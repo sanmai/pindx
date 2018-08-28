@@ -28,7 +28,7 @@ final class Office612311 implements \RussianPostIndex\Record
 
     private $Index = 612311;
     private $OPSName = 'Кикнур';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 612269;
     private $Region = 'Кировская область';
     private $Autonom = '';

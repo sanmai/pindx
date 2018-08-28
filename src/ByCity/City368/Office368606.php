@@ -28,7 +28,7 @@ final class Office368606 implements \RussianPostIndex\Record
 
     private $Index = 368606;
     private $OPSName = 'Дербент 6';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 368629;
     private $Region = 'Дагестан Республика';
     private $Autonom = '';

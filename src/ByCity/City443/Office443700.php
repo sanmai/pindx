@@ -27,8 +27,8 @@ final class Office443700 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 443700;
-    private $OPSName = 'Уфпс Самарской Области';
-    private $OPSType = 'Уфпс';
+    private $OPSName = 'УФПС Самарской Области';
+    private $OPSType = 'УФПС';
     private $OPSSubm = 0;
     private $Region = 'Самарская область';
     private $Autonom = '';

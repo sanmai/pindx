@@ -28,7 +28,7 @@ final class Office187605 implements \RussianPostIndex\Record
 
     private $Index = 187605;
     private $OPSName = 'Тихвин 15';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 187550;
     private $Region = 'Ленинградская область';
     private $Autonom = '';

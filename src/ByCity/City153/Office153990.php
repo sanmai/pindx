@@ -27,8 +27,8 @@ final class Office153990 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 153990;
-    private $OPSName = 'Иваново Укд';
-    private $OPSType = 'Укд';
+    private $OPSName = 'Иваново УКД';
+    private $OPSType = 'УКД';
     private $OPSSubm = 153700;
     private $Region = 'Ивановская область';
     private $Autonom = '';

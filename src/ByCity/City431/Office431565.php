@@ -28,7 +28,7 @@ final class Office431565 implements \RussianPostIndex\Record
 
     private $Index = 431565;
     private $OPSName = 'Новая Федоровка';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 431289;
     private $Region = 'Мордовия Республика';
     private $Autonom = '';

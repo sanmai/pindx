@@ -28,7 +28,7 @@ final class Office157325 implements \RussianPostIndex\Record
 
     private $Index = 157325;
     private $OPSName = 'Мантурово 25';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 157329;
     private $Region = 'Костромская область';
     private $Autonom = '';

@@ -28,7 +28,7 @@ final class Office633352 implements \RussianPostIndex\Record
 
     private $Index = 633352;
     private $OPSName = 'Мошково 22';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 633130;
     private $Region = 'Новосибирская область';
     private $Autonom = '';

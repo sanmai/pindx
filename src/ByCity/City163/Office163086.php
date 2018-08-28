@@ -27,8 +27,8 @@ final class Office163086 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 163086;
-    private $OPSName = 'Архангельск 86 Ппс';
-    private $OPSType = 'Ппс';
+    private $OPSName = 'Архангельск 86 ППС';
+    private $OPSType = 'ППС';
     private $OPSSubm = 163999;
     private $Region = 'Архангельская область';
     private $Autonom = '';

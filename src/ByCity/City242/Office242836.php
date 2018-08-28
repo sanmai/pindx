@@ -28,7 +28,7 @@ final class Office242836 implements \RussianPostIndex\Record
 
     private $Index = 242836;
     private $OPSName = 'Дубровка 6';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 242739;
     private $Region = 'Брянская область';
     private $Autonom = '';

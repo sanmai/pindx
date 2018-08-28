@@ -27,8 +27,8 @@ final class Office440503 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 440503;
-    private $OPSName = 'Березовая Роща Ппс';
-    private $OPSType = 'Ппс';
+    private $OPSName = 'Березовая Роща ППС';
+    private $OPSType = 'ППС';
     private $OPSSubm = 440999;
     private $Region = 'Пензенская область';
     private $Autonom = '';

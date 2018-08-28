@@ -28,7 +28,7 @@ final class Office152273 implements \RussianPostIndex\Record
 
     private $Index = 152273;
     private $OPSName = 'Дубки';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 150599;
     private $Region = 'Ярославская область';
     private $Autonom = '';

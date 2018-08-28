@@ -27,8 +27,8 @@ final class Office301250 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 301250;
-    private $OPSName = 'Щекино Укд';
-    private $OPSType = 'Укд';
+    private $OPSName = 'Щекино УКД';
+    private $OPSType = 'УКД';
     private $OPSSubm = 300700;
     private $Region = 'Тульская область';
     private $Autonom = '';

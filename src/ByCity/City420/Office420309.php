@@ -27,7 +27,7 @@ final class Office420309 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 420309;
-    private $OPSName = 'Казанский Лпц Уч. Тары';
+    private $OPSName = 'Казанский ЛПЦ Уч. Тары';
     private $OPSType = 'Ти';
     private $OPSSubm = 420300;
     private $Region = 'Татарстан Республика';

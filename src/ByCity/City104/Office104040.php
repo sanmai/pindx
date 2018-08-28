@@ -27,8 +27,8 @@ final class Office104040 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 104040;
-    private $OPSName = 'Шереметьево Аопп';
-    private $OPSType = 'Аопп';
+    private $OPSName = 'Шереметьево АОПП';
+    private $OPSType = 'АОПП';
     private $OPSSubm = 144700;
     private $Region = 'Московская область';
     private $Autonom = '';

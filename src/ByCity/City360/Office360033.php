@@ -27,8 +27,8 @@ final class Office360033 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 360033;
-    private $OPSName = 'Нальчик 33 Ппс';
-    private $OPSType = 'Ппс';
+    private $OPSName = 'Нальчик 33 ППС';
+    private $OPSType = 'ППС';
     private $OPSSubm = 360000;
     private $Region = 'Кабардино-Балкарская Республика';
     private $Autonom = '';

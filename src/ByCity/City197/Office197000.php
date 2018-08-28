@@ -27,7 +27,7 @@ final class Office197000 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 197000;
-    private $OPSName = 'Санкт-Петербург-Петроградский Мрп';
+    private $OPSName = 'Санкт-Петербург-Петроградский МРП';
     private $OPSType = 'П';
     private $OPSSubm = 190700;
     private $Region = 'Санкт-Петербург';

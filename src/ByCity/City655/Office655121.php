@@ -27,8 +27,8 @@ final class Office655121 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 655121;
-    private $OPSName = 'Чапаево Ппс';
-    private $OPSType = 'Ппс';
+    private $OPSName = 'Чапаево ППС';
+    private $OPSType = 'ППС';
     private $OPSSubm = 655000;
     private $Region = 'Хакасия Республика';
     private $Autonom = '';

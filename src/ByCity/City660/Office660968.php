@@ -27,7 +27,7 @@ final class Office660968 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 660968;
-    private $OPSName = 'Красноярск Мсц Уэп';
+    private $OPSName = 'Красноярск МСЦ Уэп';
     private $OPSType = 'Участок';
     private $OPSSubm = 660960;
     private $Region = 'Красноярский край';

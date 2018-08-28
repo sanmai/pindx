@@ -27,8 +27,8 @@ final class Office671951 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 671951;
-    private $OPSName = 'Закаменск Ппс';
-    private $OPSType = 'Ппс';
+    private $OPSName = 'Закаменск ППС';
+    private $OPSType = 'ППС';
     private $OPSSubm = 671959;
     private $Region = 'Бурятия Республика';
     private $Autonom = '';

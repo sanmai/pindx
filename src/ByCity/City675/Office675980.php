@@ -27,8 +27,8 @@ final class Office675980 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 675980;
-    private $OPSName = 'Благовещенск Ммпо';
-    private $OPSType = 'Ммпо';
+    private $OPSName = 'Благовещенск ММПО';
+    private $OPSType = 'ММПО';
     private $OPSSubm = 675960;
     private $Region = 'Амурская область';
     private $Autonom = '';

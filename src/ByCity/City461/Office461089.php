@@ -28,7 +28,7 @@ final class Office461089 implements \RussianPostIndex\Record
 
     private $Index = 461089;
     private $OPSName = 'Бузулук 89';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 461059;
     private $Region = 'Оренбургская область';
     private $Autonom = '';

@@ -27,7 +27,7 @@ final class Office664890 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 664890;
-    private $OPSName = 'Иркутск Мсц Уч. Тары';
+    private $OPSName = 'Иркутск МСЦ Уч. Тары';
     private $OPSType = 'Ти';
     private $OPSSubm = 664960;
     private $Region = 'Иркутская область';

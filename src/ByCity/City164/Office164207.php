@@ -28,7 +28,7 @@ final class Office164207 implements \RussianPostIndex\Record
 
     private $Index = 164207;
     private $OPSName = 'Няндома 7';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 164260;
     private $Region = 'Архангельская область';
     private $Autonom = '';

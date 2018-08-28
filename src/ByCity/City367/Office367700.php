@@ -27,8 +27,8 @@ final class Office367700 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 367700;
-    private $OPSName = 'Уфпс Республики Дагестан';
-    private $OPSType = 'Уфпс';
+    private $OPSName = 'УФПС Республики Дагестан';
+    private $OPSType = 'УФПС';
     private $OPSSubm = 0;
     private $Region = 'Дагестан Республика';
     private $Autonom = '';

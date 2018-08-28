@@ -28,7 +28,7 @@ final class Office433739 implements \RussianPostIndex\Record
 
     private $Index = 433739;
     private $OPSName = 'Конновка';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 433759;
     private $Region = 'Ульяновская область';
     private $Autonom = '';

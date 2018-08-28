@@ -28,7 +28,7 @@ final class Office238522 implements \RussianPostIndex\Record
 
     private $Index = 238522;
     private $OPSName = 'Калининград 122';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 236999;
     private $Region = 'Калининградская область';
     private $Autonom = '';

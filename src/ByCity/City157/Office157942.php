@@ -28,7 +28,7 @@ final class Office157942 implements \RussianPostIndex\Record
 
     private $Index = 157942;
     private $OPSName = 'Кострома 42';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 156999;
     private $Region = 'Костромская область';
     private $Autonom = '';

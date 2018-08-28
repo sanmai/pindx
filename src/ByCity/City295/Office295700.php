@@ -27,8 +27,8 @@ final class Office295700 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 295700;
-    private $OPSName = 'Фгуп "почта Крыма"';
-    private $OPSType = 'Фгуп';
+    private $OPSName = 'ФГУП "почта Крыма"';
+    private $OPSType = 'ФГУП';
     private $OPSSubm = 0;
     private $Region = 'Крым Республика';
     private $Autonom = '';

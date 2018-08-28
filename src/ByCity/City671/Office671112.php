@@ -28,7 +28,7 @@ final class Office671112 implements \RussianPostIndex\Record
 
     private $Index = 671112;
     private $OPSName = 'Тарбагатай 2';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 670999;
     private $Region = 'Бурятия Республика';
     private $Autonom = '';

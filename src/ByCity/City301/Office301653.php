@@ -28,7 +28,7 @@ final class Office301653 implements \RussianPostIndex\Record
 
     private $Index = 301653;
     private $OPSName = 'Новомосковск 3';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 301679;
     private $Region = 'Тульская область';
     private $Autonom = '';

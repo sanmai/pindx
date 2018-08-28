@@ -28,7 +28,7 @@ final class Office433816 implements \RussianPostIndex\Record
 
     private $Index = 433816;
     private $OPSName = 'Елшанка';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 433849;
     private $Region = 'Ульяновская область';
     private $Autonom = '';

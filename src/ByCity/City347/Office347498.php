@@ -28,7 +28,7 @@ final class Office347498 implements \RussianPostIndex\Record
 
     private $Index = 347498;
     private $OPSName = 'Зимовники 8';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 347479;
     private $Region = 'Ростовская область';
     private $Autonom = '';

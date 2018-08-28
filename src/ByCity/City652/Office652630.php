@@ -27,8 +27,8 @@ final class Office652630 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 652630;
-    private $OPSName = 'Белово Укд';
-    private $OPSType = 'Укд';
+    private $OPSName = 'Белово УКД';
+    private $OPSType = 'УКД';
     private $OPSSubm = 650700;
     private $Region = 'Кемеровская область';
     private $Autonom = '';

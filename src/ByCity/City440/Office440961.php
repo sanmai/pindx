@@ -27,7 +27,7 @@ final class Office440961 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 440961;
-    private $OPSName = 'Пенза Мсц-1';
+    private $OPSName = 'Пенза МСЦ-1';
     private $OPSType = 'О';
     private $OPSSubm = 440960;
     private $Region = 'Пензенская область';

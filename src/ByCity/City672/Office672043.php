@@ -28,7 +28,7 @@ final class Office672043 implements \RussianPostIndex\Record
 
     private $Index = 672043;
     private $OPSName = 'Чита';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 672999;
     private $Region = 'Забайкальский край';
     private $Autonom = '';

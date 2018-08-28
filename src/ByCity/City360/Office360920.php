@@ -27,8 +27,8 @@ final class Office360920 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 360920;
-    private $OPSName = 'Нальчик-Дти';
-    private $OPSType = 'Дти';
+    private $OPSName = 'Нальчик-ДТИ';
+    private $OPSType = 'ДТИ';
     private $OPSSubm = 360001;
     private $Region = 'Кабардино-Балкарская Республика';
     private $Autonom = '';

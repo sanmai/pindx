@@ -27,8 +27,8 @@ final class Office652891 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 652891;
-    private $OPSName = 'Междуреченск Укд';
-    private $OPSType = 'Укд';
+    private $OPSName = 'Междуреченск УКД';
+    private $OPSType = 'УКД';
     private $OPSSubm = 650700;
     private $Region = 'Кемеровская область';
     private $Autonom = '';

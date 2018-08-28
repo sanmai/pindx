@@ -28,7 +28,7 @@ final class Office500680 implements \RussianPostIndex\Record
 
     private $Index = 500680;
     private $OPSName = 'Basildon';
-    private $OPSType = 'Ммпо';
+    private $OPSType = 'ММПО';
     private $OPSSubm = 131000;
     private $Region = 'Москва';
     private $Autonom = '';

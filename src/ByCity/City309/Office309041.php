@@ -28,7 +28,7 @@ final class Office309041 implements \RussianPostIndex\Record
 
     private $Index = 309041;
     private $OPSName = 'Береговое-Первое';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 309099;
     private $Region = 'Белгородская область';
     private $Autonom = '';

@@ -28,7 +28,7 @@ final class Office162953 implements \RussianPostIndex\Record
 
     private $Index = 162953;
     private $OPSName = 'Вытегра 3';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 162969;
     private $Region = 'Вологодская область';
     private $Autonom = '';

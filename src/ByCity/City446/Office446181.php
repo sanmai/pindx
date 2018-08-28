@@ -27,8 +27,8 @@ final class Office446181 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 446181;
-    private $OPSName = 'Большая Глушица 1 Ппс';
-    private $OPSType = 'Ппс';
+    private $OPSName = 'Большая Глушица 1 ППС';
+    private $OPSType = 'ППС';
     private $OPSSubm = 446199;
     private $Region = 'Самарская область';
     private $Autonom = '';

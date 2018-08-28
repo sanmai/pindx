@@ -27,8 +27,8 @@ final class Office361337 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 361337;
-    private $OPSName = 'Нарткала Ппс';
-    private $OPSType = 'Ппс';
+    private $OPSName = 'Нарткала ППС';
+    private $OPSType = 'ППС';
     private $OPSSubm = 361330;
     private $Region = 'Кабардино-Балкарская Республика';
     private $Autonom = '';

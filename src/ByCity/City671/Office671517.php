@@ -28,7 +28,7 @@ final class Office671517 implements \RussianPostIndex\Record
 
     private $Index = 671517;
     private $OPSName = 'Багдарин 7';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 670999;
     private $Region = 'Бурятия Республика';
     private $Autonom = '';

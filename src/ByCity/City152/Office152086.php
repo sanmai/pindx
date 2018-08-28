@@ -28,7 +28,7 @@ final class Office152086 implements \RussianPostIndex\Record
 
     private $Index = 152086;
     private $OPSName = 'Рыжиково';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 152099;
     private $Region = 'Ярославская область';
     private $Autonom = '';

@@ -28,7 +28,7 @@ final class Office347052 implements \RussianPostIndex\Record
 
     private $Index = 347052;
     private $OPSName = 'Белая Калитва';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 347049;
     private $Region = 'Ростовская область';
     private $Autonom = '';

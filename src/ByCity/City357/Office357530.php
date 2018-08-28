@@ -27,8 +27,8 @@ final class Office357530 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 357530;
-    private $OPSName = 'Пятигорск Укд';
-    private $OPSType = 'Укд';
+    private $OPSName = 'Пятигорск УКД';
+    private $OPSType = 'УКД';
     private $OPSSubm = 355700;
     private $Region = 'Ставропольский край';
     private $Autonom = '';

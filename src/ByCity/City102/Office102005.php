@@ -27,7 +27,7 @@ final class Office102005 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 102005;
-    private $OPSName = 'Москва-Казанский Вокзал Пждп Цех-3 Уч-3.1';
+    private $OPSName = 'Москва-Казанский Вокзал ПЖДП Цех-3 Уч-3.1';
     private $OPSType = 'Участок';
     private $OPSSubm = 102000;
     private $Region = 'Москва';

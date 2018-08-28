@@ -28,7 +28,7 @@ final class Office423338 implements \RussianPostIndex\Record
 
     private $Index = 423338;
     private $OPSName = 'Азнакаево';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 423349;
     private $Region = 'Татарстан Республика';
     private $Autonom = '';

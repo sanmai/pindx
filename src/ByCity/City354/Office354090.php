@@ -27,8 +27,8 @@ final class Office354090 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 354090;
-    private $OPSName = 'Сочи Укд';
-    private $OPSType = 'Укд';
+    private $OPSName = 'Сочи УКД';
+    private $OPSType = 'УКД';
     private $OPSSubm = 350700;
     private $Region = 'Краснодарский край';
     private $Autonom = '';

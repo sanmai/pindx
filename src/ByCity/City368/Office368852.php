@@ -28,7 +28,7 @@ final class Office368852 implements \RussianPostIndex\Record
 
     private $Index = 368852;
     private $OPSName = 'Кизляр 12';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 368839;
     private $Region = 'Дагестан Республика';
     private $Autonom = '';

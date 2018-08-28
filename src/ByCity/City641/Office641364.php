@@ -28,7 +28,7 @@ final class Office641364 implements \RussianPostIndex\Record
 
     private $Index = 641364;
     private $OPSName = 'Белозерское 4';
-    private $OPSType = 'Передвижное Ос';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 640000;
     private $Region = 'Курганская область';
     private $Autonom = '';
