@@ -19,7 +19,10 @@ declare(strict_types=1);
 
 namespace RussianPostIndex\ByCity\City296;
 
-class Office296516 implements \RussianPostIndex\Record
+/**
+ * @internal
+ */
+final class Office296516 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
