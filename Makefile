@@ -28,7 +28,9 @@ src/PrefixDirectory.php: PIndx.tsv
 
 json: PIndx.tsv
 	php bin/JSONIndex.php
+	touch json
 
 src/ByCity: PIndx.tsv
 	php bin/PHPExport.php
 	php vendor/bin/php-cs-fixer fix -v src/ByCity/
+	touch src/ByCity
