@@ -59,10 +59,10 @@ class PrefixDirectoryTest extends TestCase
         $this->assertInstanceOf(\RussianPostIndex\Record::class, $office101000);
 
         $this->assertSame(101000, $office101000->getIndex());
-        $this->assertSame('МОСКВА', $office101000->getName());
+        $this->assertSame('Москва', $office101000->getName());
         $this->assertSame('О', $office101000->getType());
         $this->assertSame(127950, $office101000->getSuperior());
-        $this->assertSame('МОСКВА', $office101000->getRegion());
+        $this->assertSame('Москва', $office101000->getRegion());
         $this->assertSame('', $office101000->getAutonomousRegion());
         $this->assertSame('', $office101000->getArea());
         $this->assertSame('', $office101000->getCity());
