@@ -27,13 +27,13 @@ final class Office353558 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 353558;
-    private $OPSName = 'ТЕМРЮК КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Темрюк Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 353559;
-    private $Region = 'КРАСНОДАРСКИЙ КРАЙ';
+    private $Region = 'Краснодарский край';
     private $Autonom = '';
-    private $Area = 'ТЕМРЮКСКИЙ РАЙОН';
-    private $City = 'ТЕМРЮК';
+    private $Area = 'Темрюкский район';
+    private $City = 'Темрюк';
     private $City1 = '';
     private $ActDate = '20171129';
     private $IndexOld = '';

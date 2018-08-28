@@ -27,13 +27,13 @@ final class Office632346 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 632346;
-    private $OPSName = 'БАРАБИНСК КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Барабинск Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 632330;
-    private $Region = 'НОВОСИБИРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Новосибирская область';
     private $Autonom = '';
-    private $Area = 'БАРАБИНСКИЙ РАЙОН';
-    private $City = 'БАРАБИНСК';
+    private $Area = 'Барабинский район';
+    private $City = 'Барабинск';
     private $City1 = '';
     private $ActDate = '20170706';
     private $IndexOld = '';

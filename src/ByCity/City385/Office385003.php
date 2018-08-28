@@ -27,13 +27,13 @@ final class Office385003 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 385003;
-    private $OPSName = 'МАЙКОП 3';
+    private $OPSName = 'Майкоп 3';
     private $OPSType = 'О';
     private $OPSSubm = 385700;
-    private $Region = 'АДЫГЕЯ РЕСПУБЛИКА';
+    private $Region = 'Адыгея Республика';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'МАЙКОП';
+    private $City = 'Майкоп';
     private $City1 = '';
     private $ActDate = '20100914';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office157328 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 157328;
-    private $OPSName = 'МАНТУРОВО КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Мантурово Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 157329;
-    private $Region = 'КОСТРОМСКАЯ ОБЛАСТЬ';
+    private $Region = 'Костромская область';
     private $Autonom = '';
-    private $Area = 'МАНТУРОВСКИЙ РАЙОН';
-    private $City = 'МАНТУРОВО';
+    private $Area = 'Мантуровский район';
+    private $City = 'Мантурово';
     private $City1 = '';
     private $ActDate = '20171009';
     private $IndexOld = '';

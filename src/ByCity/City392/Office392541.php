@@ -27,13 +27,13 @@ final class Office392541 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 392541;
-    private $OPSName = 'БЕЛОМЕСТНАЯ ДВОЙНЯ';
+    private $OPSName = 'Беломестная Двойня';
     private $OPSType = 'О';
     private $OPSSubm = 392999;
-    private $Region = 'ТАМБОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тамбовская область';
     private $Autonom = '';
-    private $Area = 'ТАМБОВСКИЙ РАЙОН';
-    private $City = 'БЕЛОМЕСТНАЯ ДВОЙНЯ';
+    private $Area = 'Тамбовский район';
+    private $City = 'Беломестная Двойня';
     private $City1 = '';
     private $ActDate = '20041125';
     private $IndexOld = '';

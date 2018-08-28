@@ -27,13 +27,13 @@ final class Office164207 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 164207;
-    private $OPSName = 'НЯНДОМА 7';
-    private $OPSType = 'ПЕРЕДВИЖНОЕ ОС';
+    private $OPSName = 'Няндома 7';
+    private $OPSType = 'Передвижное Ос';
     private $OPSSubm = 164260;
-    private $Region = 'АРХАНГЕЛЬСКАЯ ОБЛАСТЬ';
+    private $Region = 'Архангельская область';
     private $Autonom = '';
-    private $Area = 'НЯНДОМСКИЙ РАЙОН';
-    private $City = 'НЯНДОМА';
+    private $Area = 'Няндомский район';
+    private $City = 'Няндома';
     private $City1 = '';
     private $ActDate = '20150708';
     private $IndexOld = '';

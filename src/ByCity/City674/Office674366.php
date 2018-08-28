@@ -27,13 +27,13 @@ final class Office674366 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 674366;
-    private $OPSName = 'ЧАШИНО-ИЛЬДИКАН';
+    private $OPSName = 'Чашино-Ильдикан';
     private $OPSType = 'О';
     private $OPSSubm = 674339;
-    private $Region = 'ЗАБАЙКАЛЬСКИЙ КРАЙ';
+    private $Region = 'Забайкальский край';
     private $Autonom = '';
-    private $Area = 'НЕРЧИНСКО-ЗАВОДСКИЙ РАЙОН';
-    private $City = 'ЧАШИНО-ИЛЬДИКАН';
+    private $Area = 'Нерчинско-Заводский район';
+    private $City = 'Чашино-Ильдикан';
     private $City1 = '';
     private $ActDate = '20030127';
     private $IndexOld = '';

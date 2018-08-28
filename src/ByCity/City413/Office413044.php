@@ -27,13 +27,13 @@ final class Office413044 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 413044;
-    private $OPSName = 'СИНОДСКОЕ';
+    private $OPSName = 'Синодское';
     private $OPSType = 'О';
     private $OPSSubm = 412900;
-    private $Region = 'САРАТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Саратовская область';
     private $Autonom = '';
-    private $Area = 'ВОСКРЕСЕНСКИЙ РАЙОН';
-    private $City = 'СИНОДСКОЕ';
+    private $Area = 'Воскресенский район';
+    private $City = 'Синодское';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

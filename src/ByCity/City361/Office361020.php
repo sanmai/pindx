@@ -27,13 +27,13 @@ final class Office361020 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 361020;
-    private $OPSName = 'ЯНТАРНОЕ';
+    private $OPSName = 'Янтарное';
     private $OPSType = 'О';
     private $OPSSubm = 361040;
-    private $Region = 'КАБАРДИНО-БАЛКАРСКАЯ РЕСПУБЛИКА';
+    private $Region = 'Кабардино-Балкарская Республика';
     private $Autonom = '';
-    private $Area = 'ПРОХЛАДНЕНСКИЙ РАЙОН';
-    private $City = 'ЯНТАРНОЕ';
+    private $Area = 'Прохладненский район';
+    private $City = 'Янтарное';
     private $City1 = '';
     private $ActDate = '20081126';
     private $IndexOld = '';

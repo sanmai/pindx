@@ -27,13 +27,13 @@ final class Office160839 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 160839;
-    private $OPSName = 'ВЕЛИКИЙ УСТЮГ ПОЧТАМТ УЧ. ТАРЫ';
-    private $OPSType = 'ТИ';
+    private $OPSName = 'Великий Устюг Почтамт Уч. Тары';
+    private $OPSType = 'Ти';
     private $OPSSubm = 162399;
-    private $Region = 'ВОЛОГОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Вологодская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'ВЕЛИКИЙ УСТЮГ';
+    private $City = 'Великий Устюг';
     private $City1 = '';
     private $ActDate = '20071101';
     private $IndexOld = '';

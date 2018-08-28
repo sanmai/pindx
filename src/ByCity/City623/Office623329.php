@@ -27,13 +27,13 @@ final class Office623329 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 623329;
-    private $OPSName = 'ТАТАРСКАЯ ЕМАНЗЕЛЬГА';
+    private $OPSName = 'Татарская Еманзельга';
     private $OPSType = 'О';
     private $OPSSubm = 623309;
-    private $Region = 'СВЕРДЛОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Свердловская область';
     private $Autonom = '';
-    private $Area = 'КРАСНОУФИМСКИЙ РАЙОН';
-    private $City = 'ТАТАРСКАЯ ЕМАНЗЕЛЬГА';
+    private $Area = 'Красноуфимский район';
+    private $City = 'Татарская Еманзельга';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

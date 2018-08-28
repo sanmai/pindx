@@ -27,13 +27,13 @@ final class Office678990 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 678990;
-    private $OPSName = 'БЕРКАКИТ';
+    private $OPSName = 'Беркакит';
     private $OPSType = 'О';
     private $OPSSubm = 678999;
-    private $Region = 'САХА (ЯКУТИЯ) РЕСПУБЛИКА';
+    private $Region = 'Саха (Якутия) Республика';
     private $Autonom = '';
-    private $Area = 'НЕРЮНГРИНСКИЙ РАЙОН';
-    private $City = 'БЕРКАКИТ';
+    private $Area = 'Нерюнгринский район';
+    private $City = 'Беркакит';
     private $City1 = '';
     private $ActDate = '20180702';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office901239 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 901239;
-    private $OPSName = 'ПВ КИРОВ-НОВОСИБИРСК';
-    private $OPSType = 'ТИ';
+    private $OPSName = 'Пв Киров-Новосибирск';
+    private $OPSType = 'Ти';
     private $OPSSubm = 610960;
-    private $Region = 'КИРОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Кировская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'КИРОВ';
+    private $City = 'Киров';
     private $City1 = '';
     private $ActDate = '20150917';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office641485 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 641485;
-    private $OPSName = 'ГЛЯДЯНСКОЕ 5';
-    private $OPSType = 'ПЕРЕДВИЖНОЕ ОС';
+    private $OPSName = 'Глядянское 5';
+    private $OPSType = 'Передвижное Ос';
     private $OPSSubm = 641339;
-    private $Region = 'КУРГАНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Курганская область';
     private $Autonom = '';
-    private $Area = 'ПРИТОБОЛЬНЫЙ РАЙОН';
-    private $City = 'ГЛЯДЯНСКОЕ';
+    private $Area = 'Притобольный район';
+    private $City = 'Глядянское';
     private $City1 = '';
     private $ActDate = '20171016';
     private $IndexOld = '';

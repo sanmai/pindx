@@ -27,13 +27,13 @@ final class Office671519 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 671519;
-    private $OPSName = 'БАГДАРИН УООП';
+    private $OPSName = 'Багдарин Уооп';
     private $OPSType = 'Участок';
     private $OPSSubm = 670999;
-    private $Region = 'БУРЯТИЯ РЕСПУБЛИКА';
+    private $Region = 'Бурятия Республика';
     private $Autonom = '';
-    private $Area = 'БАУНТОВСКИЙ ЭВЕНКИЙСКИЙ РАЙОН';
-    private $City = 'БАГДАРИН';
+    private $Area = 'Баунтовский Эвенкийский район';
+    private $City = 'Багдарин';
     private $City1 = '';
     private $ActDate = '20151127';
     private $IndexOld = '';

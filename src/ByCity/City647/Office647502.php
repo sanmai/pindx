@@ -27,13 +27,13 @@ final class Office647502 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 647502;
-    private $OPSName = 'ТУХАРД';
+    private $OPSName = 'Тухард';
     private $OPSType = 'О';
     private $OPSSubm = 663300;
-    private $Region = 'КРАСНОЯРСКИЙ КРАЙ';
+    private $Region = 'Красноярский край';
     private $Autonom = '';
-    private $Area = 'ТАЙМЫРСКИЙ ДОЛГАНО-НЕНЕЦКИЙ РАЙОН';
-    private $City = 'ТУХАРД';
+    private $Area = 'Таймырский Долгано-Ненецкий район';
+    private $City = 'Тухард';
     private $City1 = '';
     private $ActDate = '20070209';
     private $IndexOld = '';

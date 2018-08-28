@@ -27,14 +27,14 @@ final class Office625055 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 625055;
-    private $OPSName = 'ТЮМЕНЬ 55';
+    private $OPSName = 'Тюмень 55';
     private $OPSType = 'О';
     private $OPSSubm = 625999;
-    private $Region = 'ТЮМЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тюменская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'ТЮМЕНЬ';
-    private $City1 = 'МАТМАСЫ';
+    private $City = 'Тюмень';
+    private $City1 = 'Матмасы';
     private $ActDate = '20161028';
     private $IndexOld = '';
 }

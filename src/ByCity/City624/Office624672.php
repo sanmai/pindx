@@ -27,13 +27,13 @@ final class Office624672 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 624672;
-    private $OPSName = 'АРАМАШЕВО';
+    private $OPSName = 'Арамашево';
     private $OPSType = 'О';
     private $OPSSubm = 624619;
-    private $Region = 'СВЕРДЛОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Свердловская область';
     private $Autonom = '';
-    private $Area = 'АЛАПАЕВСКИЙ РАЙОН';
-    private $City = 'АРАМАШЕВО';
+    private $Area = 'Алапаевский район';
+    private $City = 'Арамашево';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

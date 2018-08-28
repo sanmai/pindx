@@ -27,13 +27,13 @@ final class Office416180 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 416180;
-    private $OPSName = 'МАРФИНО';
+    private $OPSName = 'Марфино';
     private $OPSType = 'О';
     private $OPSSubm = 416199;
-    private $Region = 'АСТРАХАНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Астраханская область';
     private $Autonom = '';
-    private $Area = 'ВОЛОДАРСКИЙ РАЙОН';
-    private $City = 'МАРФИНО';
+    private $Area = 'Володарский район';
+    private $City = 'Марфино';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

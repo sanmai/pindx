@@ -27,13 +27,13 @@ final class Office431217 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 431217;
-    private $OPSName = 'СТАРАЯ КАЧЕЕВКА';
+    private $OPSName = 'Старая Качеевка';
     private $OPSType = 'О';
     private $OPSSubm = 431259;
-    private $Region = 'МОРДОВИЯ РЕСПУБЛИКА';
+    private $Region = 'Мордовия Республика';
     private $Autonom = '';
-    private $Area = 'ТЕНЬГУШЕВСКИЙ РАЙОН';
-    private $City = 'СТАРАЯ КАЧЕЕВКА';
+    private $Area = 'Теньгушевский район';
+    private $City = 'Старая Качеевка';
     private $City1 = '';
     private $ActDate = '20060615';
     private $IndexOld = '';

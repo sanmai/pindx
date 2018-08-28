@@ -27,13 +27,13 @@ final class Office423410 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 423410;
-    private $OPSName = 'СТАНЦИЯ КАЛЕЙКИНО';
+    private $OPSName = 'Станция Калейкино';
     private $OPSType = 'О';
     private $OPSSubm = 423469;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'АЛЬМЕТЬЕВСКИЙ РАЙОН';
-    private $City = 'КАЛЕЙКИНО';
+    private $Area = 'Альметьевский район';
+    private $City = 'Калейкино';
     private $City1 = '';
     private $ActDate = '20020925';
     private $IndexOld = '';

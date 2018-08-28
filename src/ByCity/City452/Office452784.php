@@ -27,13 +27,13 @@ final class Office452784 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 452784;
-    private $OPSName = 'НИЖНЕТРОИЦКИЙ';
+    private $OPSName = 'Нижнетроицкий';
     private $OPSType = 'О';
     private $OPSSubm = 452799;
-    private $Region = 'БАШКОРТОСТАН РЕСПУБЛИКА';
+    private $Region = 'Башкортостан Республика';
     private $Autonom = '';
-    private $Area = 'ТУЙМАЗИНСКИЙ РАЙОН';
-    private $City = 'НИЖНЕТРОИЦКИЙ';
+    private $Area = 'Туймазинский район';
+    private $City = 'Нижнетроицкий';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

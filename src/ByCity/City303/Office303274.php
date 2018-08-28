@@ -27,13 +27,13 @@ final class Office303274 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 303274;
-    private $OPSName = 'НАВЛЯ';
+    private $OPSName = 'Навля';
     private $OPSType = 'О';
     private $OPSSubm = 303919;
-    private $Region = 'ОРЛОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Орловская область';
     private $Autonom = '';
-    private $Area = 'ШАБЛЫКИНСКИЙ РАЙОН';
-    private $City = 'НАВЛЯ';
+    private $Area = 'Шаблыкинский район';
+    private $City = 'Навля';
     private $City1 = '';
     private $ActDate = '20050131';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office160536 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 160536;
-    private $OPSName = 'АНТОНОВО';
+    private $OPSName = 'Антоново';
     private $OPSType = 'О';
     private $OPSSubm = 160999;
-    private $Region = 'ВОЛОГОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Вологодская область';
     private $Autonom = '';
-    private $Area = 'ВОЛОГОДСКИЙ РАЙОН';
-    private $City = 'АНТОНОВО  ВОТЧИНСКИЙ';
+    private $Area = 'Вологодский район';
+    private $City = 'Антоново  Вотчинский';
     private $City1 = '';
     private $ActDate = '20180813';
     private $IndexOld = '';

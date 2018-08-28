@@ -27,13 +27,13 @@ final class Office641141 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 641141;
-    private $OPSName = 'ТАНРЫКУЛОВО';
+    private $OPSName = 'Танрыкулово';
     private $OPSType = 'О';
     private $OPSSubm = 641109;
-    private $Region = 'КУРГАНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Курганская область';
     private $Autonom = '';
-    private $Area = 'АЛЬМЕНЕВСКИЙ РАЙОН';
-    private $City = 'ТАНРЫКУЛОВО';
+    private $Area = 'Альменевский район';
+    private $City = 'Танрыкулово';
     private $City1 = '';
     private $ActDate = '20051116';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office242223 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 242223;
-    private $OPSName = 'ГНИЛЕВО';
+    private $OPSName = 'Гнилево';
     private $OPSType = 'О';
     private $OPSSubm = 242259;
-    private $Region = 'БРЯНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Брянская область';
     private $Autonom = '';
-    private $Area = 'ТРУБЧЕВСКИЙ РАЙОН';
-    private $City = 'ГНИЛЕВО';
+    private $Area = 'Трубчевский район';
+    private $City = 'Гнилево';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

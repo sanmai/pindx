@@ -27,14 +27,14 @@ final class Office433321 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 433321;
-    private $OPSName = 'ИМ. КАРАМЗИНА';
+    private $OPSName = 'Им. Карамзина';
     private $OPSType = 'О';
     private $OPSSubm = 432099;
-    private $Region = 'УЛЬЯНОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ульяновская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'УЛЬЯНОВСК';
-    private $City1 = 'ИМЕНИ КАРАМЗИНА';
+    private $City = 'Ульяновск';
+    private $City1 = 'Имени Карамзина';
     private $ActDate = '20001030';
     private $IndexOld = '';
 }

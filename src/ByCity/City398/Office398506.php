@@ -27,13 +27,13 @@ final class Office398506 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 398506;
-    private $OPSName = 'ТЮШЕВКА ППС';
-    private $OPSType = 'ППС';
+    private $OPSName = 'Тюшевка Ппс';
+    private $OPSType = 'Ппс';
     private $OPSSubm = 398999;
-    private $Region = 'ЛИПЕЦКАЯ ОБЛАСТЬ';
+    private $Region = 'Липецкая область';
     private $Autonom = '';
-    private $Area = 'ЛИПЕЦКИЙ РАЙОН';
-    private $City = 'ТЮШЕВКА';
+    private $Area = 'Липецкий район';
+    private $City = 'Тюшевка';
     private $City1 = '';
     private $ActDate = '20170622';
     private $IndexOld = '';

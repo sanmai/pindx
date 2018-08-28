@@ -27,13 +27,13 @@ final class Office654204 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 654204;
-    private $OPSName = 'ТАРГАЙСКИЙ ДОМ ОТДЫХА';
-    private $OPSType = 'ПЕРЕДВИЖНОЕ ОС';
+    private $OPSName = 'Таргайский Дом Отдыха';
+    private $OPSType = 'Передвижное Ос';
     private $OPSSubm = 654099;
-    private $Region = 'КЕМЕРОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Кемеровская область';
     private $Autonom = '';
-    private $Area = 'НОВОКУЗНЕЦКИЙ РАЙОН';
-    private $City = 'ТАРГАЙСКИЙ ДОМ ОТДЫХА';
+    private $Area = 'Новокузнецкий район';
+    private $City = 'Таргайский Дом Отдыха';
     private $City1 = '';
     private $ActDate = '20140411';
     private $IndexOld = '';

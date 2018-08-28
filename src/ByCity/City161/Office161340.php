@@ -27,13 +27,13 @@ final class Office161340 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 161340;
-    private $OPSName = 'МИНЬКОВО';
+    private $OPSName = 'Миньково';
     private $OPSType = 'О';
     private $OPSSubm = 161339;
-    private $Region = 'ВОЛОГОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Вологодская область';
     private $Autonom = '';
-    private $Area = 'БАБУШКИНСКИЙ РАЙОН';
-    private $City = 'МИНЬКОВО';
+    private $Area = 'Бабушкинский район';
+    private $City = 'Миньково';
     private $City1 = '';
     private $ActDate = '20050404';
     private $IndexOld = '';

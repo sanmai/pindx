@@ -27,13 +27,13 @@ final class Office155804 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 155804;
-    private $OPSName = 'КИНЕШМА 4';
+    private $OPSName = 'Кинешма 4';
     private $OPSType = 'О';
     private $OPSSubm = 155819;
-    private $Region = 'ИВАНОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ивановская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'КИНЕШМА';
+    private $City = 'Кинешма';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

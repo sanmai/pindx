@@ -27,14 +27,14 @@ final class Office456394 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 456394;
-    private $OPSName = 'НОВОТАГИЛКА';
+    private $OPSName = 'Новотагилка';
     private $OPSType = 'О';
     private $OPSSubm = 456329;
-    private $Region = 'ЧЕЛЯБИНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Челябинская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'МИАСС';
-    private $City1 = 'НОВОТАГИЛКА';
+    private $City = 'Миасс';
+    private $City1 = 'Новотагилка';
     private $ActDate = '20001030';
     private $IndexOld = '';
 }

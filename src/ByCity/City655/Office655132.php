@@ -27,13 +27,13 @@ final class Office655132 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 655132;
-    private $OPSName = 'ЗЕЛЕНОЕ';
+    private $OPSName = 'Зеленое';
     private $OPSType = 'О';
     private $OPSSubm = 655000;
-    private $Region = 'ХАКАСИЯ РЕСПУБЛИКА';
+    private $Region = 'Хакасия Республика';
     private $Autonom = '';
-    private $Area = 'УСТЬ-АБАКАНСКИЙ РАЙОН';
-    private $City = 'ЗЕЛЕНОЕ';
+    private $Area = 'Усть-Абаканский район';
+    private $City = 'Зеленое';
     private $City1 = '';
     private $ActDate = '20060215';
     private $IndexOld = '';

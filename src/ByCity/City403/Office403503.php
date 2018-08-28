@@ -27,13 +27,13 @@ final class Office403503 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 403503;
-    private $OPSName = 'БОЛЬШОЙ ЛЫЧАК';
+    private $OPSName = 'Большой Лычак';
     private $OPSType = 'О';
     private $OPSSubm = 403530;
-    private $Region = 'ВОЛГОГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Волгоградская область';
     private $Autonom = '';
-    private $Area = 'ФРОЛОВСКИЙ РАЙОН';
-    private $City = 'БОЛЬШОЙ ЛЫЧАК';
+    private $Area = 'Фроловский район';
+    private $City = 'Большой Лычак';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

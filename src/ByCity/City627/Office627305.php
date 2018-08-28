@@ -27,13 +27,13 @@ final class Office627305 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 627305;
-    private $OPSName = 'УСТЬ-ЛАМЕНКА';
+    private $OPSName = 'Усть-Ламенка';
     private $OPSType = 'О';
     private $OPSSubm = 627329;
-    private $Region = 'ТЮМЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тюменская область';
     private $Autonom = '';
-    private $Area = 'ГОЛЫШМАНОВСКИЙ РАЙОН';
-    private $City = 'УСТЬ-ЛАМЕНКА';
+    private $Area = 'Голышмановский район';
+    private $City = 'Усть-Ламенка';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

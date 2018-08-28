@@ -27,13 +27,13 @@ final class Office155623 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 155623;
-    private $OPSName = 'МАЙДАКОВО';
+    private $OPSName = 'Майдаково';
     private $OPSType = 'О';
     private $OPSSubm = 155619;
-    private $Region = 'ИВАНОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ивановская область';
     private $Autonom = '';
-    private $Area = 'ПАЛЕХСКИЙ РАЙОН';
-    private $City = 'МАЙДАКОВО';
+    private $Area = 'Палехский район';
+    private $City = 'Майдаково';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

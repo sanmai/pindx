@@ -27,13 +27,13 @@ final class Office423617 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 423617;
-    private $OPSName = 'БОЛЬШОЙ ШУРНЯК';
+    private $OPSName = 'Большой Шурняк';
     private $OPSType = 'О';
     private $OPSSubm = 423639;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'ЕЛАБУЖСКИЙ РАЙОН';
-    private $City = 'БОЛЬШОЙ ШУРНЯК';
+    private $Area = 'Елабужский район';
+    private $City = 'Большой Шурняк';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office461077 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 461077;
-    private $OPSName = 'ГАРШИНО';
+    private $OPSName = 'Гаршино';
     private $OPSType = 'О';
     private $OPSSubm = 461059;
-    private $Region = 'ОРЕНБУРГСКАЯ ОБЛАСТЬ';
+    private $Region = 'Оренбургская область';
     private $Autonom = '';
-    private $Area = 'КУРМАНАЕВСКИЙ РАЙОН';
-    private $City = 'ГАРШИНО';
+    private $Area = 'Курманаевский район';
+    private $City = 'Гаршино';
     private $City1 = '';
     private $ActDate = '20061013';
     private $IndexOld = '';

@@ -27,14 +27,14 @@ final class Office356803 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 356803;
-    private $OPSName = 'БУДЕННОВСК 3';
+    private $OPSName = 'Буденновск 3';
     private $OPSType = 'О';
     private $OPSSubm = 356889;
-    private $Region = 'СТАВРОПОЛЬСКИЙ КРАЙ';
+    private $Region = 'Ставропольский край';
     private $Autonom = '';
-    private $Area = 'БУДЕННОВСКИЙ РАЙОН';
-    private $City = 'БУДЕННОВСК';
-    private $City1 = 'ПОСС';
+    private $Area = 'Буденновский район';
+    private $City = 'Буденновск';
+    private $City1 = 'Посс';
     private $ActDate = '20110420';
     private $IndexOld = '';
 }

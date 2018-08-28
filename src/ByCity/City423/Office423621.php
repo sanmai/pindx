@@ -27,13 +27,13 @@ final class Office423621 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 423621;
-    private $OPSName = 'НОВАЯ МУРЗИХА';
+    private $OPSName = 'Новая Мурзиха';
     private $OPSType = 'О';
     private $OPSSubm = 423639;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'ЕЛАБУЖСКИЙ РАЙОН';
-    private $City = 'НОВАЯ МУРЗИХА';
+    private $Area = 'Елабужский район';
+    private $City = 'Новая Мурзиха';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office301871 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 301871;
-    private $OPSName = 'ШКИЛЕВКА';
+    private $OPSName = 'Шкилевка';
     private $OPSType = 'О';
     private $OPSSubm = 301859;
-    private $Region = 'ТУЛЬСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тульская область';
     private $Autonom = '';
-    private $Area = 'ЕФРЕМОВСКИЙ РАЙОН';
-    private $City = 'ШКИЛЕВКА';
+    private $Area = 'Ефремовский район';
+    private $City = 'Шкилевка';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

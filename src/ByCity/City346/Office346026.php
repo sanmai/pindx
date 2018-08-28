@@ -27,13 +27,13 @@ final class Office346026 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 346026;
-    private $OPSName = 'ТАРАСОВО-МЕЛОВСКОЕ';
+    private $OPSName = 'Тарасово-Меловское';
     private $OPSType = 'О';
     private $OPSSubm = 346139;
-    private $Region = 'РОСТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ростовская область';
     private $Autonom = '';
-    private $Area = 'ЧЕРТКОВСКИЙ РАЙОН';
-    private $City = 'ТАРАСОВО МЕЛОВСКОЕ';
+    private $Area = 'Чертковский район';
+    private $City = 'Тарасово Меловское';
     private $City1 = '';
     private $ActDate = '20070214';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office425501 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 425501;
-    private $OPSName = 'МАРИ-ТУРЕК ППС';
-    private $OPSType = 'ППС';
+    private $OPSName = 'Мари-Турек Ппс';
+    private $OPSType = 'Ппс';
     private $OPSSubm = 425159;
-    private $Region = 'МАРИЙ ЭЛ РЕСПУБЛИКА';
+    private $Region = 'Марий Эл Республика';
     private $Autonom = '';
-    private $Area = 'МАРИ-ТУРЕКСКИЙ РАЙОН';
-    private $City = 'МАРИ-ТУРЕК';
+    private $Area = 'Мари-Турекский район';
+    private $City = 'Мари-Турек';
     private $City1 = '';
     private $ActDate = '20170713';
     private $IndexOld = '';

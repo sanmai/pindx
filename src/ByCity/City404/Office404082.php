@@ -27,13 +27,13 @@ final class Office404082 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 404082;
-    private $OPSName = 'СОЛДАТСКО-СТЕПНОЕ';
+    private $OPSName = 'Солдатско-Степное';
     private $OPSType = 'О';
     private $OPSSubm = 404030;
-    private $Region = 'ВОЛГОГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Волгоградская область';
     private $Autonom = '';
-    private $Area = 'БЫКОВСКИЙ РАЙОН';
-    private $City = 'СОЛДАТСКО-СТЕПНОЕ';
+    private $Area = 'Быковский район';
+    private $City = 'Солдатско-Степное';
     private $City1 = '';
     private $ActDate = '20070411';
     private $IndexOld = '';

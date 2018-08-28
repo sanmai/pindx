@@ -27,13 +27,13 @@ final class Office171170 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 171170;
-    private $OPSName = 'СПИРОВО';
+    private $OPSName = 'Спирово';
     private $OPSType = 'О';
     private $OPSSubm = 171150;
-    private $Region = 'ТВЕРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тверская область';
     private $Autonom = '';
-    private $Area = 'СПИРОВСКИЙ РАЙОН';
-    private $City = 'СПИРОВО';
+    private $Area = 'Спировский район';
+    private $City = 'Спирово';
     private $City1 = '';
     private $ActDate = '20050907';
     private $IndexOld = '';

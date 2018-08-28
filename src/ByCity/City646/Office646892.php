@@ -27,13 +27,13 @@ final class Office646892 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 646892;
-    private $OPSName = 'ГАУФ';
+    private $OPSName = 'Гауф';
     private $OPSType = 'О';
     private $OPSSubm = 646749;
-    private $Region = 'ОМСКАЯ ОБЛАСТЬ';
+    private $Region = 'Омская область';
     private $Autonom = '';
-    private $Area = 'АЗОВСКИЙ НЕМЕЦКИЙ НАЦИОНАЛЬНЫЙ РАЙОН';
-    private $City = 'ГАУФ';
+    private $Area = 'Азовский немецкий национальный район';
+    private $City = 'Гауф';
     private $City1 = '';
     private $ActDate = '20070420';
     private $IndexOld = '';

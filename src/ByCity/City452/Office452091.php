@@ -27,13 +27,13 @@ final class Office452091 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 452091;
-    private $OPSName = 'КАЧЕГАНОВО';
+    private $OPSName = 'Качеганово';
     private $OPSType = 'О';
     private $OPSSubm = 452139;
-    private $Region = 'БАШКОРТОСТАН РЕСПУБЛИКА';
+    private $Region = 'Башкортостан Республика';
     private $Autonom = '';
-    private $Area = 'МИЯКИНСКИЙ РАЙОН';
-    private $City = 'КАЧЕГАНОВО';
+    private $Area = 'Миякинский район';
+    private $City = 'Качеганово';
     private $City1 = '';
     private $ActDate = '20070212';
     private $IndexOld = '';

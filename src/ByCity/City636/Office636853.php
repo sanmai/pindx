@@ -27,13 +27,13 @@ final class Office636853 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 636853;
-    private $OPSName = 'ГРОМЫШЕВКА';
+    private $OPSName = 'Громышевка';
     private $OPSType = 'О';
     private $OPSSubm = 636849;
-    private $Region = 'ТОМСКАЯ ОБЛАСТЬ';
+    private $Region = 'Томская область';
     private $Autonom = '';
-    private $Area = 'ЗЫРЯНСКИЙ РАЙОН';
-    private $City = 'ГРОМЫШЕВКА';
+    private $Area = 'Зырянский район';
+    private $City = 'Громышевка';
     private $City1 = '';
     private $ActDate = '20030611';
     private $IndexOld = '';

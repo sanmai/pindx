@@ -27,13 +27,13 @@ final class Office427323 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 427323;
-    private $OPSName = 'БРЫЗГАЛОВО';
+    private $OPSName = 'Брызгалово';
     private $OPSType = 'О';
     private $OPSSubm = 427789;
-    private $Region = 'УДМУРТСКАЯ РЕСПУБЛИКА';
+    private $Region = 'Удмуртская Республика';
     private $Autonom = '';
-    private $Area = 'ВАВОЖСКИЙ РАЙОН';
-    private $City = 'БРЫЗГАЛОВО';
+    private $Area = 'Вавожский район';
+    private $City = 'Брызгалово';
     private $City1 = '';
     private $ActDate = '20050829';
     private $IndexOld = '';

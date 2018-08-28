@@ -27,13 +27,13 @@ final class Office433304 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 433304;
-    private $OPSName = 'ПАНСКАЯ СЛОБОДА';
+    private $OPSName = 'Панская Слобода';
     private $OPSType = 'О';
     private $OPSSubm = 433639;
-    private $Region = 'УЛЬЯНОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ульяновская область';
     private $Autonom = '';
-    private $Area = 'УЛЬЯНОВСКИЙ РАЙОН';
-    private $City = 'ПАНСКАЯ СЛОБОДА';
+    private $Area = 'Ульяновский район';
+    private $City = 'Панская Слобода';
     private $City1 = '';
     private $ActDate = '20060828';
     private $IndexOld = '';

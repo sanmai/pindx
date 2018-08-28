@@ -27,13 +27,13 @@ final class Office433112 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 433112;
-    private $OPSName = 'МОРДОВСКИЙ БЕЛЫЙ КЛЮЧ';
+    private $OPSName = 'Мордовский Белый Ключ';
     private $OPSType = 'О';
     private $OPSSubm = 433239;
-    private $Region = 'УЛЬЯНОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ульяновская область';
     private $Autonom = '';
-    private $Area = 'ВЕШКАЙМСКИЙ РАЙОН';
-    private $City = 'МОРДОВСКИЙ БЕЛЫЙ КЛЮЧ';
+    private $Area = 'Вешкаймский район';
+    private $City = 'Мордовский Белый Ключ';
     private $City1 = '';
     private $ActDate = '20050829';
     private $IndexOld = '';

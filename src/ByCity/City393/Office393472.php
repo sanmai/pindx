@@ -27,13 +27,13 @@ final class Office393472 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 393472;
-    private $OPSName = 'ВЕРХНИЙ ШИБРЯЙ';
+    private $OPSName = 'Верхний Шибряй';
     private $OPSType = 'О';
     private $OPSSubm = 393469;
-    private $Region = 'ТАМБОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тамбовская область';
     private $Autonom = '';
-    private $Area = 'УВАРОВСКИЙ РАЙОН';
-    private $City = 'ВЕРХНИЙ ШИБРЯЙ';
+    private $Area = 'Уваровский район';
+    private $City = 'Верхний Шибряй';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

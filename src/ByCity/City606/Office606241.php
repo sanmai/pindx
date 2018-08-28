@@ -27,13 +27,13 @@ final class Office606241 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 606241;
-    private $OPSName = 'БЕРЕНДЕЕВКА';
+    private $OPSName = 'Берендеевка';
     private $OPSType = 'О';
     private $OPSSubm = 607669;
-    private $Region = 'НИЖЕГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Нижегородская область';
     private $Autonom = '';
-    private $Area = 'ЛЫСКОВСКИЙ РАЙОН';
-    private $City = 'БЕРЕНДЕЕВКА';
+    private $Area = 'Лысковский район';
+    private $City = 'Берендеевка';
     private $City1 = '';
     private $ActDate = '20060623';
     private $IndexOld = '';

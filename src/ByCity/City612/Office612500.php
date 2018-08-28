@@ -27,13 +27,13 @@ final class Office612500 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 612500;
-    private $OPSName = 'ФАЛЕНКИ';
+    private $OPSName = 'Фаленки';
     private $OPSType = 'О';
     private $OPSSubm = 613059;
-    private $Region = 'КИРОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Кировская область';
     private $Autonom = '';
-    private $Area = 'ФАЛЕНСКИЙ РАЙОН';
-    private $City = 'ФАЛЕНКИ';
+    private $Area = 'Фаленский район';
+    private $City = 'Фаленки';
     private $City1 = '';
     private $ActDate = '20050628';
     private $IndexOld = '';

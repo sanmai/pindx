@@ -27,13 +27,13 @@ final class Office303320 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 303320;
-    private $OPSName = 'ЗМИЕВКА';
+    private $OPSName = 'Змиевка';
     private $OPSType = 'О';
     private $OPSSubm = 303369;
-    private $Region = 'ОРЛОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Орловская область';
     private $Autonom = '';
-    private $Area = 'СВЕРДЛОВСКИЙ РАЙОН';
-    private $City = 'ЗМИЕВКА';
+    private $Area = 'Свердловский район';
+    private $City = 'Змиевка';
     private $City1 = '';
     private $ActDate = '20110816';
     private $IndexOld = '';

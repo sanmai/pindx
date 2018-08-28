@@ -27,13 +27,13 @@ final class Office142958 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 142958;
-    private $OPSName = 'НОВОКЛЕМОВО';
+    private $OPSName = 'Новоклемово';
     private $OPSType = 'О';
     private $OPSSubm = 142949;
-    private $Region = 'МОСКОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Московская область';
     private $Autonom = '';
-    private $Area = 'СЕРЕБРЯНО-ПРУДСКИЙ РАЙОН';
-    private $City = 'НОВОКЛЕМОВО';
+    private $Area = 'Серебряно-Прудский район';
+    private $City = 'Новоклемово';
     private $City1 = '';
     private $ActDate = '20021219';
     private $IndexOld = '';

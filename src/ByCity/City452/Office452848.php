@@ -27,13 +27,13 @@ final class Office452848 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 452848;
-    private $OPSName = 'БУЛЬ-КАЙПАНОВО';
+    private $OPSName = 'Буль-Кайпаново';
     private $OPSType = 'О';
     private $OPSSubm = 452829;
-    private $Region = 'БАШКОРТОСТАН РЕСПУБЛИКА';
+    private $Region = 'Башкортостан Республика';
     private $Autonom = '';
-    private $Area = 'ТАТЫШЛИНСКИЙ РАЙОН';
-    private $City = 'БУЛЬ-КАЙПАНОВО';
+    private $Area = 'Татышлинский район';
+    private $City = 'Буль-Кайпаново';
     private $City1 = '';
     private $ActDate = '20060913';
     private $IndexOld = '';

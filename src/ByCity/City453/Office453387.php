@@ -27,13 +27,13 @@ final class Office453387 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 453387;
-    private $OPSName = 'СЕРЕГУЛОВО';
+    private $OPSName = 'Серегулово';
     private $OPSType = 'О';
     private $OPSSubm = 453889;
-    private $Region = 'БАШКОРТОСТАН РЕСПУБЛИКА';
+    private $Region = 'Башкортостан Республика';
     private $Autonom = '';
-    private $Area = 'ЗИАНЧУРИНСКИЙ РАЙОН';
-    private $City = 'СЕРЕГУЛОВО';
+    private $Area = 'Зианчуринский район';
+    private $City = 'Серегулово';
     private $City1 = '';
     private $ActDate = '20130408';
     private $IndexOld = '';

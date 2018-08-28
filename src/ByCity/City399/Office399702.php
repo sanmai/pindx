@@ -27,13 +27,13 @@ final class Office399702 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 399702;
-    private $OPSName = 'ТОЛСТАЯ ДУБРАВА';
+    private $OPSName = 'Толстая Дубрава';
     private $OPSType = 'О';
     private $OPSSubm = 399799;
-    private $Region = 'ЛИПЕЦКАЯ ОБЛАСТЬ';
+    private $Region = 'Липецкая область';
     private $Autonom = '';
-    private $Area = 'СТАНОВЛЯНСКИЙ РАЙОН';
-    private $City = 'ТОЛСТАЯ ДУБРАВА';
+    private $Area = 'Становлянский район';
+    private $City = 'Толстая Дубрава';
     private $City1 = '';
     private $ActDate = '20120927';
     private $IndexOld = '';

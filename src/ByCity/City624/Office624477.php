@@ -27,14 +27,14 @@ final class Office624477 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 624477;
-    private $OPSName = 'ВСЕВОЛОДО-БЛАГОДАТСКОЕ';
+    private $OPSName = 'Всеволодо-Благодатское';
     private $OPSType = 'О';
     private $OPSSubm = 624459;
-    private $Region = 'СВЕРДЛОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Свердловская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'СЕВЕРОУРАЛЬСК';
-    private $City1 = 'ВСЕВОЛОДО-БЛАГОДАТСКОЕ';
+    private $City = 'Североуральск';
+    private $City1 = 'Всеволодо-Благодатское';
     private $ActDate = '20110131';
     private $IndexOld = '';
 }

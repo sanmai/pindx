@@ -27,13 +27,13 @@ final class Office425153 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 425153;
-    private $OPSName = 'ЮРДУР';
+    private $OPSName = 'Юрдур';
     private $OPSType = 'О';
     private $OPSSubm = 425159;
-    private $Region = 'МАРИЙ ЭЛ РЕСПУБЛИКА';
+    private $Region = 'Марий Эл Республика';
     private $Autonom = '';
-    private $Area = 'МОРКИНСКИЙ РАЙОН';
-    private $City = 'ЮРДУР (ГОРОДСКОЕ ПОСЕЛЕНИЕ МОРКИ)';
+    private $Area = 'Моркинский район';
+    private $City = 'Юрдур (Городское Поселение Морки)';
     private $City1 = '';
     private $ActDate = '20180813';
     private $IndexOld = '';

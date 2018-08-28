@@ -27,13 +27,13 @@ final class Office396453 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 396453;
-    private $OPSName = 'ШКУРЛАТ-ТРЕТИЙ';
+    private $OPSName = 'Шкурлат-Третий';
     private $OPSType = 'О';
     private $OPSSubm = 396459;
-    private $Region = 'ВОРОНЕЖСКАЯ ОБЛАСТЬ';
+    private $Region = 'Воронежская область';
     private $Autonom = '';
-    private $Area = 'ПАВЛОВСКИЙ РАЙОН';
-    private $City = 'ШКУРЛАТ 3-Й';
+    private $Area = 'Павловский район';
+    private $City = 'Шкурлат 3-Й';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

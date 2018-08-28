@@ -27,13 +27,13 @@ final class Office442325 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 442325;
-    private $OPSName = 'ЧААДАЕВКА';
+    private $OPSName = 'Чаадаевка';
     private $OPSType = 'О';
     private $OPSSubm = 442699;
-    private $Region = 'ПЕНЗЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Пензенская область';
     private $Autonom = '';
-    private $Area = 'ГОРОДИЩЕНСКИЙ РАЙОН';
-    private $City = 'ЧААДАЕВКА';
+    private $Area = 'Городищенский район';
+    private $City = 'Чаадаевка';
     private $City1 = '';
     private $ActDate = '20060626';
     private $IndexOld = '';

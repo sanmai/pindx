@@ -27,13 +27,13 @@ final class Office301222 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 301222;
-    private $OPSName = 'ПИРОГОВО-ПЕРВОЕ';
+    private $OPSName = 'Пирогово-Первое';
     private $OPSType = 'О';
     private $OPSSubm = 301259;
-    private $Region = 'ТУЛЬСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тульская область';
     private $Autonom = '';
-    private $Area = 'ЩЕКИНСКИЙ РАЙОН';
-    private $City = 'ПИРОГОВО 1-Е';
+    private $Area = 'Щекинский район';
+    private $City = 'Пирогово 1-Е';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

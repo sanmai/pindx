@@ -27,14 +27,14 @@ final class Office624751 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 624751;
-    private $OPSName = 'АКИНФИЕВО';
+    private $OPSName = 'Акинфиево';
     private $OPSType = 'О';
     private $OPSSubm = 622059;
-    private $Region = 'СВЕРДЛОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Свердловская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'НИЖНЯЯ САЛДА';
-    private $City1 = 'АКИНФИЕВО';
+    private $City = 'Нижняя Салда';
+    private $City1 = 'Акинфиево';
     private $ActDate = '20070427';
     private $IndexOld = '';
 }

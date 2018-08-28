@@ -27,13 +27,13 @@ final class Office606618 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 606618;
-    private $OPSName = 'ИЛЬИНО-ЗАБОРСКОЕ';
+    private $OPSName = 'Ильино-Заборское';
     private $OPSType = 'О';
     private $OPSSubm = 606669;
-    private $Region = 'НИЖЕГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Нижегородская область';
     private $Autonom = '';
-    private $Area = 'СЕМЕНОВСКИЙ РАЙОН';
-    private $City = 'ИЛЬИНСКО-ЗАБОРСКОЕ';
+    private $Area = 'Семеновский район';
+    private $City = 'Ильинско-Заборское';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office440503 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 440503;
-    private $OPSName = 'БЕРЕЗОВАЯ РОЩА ППС';
-    private $OPSType = 'ППС';
+    private $OPSName = 'Березовая Роща Ппс';
+    private $OPSType = 'Ппс';
     private $OPSSubm = 440999;
-    private $Region = 'ПЕНЗЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Пензенская область';
     private $Autonom = '';
-    private $Area = 'ПЕНЗЕНСКИЙ РАЙОН';
-    private $City = 'БЕРЕЗОВАЯ РОЩА';
+    private $Area = 'Пензенский район';
+    private $City = 'Березовая Роща';
     private $City1 = '';
     private $ActDate = '20170621';
     private $IndexOld = '';

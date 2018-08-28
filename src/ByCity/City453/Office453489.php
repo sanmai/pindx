@@ -27,13 +27,13 @@ final class Office453489 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 453489;
-    private $OPSName = 'ТУКАЕВО';
+    private $OPSName = 'Тукаево';
     private $OPSType = 'О';
     private $OPSSubm = 453479;
-    private $Region = 'БАШКОРТОСТАН РЕСПУБЛИКА';
+    private $Region = 'Башкортостан Республика';
     private $Autonom = '';
-    private $Area = 'АУРГАЗИНСКИЙ РАЙОН';
-    private $City = 'ТУКАЕВО';
+    private $Area = 'Аургазинский район';
+    private $City = 'Тукаево';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

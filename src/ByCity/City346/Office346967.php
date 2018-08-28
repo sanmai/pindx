@@ -27,13 +27,13 @@ final class Office346967 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 346967;
-    private $OPSName = 'ГРЕКОВО-ТИМОФЕЕВКА';
+    private $OPSName = 'Греково-Тимофеевка';
     private $OPSType = 'О';
     private $OPSSubm = 346879;
-    private $Region = 'РОСТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ростовская область';
     private $Autonom = '';
-    private $Area = 'МАТВЕЕВО-КУРГАНСКИЙ РАЙОН';
-    private $City = 'ГРЕКОВО-ТИМОФЕЕВКА';
+    private $Area = 'Матвеево-Курганский район';
+    private $City = 'Греково-Тимофеевка';
     private $City1 = '';
     private $ActDate = '20070214';
     private $IndexOld = '';

@@ -27,14 +27,14 @@ final class Office140055 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 140055;
-    private $OPSName = 'БЕЛАЯ ДАЧА';
+    private $OPSName = 'Белая Дача';
     private $OPSType = 'О';
     private $OPSSubm = 140079;
-    private $Region = 'МОСКОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Московская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'КОТЕЛЬНИКИ';
-    private $City1 = 'БЕЛАЯ ДАЧА';
+    private $City = 'Котельники';
+    private $City1 = 'Белая Дача';
     private $ActDate = '20001030';
     private $IndexOld = '';
 }

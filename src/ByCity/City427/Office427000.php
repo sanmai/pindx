@@ -27,13 +27,13 @@ final class Office427000 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 427000;
-    private $OPSName = 'ЗАВЬЯЛОВО';
+    private $OPSName = 'Завьялово';
     private $OPSType = 'О';
     private $OPSSubm = 426999;
-    private $Region = 'УДМУРТСКАЯ РЕСПУБЛИКА';
+    private $Region = 'Удмуртская Республика';
     private $Autonom = '';
-    private $Area = 'ЗАВЬЯЛОВСКИЙ РАЙОН';
-    private $City = 'ЗАВЬЯЛОВО';
+    private $Area = 'Завьяловский район';
+    private $City = 'Завьялово';
     private $City1 = '';
     private $ActDate = '20050829';
     private $IndexOld = '';

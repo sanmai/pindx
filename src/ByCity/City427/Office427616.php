@@ -27,13 +27,13 @@ final class Office427616 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 427616;
-    private $OPSName = 'КАЧКАШУР';
+    private $OPSName = 'Качкашур';
     private $OPSType = 'О';
     private $OPSSubm = 427649;
-    private $Region = 'УДМУРТСКАЯ РЕСПУБЛИКА';
+    private $Region = 'Удмуртская Республика';
     private $Autonom = '';
-    private $Area = 'ГЛАЗОВСКИЙ РАЙОН';
-    private $City = 'КАЧКАШУР';
+    private $Area = 'Глазовский район';
+    private $City = 'Качкашур';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

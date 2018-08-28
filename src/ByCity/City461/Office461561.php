@@ -27,13 +27,13 @@ final class Office461561 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 461561;
-    private $OPSName = 'НОВОПАВЛОВКА';
+    private $OPSName = 'Новопавловка';
     private $OPSType = 'О';
     private $OPSSubm = 461509;
-    private $Region = 'ОРЕНБУРГСКАЯ ОБЛАСТЬ';
+    private $Region = 'Оренбургская область';
     private $Autonom = '';
-    private $Area = 'АКБУЛАКСКИЙ РАЙОН';
-    private $City = 'НОВОПАВЛОВКА';
+    private $Area = 'Акбулакский район';
+    private $City = 'Новопавловка';
     private $City1 = '';
     private $ActDate = '20061013';
     private $IndexOld = '';

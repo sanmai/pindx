@@ -27,13 +27,13 @@ final class Office445140 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 445140;
-    private $OPSName = 'ТИМОФЕЕВКА';
+    private $OPSName = 'Тимофеевка';
     private $OPSType = 'О';
     private $OPSSubm = 445000;
-    private $Region = 'САМАРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Самарская область';
     private $Autonom = '';
-    private $Area = 'СТАВРОПОЛЬСКИЙ РАЙОН';
-    private $City = 'ТИМОФЕЕВКА';
+    private $Area = 'Ставропольский район';
+    private $City = 'Тимофеевка';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

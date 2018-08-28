@@ -27,13 +27,13 @@ final class Office363702 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 363702;
-    private $OPSName = 'ТЕРСКАЯ';
+    private $OPSName = 'Терская';
     private $OPSType = 'О';
     private $OPSSubm = 363750;
-    private $Region = 'СЕВЕРНАЯ ОСЕТИЯ - АЛАНИЯ РЕСПУБЛИКА';
+    private $Region = 'Северная Осетия - Алания Республика';
     private $Autonom = '';
-    private $Area = 'МОЗДОКСКИЙ РАЙОН';
-    private $City = 'ТЕРСКАЯ';
+    private $Area = 'Моздокский район';
+    private $City = 'Терская';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

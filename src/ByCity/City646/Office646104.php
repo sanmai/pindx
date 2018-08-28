@@ -27,13 +27,13 @@ final class Office646104 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 646104;
-    private $OPSName = 'НАЗЫВАЕВСК 4';
+    private $OPSName = 'Называевск 4';
     private $OPSType = 'О';
     private $OPSSubm = 646339;
-    private $Region = 'ОМСКАЯ ОБЛАСТЬ';
+    private $Region = 'Омская область';
     private $Autonom = '';
-    private $Area = 'НАЗЫВАЕВСКИЙ РАЙОН';
-    private $City = 'НАЗЫВАЕВСК';
+    private $Area = 'Называевский район';
+    private $City = 'Называевск';
     private $City1 = '';
     private $ActDate = '20070420';
     private $IndexOld = '';

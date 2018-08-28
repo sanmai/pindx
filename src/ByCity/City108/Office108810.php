@@ -27,14 +27,14 @@ final class Office108810 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 108810;
-    private $OPSName = 'КРЕКШИНО';
+    private $OPSName = 'Крекшино';
     private $OPSType = 'О';
     private $OPSSubm = 143399;
-    private $Region = 'МОСКВА';
+    private $Region = 'Москва';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'МАРУШКИНСКОЕ';
-    private $City1 = 'СОВХОЗА КРЕКШИНО';
+    private $City = 'Марушкинское';
+    private $City1 = 'Совхоза Крекшино';
     private $ActDate = '20180131';
     private $IndexOld = '';
 }

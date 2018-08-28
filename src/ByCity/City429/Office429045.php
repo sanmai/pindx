@@ -27,13 +27,13 @@ final class Office429045 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 429045;
-    private $OPSName = 'ПИТИШЕВО';
+    private $OPSName = 'Питишево';
     private $OPSType = 'О';
     private $OPSSubm = 429139;
-    private $Region = 'ЧУВАШИЯ РЕСПУБЛИКА';
+    private $Region = 'Чувашия Республика';
     private $Autonom = '';
-    private $Area = 'КРАСНОЧЕТАЙСКИЙ РАЙОН';
-    private $City = 'ПИТИШЕВО';
+    private $Area = 'Красночетайский район';
+    private $City = 'Питишево';
     private $City1 = '';
     private $ActDate = '20070302';
     private $IndexOld = '';

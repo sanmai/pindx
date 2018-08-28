@@ -27,13 +27,13 @@ final class Office216223 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 216223;
-    private $OPSName = 'БОЛЬШОЕ БЕРЕСНЕВО';
+    private $OPSName = 'Большое Береснево';
     private $OPSType = 'О';
     private $OPSSubm = 215849;
-    private $Region = 'СМОЛЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Смоленская область';
     private $Autonom = '';
-    private $Area = 'ДУХОВЩИНСКИЙ РАЙОН';
-    private $City = 'БОЛЬШОЕ БЕРЕСНЕВО';
+    private $Area = 'Духовщинский район';
+    private $City = 'Большое Береснево';
     private $City1 = '';
     private $ActDate = '20050621';
     private $IndexOld = '';

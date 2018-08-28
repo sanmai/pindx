@@ -27,13 +27,13 @@ final class Office423993 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 423993;
-    private $OPSName = 'БОЛЬШОЙ ЧЕКМАК';
+    private $OPSName = 'Большой Чекмак';
     private $OPSType = 'О';
     private $OPSSubm = 423349;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'МУСЛЮМОВСКИЙ РАЙОН';
-    private $City = 'БОЛЬШОЙ ЧЕКМАК';
+    private $Area = 'Муслюмовский район';
+    private $City = 'Большой Чекмак';
     private $City1 = '';
     private $ActDate = '20111223';
     private $IndexOld = '';

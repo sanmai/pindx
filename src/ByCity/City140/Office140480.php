@@ -27,13 +27,13 @@ final class Office140480 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 140480;
-    private $OPSName = 'НИЖНЕЕ ХОРОШОВО';
+    private $OPSName = 'Нижнее Хорошово';
     private $OPSType = 'О';
     private $OPSSubm = 140499;
-    private $Region = 'МОСКОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Московская область';
     private $Autonom = '';
-    private $Area = 'КОЛОМНА РАЙОН';
-    private $City = 'НИЖНЕЕ ХОРОШОВО';
+    private $Area = 'Коломна район';
+    private $City = 'Нижнее Хорошово';
     private $City1 = '';
     private $ActDate = '20180808';
     private $IndexOld = '';

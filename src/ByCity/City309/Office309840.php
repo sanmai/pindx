@@ -27,13 +27,13 @@ final class Office309840 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 309840;
-    private $OPSName = 'ХЛЕВИЩЕ';
+    private $OPSName = 'Хлевище';
     private $OPSType = 'О';
     private $OPSSubm = 309859;
-    private $Region = 'БЕЛГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Белгородская область';
     private $Autonom = '';
-    private $Area = 'АЛЕКСЕЕВСКИЙ РАЙОН';
-    private $City = 'ХЛЕВИЩЕ';
+    private $Area = 'Алексеевский район';
+    private $City = 'Хлевище';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

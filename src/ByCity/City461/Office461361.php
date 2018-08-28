@@ -27,13 +27,13 @@ final class Office461361 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 461361;
-    private $OPSName = 'НИЖНЕОЗЕРНОЕ';
+    private $OPSName = 'Нижнеозерное';
     private $OPSType = 'О';
     private $OPSSubm = 461369;
-    private $Region = 'ОРЕНБУРГСКАЯ ОБЛАСТЬ';
+    private $Region = 'Оренбургская область';
     private $Autonom = '';
-    private $Area = 'ИЛЕКСКИЙ РАЙОН';
-    private $City = 'НИЖНЕОЗЕРНОЕ';
+    private $Area = 'Илекский район';
+    private $City = 'Нижнеозерное';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

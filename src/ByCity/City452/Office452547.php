@@ -27,13 +27,13 @@ final class Office452547 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 452547;
-    private $OPSName = 'МЕСЯГУТОВО УДПП';
+    private $OPSName = 'Месягутово Удпп';
     private $OPSType = 'Участок';
     private $OPSSubm = 452549;
-    private $Region = 'БАШКОРТОСТАН РЕСПУБЛИКА';
+    private $Region = 'Башкортостан Республика';
     private $Autonom = '';
-    private $Area = 'ДУВАНСКИЙ РАЙОН';
-    private $City = 'МЕСЯГУТОВО';
+    private $Area = 'Дуванский район';
+    private $City = 'Месягутово';
     private $City1 = '';
     private $ActDate = '20170828';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office427425 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 427425;
-    private $OPSName = 'БОЛЬШАЯ КИВАРА';
+    private $OPSName = 'Большая Кивара';
     private $OPSType = 'О';
     private $OPSSubm = 427459;
-    private $Region = 'УДМУРТСКАЯ РЕСПУБЛИКА';
+    private $Region = 'Удмуртская Республика';
     private $Autonom = '';
-    private $Area = 'ВОТКИНСКИЙ РАЙОН';
-    private $City = 'БОЛЬШАЯ КИВАРА';
+    private $Area = 'Воткинский район';
+    private $City = 'Большая Кивара';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

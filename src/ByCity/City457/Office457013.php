@@ -27,13 +27,13 @@ final class Office457013 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 457013;
-    private $OPSName = 'МАЛОЕ ШУМАКОВО';
+    private $OPSName = 'Малое Шумаково';
     private $OPSType = 'О';
     private $OPSSubm = 457059;
-    private $Region = 'ЧЕЛЯБИНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Челябинская область';
     private $Autonom = '';
-    private $Area = 'УВЕЛЬСКИЙ РАЙОН';
-    private $City = 'МАЛОЕ ШУМАКОВО';
+    private $Area = 'Увельский район';
+    private $City = 'Малое Шумаково';
     private $City1 = '';
     private $ActDate = '20021223';
     private $IndexOld = '';

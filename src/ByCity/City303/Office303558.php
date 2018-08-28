@@ -27,13 +27,13 @@ final class Office303558 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 303558;
-    private $OPSName = 'ЗАЛЕГОЩЬ КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Залегощь Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 303559;
-    private $Region = 'ОРЛОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Орловская область';
     private $Autonom = '';
-    private $Area = 'ЗАЛЕГОЩЕНСКИЙ РАЙОН';
-    private $City = 'ЗАЛЕГОЩЬ';
+    private $Area = 'Залегощенский район';
+    private $City = 'Залегощь';
     private $City1 = '';
     private $ActDate = '20170928';
     private $IndexOld = '';

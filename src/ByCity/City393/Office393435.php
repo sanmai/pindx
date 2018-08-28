@@ -27,13 +27,13 @@ final class Office393435 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 393435;
-    private $OPSName = 'ПАНОВЫ КУСТЫ';
+    private $OPSName = 'Пановы Кусты';
     private $OPSType = 'О';
     private $OPSSubm = 393199;
-    private $Region = 'ТАМБОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тамбовская область';
     private $Autonom = '';
-    private $Area = 'САМПУРСКИЙ РАЙОН';
-    private $City = 'ПАНОВЫ КУСТЫ';
+    private $Area = 'Сампурский район';
+    private $City = 'Пановы Кусты';
     private $City1 = '';
     private $ActDate = '20061019';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office606403 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 606403;
-    private $OPSName = 'БАЛАХНА 3';
+    private $OPSName = 'Балахна 3';
     private $OPSType = 'О';
     private $OPSSubm = 606429;
-    private $Region = 'НИЖЕГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Нижегородская область';
     private $Autonom = '';
-    private $Area = 'БАЛАХНИНСКИЙ РАЙОН';
-    private $City = 'БАЛАХНА';
+    private $Area = 'Балахнинский район';
+    private $City = 'Балахна';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

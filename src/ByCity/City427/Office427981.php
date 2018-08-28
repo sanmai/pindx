@@ -27,13 +27,13 @@ final class Office427981 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 427981;
-    private $OPSName = 'ШЕВЫРЯЛОВО';
+    private $OPSName = 'Шевырялово';
     private $OPSType = 'О';
     private $OPSSubm = 427979;
-    private $Region = 'УДМУРТСКАЯ РЕСПУБЛИКА';
+    private $Region = 'Удмуртская Республика';
     private $Autonom = '';
-    private $Area = 'САРАПУЛЬСКИЙ РАЙОН';
-    private $City = 'ШЕВЫРЯЛОВО';
+    private $Area = 'Сарапульский район';
+    private $City = 'Шевырялово';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

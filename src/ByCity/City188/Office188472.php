@@ -27,14 +27,14 @@ final class Office188472 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 188472;
-    private $OPSName = 'УСТЬ-ЛУГА';
+    private $OPSName = 'Усть-Луга';
     private $OPSType = 'О';
     private $OPSSubm = 188499;
-    private $Region = 'ЛЕНИНГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ленинградская область';
     private $Autonom = '';
-    private $Area = 'КИНГИСЕППСКИЙ РАЙОН';
-    private $City = 'УСТЬ-ЛУГА';
-    private $City1 = 'ЛЕНРЫБА';
+    private $Area = 'Кингисеппский район';
+    private $City = 'Усть-Луга';
+    private $City1 = 'Ленрыба';
     private $ActDate = '20001030';
     private $IndexOld = '';
 }

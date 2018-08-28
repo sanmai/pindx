@@ -27,13 +27,13 @@ final class Office141850 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 141850;
-    private $OPSName = 'ДЕДЕНЕВО';
+    private $OPSName = 'Деденево';
     private $OPSType = 'О';
     private $OPSSubm = 141899;
-    private $Region = 'МОСКОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Московская область';
     private $Autonom = '';
-    private $Area = 'ДМИТРОВСКИЙ РАЙОН';
-    private $City = 'ДЕДЕНЕВО';
+    private $Area = 'Дмитровский район';
+    private $City = 'Деденево';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

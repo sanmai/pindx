@@ -27,13 +27,13 @@ final class Office452440 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 452440;
-    private $OPSName = 'КРАСНАЯ ГОРКА';
+    private $OPSName = 'Красная Горка';
     private $OPSType = 'О';
     private $OPSSubm = 452428;
-    private $Region = 'БАШКОРТОСТАН РЕСПУБЛИКА';
+    private $Region = 'Башкортостан Республика';
     private $Autonom = '';
-    private $Area = 'НУРИМАНОВСКИЙ РАЙОН';
-    private $City = 'КРАСНАЯ ГОРКА';
+    private $Area = 'Нуримановский район';
+    private $City = 'Красная Горка';
     private $City1 = '';
     private $ActDate = '20060913';
     private $IndexOld = '';

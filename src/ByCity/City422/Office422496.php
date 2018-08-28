@@ -27,13 +27,13 @@ final class Office422496 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 422496;
-    private $OPSName = 'СТАРОЕ ДРОЖЖАНОЕ КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Старое Дрожжаное Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 422499;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'ДРОЖЖАНОВСКИЙ РАЙОН';
-    private $City = 'СТАРОЕ ДРОЖЖАНОЕ';
+    private $Area = 'Дрожжановский район';
+    private $City = 'Старое Дрожжаное';
     private $City1 = '';
     private $ActDate = '20170823';
     private $IndexOld = '';

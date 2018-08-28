@@ -27,13 +27,13 @@ final class Office166704 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 166704;
-    private $OPSName = 'ХОНГУРЕЙ';
+    private $OPSName = 'Хонгурей';
     private $OPSType = 'О';
     private $OPSSubm = 166100;
     private $Region = '';
-    private $Autonom = 'НЕНЕЦКИЙ АВТОНОМНЫЙ ОКРУГ';
-    private $Area = 'ЗАПОЛЯРНЫЙ РАЙОН';
-    private $City = 'ХОНГУРЕЙ';
+    private $Autonom = 'Ненецкий автономный округ';
+    private $Area = 'Заполярный район';
+    private $City = 'Хонгурей';
     private $City1 = '';
     private $ActDate = '20180813';
     private $IndexOld = '';

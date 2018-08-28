@@ -27,13 +27,13 @@ final class Office433784 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 433784;
-    private $OPSName = 'МАЛАЯ БОРЛА';
+    private $OPSName = 'Малая Борла';
     private $OPSType = 'О';
     private $OPSSubm = 433799;
-    private $Region = 'УЛЬЯНОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ульяновская область';
     private $Autonom = '';
-    private $Area = 'КУЗОВАТОВСКИЙ РАЙОН';
-    private $City = 'МАЛАЯ БОРЛА';
+    private $Area = 'Кузоватовский район';
+    private $City = 'Малая Борла';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

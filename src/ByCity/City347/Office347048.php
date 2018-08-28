@@ -27,13 +27,13 @@ final class Office347048 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 347048;
-    private $OPSName = 'БЕЛАЯ КАЛИТВА КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Белая Калитва Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 347049;
-    private $Region = 'РОСТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ростовская область';
     private $Autonom = '';
-    private $Area = 'БЕЛОКАЛИТВИНСКИЙ РАЙОН';
-    private $City = 'БЕЛАЯ КАЛИТВА';
+    private $Area = 'Белокалитвинский район';
+    private $City = 'Белая Калитва';
     private $City1 = '';
     private $ActDate = '20171130';
     private $IndexOld = '';

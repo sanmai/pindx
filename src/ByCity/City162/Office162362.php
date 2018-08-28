@@ -27,13 +27,13 @@ final class Office162362 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 162362;
-    private $OPSName = 'ПЕГАНОВО';
+    private $OPSName = 'Пеганово';
     private $OPSType = 'О';
     private $OPSSubm = 162399;
-    private $Region = 'ВОЛОГОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Вологодская область';
     private $Autonom = '';
-    private $Area = 'ВЕЛИКОУСТЮГСКИЙ РАЙОН';
-    private $City = 'ПЕГАНОВО';
+    private $Area = 'Великоустюгский район';
+    private $City = 'Пеганово';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

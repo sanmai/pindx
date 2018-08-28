@@ -27,14 +27,14 @@ final class Office184603 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 184603;
-    private $OPSName = 'СЕВЕРОМОРСК 3';
+    private $OPSName = 'Североморск 3';
     private $OPSType = 'О';
     private $OPSSubm = 183000;
-    private $Region = 'МУРМАНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Мурманская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'СЕВЕРОМОРСК';
-    private $City1 = 'СЕВЕРОМОРСК 3';
+    private $City = 'Североморск';
+    private $City1 = 'Североморск 3';
     private $ActDate = '20060411';
     private $IndexOld = '';
 }

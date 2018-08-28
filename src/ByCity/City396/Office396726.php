@@ -27,13 +27,13 @@ final class Office396726 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 396726;
-    private $OPSName = 'КАНТЕМИРОВКА КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Кантемировка Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 396729;
-    private $Region = 'ВОРОНЕЖСКАЯ ОБЛАСТЬ';
+    private $Region = 'Воронежская область';
     private $Autonom = '';
-    private $Area = 'КАНТЕМИРОВСКИЙ РАЙОН';
-    private $City = 'КАНТЕМИРОВКА';
+    private $Area = 'Кантемировский район';
+    private $City = 'Кантемировка';
     private $City1 = '';
     private $ActDate = '20161221';
     private $IndexOld = '';

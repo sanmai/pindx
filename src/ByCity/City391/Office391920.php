@@ -27,13 +27,13 @@ final class Office391920 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 391920;
-    private $OPSName = 'УХОЛОВО';
+    private $OPSName = 'Ухолово';
     private $OPSType = 'О';
     private $OPSSubm = 391899;
-    private $Region = 'РЯЗАНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Рязанская область';
     private $Autonom = '';
-    private $Area = 'УХОЛОВСКИЙ РАЙОН';
-    private $City = 'УХОЛОВО';
+    private $Area = 'Ухоловский район';
+    private $City = 'Ухолово';
     private $City1 = '';
     private $ActDate = '20060607';
     private $IndexOld = '';

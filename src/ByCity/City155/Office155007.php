@@ -27,13 +27,13 @@ final class Office155007 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 155007;
-    private $OPSName = 'ШЕКШОВО';
+    private $OPSName = 'Шекшово';
     private $OPSType = 'О';
     private $OPSSubm = 155059;
-    private $Region = 'ИВАНОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ивановская область';
     private $Autonom = '';
-    private $Area = 'ГАВРИЛОВО-ПОСАДСКИЙ РАЙОН';
-    private $City = 'ШЕКШОВО';
+    private $Area = 'Гаврилово-Посадский район';
+    private $City = 'Шекшово';
     private $City1 = '';
     private $ActDate = '20060420';
     private $IndexOld = '';

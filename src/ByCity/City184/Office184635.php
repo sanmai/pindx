@@ -27,14 +27,14 @@ final class Office184635 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 184635;
-    private $OPSName = 'МУРМАНСК 635';
+    private $OPSName = 'Мурманск 635';
     private $OPSType = 'О';
     private $OPSSubm = 183000;
-    private $Region = 'МУРМАНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Мурманская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'МУРМАНСК';
-    private $City1 = 'РОСЛЯКОВО';
+    private $City = 'Мурманск';
+    private $City1 = 'Росляково';
     private $ActDate = '20150602';
     private $IndexOld = '';
 }

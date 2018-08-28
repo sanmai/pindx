@@ -27,14 +27,14 @@ final class Office456811 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 456811;
-    private $OPSName = 'НИЖНИЙ УФАЛЕЙ';
+    private $OPSName = 'Нижний Уфалей';
     private $OPSType = 'О';
     private $OPSSubm = 456819;
-    private $Region = 'ЧЕЛЯБИНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Челябинская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'ВЕРХНИЙ УФАЛЕЙ';
-    private $City1 = 'НИЖНИЙ УФАЛЕЙ';
+    private $City = 'Верхний Уфалей';
+    private $City1 = 'Нижний Уфалей';
     private $ActDate = '20001030';
     private $IndexOld = '';
 }

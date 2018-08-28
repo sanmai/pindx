@@ -27,13 +27,13 @@ final class Office423732 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 423732;
-    private $OPSName = 'ЗУБАИРОВО';
+    private $OPSName = 'Зубаирово';
     private $OPSType = 'О';
     private $OPSSubm = 423849;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'АКТАНЫШСКИЙ РАЙОН';
-    private $City = 'ЗУБАИРОВО';
+    private $Area = 'Актанышский район';
+    private $City = 'Зубаирово';
     private $City1 = '';
     private $ActDate = '20040115';
     private $IndexOld = '';

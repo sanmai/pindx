@@ -27,13 +27,13 @@ final class Office442696 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 442696;
-    private $OPSName = 'НИЖНИЙ ШКАФТ';
+    private $OPSName = 'Нижний Шкафт';
     private $OPSType = 'О';
     private $OPSSubm = 442699;
-    private $Region = 'ПЕНЗЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Пензенская область';
     private $Autonom = '';
-    private $Area = 'НИКОЛЬСКИЙ РАЙОН';
-    private $City = 'НИЖНИЙ ШКАФТ';
+    private $Area = 'Никольский район';
+    private $City = 'Нижний Шкафт';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

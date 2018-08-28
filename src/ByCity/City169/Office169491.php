@@ -27,13 +27,13 @@ final class Office169491 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 169491;
-    private $OPSName = 'СРЕДНЕЕ БУГАЕВО';
+    private $OPSName = 'Среднее Бугаево';
     private $OPSType = 'О';
     private $OPSSubm = 169379;
-    private $Region = 'КОМИ РЕСПУБЛИКА';
+    private $Region = 'Коми Республика';
     private $Autonom = '';
-    private $Area = 'УСТЬ-ЦИЛЕМСКИЙ РАЙОН';
-    private $City = 'СРЕДНЕЕ БУГАЕВО';
+    private $Area = 'Усть-Цилемский район';
+    private $City = 'Среднее Бугаево';
     private $City1 = '';
     private $ActDate = '20051114';
     private $IndexOld = '';

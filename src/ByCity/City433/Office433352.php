@@ -27,13 +27,13 @@ final class Office433352 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 433352;
-    private $OPSName = 'ЕЛШАНКА';
+    private $OPSName = 'Елшанка';
     private $OPSType = 'О';
     private $OPSSubm = 433399;
-    private $Region = 'УЛЬЯНОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ульяновская область';
     private $Autonom = '';
-    private $Area = 'ТЕРЕНЬГУЛЬСКИЙ РАЙОН';
-    private $City = 'ЕЛШАНКА';
+    private $Area = 'Тереньгульский район';
+    private $City = 'Елшанка';
     private $City1 = '';
     private $ActDate = '20050829';
     private $IndexOld = '';

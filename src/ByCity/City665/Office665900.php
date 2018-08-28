@@ -27,13 +27,13 @@ final class Office665900 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 665900;
-    private $OPSName = 'СЛЮДЯНКА УООП';
+    private $OPSName = 'Слюдянка Уооп';
     private $OPSType = 'Участок';
     private $OPSSubm = 665800;
-    private $Region = 'ИРКУТСКАЯ ОБЛАСТЬ';
+    private $Region = 'Иркутская область';
     private $Autonom = '';
-    private $Area = 'СЛЮДЯНСКИЙ РАЙОН';
-    private $City = 'СЛЮДЯНКА';
+    private $Area = 'Слюдянский район';
+    private $City = 'Слюдянка';
     private $City1 = '';
     private $ActDate = '20110316';
     private $IndexOld = '';

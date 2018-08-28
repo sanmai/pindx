@@ -27,13 +27,13 @@ final class Office422967 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 422967;
-    private $OPSName = 'БОЛЬШОЙ ТОЛКИШ';
+    private $OPSName = 'Большой Толкиш';
     private $OPSType = 'О';
     private $OPSSubm = 422999;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'ЧИСТОПОЛЬСКИЙ РАЙОН';
-    private $City = 'БОЛЬШОЙ ТОЛКИШ';
+    private $Area = 'Чистопольский район';
+    private $City = 'Большой Толкиш';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

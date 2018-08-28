@@ -27,13 +27,13 @@ final class Office452013 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 452013;
-    private $OPSName = 'САНАТОРИЙ ГЛУХОВСКАЯ';
+    private $OPSName = 'Санаторий Глуховская';
     private $OPSType = 'О';
     private $OPSSubm = 452039;
-    private $Region = 'БАШКОРТОСТАН РЕСПУБЛИКА';
+    private $Region = 'Башкортостан Республика';
     private $Autonom = '';
-    private $Area = 'БЕЛЕБЕЕВСКИЙ РАЙОН';
-    private $City = 'САНАТОРИЯ ГЛУХОВСКОГО';
+    private $Area = 'Белебеевский район';
+    private $City = 'Санатория Глуховского';
     private $City1 = '';
     private $ActDate = '20040316';
     private $IndexOld = '';

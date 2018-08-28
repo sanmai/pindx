@@ -27,13 +27,13 @@ final class Office626111 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 626111;
-    private $OPSName = 'ТОБОЛЬСК-АЭРОПОРТ';
+    private $OPSName = 'Тобольск-Аэропорт';
     private $OPSType = 'О';
     private $OPSSubm = 626151;
-    private $Region = 'ТЮМЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тюменская область';
     private $Autonom = '';
-    private $Area = 'ТОБОЛЬСКИЙ РАЙОН';
-    private $City = 'АЭРОПОРТ';
+    private $Area = 'Тобольский район';
+    private $City = 'Аэропорт';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

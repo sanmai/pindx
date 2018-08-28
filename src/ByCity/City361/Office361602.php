@@ -27,13 +27,13 @@ final class Office361602 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 361602;
-    private $OPSName = 'ВЕРХНИЙ БАКСАН';
+    private $OPSName = 'Верхний Баксан';
     private $OPSType = 'О';
     private $OPSSubm = 360000;
-    private $Region = 'КАБАРДИНО-БАЛКАРСКАЯ РЕСПУБЛИКА';
+    private $Region = 'Кабардино-Балкарская Республика';
     private $Autonom = '';
-    private $Area = 'ЭЛЬБРУССКИЙ РАЙОН';
-    private $City = 'ВЕРХНИЙ БАКСАН';
+    private $Area = 'Эльбрусский район';
+    private $City = 'Верхний Баксан';
     private $City1 = '';
     private $ActDate = '20070814';
     private $IndexOld = '';

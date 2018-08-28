@@ -27,13 +27,13 @@ final class Office157095 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 157095;
-    private $OPSName = 'БУЯКОВО';
+    private $OPSName = 'Буяково';
     private $OPSType = 'О';
     private $OPSSubm = 157069;
-    private $Region = 'КОСТРОМСКАЯ ОБЛАСТЬ';
+    private $Region = 'Костромская область';
     private $Autonom = '';
-    private $Area = 'СУСАНИНСКИЙ РАЙОН';
-    private $City = 'БУЯКОВО';
+    private $Area = 'Сусанинский район';
+    private $City = 'Буяково';
     private $City1 = '';
     private $ActDate = '20050817';
     private $IndexOld = '';

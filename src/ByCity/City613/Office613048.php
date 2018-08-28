@@ -27,14 +27,14 @@ final class Office613048 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 613048;
-    private $OPSName = 'КИРОВО-ЧЕПЕЦК 8';
+    private $OPSName = 'Кирово-Чепецк 8';
     private $OPSType = 'О';
     private $OPSSubm = 613059;
-    private $Region = 'КИРОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Кировская область';
     private $Autonom = '';
-    private $Area = 'КИРОВО-ЧЕПЕЦКИЙ РАЙОН';
-    private $City = 'КИРОВО-ЧЕПЕЦК';
-    private $City1 = 'ПРИГОРОДНЫЙ';
+    private $Area = 'Кирово-Чепецкий район';
+    private $City = 'Кирово-Чепецк';
+    private $City1 = 'Пригородный';
     private $ActDate = '20001030';
     private $IndexOld = '';
 }

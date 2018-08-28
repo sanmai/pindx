@@ -27,13 +27,13 @@ final class Office187507 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 187507;
-    private $OPSName = 'ЛИПНАЯ ГОРКА';
+    private $OPSName = 'Липная Горка';
     private $OPSType = 'О';
     private $OPSSubm = 187550;
-    private $Region = 'ЛЕНИНГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ленинградская область';
     private $Autonom = '';
-    private $Area = 'ТИХВИНСКИЙ РАЙОН';
-    private $City = 'ЛИПНАЯ ГОРКА';
+    private $Area = 'Тихвинский район';
+    private $City = 'Липная Горка';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

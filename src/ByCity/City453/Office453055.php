@@ -27,13 +27,13 @@ final class Office453055 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 453055;
-    private $OPSName = 'КРАСНОУСОЛЬСКИЙ 5';
-    private $OPSType = 'ПЕРЕДВИЖНОЕ ОС';
+    private $OPSName = 'Красноусольский 5';
+    private $OPSType = 'Передвижное Ос';
     private $OPSSubm = 453479;
-    private $Region = 'БАШКОРТОСТАН РЕСПУБЛИКА';
+    private $Region = 'Башкортостан Республика';
     private $Autonom = '';
-    private $Area = 'ГАФУРИЙСКИЙ РАЙОН';
-    private $City = 'КРАСНОУСОЛЬСКИЙ';
+    private $Area = 'Гафурийский район';
+    private $City = 'Красноусольский';
     private $City1 = '';
     private $ActDate = '20150831';
     private $IndexOld = '';

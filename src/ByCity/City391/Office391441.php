@@ -27,13 +27,13 @@ final class Office391441 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 391441;
-    private $OPSName = 'ТЕМГЕНЕВО';
+    private $OPSName = 'Темгенево';
     private $OPSType = 'О';
     private $OPSSubm = 391469;
-    private $Region = 'РЯЗАНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Рязанская область';
     private $Autonom = '';
-    private $Area = 'САСОВСКИЙ РАЙОН';
-    private $City = 'ТЕМГЕНЕВО';
+    private $Area = 'Сасовский район';
+    private $City = 'Темгенево';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

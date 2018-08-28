@@ -27,13 +27,13 @@ final class Office423415 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 423415;
-    private $OPSName = 'НИЖНЕЕ АБДУЛОВО';
+    private $OPSName = 'Нижнее Абдулово';
     private $OPSType = 'О';
     private $OPSSubm = 423469;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'АЛЬМЕТЬЕВСКИЙ РАЙОН';
-    private $City = 'НИЖНЕЕ АБДУЛОВО';
+    private $Area = 'Альметьевский район';
+    private $City = 'Нижнее Абдулово';
     private $City1 = '';
     private $ActDate = '20110927';
     private $IndexOld = '';

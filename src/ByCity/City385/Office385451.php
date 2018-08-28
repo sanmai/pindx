@@ -27,13 +27,13 @@ final class Office385451 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 385451;
-    private $OPSName = 'СЕМЕНО-МАКАРЕНСКИЙ';
+    private $OPSName = 'Семено-Макаренский';
     private $OPSType = 'О';
     private $OPSSubm = 385700;
-    private $Region = 'АДЫГЕЯ РЕСПУБЛИКА';
+    private $Region = 'Адыгея Республика';
     private $Autonom = '';
-    private $Area = 'ШОВГЕНОВСКИЙ РАЙОН';
-    private $City = 'СЕМЕНО-МАКАРЕНСКИЙ';
+    private $Area = 'Шовгеновский район';
+    private $City = 'Семено-Макаренский';
     private $City1 = '';
     private $ActDate = '20100914';
     private $IndexOld = '';

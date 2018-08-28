@@ -27,14 +27,14 @@ final class Office462371 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 462371;
-    private $OPSName = 'АККЕРМАНОВКА';
+    private $OPSName = 'Аккермановка';
     private $OPSType = 'О';
     private $OPSSubm = 462400;
-    private $Region = 'ОРЕНБУРГСКАЯ ОБЛАСТЬ';
+    private $Region = 'Оренбургская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'НОВОТРОИЦК';
-    private $City1 = 'АККЕРМАНОВКА';
+    private $City = 'Новотроицк';
+    private $City1 = 'Аккермановка';
     private $ActDate = '20040924';
     private $IndexOld = '';
 }

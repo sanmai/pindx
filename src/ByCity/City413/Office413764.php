@@ -27,13 +27,13 @@ final class Office413764 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 413764;
-    private $OPSName = 'НИЖНЯЯ ПОКРОВКА';
+    private $OPSName = 'Нижняя Покровка';
     private $OPSType = 'О';
     private $OPSSubm = 413840;
-    private $Region = 'САРАТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Саратовская область';
     private $Autonom = '';
-    private $Area = 'ПЕРЕЛЮБСКИЙ РАЙОН';
-    private $City = 'НИЖНЯЯ ПОКРОВКА';
+    private $Area = 'Перелюбский район';
+    private $City = 'Нижняя Покровка';
     private $City1 = '';
     private $ActDate = '20030610';
     private $IndexOld = '';

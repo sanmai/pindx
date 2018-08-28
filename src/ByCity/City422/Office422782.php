@@ -27,13 +27,13 @@ final class Office422782 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 422782;
-    private $OPSName = 'ТАТАРСКОЕ ХОДЯШЕВО';
+    private $OPSName = 'Татарское Ходяшево';
     private $OPSType = 'О';
     private $OPSSubm = 420999;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'ПЕСТРЕЧИНСКИЙ РАЙОН';
-    private $City = 'ТАТАРСКОЕ ХОДЯШЕВО';
+    private $Area = 'Пестречинский район';
+    private $City = 'Татарское Ходяшево';
     private $City1 = '';
     private $ActDate = '20100211';
     private $IndexOld = '';

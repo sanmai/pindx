@@ -27,13 +27,13 @@ final class Office431535 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 431535;
-    private $OPSName = 'ТАТАРСКАЯ ТАВЛА';
+    private $OPSName = 'Татарская Тавла';
     private $OPSType = 'О';
     private $OPSSubm = 431539;
-    private $Region = 'МОРДОВИЯ РЕСПУБЛИКА';
+    private $Region = 'Мордовия Республика';
     private $Autonom = '';
-    private $Area = 'ЛЯМБИРСКИЙ РАЙОН';
-    private $City = 'ТАТАРСКАЯ ТАВЛА';
+    private $Area = 'Лямбирский район';
+    private $City = 'Татарская Тавла';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

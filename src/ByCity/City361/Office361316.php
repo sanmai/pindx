@@ -27,13 +27,13 @@ final class Office361316 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 361316;
-    private $OPSName = 'НАРТКАЛА КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Нарткала Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 361330;
-    private $Region = 'КАБАРДИНО-БАЛКАРСКАЯ РЕСПУБЛИКА';
+    private $Region = 'Кабардино-Балкарская Республика';
     private $Autonom = '';
-    private $Area = 'УРВАНСКИЙ РАЙОН';
-    private $City = 'НАРТКАЛА';
+    private $Area = 'Урванский район';
+    private $City = 'Нарткала';
     private $City1 = '';
     private $ActDate = '20170130';
     private $IndexOld = '';

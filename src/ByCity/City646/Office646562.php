@@ -27,13 +27,13 @@ final class Office646562 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 646562;
-    private $OPSName = 'ТЕВРИЗ КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Тевриз Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 646579;
-    private $Region = 'ОМСКАЯ ОБЛАСТЬ';
+    private $Region = 'Омская область';
     private $Autonom = '';
-    private $Area = 'ТЕВРИЗСКИЙ РАЙОН';
-    private $City = 'ТЕВРИЗ';
+    private $Area = 'Тевризский район';
+    private $City = 'Тевриз';
     private $City1 = '';
     private $ActDate = '20170609';
     private $IndexOld = '';

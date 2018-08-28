@@ -27,13 +27,13 @@ final class Office632265 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 632265;
-    private $OPSName = 'ШИПИЦЫНО';
+    private $OPSName = 'Шипицыно';
     private $OPSType = 'О';
     private $OPSSubm = 632200;
-    private $Region = 'НОВОСИБИРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Новосибирская область';
     private $Autonom = '';
-    private $Area = 'ВЕНГЕРОВСКИЙ РАЙОН';
-    private $City = 'ШИПИЦЫНО';
+    private $Area = 'Венгеровский район';
+    private $City = 'Шипицыно';
     private $City1 = '';
     private $ActDate = '20060705';
     private $IndexOld = '';

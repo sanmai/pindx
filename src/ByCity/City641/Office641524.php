@@ -27,13 +27,13 @@ final class Office641524 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 641524;
-    private $OPSName = 'КАМЫШНОЕ';
+    private $OPSName = 'Камышное';
     private $OPSType = 'О';
     private $OPSSubm = 641639;
-    private $Region = 'КУРГАНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Курганская область';
     private $Autonom = '';
-    private $Area = 'ЛЕБЯЖЬЕВСКИЙ РАЙОН';
-    private $City = 'КАМЫШНОЕ';
+    private $Area = 'Лебяжьевский район';
+    private $City = 'Камышное';
     private $City1 = '';
     private $ActDate = '20051116';
     private $IndexOld = '';

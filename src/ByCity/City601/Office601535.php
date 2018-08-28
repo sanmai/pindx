@@ -27,13 +27,13 @@ final class Office601535 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 601535;
-    private $OPSName = 'ГРИГОРЬЕВО';
+    private $OPSName = 'Григорьево';
     private $OPSType = 'О';
     private $OPSSubm = 601500;
-    private $Region = 'ВЛАДИМИРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Владимирская область';
     private $Autonom = '';
-    private $Area = 'ГУСЬ-ХРУСТАЛЬНЫЙ РАЙОН';
-    private $City = 'ГРИГОРЬЕВО';
+    private $Area = 'Гусь-Хрустальный район';
+    private $City = 'Григорьево';
     private $City1 = '';
     private $ActDate = '20021217';
     private $IndexOld = '';

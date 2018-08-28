@@ -27,13 +27,13 @@ final class Office461938 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 461938;
-    private $OPSName = 'СОРОЧИНСК УООП';
+    private $OPSName = 'Сорочинск Уооп';
     private $OPSType = 'Участок';
     private $OPSSubm = 461949;
-    private $Region = 'ОРЕНБУРГСКАЯ ОБЛАСТЬ';
+    private $Region = 'Оренбургская область';
     private $Autonom = '';
-    private $Area = 'СОРОЧИНСКИЙ РАЙОН';
-    private $City = 'СОРОЧИНСК';
+    private $Area = 'Сорочинский район';
+    private $City = 'Сорочинск';
     private $City1 = '';
     private $ActDate = '20160121';
     private $IndexOld = '';

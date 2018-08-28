@@ -27,13 +27,13 @@ final class Office432041 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 432041;
-    private $OPSName = 'УЛЬЯНОВСК 41';
+    private $OPSName = 'Ульяновск 41';
     private $OPSType = 'О';
     private $OPSSubm = 432099;
-    private $Region = 'УЛЬЯНОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ульяновская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'УЛЬЯНОВСК';
+    private $City = 'Ульяновск';
     private $City1 = '';
     private $ActDate = '20180709';
     private $IndexOld = '';

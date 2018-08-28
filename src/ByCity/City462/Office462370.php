@@ -27,14 +27,14 @@ final class Office462370 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 462370;
-    private $OPSName = 'ГУБЕРЛЯ';
+    private $OPSName = 'Губерля';
     private $OPSType = 'О';
     private $OPSSubm = 462400;
-    private $Region = 'ОРЕНБУРГСКАЯ ОБЛАСТЬ';
+    private $Region = 'Оренбургская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'НОВОТРОИЦК';
-    private $City1 = 'ГУБЕРЛЯ';
+    private $City = 'Новотроицк';
+    private $City1 = 'Губерля';
     private $ActDate = '20040924';
     private $IndexOld = '';
 }

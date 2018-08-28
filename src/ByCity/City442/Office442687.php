@@ -27,13 +27,13 @@ final class Office442687 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 442687;
-    private $OPSName = 'НИКОЛЬСК 7';
-    private $OPSType = 'ПЕРЕДВИЖНОЕ ОС';
+    private $OPSName = 'Никольск 7';
+    private $OPSType = 'Передвижное Ос';
     private $OPSSubm = 442699;
-    private $Region = 'ПЕНЗЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Пензенская область';
     private $Autonom = '';
-    private $Area = 'НИКОЛЬСКИЙ РАЙОН';
-    private $City = 'НИКОЛЬСК';
+    private $Area = 'Никольский район';
+    private $City = 'Никольск';
     private $City1 = '';
     private $ActDate = '20150616';
     private $IndexOld = '';

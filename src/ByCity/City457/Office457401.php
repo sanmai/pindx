@@ -27,13 +27,13 @@ final class Office457401 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 457401;
-    private $OPSName = 'АГАПОВКА 1';
+    private $OPSName = 'Агаповка 1';
     private $OPSType = 'О';
     private $OPSSubm = 455999;
-    private $Region = 'ЧЕЛЯБИНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Челябинская область';
     private $Autonom = '';
-    private $Area = 'АГАПОВСКИЙ РАЙОН';
-    private $City = 'АГАПОВКА';
+    private $Area = 'Агаповский район';
+    private $City = 'Агаповка';
     private $City1 = '';
     private $ActDate = '20130201';
     private $IndexOld = '';

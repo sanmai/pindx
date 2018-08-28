@@ -27,13 +27,13 @@ final class Office396318 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 396318;
-    private $OPSName = 'ХРЕНОВОЕ';
+    private $OPSName = 'Хреновое';
     private $OPSType = 'О';
     private $OPSSubm = 396339;
-    private $Region = 'ВОРОНЕЖСКАЯ ОБЛАСТЬ';
+    private $Region = 'Воронежская область';
     private $Autonom = '';
-    private $Area = 'НОВОУСМАНСКИЙ РАЙОН';
-    private $City = 'ХРЕНОВОЕ';
+    private $Area = 'Новоусманский район';
+    private $City = 'Хреновое';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

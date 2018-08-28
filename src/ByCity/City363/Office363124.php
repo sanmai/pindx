@@ -27,13 +27,13 @@ final class Office363124 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 363124;
-    private $OPSName = 'НИЖНЯЯ САНИБА';
+    private $OPSName = 'Нижняя Саниба';
     private $OPSType = 'О';
     private $OPSSubm = 362000;
-    private $Region = 'СЕВЕРНАЯ ОСЕТИЯ - АЛАНИЯ РЕСПУБЛИКА';
+    private $Region = 'Северная Осетия - Алания Республика';
     private $Autonom = '';
-    private $Area = 'ПРИГОРОДНЫЙ РАЙОН';
-    private $City = 'НИЖНЯЯ САНИБА';
+    private $Area = 'Пригородный район';
+    private $City = 'Нижняя Саниба';
     private $City1 = '';
     private $ActDate = '20070221';
     private $IndexOld = '';

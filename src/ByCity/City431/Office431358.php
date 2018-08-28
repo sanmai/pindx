@@ -27,13 +27,13 @@ final class Office431358 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 431358;
-    private $OPSName = 'КОВЫЛКИНО КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Ковылкино Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 431359;
-    private $Region = 'МОРДОВИЯ РЕСПУБЛИКА';
+    private $Region = 'Мордовия Республика';
     private $Autonom = '';
-    private $Area = 'КОВЫЛКИНСКИЙ РАЙОН';
-    private $City = 'КОВЫЛКИНО';
+    private $Area = 'Ковылкинский район';
+    private $City = 'Ковылкино';
     private $City1 = '';
     private $ActDate = '20170929';
     private $IndexOld = '';

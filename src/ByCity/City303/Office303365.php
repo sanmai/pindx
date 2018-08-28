@@ -27,13 +27,13 @@ final class Office303365 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 303365;
-    private $OPSName = 'ЛУКОВЕЦ';
+    private $OPSName = 'Луковец';
     private $OPSType = 'О';
     private $OPSSubm = 303369;
-    private $Region = 'ОРЛОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Орловская область';
     private $Autonom = '';
-    private $Area = 'МАЛОАРХАНГЕЛЬСКИЙ РАЙОН';
-    private $City = 'ЛУКОВЕЦ';
+    private $Area = 'Малоархангельский район';
+    private $City = 'Луковец';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

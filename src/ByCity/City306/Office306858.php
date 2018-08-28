@@ -27,13 +27,13 @@ final class Office306858 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 306858;
-    private $OPSName = 'ГОРШЕЧНОЕ КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Горшечное Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 306859;
-    private $Region = 'КУРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Курская область';
     private $Autonom = '';
-    private $Area = 'ГОРШЕЧЕНСКИЙ РАЙОН';
-    private $City = 'ГОРШЕЧНОЕ';
+    private $Area = 'Горшеченский район';
+    private $City = 'Горшечное';
     private $City1 = '';
     private $ActDate = '20171130';
     private $IndexOld = '';

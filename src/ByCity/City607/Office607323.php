@@ -27,13 +27,13 @@ final class Office607323 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 607323;
-    private $OPSName = 'БОЛЬШОЕ ЧЕРЕВАТОВО';
+    private $OPSName = 'Большое Череватово';
     private $OPSType = 'О';
     private $OPSSubm = 607180;
-    private $Region = 'НИЖЕГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Нижегородская область';
     private $Autonom = '';
-    private $Area = 'ДИВЕЕВСКИЙ РАЙОН';
-    private $City = 'БОЛЬШОЕ ЧЕРЕВАТОВО';
+    private $Area = 'Дивеевский район';
+    private $City = 'Большое Череватово';
     private $City1 = '';
     private $ActDate = '20060808';
     private $IndexOld = '';

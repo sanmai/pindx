@@ -27,13 +27,13 @@ final class Office431832 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 431832;
-    private $OPSName = 'БОЛЬШИЕ МАНАДЫШИ';
+    private $OPSName = 'Большие Манадыши';
     private $OPSType = 'О';
     private $OPSSubm = 431849;
-    private $Region = 'МОРДОВИЯ РЕСПУБЛИКА';
+    private $Region = 'Мордовия Республика';
     private $Autonom = '';
-    private $Area = 'АТЯШЕВСКИЙ РАЙОН';
-    private $City = 'БОЛЬШИЕ МАНАДЫШИ';
+    private $Area = 'Атяшевский район';
+    private $City = 'Большие Манадыши';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

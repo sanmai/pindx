@@ -27,13 +27,13 @@ final class Office462004 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 462004;
-    private $OPSName = 'ТУГУСТЕМИР';
+    private $OPSName = 'Тугустемир';
     private $OPSType = 'О';
     private $OPSSubm = 462059;
-    private $Region = 'ОРЕНБУРГСКАЯ ОБЛАСТЬ';
+    private $Region = 'Оренбургская область';
     private $Autonom = '';
-    private $Area = 'ТЮЛЬГАНСКИЙ РАЙОН';
-    private $City = 'ТУГУСТЕМИР';
+    private $Area = 'Тюльганский район';
+    private $City = 'Тугустемир';
     private $City1 = '';
     private $ActDate = '20080710';
     private $IndexOld = '';

@@ -27,14 +27,14 @@ final class Office352926 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 352926;
-    private $OPSName = 'ЦЕНТРАЛЬНОЙ УСАДЬБЫ СОВХОЗА "ЮБИЛЕЙНЫЙ"';
+    private $OPSName = 'Центральной Усадьбы Совхоза "юбилейный"';
     private $OPSType = 'О';
     private $OPSSubm = 352949;
-    private $Region = 'КРАСНОДАРСКИЙ КРАЙ';
+    private $Region = 'Краснодарский край';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'АРМАВИР';
-    private $City1 = 'ЦЕНТРАЛЬНАЯ УСАДЬБА СОВХОЗА ЮБИЛЕЙНЫЙ';
+    private $City = 'Армавир';
+    private $City1 = 'Центральная Усадьба Совхоза Юбилейный';
     private $ActDate = '20090415';
     private $IndexOld = '';
 }

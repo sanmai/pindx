@@ -27,13 +27,13 @@ final class Office243105 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 243105;
-    private $OPSName = 'КОРЖОВКА-ГОЛУБОВКА';
+    private $OPSName = 'Коржовка-Голубовка';
     private $OPSType = 'О';
     private $OPSSubm = 243149;
-    private $Region = 'БРЯНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Брянская область';
     private $Autonom = '';
-    private $Area = 'КЛИНЦОВСКИЙ РАЙОН';
-    private $City = 'КОРЖОВКА-ГОЛУБОВКА';
+    private $Area = 'Клинцовский район';
+    private $City = 'Коржовка-Голубовка';
     private $City1 = '';
     private $ActDate = '20180813';
     private $IndexOld = '';

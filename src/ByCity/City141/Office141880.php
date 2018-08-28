@@ -27,13 +27,13 @@ final class Office141880 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 141880;
-    private $OPSName = 'РОГАЧЕВО';
+    private $OPSName = 'Рогачево';
     private $OPSType = 'О';
     private $OPSSubm = 141899;
-    private $Region = 'МОСКОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Московская область';
     private $Autonom = '';
-    private $Area = 'ДМИТРОВСКИЙ РАЙОН';
-    private $City = 'РОГАЧЕВО';
+    private $Area = 'Дмитровский район';
+    private $City = 'Рогачево';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

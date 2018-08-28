@@ -27,13 +27,13 @@ final class Office422535 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 422535;
-    private $OPSName = 'АКЗИГИТОВО';
+    private $OPSName = 'Акзигитово';
     private $OPSType = 'О';
     private $OPSSubm = 422559;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'ЗЕЛЕНОДОЛЬСКИЙ РАЙОН';
-    private $City = 'АКЗИГИТОВО';
+    private $Area = 'Зеленодольский район';
+    private $City = 'Акзигитово';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

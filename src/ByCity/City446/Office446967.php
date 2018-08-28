@@ -27,13 +27,13 @@ final class Office446967 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 446967;
-    private $OPSName = 'КЛЯВЛИНО-СЕЛО';
+    private $OPSName = 'Клявлино-Село';
     private $OPSType = 'О';
     private $OPSSubm = 446499;
-    private $Region = 'САМАРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Самарская область';
     private $Autonom = '';
-    private $Area = 'КЛЯВЛИНСКИЙ РАЙОН';
-    private $City = 'КЛЯВЛИНО';
+    private $Area = 'Клявлинский район';
+    private $City = 'Клявлино';
     private $City1 = '';
     private $ActDate = '20101014';
     private $IndexOld = '';

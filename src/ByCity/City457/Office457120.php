@@ -27,13 +27,13 @@ final class Office457120 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 457120;
-    private $OPSName = 'НИЖНЯЯ САНАРКА';
+    private $OPSName = 'Нижняя Санарка';
     private $OPSType = 'О';
     private $OPSSubm = 457149;
-    private $Region = 'ЧЕЛЯБИНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Челябинская область';
     private $Autonom = '';
-    private $Area = 'ТРОИЦКИЙ РАЙОН';
-    private $City = 'НИЖНЯЯ САНАРКА';
+    private $Area = 'Троицкий район';
+    private $City = 'Нижняя Санарка';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

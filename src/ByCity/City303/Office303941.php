@@ -27,13 +27,13 @@ final class Office303941 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 303941;
-    private $OPSName = 'ХОТИМЛЬ-КУЗМЕНКОВО';
+    private $OPSName = 'Хотимль-Кузменково';
     private $OPSType = 'О';
     private $OPSSubm = 302500;
-    private $Region = 'ОРЛОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Орловская область';
     private $Autonom = '';
-    private $Area = 'ХОТЫНЕЦКИЙ РАЙОН';
-    private $City = 'ХОТИМЛЬ-КУЗМЕНКОВО';
+    private $Area = 'Хотынецкий район';
+    private $City = 'Хотимль-Кузменково';
     private $City1 = '';
     private $ActDate = '20100730';
     private $IndexOld = '';

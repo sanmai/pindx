@@ -27,13 +27,13 @@ final class Office422167 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 422167;
-    private $OPSName = 'ВЕРХНЯЯ СУНЬ';
+    private $OPSName = 'Верхняя Сунь';
     private $OPSType = 'О';
     private $OPSSubm = 422199;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'МАМАДЫШСКИЙ РАЙОН';
-    private $City = 'ВЕРХНЯЯ СУНЬ';
+    private $Area = 'Мамадышский район';
+    private $City = 'Верхняя Сунь';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

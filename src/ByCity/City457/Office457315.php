@@ -27,13 +27,13 @@ final class Office457315 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 457315;
-    private $OPSName = 'БРЕДЫ-ВОКЗАЛ';
+    private $OPSName = 'Бреды-Вокзал';
     private $OPSType = 'О';
     private $OPSSubm = 457350;
-    private $Region = 'ЧЕЛЯБИНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Челябинская область';
     private $Autonom = '';
-    private $Area = 'БРЕДИНСКИЙ РАЙОН';
-    private $City = 'БРЕДЫ';
+    private $Area = 'Брединский район';
+    private $City = 'Бреды';
     private $City1 = '';
     private $ActDate = '20061101';
     private $IndexOld = '';

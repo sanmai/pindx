@@ -27,13 +27,13 @@ final class Office461776 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 461776;
-    private $OPSName = 'ТИРИС-УСМАНОВО';
+    private $OPSName = 'Тирис-Усманово';
     private $OPSType = 'О';
     private $OPSSubm = 461740;
-    private $Region = 'ОРЕНБУРГСКАЯ ОБЛАСТЬ';
+    private $Region = 'Оренбургская область';
     private $Autonom = '';
-    private $Area = 'АБДУЛИНСКИЙ РАЙОН';
-    private $City = 'ТЕРИС-УСМАНОВО';
+    private $Area = 'Абдулинский район';
+    private $City = 'Терис-Усманово';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

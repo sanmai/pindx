@@ -27,13 +27,13 @@ final class Office433977 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 433977;
-    private $OPSName = 'ТАТАРСКИЙ ШМАЛАК';
+    private $OPSName = 'Татарский Шмалак';
     private $OPSType = 'О';
     private $OPSSubm = 433849;
-    private $Region = 'УЛЬЯНОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ульяновская область';
     private $Autonom = '';
-    private $Area = 'ПАВЛОВСКИЙ РАЙОН';
-    private $City = 'ТАТАРСКИЙ ШМАЛАК';
+    private $Area = 'Павловский район';
+    private $City = 'Татарский Шмалак';
     private $City1 = '';
     private $ActDate = '20060607';
     private $IndexOld = '';

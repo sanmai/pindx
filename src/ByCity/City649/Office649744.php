@@ -27,13 +27,13 @@ final class Office649744 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 649744;
-    private $OPSName = 'ЧИБИТ';
+    private $OPSName = 'Чибит';
     private $OPSType = 'О';
     private $OPSSubm = 649439;
-    private $Region = 'АЛТАЙ РЕСПУБЛИКА';
+    private $Region = 'Алтай Республика';
     private $Autonom = '';
-    private $Area = 'УЛАГАНСКИЙ РАЙОН';
-    private $City = 'ЧИБИТ';
+    private $Area = 'Улаганский район';
+    private $City = 'Чибит';
     private $City1 = '';
     private $ActDate = '20070118';
     private $IndexOld = '';

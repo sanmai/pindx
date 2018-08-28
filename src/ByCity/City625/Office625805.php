@@ -27,13 +27,13 @@ final class Office625805 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 625805;
-    private $OPSName = 'ЯЛУТОРОВСК ПОЧТАМТ УЧ. ТАРЫ';
-    private $OPSType = 'ТИ';
+    private $OPSName = 'Ялуторовск Почтамт Уч. Тары';
+    private $OPSType = 'Ти';
     private $OPSSubm = 627059;
-    private $Region = 'ТЮМЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тюменская область';
     private $Autonom = '';
-    private $Area = 'ЯЛУТОРОВСКИЙ РАЙОН';
-    private $City = 'ЯЛУТОРОВСК';
+    private $Area = 'Ялуторовский район';
+    private $City = 'Ялуторовск';
     private $City1 = '';
     private $ActDate = '20111017';
     private $IndexOld = '';

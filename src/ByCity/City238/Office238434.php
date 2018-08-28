@@ -27,13 +27,13 @@ final class Office238434 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 238434;
-    private $OPSName = 'НИВЕНСКОЕ';
+    private $OPSName = 'Нивенское';
     private $OPSType = 'О';
     private $OPSSubm = 236999;
-    private $Region = 'КАЛИНИНГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Калининградская область';
     private $Autonom = '';
-    private $Area = 'БАГРАТИОНОВСКИЙ РАЙОН';
-    private $City = 'НИВЕНСКОЕ';
+    private $Area = 'Багратионовский район';
+    private $City = 'Нивенское';
     private $City1 = '';
     private $ActDate = '20101119';
     private $IndexOld = '';

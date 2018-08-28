@@ -27,13 +27,13 @@ final class Office618583 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 618583;
-    private $OPSName = 'ЦЕПЕЛ';
+    private $OPSName = 'Цепел';
     private $OPSType = 'О';
     private $OPSSubm = 618439;
-    private $Region = 'ПЕРМСКИЙ КРАЙ';
+    private $Region = 'Пермский край';
     private $Autonom = '';
-    private $Area = 'КРАСНОВИШЕРСКИЙ РАЙОН';
-    private $City = 'ЦЕПЕЛ';
+    private $Area = 'Красновишерский район';
+    private $City = 'Цепел';
     private $City1 = '';
     private $ActDate = '20121023';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office991701 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 991701;
-    private $OPSName = 'ЗЕЛЕНОДОЛЬСК-ПОЧТОМАТ (АПС)';
+    private $OPSName = 'Зеленодольск-Почтомат (Апс)';
     private $OPSType = 'Почтомат';
     private $OPSSubm = 422540;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'ЗЕЛЕНОДОЛЬСКИЙ РАЙОН';
-    private $City = 'ЗЕЛЕНОДОЛЬСК';
+    private $Area = 'Зеленодольский район';
+    private $City = 'Зеленодольск';
     private $City1 = '';
     private $ActDate = '20180510';
     private $IndexOld = '';

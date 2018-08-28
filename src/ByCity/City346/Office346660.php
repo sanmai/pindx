@@ -27,13 +27,13 @@ final class Office346660 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 346660;
-    private $OPSName = 'БОЛЬШАЯ МАРТЫНОВКА';
+    private $OPSName = 'Большая Мартыновка';
     private $OPSType = 'О';
     private $OPSSubm = 347399;
-    private $Region = 'РОСТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ростовская область';
     private $Autonom = '';
-    private $Area = 'МАРТЫНОВСКИЙ РАЙОН';
-    private $City = 'БОЛЬШАЯ МАРТЫНОВКА';
+    private $Area = 'Мартыновский район';
+    private $City = 'Большая Мартыновка';
     private $City1 = '';
     private $ActDate = '20070213';
     private $IndexOld = '';

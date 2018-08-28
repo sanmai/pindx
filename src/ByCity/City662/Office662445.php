@@ -27,13 +27,13 @@ final class Office662445 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 662445;
-    private $OPSName = 'ТОЛСТЫЙ МЫС';
+    private $OPSName = 'Толстый Мыс';
     private $OPSType = 'О';
     private $OPSSubm = 662310;
-    private $Region = 'КРАСНОЯРСКИЙ КРАЙ';
+    private $Region = 'Красноярский край';
     private $Autonom = '';
-    private $Area = 'НОВОСЕЛОВСКИЙ РАЙОН';
-    private $City = 'ТОЛСТЫЙ МЫС';
+    private $Area = 'Новоселовский район';
+    private $City = 'Толстый Мыс';
     private $City1 = '';
     private $ActDate = '20061010';
     private $IndexOld = '';

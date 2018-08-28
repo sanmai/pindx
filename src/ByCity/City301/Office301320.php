@@ -27,13 +27,13 @@ final class Office301320 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 301320;
-    private $OPSName = 'ВЕНЕВ';
+    private $OPSName = 'Венев';
     private $OPSType = 'О';
     private $OPSSubm = 301679;
-    private $Region = 'ТУЛЬСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тульская область';
     private $Autonom = '';
-    private $Area = 'ВЕНЕВСКИЙ РАЙОН';
-    private $City = 'ВЕНЕВ';
+    private $Area = 'Веневский район';
+    private $City = 'Венев';
     private $City1 = '';
     private $ActDate = '20020701';
     private $IndexOld = '';

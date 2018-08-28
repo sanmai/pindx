@@ -27,13 +27,13 @@ final class Office666656 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 666656;
-    private $OPSName = 'СЕДАНОВО';
+    private $OPSName = 'Седаново';
     private $OPSType = 'О';
     private $OPSSubm = 665799;
-    private $Region = 'ИРКУТСКАЯ ОБЛАСТЬ';
+    private $Region = 'Иркутская область';
     private $Autonom = '';
-    private $Area = 'УСТЬ-ИЛИМСКИЙ РАЙОН';
-    private $City = 'СЕДАНОВО';
+    private $Area = 'Усть-Илимский район';
+    private $City = 'Седаново';
     private $City1 = '';
     private $ActDate = '20120802';
     private $IndexOld = '';

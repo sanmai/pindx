@@ -27,13 +27,13 @@ final class Office431465 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 431465;
-    private $OPSName = 'АРХАНГЕЛЬСКОЕ  ГОЛИЦИНО';
+    private $OPSName = 'Архангельское  Голицино';
     private $OPSType = 'О';
     private $OPSSubm = 431499;
-    private $Region = 'МОРДОВИЯ РЕСПУБЛИКА';
+    private $Region = 'Мордовия Республика';
     private $Autonom = '';
-    private $Area = 'РУЗАЕВСКИЙ РАЙОН';
-    private $City = 'АРХАНГЕЛЬСКОЕ ГОЛИЦЫНО';
+    private $Area = 'Рузаевский район';
+    private $City = 'Архангельское Голицыно';
     private $City1 = '';
     private $ActDate = '20040616';
     private $IndexOld = '';

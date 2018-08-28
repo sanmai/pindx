@@ -27,13 +27,13 @@ final class Office157800 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 157800;
-    private $OPSName = 'НЕРЕХТА';
+    private $OPSName = 'Нерехта';
     private $OPSType = 'О';
     private $OPSSubm = 156999;
-    private $Region = 'КОСТРОМСКАЯ ОБЛАСТЬ';
+    private $Region = 'Костромская область';
     private $Autonom = '';
-    private $Area = 'НЕРЕХТСКИЙ РАЙОН';
-    private $City = 'НЕРЕХТА';
+    private $Area = 'Нерехтский район';
+    private $City = 'Нерехта';
     private $City1 = '';
     private $ActDate = '20060823';
     private $IndexOld = '';

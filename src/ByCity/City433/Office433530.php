@@ -27,13 +27,13 @@ final class Office433530 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 433530;
-    private $OPSName = 'ВЕРХНИЙ МЕЛЕКЕСС';
+    private $OPSName = 'Верхний Мелекесс';
     private $OPSType = 'О';
     private $OPSSubm = 433500;
-    private $Region = 'УЛЬЯНОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ульяновская область';
     private $Autonom = '';
-    private $Area = 'МЕЛЕКЕССКИЙ РАЙОН';
-    private $City = 'ВЕРХНИЙ МЕЛЕКЕСС';
+    private $Area = 'Мелекесский район';
+    private $City = 'Верхний Мелекесс';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

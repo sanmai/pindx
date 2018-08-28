@@ -27,13 +27,13 @@ final class Office676352 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 676352;
-    private $OPSName = 'СЕРЫШЕВО 2';
+    private $OPSName = 'Серышево 2';
     private $OPSType = 'О';
     private $OPSSubm = 676869;
-    private $Region = 'АМУРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Амурская область';
     private $Autonom = '';
-    private $Area = 'СЕРЫШЕВСКИЙ РАЙОН';
-    private $City = 'СЕРЫШЕВО-2';
+    private $Area = 'Серышевский район';
+    private $City = 'Серышево-2';
     private $City1 = '';
     private $ActDate = '20050131';
     private $IndexOld = '';

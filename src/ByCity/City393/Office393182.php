@@ -27,13 +27,13 @@ final class Office393182 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 393182;
-    private $OPSName = 'ПЕРЕСЫПКИНО-ВТОРОЕ';
+    private $OPSName = 'Пересыпкино-Второе';
     private $OPSType = 'О';
     private $OPSSubm = 393369;
-    private $Region = 'ТАМБОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тамбовская область';
     private $Autonom = '';
-    private $Area = 'ГАВРИЛОВСКИЙ РАЙОН';
-    private $City = 'ПЕРЕСЫПКИНО 2-Е';
+    private $Area = 'Гавриловский район';
+    private $City = 'Пересыпкино 2-Е';
     private $City1 = '';
     private $ActDate = '20060404';
     private $IndexOld = '';

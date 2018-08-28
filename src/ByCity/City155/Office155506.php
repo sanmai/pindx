@@ -27,13 +27,13 @@ final class Office155506 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 155506;
-    private $OPSName = 'ДУЛЯПИНО';
+    private $OPSName = 'Дуляпино';
     private $OPSType = 'О';
     private $OPSSubm = 155539;
-    private $Region = 'ИВАНОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ивановская область';
     private $Autonom = '';
-    private $Area = 'ФУРМАНОВСКИЙ РАЙОН';
-    private $City = 'ДУЛЯПИНО';
+    private $Area = 'Фурмановский район';
+    private $City = 'Дуляпино';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

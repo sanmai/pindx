@@ -27,13 +27,13 @@ final class Office391094 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 391094;
-    private $OPSName = 'РАЗБЕРДЕЕВО';
+    private $OPSName = 'Разбердеево';
     private $OPSType = 'О';
     private $OPSSubm = 391099;
-    private $Region = 'РЯЗАНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Рязанская область';
     private $Autonom = '';
-    private $Area = 'СПАССКИЙ РАЙОН';
-    private $City = 'РАЗБЕРДЕЕВО';
+    private $Area = 'Спасский район';
+    private $City = 'Разбердеево';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office249922 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 249922;
-    private $OPSName = 'ПАВЛИЩЕВ БОР';
+    private $OPSName = 'Павлищев Бор';
     private $OPSType = 'О';
     private $OPSSubm = 249929;
-    private $Region = 'КАЛУЖСКАЯ ОБЛАСТЬ';
+    private $Region = 'Калужская область';
     private $Autonom = '';
-    private $Area = 'ЮХНОВСКИЙ РАЙОН';
-    private $City = 'ПАВЛИЩЕВ БОР';
+    private $Area = 'Юхновский район';
+    private $City = 'Павлищев Бор';
     private $City1 = '';
     private $ActDate = '20040202';
     private $IndexOld = '';

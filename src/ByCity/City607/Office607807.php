@@ -27,13 +27,13 @@ final class Office607807 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 607807;
-    private $OPSName = 'АТИНГЕЕВО';
+    private $OPSName = 'Атингеево';
     private $OPSType = 'О';
     private $OPSSubm = 607849;
-    private $Region = 'НИЖЕГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Нижегородская область';
     private $Autonom = '';
-    private $Area = 'ЛУКОЯНОВСКИЙ РАЙОН';
-    private $City = 'АТИНГЕЕВО';
+    private $Area = 'Лукояновский район';
+    private $City = 'Атингеево';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

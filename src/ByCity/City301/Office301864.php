@@ -27,13 +27,13 @@ final class Office301864 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 301864;
-    private $OPSName = 'БОЛЬШИЕ МЕДВЕДКИ';
+    private $OPSName = 'Большие Медведки';
     private $OPSType = 'О';
     private $OPSSubm = 301859;
-    private $Region = 'ТУЛЬСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тульская область';
     private $Autonom = '';
-    private $Area = 'ЕФРЕМОВСКИЙ РАЙОН';
-    private $City = 'БОЛЬШИЕ МЕДВЕДКИ';
+    private $Area = 'Ефремовский район';
+    private $City = 'Большие Медведки';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

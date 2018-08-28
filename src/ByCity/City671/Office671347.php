@@ -27,13 +27,13 @@ final class Office671347 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 671347;
-    private $OPSName = 'МУХОРШИБИРЬ 7';
-    private $OPSType = 'ПЕРЕДВИЖНОЕ ОС';
+    private $OPSName = 'Мухоршибирь 7';
+    private $OPSType = 'Передвижное Ос';
     private $OPSSubm = 671389;
-    private $Region = 'БУРЯТИЯ РЕСПУБЛИКА';
+    private $Region = 'Бурятия Республика';
     private $Autonom = '';
-    private $Area = 'МУХОРШИБИРСКИЙ РАЙОН';
-    private $City = 'МУХОРШИБИРЬ';
+    private $Area = 'Мухоршибирский район';
+    private $City = 'Мухоршибирь';
     private $City1 = '';
     private $ActDate = '20151125';
     private $IndexOld = '';

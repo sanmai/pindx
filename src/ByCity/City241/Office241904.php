@@ -27,14 +27,14 @@ final class Office241904 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 241904;
-    private $OPSName = 'РАДИЦА-КРЫЛОВКА';
+    private $OPSName = 'Радица-Крыловка';
     private $OPSType = 'О';
     private $OPSSubm = 241000;
-    private $Region = 'БРЯНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Брянская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'БРЯНСК';
-    private $City1 = 'РАДИЦА-КРЫЛОВКА';
+    private $City = 'Брянск';
+    private $City1 = 'Радица-Крыловка';
     private $ActDate = '20001030';
     private $IndexOld = '';
 }

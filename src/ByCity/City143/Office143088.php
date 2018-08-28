@@ -27,13 +27,13 @@ final class Office143088 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 143088;
-    private $OPSName = 'САНАТОРИЙ ИМ. ГЕРЦЕНА';
+    private $OPSName = 'Санаторий Им. Герцена';
     private $OPSType = 'О';
     private $OPSSubm = 143000;
-    private $Region = 'МОСКОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Московская область';
     private $Autonom = '';
-    private $Area = 'ОДИНЦОВСКИЙ РАЙОН';
-    private $City = 'САНАТОРИЙ ИМ ГЕРЦЕНА';
+    private $Area = 'Одинцовский район';
+    private $City = 'Санаторий Им Герцена';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

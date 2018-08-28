@@ -27,13 +27,13 @@ final class Office694500 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 694500;
-    private $OPSName = 'ЮЖНО-КУРИЛЬСК';
+    private $OPSName = 'Южно-Курильск';
     private $OPSType = 'О';
     private $OPSSubm = 693000;
-    private $Region = 'САХАЛИНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Сахалинская область';
     private $Autonom = '';
-    private $Area = 'ЮЖНО-КУРИЛЬСКИЙ РАЙОН';
-    private $City = 'ЮЖНО-КУРИЛЬСК';
+    private $Area = 'Южно-Курильский район';
+    private $City = 'Южно-Курильск';
     private $City1 = '';
     private $ActDate = '20110127';
     private $IndexOld = '';

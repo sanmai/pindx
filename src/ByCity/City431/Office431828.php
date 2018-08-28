@@ -27,13 +27,13 @@ final class Office431828 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 431828;
-    private $OPSName = 'НИЗОВКА';
+    private $OPSName = 'Низовка';
     private $OPSType = 'О';
     private $OPSSubm = 431849;
-    private $Region = 'МОРДОВИЯ РЕСПУБЛИКА';
+    private $Region = 'Мордовия Республика';
     private $Autonom = '';
-    private $Area = 'АТЯШЕВСКИЙ РАЙОН';
-    private $City = 'НИЗОВКА';
+    private $Area = 'Атяшевский район';
+    private $City = 'Низовка';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

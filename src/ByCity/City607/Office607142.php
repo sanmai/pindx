@@ -27,13 +27,13 @@ final class Office607142 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 607142;
-    private $OPSName = 'КРУГЛОВО';
+    private $OPSName = 'Круглово';
     private $OPSType = 'О';
     private $OPSSubm = 607180;
-    private $Region = 'НИЖЕГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Нижегородская область';
     private $Autonom = '';
-    private $Area = 'АРДАТОВСКИЙ РАЙОН';
-    private $City = 'КРУГЛОВО';
+    private $Area = 'Ардатовский район';
+    private $City = 'Круглово';
     private $City1 = '';
     private $ActDate = '20061225';
     private $IndexOld = '';

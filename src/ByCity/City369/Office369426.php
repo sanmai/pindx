@@ -27,13 +27,13 @@ final class Office369426 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 369426;
-    private $OPSName = 'ИНЖИ-ЧИШХО';
+    private $OPSName = 'Инжи-Чишхо';
     private $OPSType = 'О';
     private $OPSSubm = 369999;
-    private $Region = 'КАРАЧАЕВО-ЧЕРКЕССКАЯ РЕСПУБЛИКА';
+    private $Region = 'Карачаево-Черкесская Республика';
     private $Autonom = '';
-    private $Area = 'ХАБЕЗСКИЙ РАЙОН';
-    private $City = 'ИНЖИЧИШХО';
+    private $Area = 'Хабезский район';
+    private $City = 'Инжичишхо';
     private $City1 = '';
     private $ActDate = '20130607';
     private $IndexOld = '';

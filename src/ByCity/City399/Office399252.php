@@ -27,13 +27,13 @@ final class Office399252 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 399252;
-    private $OPSName = 'ДОНСКАЯ НЕГАЧЕВКА';
+    private $OPSName = 'Донская Негачевка';
     private $OPSType = 'О';
     private $OPSSubm = 399379;
-    private $Region = 'ЛИПЕЦКАЯ ОБЛАСТЬ';
+    private $Region = 'Липецкая область';
     private $Autonom = '';
-    private $Area = 'ХЛЕВЕНСКИЙ РАЙОН';
-    private $City = 'ДОНСКАЯ НЕГАЧЕВКА';
+    private $Area = 'Хлевенский район';
+    private $City = 'Донская Негачевка';
     private $City1 = '';
     private $ActDate = '20130301';
     private $IndexOld = '';

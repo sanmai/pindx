@@ -27,13 +27,13 @@ final class Office369150 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 369150;
-    private $OPSName = 'ДАУСУЗ';
+    private $OPSName = 'Даусуз';
     private $OPSType = 'О';
     private $OPSSubm = 369179;
-    private $Region = 'КАРАЧАЕВО-ЧЕРКЕССКАЯ РЕСПУБЛИКА';
+    private $Region = 'Карачаево-Черкесская Республика';
     private $Autonom = '';
-    private $Area = 'ЗЕЛЕНЧУКСКИЙ РАЙОН';
-    private $City = 'ДАУСУЗ';
+    private $Area = 'Зеленчукский район';
+    private $City = 'Даусуз';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

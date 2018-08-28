@@ -27,13 +27,13 @@ final class Office442453 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 442453;
-    private $OPSName = 'БОЛЬШОЙ УМЫС';
+    private $OPSName = 'Большой Умыс';
     private $OPSType = 'О';
     private $OPSSubm = 442549;
-    private $Region = 'ПЕНЗЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Пензенская область';
     private $Autonom = '';
-    private $Area = 'КАМЕШКИРСКИЙ РАЙОН';
-    private $City = 'БОЛЬШОЙ УМЫС';
+    private $Area = 'Камешкирский район';
+    private $City = 'Большой Умыс';
     private $City1 = '';
     private $ActDate = '20060626';
     private $IndexOld = '';

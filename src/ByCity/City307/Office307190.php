@@ -27,13 +27,13 @@ final class Office307190 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 307190;
-    private $OPSName = 'ЖЕЛЕЗНОГОРСК УКД';
-    private $OPSType = 'УКД';
+    private $OPSName = 'Железногорск Укд';
+    private $OPSType = 'Укд';
     private $OPSSubm = 305700;
-    private $Region = 'КУРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Курская область';
     private $Autonom = '';
-    private $Area = 'ЖЕЛЕЗНОГОРСКИЙ РАЙОН';
-    private $City = 'ЖЕЛЕЗНОГОРСК';
+    private $Area = 'Железногорский район';
+    private $City = 'Железногорск';
     private $City1 = '';
     private $ActDate = '20170609';
     private $IndexOld = '';

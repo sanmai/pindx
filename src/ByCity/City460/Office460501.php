@@ -27,13 +27,13 @@ final class Office460501 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 460501;
-    private $OPSName = 'ЮЖНЫЙ УРАЛ';
+    private $OPSName = 'Южный Урал';
     private $OPSType = 'О';
     private $OPSSubm = 460999;
-    private $Region = 'ОРЕНБУРГСКАЯ ОБЛАСТЬ';
+    private $Region = 'Оренбургская область';
     private $Autonom = '';
-    private $Area = 'ОРЕНБУРГСКИЙ РАЙОН';
-    private $City = 'ЮЖНЫЙ УРАЛ';
+    private $Area = 'Оренбургский район';
+    private $City = 'Южный Урал';
     private $City1 = '';
     private $ActDate = '20050928';
     private $IndexOld = '';

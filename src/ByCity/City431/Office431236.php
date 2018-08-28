@@ -27,13 +27,13 @@ final class Office431236 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 431236;
-    private $OPSName = 'МАТВЕЕВО';
+    private $OPSName = 'Матвеево';
     private $OPSType = 'О';
     private $OPSSubm = 431259;
-    private $Region = 'МОРДОВИЯ РЕСПУБЛИКА';
+    private $Region = 'Мордовия Республика';
     private $Autonom = '';
-    private $Area = 'ТЕМНИКОВСКИЙ РАЙОН';
-    private $City = 'МАТВЕЕВО';
+    private $Area = 'Темниковский район';
+    private $City = 'Матвеево';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

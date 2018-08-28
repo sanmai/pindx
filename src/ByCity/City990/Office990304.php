@@ -27,13 +27,13 @@ final class Office990304 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 990304;
-    private $OPSName = 'ТИХВИН-ПОЧТОМАТ (АПС)';
+    private $OPSName = 'Тихвин-Почтомат (Апс)';
     private $OPSType = 'Почтомат';
     private $OPSSubm = 187556;
-    private $Region = 'ЛЕНИНГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ленинградская область';
     private $Autonom = '';
-    private $Area = 'ТИХВИНСКИЙ РАЙОН';
-    private $City = 'ТИХВИН';
+    private $Area = 'Тихвинский район';
+    private $City = 'Тихвин';
     private $City1 = '';
     private $ActDate = '20180125';
     private $IndexOld = '';

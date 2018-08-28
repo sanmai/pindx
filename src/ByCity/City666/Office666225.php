@@ -27,13 +27,13 @@ final class Office666225 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 666225;
-    private $OPSName = 'ВЕРШИНА ТУТУРЫ';
+    private $OPSName = 'Вершина Тутуры';
     private $OPSType = 'О';
     private $OPSSubm = 669000;
-    private $Region = 'ИРКУТСКАЯ ОБЛАСТЬ';
+    private $Region = 'Иркутская область';
     private $Autonom = '';
-    private $Area = 'КАЧУГСКИЙ РАЙОН';
-    private $City = 'ВЕРШИНА-ТУТУРЫ';
+    private $Area = 'Качугский район';
+    private $City = 'Вершина-Тутуры';
     private $City1 = '';
     private $ActDate = '20060126';
     private $IndexOld = '';

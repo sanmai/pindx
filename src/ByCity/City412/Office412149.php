@@ -27,13 +27,13 @@ final class Office412149 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 412149;
-    private $OPSName = 'ЕКАТЕРИНОВКА УООП';
+    private $OPSName = 'Екатериновка Уооп';
     private $OPSType = 'Участок';
     private $OPSSubm = 412030;
-    private $Region = 'САРАТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Саратовская область';
     private $Autonom = '';
-    private $Area = 'ЕКАТЕРИНОВСКИЙ РАЙОН';
-    private $City = 'ЕКАТЕРИНОВКА';
+    private $Area = 'Екатериновский район';
+    private $City = 'Екатериновка';
     private $City1 = '';
     private $ActDate = '20161221';
     private $IndexOld = '';

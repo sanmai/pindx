@@ -27,13 +27,13 @@ final class Office361625 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 361625;
-    private $OPSName = 'ТЫРНЫАУЗ ППС';
-    private $OPSType = 'ППС';
+    private $OPSName = 'Тырныауз Ппс';
+    private $OPSType = 'Ппс';
     private $OPSSubm = 360000;
-    private $Region = 'КАБАРДИНО-БАЛКАРСКАЯ РЕСПУБЛИКА';
+    private $Region = 'Кабардино-Балкарская Республика';
     private $Autonom = '';
-    private $Area = 'ЭЛЬБРУССКИЙ РАЙОН';
-    private $City = 'ТЫРНЫАУЗ';
+    private $Area = 'Эльбрусский район';
+    private $City = 'Тырныауз';
     private $City1 = '';
     private $ActDate = '20170713';
     private $IndexOld = '';

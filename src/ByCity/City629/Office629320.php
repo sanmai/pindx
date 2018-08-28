@@ -27,14 +27,14 @@ final class Office629320 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 629320;
-    private $OPSName = 'КОРОТЧАЕВО';
+    private $OPSName = 'Коротчаево';
     private $OPSType = 'О';
     private $OPSSubm = 629329;
     private $Region = '';
-    private $Autonom = 'ЯМАЛО-НЕНЕЦКИЙ АВТОНОМНЫЙ ОКРУГ';
+    private $Autonom = 'Ямало-Ненецкий автономный округ';
     private $Area = '';
-    private $City = 'НОВЫЙ УРЕНГОЙ';
-    private $City1 = 'КОРОТЧАЕВО';
+    private $City = 'Новый Уренгой';
+    private $City1 = 'Коротчаево';
     private $ActDate = '20170906';
     private $IndexOld = '';
 }

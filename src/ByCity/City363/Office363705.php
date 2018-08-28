@@ -27,13 +27,13 @@ final class Office363705 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 363705;
-    private $OPSName = 'НОВО-ГЕОРГИЕВСКОЕ';
+    private $OPSName = 'Ново-Георгиевское';
     private $OPSType = 'О';
     private $OPSSubm = 363750;
-    private $Region = 'СЕВЕРНАЯ ОСЕТИЯ - АЛАНИЯ РЕСПУБЛИКА';
+    private $Region = 'Северная Осетия - Алания Республика';
     private $Autonom = '';
-    private $Area = 'МОЗДОКСКИЙ РАЙОН';
-    private $City = 'НОВО-ГЕОРГИЕВСКОЕ';
+    private $Area = 'Моздокский район';
+    private $City = 'Ново-Георгиевское';
     private $City1 = '';
     private $ActDate = '20041126';
     private $IndexOld = '';

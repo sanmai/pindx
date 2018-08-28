@@ -27,13 +27,13 @@ final class Office399573 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 399573;
-    private $OPSName = 'НИЖНЕЕ ЧЕСНОЧНОЕ';
+    private $OPSName = 'Нижнее Чесночное';
     private $OPSType = 'О';
     private $OPSSubm = 399569;
-    private $Region = 'ЛИПЕЦКАЯ ОБЛАСТЬ';
+    private $Region = 'Липецкая область';
     private $Autonom = '';
-    private $Area = 'ВОЛОВСКИЙ РАЙОН';
-    private $City = 'НИЖНЕЕ ЧЕСНОЧНОЕ';
+    private $Area = 'Воловский район';
+    private $City = 'Нижнее Чесночное';
     private $City1 = '';
     private $ActDate = '20060503';
     private $IndexOld = '';

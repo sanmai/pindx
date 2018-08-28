@@ -27,13 +27,13 @@ final class Office445138 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 445138;
-    private $OPSName = 'ВЕРХНЕЕ САНЧЕЛЕЕВО';
+    private $OPSName = 'Верхнее Санчелеево';
     private $OPSType = 'О';
     private $OPSSubm = 445000;
-    private $Region = 'САМАРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Самарская область';
     private $Autonom = '';
-    private $Area = 'СТАВРОПОЛЬСКИЙ РАЙОН';
-    private $City = 'ВЕРХНЕЕ САНЧЕЛЕЕВО';
+    private $Area = 'Ставропольский район';
+    private $City = 'Верхнее Санчелеево';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

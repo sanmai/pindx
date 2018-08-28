@@ -27,13 +27,13 @@ final class Office442022 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 442022;
-    private $OPSName = 'КОЛУДАРОВО';
+    private $OPSName = 'Колударово';
     private $OPSType = 'О';
     private $OPSSubm = 442039;
-    private $Region = 'ПЕНЗЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Пензенская область';
     private $Autonom = '';
-    private $Area = 'ЗЕМЕТЧИНСКИЙ РАЙОН';
-    private $City = 'КОЛУДАРОВО';
+    private $Area = 'Земетчинский район';
+    private $City = 'Колударово';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

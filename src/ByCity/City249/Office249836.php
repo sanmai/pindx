@@ -27,13 +27,13 @@ final class Office249836 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 249836;
-    private $OPSName = 'КОНДРОВО КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Кондрово Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 249830;
-    private $Region = 'КАЛУЖСКАЯ ОБЛАСТЬ';
+    private $Region = 'Калужская область';
     private $Autonom = '';
-    private $Area = 'ДЗЕРЖИНСКИЙ РАЙОН';
-    private $City = 'КОНДРОВО';
+    private $Area = 'Дзержинский район';
+    private $City = 'Кондрово';
     private $City1 = '';
     private $ActDate = '20170928';
     private $IndexOld = '';

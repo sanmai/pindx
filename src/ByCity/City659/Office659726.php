@@ -27,13 +27,13 @@ final class Office659726 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 659726;
-    private $OPSName = 'ПОСПЕЛИХА КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Поспелиха Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 659719;
-    private $Region = 'АЛТАЙСКИЙ КРАЙ';
+    private $Region = 'Алтайский край';
     private $Autonom = '';
-    private $Area = 'ПОСПЕЛИХИНСКИЙ РАЙОН';
-    private $City = 'ПОСПЕЛИХА';
+    private $Area = 'Поспелихинский район';
+    private $City = 'Поспелиха';
     private $City1 = '';
     private $ActDate = '20180117';
     private $IndexOld = '';

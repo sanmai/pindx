@@ -27,13 +27,13 @@ final class Office433541 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 433541;
-    private $OPSName = 'ЛЕБЯЖЬЕ';
+    private $OPSName = 'Лебяжье';
     private $OPSType = 'О';
     private $OPSSubm = 433500;
-    private $Region = 'УЛЬЯНОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ульяновская область';
     private $Autonom = '';
-    private $Area = 'МЕЛЕКЕССКИЙ РАЙОН';
-    private $City = 'ЛЕБЯЖЬЕ';
+    private $Area = 'Мелекесский район';
+    private $City = 'Лебяжье';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office393360 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 393360;
-    private $OPSName = 'КИРСАНОВ';
+    private $OPSName = 'Кирсанов';
     private $OPSType = 'О';
     private $OPSSubm = 393369;
-    private $Region = 'ТАМБОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тамбовская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'КИРСАНОВ';
+    private $City = 'Кирсанов';
     private $City1 = '';
     private $ActDate = '20180813';
     private $IndexOld = '';

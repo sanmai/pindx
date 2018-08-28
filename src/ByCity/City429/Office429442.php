@@ -27,13 +27,13 @@ final class Office429442 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 429442;
-    private $OPSName = 'ТОГАНАШЕВО';
+    private $OPSName = 'Тоганашево';
     private $OPSType = 'О';
     private $OPSSubm = 429429;
-    private $Region = 'ЧУВАШИЯ РЕСПУБЛИКА';
+    private $Region = 'Чувашия Республика';
     private $Autonom = '';
-    private $Area = 'КОЗЛОВСКИЙ РАЙОН';
-    private $City = 'ТОГАНАШЕВО';
+    private $Area = 'Козловский район';
+    private $City = 'Тоганашево';
     private $City1 = '';
     private $ActDate = '20061002';
     private $IndexOld = '';

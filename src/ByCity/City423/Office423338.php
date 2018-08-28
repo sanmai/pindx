@@ -27,13 +27,13 @@ final class Office423338 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 423338;
-    private $OPSName = 'АЗНАКАЕВО';
-    private $OPSType = 'ПЕРЕДВИЖНОЕ ОС';
+    private $OPSName = 'Азнакаево';
+    private $OPSType = 'Передвижное Ос';
     private $OPSSubm = 423349;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'АЗНАКАЕВСКИЙ РАЙОН';
-    private $City = 'АЗНАКАЕВО';
+    private $Area = 'Азнакаевский район';
+    private $City = 'Азнакаево';
     private $City1 = '';
     private $ActDate = '20151113';
     private $IndexOld = '';

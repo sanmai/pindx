@@ -27,13 +27,13 @@ final class Office346055 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 346055;
-    private $OPSName = 'ДОНСКАЯ НИВА';
+    private $OPSName = 'Донская Нива';
     private $OPSType = 'О';
     private $OPSSubm = 347819;
-    private $Region = 'РОСТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ростовская область';
     private $Autonom = '';
-    private $Area = 'ТАРАСОВСКИЙ РАЙОН';
-    private $City = 'ДОНСКАЯ-НИВА';
+    private $Area = 'Тарасовский район';
+    private $City = 'Донская-Нива';
     private $City1 = '';
     private $ActDate = '20070214';
     private $IndexOld = '';

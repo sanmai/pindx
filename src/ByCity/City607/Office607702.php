@@ -27,13 +27,13 @@ final class Office607702 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 607702;
-    private $OPSName = 'СТАРОЕ ИВАНЦЕВО';
+    private $OPSName = 'Старое Иванцево';
     private $OPSType = 'О';
     private $OPSSubm = 607849;
-    private $Region = 'НИЖЕГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Нижегородская область';
     private $Autonom = '';
-    private $Area = 'ШАТКОВСКИЙ РАЙОН';
-    private $City = 'СТАРОЕ ИВАНЦЕВО';
+    private $Area = 'Шатковский район';
+    private $City = 'Старое Иванцево';
     private $City1 = '';
     private $ActDate = '20061109';
     private $IndexOld = '';

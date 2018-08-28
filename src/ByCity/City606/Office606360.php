@@ -27,13 +27,13 @@ final class Office606360 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 606360;
-    private $OPSName = 'БОЛЬШОЕ МУРАШКИНО';
+    private $OPSName = 'Большое Мурашкино';
     private $OPSType = 'О';
     private $OPSSubm = 607669;
-    private $Region = 'НИЖЕГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Нижегородская область';
     private $Autonom = '';
-    private $Area = 'БОЛЬШЕМУРАШКИНСКИЙ РАЙОН';
-    private $City = 'БОЛЬШОЕ МУРАШКИНО';
+    private $Area = 'Большемурашкинский район';
+    private $City = 'Большое Мурашкино';
     private $City1 = '';
     private $ActDate = '20060623';
     private $IndexOld = '';

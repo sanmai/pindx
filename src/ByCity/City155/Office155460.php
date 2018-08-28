@@ -27,13 +27,13 @@ final class Office155460 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 155460;
-    private $OPSName = 'КОСТЯЕВО БОЛЬШОЕ';
+    private $OPSName = 'Костяево Большое';
     private $OPSType = 'О';
     private $OPSSubm = 155819;
-    private $Region = 'ИВАНОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ивановская область';
     private $Autonom = '';
-    private $Area = 'ЮРЬЕВЕЦКИЙ РАЙОН';
-    private $City = 'КОСТЯЕВО БОЛЬШОЕ';
+    private $Area = 'Юрьевецкий район';
+    private $City = 'Костяево Большое';
     private $City1 = '';
     private $ActDate = '20160210';
     private $IndexOld = '';

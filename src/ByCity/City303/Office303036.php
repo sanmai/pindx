@@ -27,13 +27,13 @@ final class Office303036 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 303036;
-    private $OPSName = 'МЦЕНСК 6';
+    private $OPSName = 'Мценск 6';
     private $OPSType = 'О';
     private $OPSSubm = 303039;
-    private $Region = 'ОРЛОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Орловская область';
     private $Autonom = '';
-    private $Area = 'МЦЕНСКИЙ РАЙОН';
-    private $City = 'МЦЕНСК';
+    private $Area = 'Мценский район';
+    private $City = 'Мценск';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

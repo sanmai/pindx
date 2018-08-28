@@ -27,13 +27,13 @@ final class Office155571 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 155571;
-    private $OPSName = 'ГОРКИ-ЧИРИКОВЫ';
+    private $OPSName = 'Горки-Чириковы';
     private $OPSType = 'О';
     private $OPSSubm = 155539;
-    private $Region = 'ИВАНОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ивановская область';
     private $Autonom = '';
-    private $Area = 'ПРИВОЛЖСКИЙ РАЙОН';
-    private $City = 'ГОРКИ-ЧИРИКОВЫ';
+    private $Area = 'Приволжский район';
+    private $City = 'Горки-Чириковы';
     private $City1 = '';
     private $ActDate = '20051012';
     private $IndexOld = '';

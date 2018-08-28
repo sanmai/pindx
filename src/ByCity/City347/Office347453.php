@@ -27,13 +27,13 @@ final class Office347453 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 347453;
-    private $OPSName = 'МОКРЫЙ ГАШУН';
+    private $OPSName = 'Мокрый Гашун';
     private $OPSType = 'О';
     private $OPSSubm = 347479;
-    private $Region = 'РОСТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ростовская область';
     private $Autonom = '';
-    private $Area = 'ЗИМОВНИКОВСКИЙ РАЙОН';
-    private $City = 'МОКРЫЙ ГАШУН';
+    private $Area = 'Зимовниковский район';
+    private $City = 'Мокрый Гашун';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

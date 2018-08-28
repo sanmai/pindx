@@ -27,13 +27,13 @@ final class Office413252 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 413252;
-    private $OPSName = 'ЖДАНОВКА';
+    private $OPSName = 'Ждановка';
     private $OPSType = 'О';
     private $OPSSubm = 413230;
-    private $Region = 'САРАТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Саратовская область';
     private $Autonom = '';
-    private $Area = 'КРАСНОКУТСКИЙ РАЙОН';
-    private $City = 'ЖДАНОВКА';
+    private $Area = 'Краснокутский район';
+    private $City = 'Ждановка';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

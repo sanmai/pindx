@@ -27,14 +27,14 @@ final class Office347886 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 347886;
-    private $OPSName = 'ПРИОВРАЖНЫЙ';
+    private $OPSName = 'Приовражный';
     private $OPSType = 'О';
     private $OPSSubm = 346369;
-    private $Region = 'РОСТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ростовская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'ГУКОВО';
-    private $City1 = 'ПРИОВРАЖНЫЙ';
+    private $City = 'Гуково';
+    private $City1 = 'Приовражный';
     private $ActDate = '20180813';
     private $IndexOld = '';
 }

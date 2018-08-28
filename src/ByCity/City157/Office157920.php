@@ -27,13 +27,13 @@ final class Office157920 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 157920;
-    private $OPSName = 'ГУЛЯЕВКА';
+    private $OPSName = 'Гуляевка';
     private $OPSType = 'О';
     private $OPSSubm = 156999;
-    private $Region = 'КОСТРОМСКАЯ ОБЛАСТЬ';
+    private $Region = 'Костромская область';
     private $Autonom = '';
-    private $Area = 'ОСТРОВСКИЙ РАЙОН';
-    private $City = 'ГУЛЯЕВКА';
+    private $Area = 'Островский район';
+    private $City = 'Гуляевка';
     private $City1 = '';
     private $ActDate = '20110128';
     private $IndexOld = '';

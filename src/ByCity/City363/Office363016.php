@@ -27,13 +27,13 @@ final class Office363016 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 363016;
-    private $OPSName = 'БАТАКО';
+    private $OPSName = 'Батако';
     private $OPSType = 'О';
     private $OPSSubm = 363020;
-    private $Region = 'СЕВЕРНАЯ ОСЕТИЯ - АЛАНИЯ РЕСПУБЛИКА';
+    private $Region = 'Северная Осетия - Алания Республика';
     private $Autonom = '';
-    private $Area = 'ПРАВОБЕРЕЖНЫЙ РАЙОН';
-    private $City = 'БАТАКО';
+    private $Area = 'Правобережный район';
+    private $City = 'Батако';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

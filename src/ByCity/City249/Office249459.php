@@ -27,13 +27,13 @@ final class Office249459 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 249459;
-    private $OPSName = 'МАЛЫЕ ЗИМНИЦЫ';
+    private $OPSName = 'Малые Зимницы';
     private $OPSType = 'О';
     private $OPSSubm = 249449;
-    private $Region = 'КАЛУЖСКАЯ ОБЛАСТЬ';
+    private $Region = 'Калужская область';
     private $Autonom = '';
-    private $Area = 'КИРОВСКИЙ РАЙОН';
-    private $City = 'МАЛЫЕ ЗИМНИЦЫ';
+    private $Area = 'Кировский район';
+    private $City = 'Малые Зимницы';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

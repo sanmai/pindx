@@ -27,13 +27,13 @@ final class Office306508 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 306508;
-    private $OPSName = 'ЩИГРЫ КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Щигры Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 306509;
-    private $Region = 'КУРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Курская область';
     private $Autonom = '';
-    private $Area = 'ЩИГРОВСКИЙ РАЙОН';
-    private $City = 'ЩИГРЫ';
+    private $Area = 'Щигровский район';
+    private $City = 'Щигры';
     private $City1 = '';
     private $ActDate = '20171130';
     private $IndexOld = '';

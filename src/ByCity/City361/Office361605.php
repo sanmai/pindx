@@ -27,14 +27,14 @@ final class Office361605 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 361605;
-    private $OPSName = 'ТЕРСКОЛ';
+    private $OPSName = 'Терскол';
     private $OPSType = 'О';
     private $OPSSubm = 360000;
-    private $Region = 'КАБАРДИНО-БАЛКАРСКАЯ РЕСПУБЛИКА';
+    private $Region = 'Кабардино-Балкарская Республика';
     private $Autonom = '';
-    private $Area = 'ЭЛЬБРУССКИЙ РАЙОН';
-    private $City = 'ЭЛЬБРУС';
-    private $City1 = 'ТЕРСКОЛ';
+    private $Area = 'Эльбрусский район';
+    private $City = 'Эльбрус';
+    private $City1 = 'Терскол';
     private $ActDate = '20070814';
     private $IndexOld = '';
 }

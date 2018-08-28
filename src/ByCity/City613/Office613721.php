@@ -27,13 +27,13 @@ final class Office613721 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 613721;
-    private $OPSName = 'ДАНИЛОВКА';
+    private $OPSName = 'Даниловка';
     private $OPSType = 'О';
     private $OPSSubm = 613649;
-    private $Region = 'КИРОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Кировская область';
     private $Autonom = '';
-    private $Area = 'МУРАШИНСКИЙ РАЙОН';
-    private $City = 'ДАНИЛОВКА';
+    private $Area = 'Мурашинский район';
+    private $City = 'Даниловка';
     private $City1 = '';
     private $ActDate = '20051018';
     private $IndexOld = '';

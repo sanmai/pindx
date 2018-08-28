@@ -27,13 +27,13 @@ final class Office641943 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 641943;
-    private $OPSName = 'БОЛЬШОЕ БАННИКОВО';
+    private $OPSName = 'Большое Банниково';
     private $OPSType = 'О';
     private $OPSSubm = 641889;
-    private $Region = 'КУРГАНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Курганская область';
     private $Autonom = '';
-    private $Area = 'КАРГАПОЛЬСКИЙ РАЙОН';
-    private $City = 'БОЛЬШОЕ БАННИКОВО';
+    private $Area = 'Каргапольский район';
+    private $City = 'Большое Банниково';
     private $City1 = '';
     private $ActDate = '20080331';
     private $IndexOld = '';

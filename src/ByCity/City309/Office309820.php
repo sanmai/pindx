@@ -27,13 +27,13 @@ final class Office309820 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 309820;
-    private $OPSName = 'МАТРЕНО-ГЕЗОВО';
+    private $OPSName = 'Матрено-Гезово';
     private $OPSType = 'О';
     private $OPSSubm = 309859;
-    private $Region = 'БЕЛГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Белгородская область';
     private $Autonom = '';
-    private $Area = 'АЛЕКСЕЕВСКИЙ РАЙОН';
-    private $City = 'МАТРЕНО-ГЕЗОВО';
+    private $Area = 'Алексеевский район';
+    private $City = 'Матрено-Гезово';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

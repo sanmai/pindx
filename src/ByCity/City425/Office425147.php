@@ -27,13 +27,13 @@ final class Office425147 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 425147;
-    private $OPSName = 'ТЫГЫДЕ МОРКО';
+    private $OPSName = 'Тыгыде Морко';
     private $OPSType = 'О';
     private $OPSSubm = 425159;
-    private $Region = 'МАРИЙ ЭЛ РЕСПУБЛИКА';
+    private $Region = 'Марий Эл Республика';
     private $Autonom = '';
-    private $Area = 'МОРКИНСКИЙ РАЙОН';
-    private $City = 'ТЫГЫДЕ МОРКО';
+    private $Area = 'Моркинский район';
+    private $City = 'Тыгыде Морко';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

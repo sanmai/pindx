@@ -27,13 +27,13 @@ final class Office601555 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 601555;
-    private $OPSName = 'ТАСИНСКИЙ БОР';
+    private $OPSName = 'Тасинский Бор';
     private $OPSType = 'О';
     private $OPSSubm = 601500;
-    private $Region = 'ВЛАДИМИРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Владимирская область';
     private $Autonom = '';
-    private $Area = 'ГУСЬ-ХРУСТАЛЬНЫЙ РАЙОН';
-    private $City = 'ТАСИНСКИЙ БОР';
+    private $Area = 'Гусь-Хрустальный район';
+    private $City = 'Тасинский Бор';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

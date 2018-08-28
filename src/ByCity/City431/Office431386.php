@@ -27,13 +27,13 @@ final class Office431386 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 431386;
-    private $OPSName = 'МОРДОВСКО-МАСКИНСКИЕ ВЫСЕЛКИ';
+    private $OPSName = 'Мордовско-Маскинские Выселки';
     private $OPSType = 'О';
     private $OPSSubm = 431289;
-    private $Region = 'МОРДОВИЯ РЕСПУБЛИКА';
+    private $Region = 'Мордовия Республика';
     private $Autonom = '';
-    private $Area = 'ЕЛЬНИКОВСКИЙ РАЙОН';
-    private $City = 'МОРДОВСКО-МАСКИНСКИЕ';
+    private $Area = 'Ельниковский район';
+    private $City = 'Мордовско-Маскинские';
     private $City1 = '';
     private $ActDate = '20180813';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office678684 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 678684;
-    private $OPSName = 'ТОЛОН ППС';
-    private $OPSType = 'ППС';
+    private $OPSName = 'Толон Ппс';
+    private $OPSType = 'Ппс';
     private $OPSSubm = 678699;
-    private $Region = 'САХА (ЯКУТИЯ) РЕСПУБЛИКА';
+    private $Region = 'Саха (Якутия) Республика';
     private $Autonom = '';
-    private $Area = 'ЧУРАПЧИНСКИЙ РАЙОН';
-    private $City = 'ТОЛОН БАХСЫТСКИЙ НАСЛЕГ';
+    private $Area = 'Чурапчинский район';
+    private $City = 'Толон Бахсытский Наслег';
     private $City1 = '';
     private $ActDate = '20180702';
     private $IndexOld = '';

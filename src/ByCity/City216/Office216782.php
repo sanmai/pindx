@@ -27,13 +27,13 @@ final class Office216782 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 216782;
-    private $OPSName = 'КЛЯРИНОВО';
+    private $OPSName = 'Кляриново';
     private $OPSType = 'О';
     private $OPSSubm = 216799;
-    private $Region = 'СМОЛЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Смоленская область';
     private $Autonom = '';
-    private $Area = 'РУДНЯНСКИЙ РАЙОН';
-    private $City = 'КЛЯРИНОВО';
+    private $Area = 'Руднянский район';
+    private $City = 'Кляриново';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

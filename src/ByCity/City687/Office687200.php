@@ -27,13 +27,13 @@ final class Office687200 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 687200;
-    private $OPSName = 'ДУЛЬДУРГА';
+    private $OPSName = 'Дульдурга';
     private $OPSType = 'О';
     private $OPSSubm = 687599;
-    private $Region = 'ЗАБАЙКАЛЬСКИЙ КРАЙ';
+    private $Region = 'Забайкальский край';
     private $Autonom = '';
-    private $Area = 'ДУЛЬДУРГИНСКИЙ РАЙОН';
-    private $City = 'ДУЛЬДУРГА';
+    private $Area = 'Дульдургинский район';
+    private $City = 'Дульдурга';
     private $City1 = '';
     private $ActDate = '20170818';
     private $IndexOld = '';

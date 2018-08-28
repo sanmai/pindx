@@ -27,13 +27,13 @@ final class Office431675 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 431675;
-    private $OPSName = 'АНДРЕЕВКА';
+    private $OPSName = 'Андреевка';
     private $OPSType = 'О';
     private $OPSSubm = 431669;
-    private $Region = 'МОРДОВИЯ РЕСПУБЛИКА';
+    private $Region = 'Мордовия Республика';
     private $Autonom = '';
-    private $Area = 'БОЛЬШЕИГНАТОВСКИЙ РАЙОН';
-    private $City = 'АНДРЕЕВКА';
+    private $Area = 'Большеигнатовский район';
+    private $City = 'Андреевка';
     private $City1 = '';
     private $ActDate = '20060615';
     private $IndexOld = '';

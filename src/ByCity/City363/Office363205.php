@@ -27,13 +27,13 @@ final class Office363205 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 363205;
-    private $OPSName = 'НУЗАЛ';
+    private $OPSName = 'Нузал';
     private $OPSType = 'О';
     private $OPSSubm = 363240;
-    private $Region = 'СЕВЕРНАЯ ОСЕТИЯ - АЛАНИЯ РЕСПУБЛИКА';
+    private $Region = 'Северная Осетия - Алания Республика';
     private $Autonom = '';
-    private $Area = 'АЛАГИРСКИЙ РАЙОН';
-    private $City = 'НУЗАЛ';
+    private $Area = 'Алагирский район';
+    private $City = 'Нузал';
     private $City1 = '';
     private $ActDate = '20060817';
     private $IndexOld = '';

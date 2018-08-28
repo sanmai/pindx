@@ -27,13 +27,13 @@ final class Office442135 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 442135;
-    private $OPSName = 'КУВАК-НИКОЛЬСКОЕ';
+    private $OPSName = 'Кувак-Никольское';
     private $OPSType = 'О';
     private $OPSSubm = 442169;
-    private $Region = 'ПЕНЗЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Пензенская область';
     private $Autonom = '';
-    private $Area = 'НИЖНЕЛОМОВСКИЙ РАЙОН';
-    private $City = 'КУВАК-НИКОЛЬСКОЕ';
+    private $Area = 'Нижнеломовский район';
+    private $City = 'Кувак-Никольское';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office403798 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 403798;
-    private $OPSName = 'ЖИРНОВСК КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Жирновск Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 403790;
-    private $Region = 'ВОЛГОГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Волгоградская область';
     private $Autonom = '';
-    private $Area = 'ЖИРНОВСКИЙ РАЙОН';
-    private $City = 'ЖИРНОВСК';
+    private $Area = 'Жирновский район';
+    private $City = 'Жирновск';
     private $City1 = '';
     private $ActDate = '20171129';
     private $IndexOld = '';

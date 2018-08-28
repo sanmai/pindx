@@ -27,13 +27,13 @@ final class Office456022 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 456022;
-    private $OPSName = 'СИМСКАЯ-СТАНЦИЯ';
+    private $OPSName = 'Симская-Станция';
     private $OPSType = 'О';
     private $OPSSubm = 456069;
-    private $Region = 'ЧЕЛЯБИНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Челябинская область';
     private $Autonom = '';
-    private $Area = 'АШИНСКИЙ РАЙОН';
-    private $City = 'СИМСКАЯ';
+    private $Area = 'Ашинский район';
+    private $City = 'Симская';
     private $City1 = '';
     private $ActDate = '20061101';
     private $IndexOld = '';

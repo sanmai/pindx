@@ -27,13 +27,13 @@ final class Office423017 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 423017;
-    private $OPSName = 'ЧУВАШСКИЙ ТИМЕРЛЕК';
+    private $OPSName = 'Чувашский Тимерлек';
     private $OPSType = 'О';
     private $OPSSubm = 423049;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'НУРЛАТСКИЙ РАЙОН';
-    private $City = 'ЧУВАШСКИЙ ТИМЕРЛЕК';
+    private $Area = 'Нурлатский район';
+    private $City = 'Чувашский Тимерлек';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

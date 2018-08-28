@@ -27,13 +27,13 @@ final class Office391322 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 391322;
-    private $OPSName = 'ГИБЛИЦЫ';
+    private $OPSName = 'Гиблицы';
     private $OPSType = 'О';
     private $OPSSubm = 391379;
-    private $Region = 'РЯЗАНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Рязанская область';
     private $Autonom = '';
-    private $Area = 'КАСИМОВСКИЙ РАЙОН';
-    private $City = 'ГИБЛИЦЫ';
+    private $Area = 'Касимовский район';
+    private $City = 'Гиблицы';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

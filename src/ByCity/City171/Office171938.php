@@ -27,13 +27,13 @@ final class Office171938 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 171938;
-    private $OPSName = 'МАКСАТИХА КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Максатиха Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 171939;
-    private $Region = 'ТВЕРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тверская область';
     private $Autonom = '';
-    private $Area = 'МАКСАТИХИНСКИЙ РАЙОН';
-    private $City = 'МАКСАТИХА';
+    private $Area = 'Максатихинский район';
+    private $City = 'Максатиха';
     private $City1 = '';
     private $ActDate = '20170928';
     private $IndexOld = '';

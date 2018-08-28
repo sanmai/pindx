@@ -27,13 +27,13 @@ final class Office215164 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 215164;
-    private $OPSName = 'ЦАРЕВО ЗАЙМИЩЕ';
+    private $OPSName = 'Царево Займище';
     private $OPSType = 'О';
     private $OPSSubm = 215169;
-    private $Region = 'СМОЛЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Смоленская область';
     private $Autonom = '';
-    private $Area = 'ВЯЗЕМСКИЙ РАЙОН';
-    private $City = 'ЦАРЕВО-ЗАЙМИЩЕ';
+    private $Area = 'Вяземский район';
+    private $City = 'Царево-Займище';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

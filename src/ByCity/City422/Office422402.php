@@ -27,13 +27,13 @@ final class Office422402 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 422402;
-    private $OPSName = 'БОЛЬШОЕ ФРОЛОВО';
+    private $OPSName = 'Большое Фролово';
     private $OPSType = 'О';
     private $OPSSubm = 422459;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'БУИНСКИЙ РАЙОН';
-    private $City = 'БОЛЬШОЕ ФРОЛОВО';
+    private $Area = 'Буинский район';
+    private $City = 'Большое Фролово';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

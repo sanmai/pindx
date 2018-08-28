@@ -27,13 +27,13 @@ final class Office431848 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 431848;
-    private $OPSName = 'АТЯШЕВО КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Атяшево Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 431849;
-    private $Region = 'МОРДОВИЯ РЕСПУБЛИКА';
+    private $Region = 'Мордовия Республика';
     private $Autonom = '';
-    private $Area = 'АТЯШЕВСКИЙ РАЙОН';
-    private $City = 'АТЯШЕВО';
+    private $Area = 'Атяшевский район';
+    private $City = 'Атяшево';
     private $City1 = '';
     private $ActDate = '20170929';
     private $IndexOld = '';

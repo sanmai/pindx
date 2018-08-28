@@ -27,13 +27,13 @@ final class Office368559 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 368559;
-    private $OPSName = 'БАШЛЫКЕНТ';
+    private $OPSName = 'Башлыкент';
     private $OPSType = 'О';
     private $OPSSubm = 368629;
-    private $Region = 'ДАГЕСТАН РЕСПУБЛИКА';
+    private $Region = 'Дагестан Республика';
     private $Autonom = '';
-    private $Area = 'КАЯКЕНТСКИЙ РАЙОН';
-    private $City = 'БАШЛЫКЕНТ';
+    private $Area = 'Каякентский район';
+    private $City = 'Башлыкент';
     private $City1 = '';
     private $ActDate = '20130117';
     private $IndexOld = '';

@@ -27,14 +27,14 @@ final class Office456659 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 456659;
-    private $OPSName = 'КОПЕЙСК 59';
+    private $OPSName = 'Копейск 59';
     private $OPSType = 'О';
     private $OPSSubm = 456629;
-    private $Region = 'ЧЕЛЯБИНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Челябинская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'КОПЕЙСК';
-    private $City1 = 'КАЛАЧЕВО';
+    private $City = 'Копейск';
+    private $City1 = 'Калачево';
     private $ActDate = '20180110';
     private $IndexOld = '';
 }

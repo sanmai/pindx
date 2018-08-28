@@ -27,13 +27,13 @@ final class Office301453 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 301453;
-    private $OPSName = 'ИВИЦЫ';
+    private $OPSName = 'Ивицы';
     private $OPSType = 'О';
     private $OPSSubm = 301439;
-    private $Region = 'ТУЛЬСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тульская область';
     private $Autonom = '';
-    private $Area = 'ОДОЕВСКИЙ РАЙОН';
-    private $City = 'ИВИЦЫ';
+    private $Area = 'Одоевский район';
+    private $City = 'Ивицы';
     private $City1 = '';
     private $ActDate = '20031230';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office363521 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 363521;
-    private $OPSName = 'СУРХ-ДИГОРА';
+    private $OPSName = 'Сурх-Дигора';
     private $OPSType = 'О';
     private $OPSSubm = 363330;
-    private $Region = 'СЕВЕРНАЯ ОСЕТИЯ - АЛАНИЯ РЕСПУБЛИКА';
+    private $Region = 'Северная Осетия - Алания Республика';
     private $Autonom = '';
-    private $Area = 'ИРАФСКИЙ РАЙОН';
-    private $City = 'СУРХ-ДИГОРА';
+    private $Area = 'Ирафский район';
+    private $City = 'Сурх-Дигора';
     private $City1 = '';
     private $ActDate = '20041110';
     private $IndexOld = '';

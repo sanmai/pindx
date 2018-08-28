@@ -27,14 +27,14 @@ final class Office393166 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 393166;
-    private $OPSName = 'КОЗЬМОДЕМЬЯНОВКА';
+    private $OPSName = 'Козьмодемьяновка';
     private $OPSType = 'О';
     private $OPSSubm = 393369;
-    private $Region = 'ТАМБОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тамбовская область';
     private $Autonom = '';
-    private $Area = 'ГАВРИЛОВСКИЙ РАЙОН';
-    private $City = 'КОЗЬМОДЕМЬЯНОВКА';
-    private $City1 = 'МОЛОДЕЖНЫЙ';
+    private $Area = 'Гавриловский район';
+    private $City = 'Козьмодемьяновка';
+    private $City1 = 'Молодежный';
     private $ActDate = '20060404';
     private $IndexOld = '';
 }

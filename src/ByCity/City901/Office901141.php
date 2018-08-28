@@ -27,13 +27,13 @@ final class Office901141 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 901141;
-    private $OPSName = 'ПВ ОРЕНБУРГ-САМАРА';
-    private $OPSType = 'ТИ';
+    private $OPSName = 'Пв Оренбург-Самара';
+    private $OPSType = 'Ти';
     private $OPSSubm = 460960;
-    private $Region = 'ОРЕНБУРГСКАЯ ОБЛАСТЬ';
+    private $Region = 'Оренбургская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'ОРЕНБУРГ';
+    private $City = 'Оренбург';
     private $City1 = '';
     private $ActDate = '20111222';
     private $IndexOld = '';

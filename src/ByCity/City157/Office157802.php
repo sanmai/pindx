@@ -27,13 +27,13 @@ final class Office157802 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 157802;
-    private $OPSName = 'НЕРЕХТА 2';
+    private $OPSName = 'Нерехта 2';
     private $OPSType = 'О';
     private $OPSSubm = 156999;
-    private $Region = 'КОСТРОМСКАЯ ОБЛАСТЬ';
+    private $Region = 'Костромская область';
     private $Autonom = '';
-    private $Area = 'НЕРЕХТСКИЙ РАЙОН';
-    private $City = 'НЕРЕХТА';
+    private $Area = 'Нерехтский район';
+    private $City = 'Нерехта';
     private $City1 = '';
     private $ActDate = '20060823';
     private $IndexOld = '';

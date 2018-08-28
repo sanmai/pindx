@@ -27,13 +27,13 @@ final class Office431475 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 431475;
-    private $OPSName = 'ВЕРХНИЙ УРЛЕДИМ';
+    private $OPSName = 'Верхний Урледим';
     private $OPSType = 'О';
     private $OPSSubm = 431499;
-    private $Region = 'МОРДОВИЯ РЕСПУБЛИКА';
+    private $Region = 'Мордовия Республика';
     private $Autonom = '';
-    private $Area = 'РУЗАЕВСКИЙ РАЙОН';
-    private $City = 'ВЕРХНИЙ УРЛЕДИМ';
+    private $Area = 'Рузаевский район';
+    private $City = 'Верхний Урледим';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

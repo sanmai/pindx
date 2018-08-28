@@ -27,14 +27,14 @@ final class Office361422 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 361422;
-    private $OPSName = 'МИР ППС';
-    private $OPSType = 'ППС';
+    private $OPSName = 'Мир Ппс';
+    private $OPSType = 'Ппс';
     private $OPSSubm = 361400;
-    private $Region = 'КАБАРДИНО-БАЛКАРСКАЯ РЕСПУБЛИКА';
+    private $Region = 'Кабардино-Балкарская Республика';
     private $Autonom = '';
-    private $Area = 'ЧЕГЕМСКИЙ РАЙОН';
-    private $City = 'ШАЛУШКА';
-    private $City1 = 'МИР';
+    private $Area = 'Чегемский район';
+    private $City = 'Шалушка';
+    private $City1 = 'Мир';
     private $ActDate = '20170623';
     private $IndexOld = '';
 }

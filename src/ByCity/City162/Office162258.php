@@ -27,13 +27,13 @@ final class Office162258 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 162258;
-    private $OPSName = 'МЕЖУРКИ';
+    private $OPSName = 'Межурки';
     private $OPSType = 'О';
     private $OPSSubm = 162129;
-    private $Region = 'ВОЛОГОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Вологодская область';
     private $Autonom = '';
-    private $Area = 'ХАРОВСКИЙ РАЙОН';
-    private $City = 'МЕЖУРКИ';
+    private $Area = 'Харовский район';
+    private $City = 'Межурки';
     private $City1 = '';
     private $ActDate = '20101119';
     private $IndexOld = '';

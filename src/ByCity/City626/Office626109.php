@@ -27,14 +27,14 @@ final class Office626109 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 626109;
-    private $OPSName = 'ИРТЫШСКИЙ';
+    private $OPSName = 'Иртышский';
     private $OPSType = 'О';
     private $OPSSubm = 626151;
-    private $Region = 'ТЮМЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тюменская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'ТОБОЛЬСК';
-    private $City1 = 'ИРТЫШСКИЙ';
+    private $City = 'Тобольск';
+    private $City1 = 'Иртышский';
     private $ActDate = '20180813';
     private $IndexOld = '';
 }

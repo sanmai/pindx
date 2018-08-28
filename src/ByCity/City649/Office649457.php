@@ -27,13 +27,13 @@ final class Office649457 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 649457;
-    private $OPSName = 'МЕНДУР-СОККОН';
+    private $OPSName = 'Мендур-Соккон';
     private $OPSType = 'О';
     private $OPSSubm = 649439;
-    private $Region = 'АЛТАЙ РЕСПУБЛИКА';
+    private $Region = 'Алтай Республика';
     private $Autonom = '';
-    private $Area = 'УСТЬ-КАНСКИЙ РАЙОН';
-    private $City = 'МЕНДУР-СОККОН';
+    private $Area = 'Усть-Канский район';
+    private $City = 'Мендур-Соккон';
     private $City1 = '';
     private $ActDate = '20110127';
     private $IndexOld = '';

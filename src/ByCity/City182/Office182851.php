@@ -27,13 +27,13 @@ final class Office182851 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 182851;
-    private $OPSName = 'ХРЯПЬЕВО';
+    private $OPSName = 'Хряпьево';
     private $OPSType = 'О';
     private $OPSSubm = 182839;
-    private $Region = 'ПСКОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Псковская область';
     private $Autonom = '';
-    private $Area = 'БЕЖАНИЦКИЙ РАЙОН';
-    private $City = 'ХРЯПЬЕВО';
+    private $Area = 'Бежаницкий район';
+    private $City = 'Хряпьево';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

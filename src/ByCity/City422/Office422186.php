@@ -27,13 +27,13 @@ final class Office422186 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 422186;
-    private $OPSName = 'КАМСКИЙ ЛЕСПРОМХОЗ';
+    private $OPSName = 'Камский Леспромхоз';
     private $OPSType = 'О';
     private $OPSSubm = 422199;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'МАМАДЫШСКИЙ РАЙОН';
-    private $City = 'КАМСКИЙ ЛЕСПРОМХОЗ';
+    private $Area = 'Мамадышский район';
+    private $City = 'Камский Леспромхоз';
     private $City1 = '';
     private $ActDate = '20120907';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office680970 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 680970;
-    private $OPSName = 'ХАБАРОВСК ПП-С';
-    private $OPSType = 'ТИ';
+    private $OPSName = 'Хабаровск Пп-С';
+    private $OPSType = 'Ти';
     private $OPSSubm = 680999;
-    private $Region = 'ХАБАРОВСКИЙ КРАЙ';
+    private $Region = 'Хабаровский край';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'ХАБАРОВСК';
+    private $City = 'Хабаровск';
     private $City1 = '';
     private $ActDate = '20021227';
     private $IndexOld = '';

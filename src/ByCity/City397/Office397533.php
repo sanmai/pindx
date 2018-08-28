@@ -27,13 +27,13 @@ final class Office397533 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 397533;
-    private $OPSName = 'КАРАЙЧЕВКА';
+    private $OPSName = 'Карайчевка';
     private $OPSType = 'О';
     private $OPSSubm = 397549;
-    private $Region = 'ВОРОНЕЖСКАЯ ОБЛАСТЬ';
+    private $Region = 'Воронежская область';
     private $Autonom = '';
-    private $Area = 'БУТУРЛИНОВСКИЙ РАЙОН';
-    private $City = 'КАРАЙЧЕВКА';
+    private $Area = 'Бутурлиновский район';
+    private $City = 'Карайчевка';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

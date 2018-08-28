@@ -27,13 +27,13 @@ final class Office152000 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 152000;
-    private $OPSName = 'БЕРЕНДЕЕВО';
+    private $OPSName = 'Берендеево';
     private $OPSType = 'О';
     private $OPSSubm = 152159;
-    private $Region = 'ЯРОСЛАВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ярославская область';
     private $Autonom = '';
-    private $Area = 'ПЕРЕСЛАВСКИЙ РАЙОН';
-    private $City = 'БЕРЕНДЕЕВО';
+    private $Area = 'Переславский район';
+    private $City = 'Берендеево';
     private $City1 = '';
     private $ActDate = '20101116';
     private $IndexOld = '';

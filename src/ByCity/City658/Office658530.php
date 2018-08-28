@@ -27,13 +27,13 @@ final class Office658530 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 658530;
-    private $OPSName = 'РЕБРИХА-СТАНЦИЯ';
+    private $OPSName = 'Ребриха-Станция';
     private $OPSType = 'О';
     private $OPSSubm = 659028;
-    private $Region = 'АЛТАЙСКИЙ КРАЙ';
+    private $Region = 'Алтайский край';
     private $Autonom = '';
-    private $Area = 'РЕБРИХИНСКИЙ РАЙОН';
-    private $City = 'РЕБРИХА';
+    private $Area = 'Ребрихинский район';
+    private $City = 'Ребриха';
     private $City1 = '';
     private $ActDate = '20041208';
     private $IndexOld = '';

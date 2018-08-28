@@ -27,13 +27,13 @@ final class Office422832 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 422832;
-    private $OPSName = 'БОЛЬШАЯ ЯНГАСАЛА';
+    private $OPSName = 'Большая Янгасала';
     private $OPSType = 'О';
     private $OPSSubm = 422819;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'КАМСКО-УСТЬИНСКИЙ РАЙОН';
-    private $City = 'БОЛЬШАЯ ЯНГАСАЛА';
+    private $Area = 'Камско-Устьинский район';
+    private $City = 'Большая Янгасала';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

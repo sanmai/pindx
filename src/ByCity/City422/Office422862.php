@@ -27,13 +27,13 @@ final class Office422862 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 422862;
-    private $OPSName = 'СРЕДНИЙ ЮРТКУЛЬ';
+    private $OPSName = 'Средний Юрткуль';
     private $OPSType = 'О';
     private $OPSSubm = 422999;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'СПАССКИЙ РАЙОН';
-    private $City = 'СРЕДНИЙ ЮРТКУЛЬ';
+    private $Area = 'Спасский район';
+    private $City = 'Средний Юрткуль';
     private $City1 = '';
     private $ActDate = '20040607';
     private $IndexOld = '';

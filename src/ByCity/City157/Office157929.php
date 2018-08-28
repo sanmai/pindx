@@ -27,13 +27,13 @@ final class Office157929 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 157929;
-    private $OPSName = 'ДЫМНИЦА';
+    private $OPSName = 'Дымница';
     private $OPSType = 'О';
     private $OPSSubm = 156999;
-    private $Region = 'КОСТРОМСКАЯ ОБЛАСТЬ';
+    private $Region = 'Костромская область';
     private $Autonom = '';
-    private $Area = 'ОСТРОВСКИЙ РАЙОН';
-    private $City = 'ДЫМНИЦА';
+    private $Area = 'Островский район';
+    private $City = 'Дымница';
     private $City1 = '';
     private $ActDate = '20110128';
     private $IndexOld = '';

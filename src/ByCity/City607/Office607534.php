@@ -27,13 +27,13 @@ final class Office607534 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 607534;
-    private $OPSName = 'ЧЕМБИЛЕЙ';
+    private $OPSName = 'Чембилей';
     private $OPSType = 'О';
     private $OPSSubm = 607527;
-    private $Region = 'НИЖЕГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Нижегородская область';
     private $Autonom = '';
-    private $Area = 'КРАСНООКТЯБРЬСКИЙ РАЙОН';
-    private $City = 'ЧЕМБИЛЕЙ';
+    private $Area = 'Краснооктябрьский район';
+    private $City = 'Чембилей';
     private $City1 = '';
     private $ActDate = '20060914';
     private $IndexOld = '';

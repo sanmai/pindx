@@ -27,13 +27,13 @@ final class Office423507 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 423507;
-    private $OPSName = 'ТЮГЕЕВКА';
+    private $OPSName = 'Тюгеевка';
     private $OPSType = 'О';
     private $OPSSubm = 423539;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'ЗАИНСКИЙ РАЙОН';
-    private $City = 'ТЮГЕЕВКА';
+    private $Area = 'Заинский район';
+    private $City = 'Тюгеевка';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

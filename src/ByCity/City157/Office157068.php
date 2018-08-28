@@ -27,13 +27,13 @@ final class Office157068 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 157068;
-    private $OPSName = 'БУЙ КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Буй Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 157069;
-    private $Region = 'КОСТРОМСКАЯ ОБЛАСТЬ';
+    private $Region = 'Костромская область';
     private $Autonom = '';
-    private $Area = 'БУЙСКИЙ РАЙОН';
-    private $City = 'БУЙ';
+    private $Area = 'Буйский район';
+    private $City = 'Буй';
     private $City1 = '';
     private $ActDate = '20170926';
     private $IndexOld = '';

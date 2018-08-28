@@ -27,13 +27,13 @@ final class Office243600 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 243600;
-    private $OPSName = 'ЗЛЫНКА';
+    private $OPSName = 'Злынка';
     private $OPSType = 'О';
     private $OPSSubm = 243039;
-    private $Region = 'БРЯНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Брянская область';
     private $Autonom = '';
-    private $Area = 'ЗЛЫНКОВСКИЙ РАЙОН';
-    private $City = 'ЗЛЫНКА';
+    private $Area = 'Злынковский район';
+    private $City = 'Злынка';
     private $City1 = '';
     private $ActDate = '20060413';
     private $IndexOld = '';

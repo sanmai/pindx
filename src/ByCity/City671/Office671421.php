@@ -27,13 +27,13 @@ final class Office671421 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 671421;
-    private $OPSName = 'ВЕРХНИЕ ТАЛЬЦЫ';
+    private $OPSName = 'Верхние Тальцы';
     private $OPSType = 'О';
     private $OPSSubm = 671429;
-    private $Region = 'БУРЯТИЯ РЕСПУБЛИКА';
+    private $Region = 'Бурятия Республика';
     private $Autonom = '';
-    private $Area = 'ХОРИНСКИЙ РАЙОН';
-    private $City = 'ВЕРХНИЕ ТАЛЬЦЫ';
+    private $Area = 'Хоринский район';
+    private $City = 'Верхние Тальцы';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

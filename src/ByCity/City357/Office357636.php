@@ -27,13 +27,13 @@ final class Office357636 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 357636;
-    private $OPSName = 'ЕССЕНТУКИ КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Ессентуки Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 357600;
-    private $Region = 'СТАВРОПОЛЬСКИЙ КРАЙ';
+    private $Region = 'Ставропольский край';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'ЕССЕНТУКИ';
+    private $City = 'Ессентуки';
     private $City1 = '';
     private $ActDate = '20170623';
     private $IndexOld = '';

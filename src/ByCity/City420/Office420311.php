@@ -27,13 +27,13 @@ final class Office420311 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 420311;
-    private $OPSName = 'КАЗАНСКИЙ ЛПЦ ММПО ЦЕХ-1';
+    private $OPSName = 'Казанский Лпц Ммпо Цех-1';
     private $OPSType = 'Цех';
     private $OPSSubm = 420310;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'ЛАИШЕВСКИЙ РАЙОН';
-    private $City = 'СТОЛБИЩЕ';
+    private $Area = 'Лаишевский район';
+    private $City = 'Столбище';
     private $City1 = '';
     private $ActDate = '20180427';
     private $IndexOld = '';

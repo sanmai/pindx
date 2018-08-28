@@ -27,13 +27,13 @@ final class Office671429 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 671429;
-    private $OPSName = 'ХОРИНСК ПОЧТАМТ';
+    private $OPSName = 'Хоринск Почтамт';
     private $OPSType = 'П';
     private $OPSSubm = 670700;
-    private $Region = 'БУРЯТИЯ РЕСПУБЛИКА';
+    private $Region = 'Бурятия Республика';
     private $Autonom = '';
-    private $Area = 'ХОРИНСКИЙ РАЙОН';
-    private $City = 'ХОРИНСК';
+    private $Area = 'Хоринский район';
+    private $City = 'Хоринск';
     private $City1 = '';
     private $ActDate = '20071224';
     private $IndexOld = '';

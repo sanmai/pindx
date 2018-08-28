@@ -27,13 +27,13 @@ final class Office627058 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 627058;
-    private $OPSName = 'ЯЛУТОРОВСК КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Ялуторовск Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 627059;
-    private $Region = 'ТЮМЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тюменская область';
     private $Autonom = '';
-    private $Area = 'ЗАВОДОУКОВСКИЙ РАЙОН';
-    private $City = 'ЗАВОДОУКОВСК';
+    private $Area = 'Заводоуковский район';
+    private $City = 'Заводоуковск';
     private $City1 = '';
     private $ActDate = '20171128';
     private $IndexOld = '';

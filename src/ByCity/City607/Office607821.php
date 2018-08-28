@@ -27,13 +27,13 @@ final class Office607821 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 607821;
-    private $OPSName = 'БОЛЬШОЕ МАРЕСЬЕВО';
+    private $OPSName = 'Большое Маресьево';
     private $OPSType = 'О';
     private $OPSSubm = 607849;
-    private $Region = 'НИЖЕГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Нижегородская область';
     private $Autonom = '';
-    private $Area = 'ЛУКОЯНОВСКИЙ РАЙОН';
-    private $City = 'БОЛЬШОЕ МАРЕСЬЕВО';
+    private $Area = 'Лукояновский район';
+    private $City = 'Большое Маресьево';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

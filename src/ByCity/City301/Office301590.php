@@ -27,13 +27,13 @@ final class Office301590 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 301590;
-    private $OPSName = 'ТУРДЕЙ';
+    private $OPSName = 'Турдей';
     private $OPSType = 'О';
     private $OPSSubm = 301839;
-    private $Region = 'ТУЛЬСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тульская область';
     private $Autonom = '';
-    private $Area = 'ВОЛОВСКИЙ РАЙОН';
-    private $City = 'ТУРДЕЙ';
+    private $Area = 'Воловский район';
+    private $City = 'Турдей';
     private $City1 = '';
     private $ActDate = '20050112';
     private $IndexOld = '';

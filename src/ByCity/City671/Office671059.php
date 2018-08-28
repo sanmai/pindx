@@ -27,13 +27,13 @@ final class Office671059 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 671059;
-    private $OPSName = 'ИВОЛГИНСК УООП';
+    private $OPSName = 'Иволгинск Уооп';
     private $OPSType = 'Участок';
     private $OPSSubm = 670999;
-    private $Region = 'БУРЯТИЯ РЕСПУБЛИКА';
+    private $Region = 'Бурятия Республика';
     private $Autonom = '';
-    private $Area = 'ИВОЛГИНСКИЙ РАЙОН';
-    private $City = 'ИВОЛГИНСК';
+    private $Area = 'Иволгинский район';
+    private $City = 'Иволгинск';
     private $City1 = '';
     private $ActDate = '20160201';
     private $IndexOld = '';

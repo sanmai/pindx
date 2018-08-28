@@ -27,13 +27,13 @@ final class Office216420 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 216420;
-    private $OPSName = 'СНЕГИРЕВКА';
+    private $OPSName = 'Снегиревка';
     private $OPSType = 'О';
     private $OPSSubm = 216569;
-    private $Region = 'СМОЛЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Смоленская область';
     private $Autonom = '';
-    private $Area = 'ШУМЯЧСКИЙ РАЙОН';
-    private $City = 'СНЕГИРЕВКА';
+    private $Area = 'Шумячский район';
+    private $City = 'Снегиревка';
     private $City1 = '';
     private $ActDate = '20020430';
     private $IndexOld = '';

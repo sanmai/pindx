@@ -27,13 +27,13 @@ final class Office994509 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 994509;
-    private $OPSName = 'НИЖНИЙ НОВГОРОД-ПОЧТОМАТ (АПС)';
+    private $OPSName = 'Нижний Новгород-Почтомат (Апс)';
     private $OPSType = 'Почтомат';
     private $OPSSubm = 603159;
-    private $Region = 'НИЖЕГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Нижегородская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'НИЖНИЙ НОВГОРОД';
+    private $City = 'Нижний Новгород';
     private $City1 = '';
     private $ActDate = '20180731';
     private $IndexOld = '';

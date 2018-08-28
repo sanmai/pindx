@@ -27,13 +27,13 @@ final class Office423887 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 423887;
-    private $OPSName = 'МАЛАЯ ШИЛЬНА';
+    private $OPSName = 'Малая Шильна';
     private $OPSType = 'О';
     private $OPSSubm = 423849;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'ТУКАЕВСКИЙ РАЙОН';
-    private $City = 'МАЛАЯ ШИЛЬНА';
+    private $Area = 'Тукаевский район';
+    private $City = 'Малая Шильна';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

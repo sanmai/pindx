@@ -27,13 +27,13 @@ final class Office623618 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 623618;
-    private $OPSName = 'БУТКИНСКОЕ ОЗЕРО';
+    private $OPSName = 'Буткинское Озеро';
     private $OPSType = 'О';
     private $OPSSubm = 623649;
-    private $Region = 'СВЕРДЛОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Свердловская область';
     private $Autonom = '';
-    private $Area = 'ТАЛИЦКИЙ РАЙОН';
-    private $City = 'БУТКИНСКОЕ ОЗЕРО';
+    private $Area = 'Талицкий район';
+    private $City = 'Буткинское Озеро';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

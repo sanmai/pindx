@@ -27,13 +27,13 @@ final class Office174167 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 174167;
-    private $OPSName = 'ТУРСКАЯ ГОРКА';
+    private $OPSName = 'Турская Горка';
     private $OPSType = 'О';
     private $OPSSubm = 173999;
-    private $Region = 'НОВГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Новгородская область';
     private $Autonom = '';
-    private $Area = 'ШИМСКИЙ РАЙОН';
-    private $City = 'ТУРСКАЯ ГОРКА';
+    private $Area = 'Шимский район';
+    private $City = 'Турская Горка';
     private $City1 = '';
     private $ActDate = '20110117';
     private $IndexOld = '';

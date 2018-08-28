@@ -27,13 +27,13 @@ final class Office453395 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 453395;
-    private $OPSName = 'АРСЕНОВО';
+    private $OPSName = 'Арсеново';
     private $OPSType = 'О';
     private $OPSSubm = 453889;
-    private $Region = 'БАШКОРТОСТАН РЕСПУБЛИКА';
+    private $Region = 'Башкортостан Республика';
     private $Autonom = '';
-    private $Area = 'ЗИАНЧУРИНСКИЙ РАЙОН';
-    private $City = 'АРСЕНОВО';
+    private $Area = 'Зианчуринский район';
+    private $City = 'Арсеново';
     private $City1 = '';
     private $ActDate = '20130408';
     private $IndexOld = '';

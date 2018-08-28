@@ -27,13 +27,13 @@ final class Office393986 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 393986;
-    private $OPSName = 'ВЫШЕНКА';
+    private $OPSName = 'Вышенка';
     private $OPSType = 'О';
     private $OPSSubm = 393958;
-    private $Region = 'ТАМБОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тамбовская область';
     private $Autonom = '';
-    private $Area = 'ПИЧАЕВСКИЙ РАЙОН';
-    private $City = 'ВЫШЕНКА';
+    private $Area = 'Пичаевский район';
+    private $City = 'Вышенка';
     private $City1 = '';
     private $ActDate = '20060320';
     private $IndexOld = '';

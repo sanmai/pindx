@@ -27,13 +27,13 @@ final class Office172072 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 172072;
-    private $OPSName = 'СУКРОМЛЯ';
+    private $OPSName = 'Сукромля';
     private $OPSType = 'О';
     private $OPSSubm = 172000;
-    private $Region = 'ТВЕРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тверская область';
     private $Autonom = '';
-    private $Area = 'ТОРЖОКСКИЙ РАЙОН';
-    private $City = 'СУКРОМЛЯ';
+    private $Area = 'Торжокский район';
+    private $City = 'Сукромля';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

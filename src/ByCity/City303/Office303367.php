@@ -27,13 +27,13 @@ final class Office303367 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 303367;
-    private $OPSName = 'ХИТРОВО';
+    private $OPSName = 'Хитрово';
     private $OPSType = 'О';
     private $OPSSubm = 303369;
-    private $Region = 'ОРЛОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Орловская область';
     private $Autonom = '';
-    private $Area = 'МАЛОАРХАНГЕЛЬСКИЙ РАЙОН';
-    private $City = 'ХИТРОВО';
+    private $Area = 'Малоархангельский район';
+    private $City = 'Хитрово';
     private $City1 = '';
     private $ActDate = '20010518';
     private $IndexOld = '';

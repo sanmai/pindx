@@ -27,13 +27,13 @@ final class Office412875 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 412875;
-    private $OPSName = 'БОЛЬШАЯ ДМИТРИЕВКА';
+    private $OPSName = 'Большая Дмитриевка';
     private $OPSType = 'О';
     private $OPSSubm = 412480;
-    private $Region = 'САРАТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Саратовская область';
     private $Autonom = '';
-    private $Area = 'ЛЫСОГОРСКИЙ РАЙОН';
-    private $City = 'БОЛЬШАЯ ДМИТРИЕВКА';
+    private $Area = 'Лысогорский район';
+    private $City = 'Большая Дмитриевка';
     private $City1 = '';
     private $ActDate = '20011213';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office456560 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 456560;
-    private $OPSName = 'ЕТКУЛЬ';
+    private $OPSName = 'Еткуль';
     private $OPSType = 'О';
     private $OPSSubm = 456559;
-    private $Region = 'ЧЕЛЯБИНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Челябинская область';
     private $Autonom = '';
-    private $Area = 'ЕТКУЛЬСКИЙ РАЙОН';
-    private $City = 'ЕТКУЛЬ';
+    private $Area = 'Еткульский район';
+    private $City = 'Еткуль';
     private $City1 = '';
     private $ActDate = '20030409';
     private $IndexOld = '';

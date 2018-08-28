@@ -27,13 +27,13 @@ final class Office636341 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 636341;
-    private $OPSName = 'ИГРЕКОВО';
+    private $OPSName = 'Игреково';
     private $OPSType = 'О';
     private $OPSSubm = 636359;
-    private $Region = 'ТОМСКАЯ ОБЛАСТЬ';
+    private $Region = 'Томская область';
     private $Autonom = '';
-    private $Area = 'МОЛЧАНОВСКИЙ РАЙОН';
-    private $City = 'ИГРЕКОВО';
+    private $Area = 'Молчановский район';
+    private $City = 'Игреково';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

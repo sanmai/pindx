@@ -27,13 +27,13 @@ final class Office174211 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 174211;
-    private $OPSName = 'ЧУДОВО 1';
+    private $OPSName = 'Чудово 1';
     private $OPSType = 'О';
     private $OPSSubm = 173999;
-    private $Region = 'НОВГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Новгородская область';
     private $Autonom = '';
-    private $Area = 'ЧУДОВСКИЙ РАЙОН';
-    private $City = 'ЧУДОВО 1-Е';
+    private $Area = 'Чудовский район';
+    private $City = 'Чудово 1-Е';
     private $City1 = '';
     private $ActDate = '20061002';
     private $IndexOld = '';

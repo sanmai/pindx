@@ -27,13 +27,13 @@ final class Office412038 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 412038;
-    private $OPSName = 'РТИЩЕВО КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Ртищево Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 412030;
-    private $Region = 'САРАТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Саратовская область';
     private $Autonom = '';
-    private $Area = 'РТИЩЕВСКИЙ РАЙОН';
-    private $City = 'РТИЩЕВО';
+    private $Area = 'Ртищевский район';
+    private $City = 'Ртищево';
     private $City1 = '';
     private $ActDate = '20170818';
     private $IndexOld = '';

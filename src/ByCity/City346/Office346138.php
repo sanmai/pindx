@@ -27,13 +27,13 @@ final class Office346138 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 346138;
-    private $OPSName = 'МИЛЛЕРОВО КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Миллерово Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 346139;
-    private $Region = 'РОСТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ростовская область';
     private $Autonom = '';
-    private $Area = 'МИЛЛЕРОВСКИЙ РАЙОН';
-    private $City = 'МИЛЛЕРОВО';
+    private $Area = 'Миллеровский район';
+    private $City = 'Миллерово';
     private $City1 = '';
     private $ActDate = '20171130';
     private $IndexOld = '';

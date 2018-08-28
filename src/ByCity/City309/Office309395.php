@@ -27,13 +27,13 @@ final class Office309395 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 309395;
-    private $OPSName = 'ПОЧАЕВО';
+    private $OPSName = 'Почаево';
     private $OPSType = 'О';
     private $OPSSubm = 309329;
-    private $Region = 'БЕЛГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Белгородская область';
     private $Autonom = '';
-    private $Area = 'ГРАЙВОРОНСКИЙ РАЙОН';
-    private $City = 'ПОЧАЕВО';
+    private $Area = 'Грайворонский район';
+    private $City = 'Почаево';
     private $City1 = '';
     private $ActDate = '20110802';
     private $IndexOld = '';

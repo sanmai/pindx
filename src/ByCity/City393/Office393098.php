@@ -27,14 +27,14 @@ final class Office393098 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 393098;
-    private $OPSName = 'МОРДОВКА';
+    private $OPSName = 'Мордовка';
     private $OPSType = 'О';
     private $OPSSubm = 393779;
-    private $Region = 'ТАМБОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тамбовская область';
     private $Autonom = '';
-    private $Area = 'ПЕТРОВСКИЙ РАЙОН';
-    private $City = 'ЗНАМЕНКА';
-    private $City1 = 'МОРДОВКА';
+    private $Area = 'Петровский район';
+    private $City = 'Знаменка';
+    private $City1 = 'Мордовка';
     private $ActDate = '20080115';
     private $IndexOld = '';
 }

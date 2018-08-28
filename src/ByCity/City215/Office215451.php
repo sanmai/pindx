@@ -27,13 +27,13 @@ final class Office215451 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 215451;
-    private $OPSName = 'АРНИШИЦЫ';
+    private $OPSName = 'Арнишицы';
     private $OPSType = 'О';
     private $OPSSubm = 215169;
-    private $Region = 'СМОЛЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Смоленская область';
     private $Autonom = '';
-    private $Area = 'УГРАНСКИЙ РАЙОН';
-    private $City = 'АРНИШИЦЫ';
+    private $Area = 'Угранский район';
+    private $City = 'Арнишицы';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

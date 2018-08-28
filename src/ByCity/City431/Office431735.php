@@ -27,13 +27,13 @@ final class Office431735 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 431735;
-    private $OPSName = 'МАРЬЯНОВКА';
+    private $OPSName = 'Марьяновка';
     private $OPSType = 'О';
     private $OPSSubm = 431799;
-    private $Region = 'МОРДОВИЯ РЕСПУБЛИКА';
+    private $Region = 'Мордовия Республика';
     private $Autonom = '';
-    private $Area = 'БОЛЬШЕБЕРЕЗНИКОВСКИЙ РАЙОН';
-    private $City = 'МАРЬЯНОВКА';
+    private $Area = 'Большеберезниковский район';
+    private $City = 'Марьяновка';
     private $City1 = '';
     private $ActDate = '20060615';
     private $IndexOld = '';

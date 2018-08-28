@@ -27,14 +27,14 @@ final class Office353995 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 353995;
-    private $OPSName = 'АБРАУ-ДЮРСО';
+    private $OPSName = 'Абрау-Дюрсо';
     private $OPSType = 'О';
     private $OPSSubm = 353999;
-    private $Region = 'КРАСНОДАРСКИЙ КРАЙ';
+    private $Region = 'Краснодарский край';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'НОВОРОССИЙСК';
-    private $City1 = 'АБРАУ-ДЮРСО';
+    private $City = 'Новороссийск';
+    private $City1 = 'Абрау-Дюрсо';
     private $ActDate = '20001030';
     private $IndexOld = '';
 }

@@ -27,13 +27,13 @@ final class Office309360 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 309360;
-    private $OPSName = 'ХОТМЫЖСК';
+    private $OPSName = 'Хотмыжск';
     private $OPSType = 'О';
     private $OPSSubm = 309329;
-    private $Region = 'БЕЛГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Белгородская область';
     private $Autonom = '';
-    private $Area = 'БОРИСОВСКИЙ РАЙОН';
-    private $City = 'ХОТМЫЖСК';
+    private $Area = 'Борисовский район';
+    private $City = 'Хотмыжск';
     private $City1 = '';
     private $ActDate = '20110802';
     private $IndexOld = '';

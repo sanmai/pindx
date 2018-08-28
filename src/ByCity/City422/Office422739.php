@@ -27,13 +27,13 @@ final class Office422739 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 422739;
-    private $OPSName = 'ВЫСОКАЯ ГОРА ЦОПП';
+    private $OPSName = 'Высокая Гора Цопп';
     private $OPSType = 'Цех';
     private $OPSSubm = 420999;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'ВЫСОКОГОРСКИЙ РАЙОН';
-    private $City = 'ЖЕЛЕЗНОДОРОЖНОЙ СТАНЦИИ ВЫСОКАЯ ГОРА';
+    private $Area = 'Высокогорский район';
+    private $City = 'Железнодорожной Станции Высокая Гора';
     private $City1 = '';
     private $ActDate = '20110915';
     private $IndexOld = '';

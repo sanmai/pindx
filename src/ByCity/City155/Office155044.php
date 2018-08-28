@@ -27,14 +27,14 @@ final class Office155044 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 155044;
-    private $OPSName = 'ТЕЙКОВО 4';
+    private $OPSName = 'Тейково 4';
     private $OPSType = 'О';
     private $OPSSubm = 155059;
-    private $Region = 'ИВАНОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ивановская область';
     private $Autonom = '';
-    private $Area = 'ТЕЙКОВСКИЙ РАЙОН';
-    private $City = 'ТЕЙКОВО';
-    private $City1 = 'ГРОЗИЛОВО';
+    private $Area = 'Тейковский район';
+    private $City = 'Тейково';
+    private $City1 = 'Грозилово';
     private $ActDate = '20001030';
     private $IndexOld = '';
 }

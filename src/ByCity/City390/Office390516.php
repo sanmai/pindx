@@ -27,13 +27,13 @@ final class Office390516 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 390516;
-    private $OPSName = 'ГАВЕРДОВО';
+    private $OPSName = 'Гавердово';
     private $OPSType = 'О';
     private $OPSSubm = 390099;
-    private $Region = 'РЯЗАНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Рязанская область';
     private $Autonom = '';
-    private $Area = 'РЯЗАНСКИЙ РАЙОН';
-    private $City = 'ГАВЕРДОВО';
+    private $Area = 'Рязанский район';
+    private $City = 'Гавердово';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

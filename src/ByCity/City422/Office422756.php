@@ -27,13 +27,13 @@ final class Office422756 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 422756;
-    private $OPSName = 'БОЛЬШОЙ МЕНГЕР';
+    private $OPSName = 'Большой Менгер';
     private $OPSType = 'О';
     private $OPSSubm = 422049;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'АТНИНСКИЙ РАЙОН';
-    private $City = 'БОЛЬШОЙ МЕНГЕР';
+    private $Area = 'Атнинский район';
+    private $City = 'Большой Менгер';
     private $City1 = '';
     private $ActDate = '20091117';
     private $IndexOld = '';

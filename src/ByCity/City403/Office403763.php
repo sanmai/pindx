@@ -27,13 +27,13 @@ final class Office403763 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 403763;
-    private $OPSName = 'БОЛЬШАЯ КНЯЗЕВКА';
+    private $OPSName = 'Большая Князевка';
     private $OPSType = 'О';
     private $OPSSubm = 403790;
-    private $Region = 'ВОЛГОГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Волгоградская область';
     private $Autonom = '';
-    private $Area = 'ЖИРНОВСКИЙ РАЙОН';
-    private $City = 'БОЛЬШАЯ КНЯЗЕВКА';
+    private $Area = 'Жирновский район';
+    private $City = 'Большая Князевка';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

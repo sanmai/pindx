@@ -27,13 +27,13 @@ final class Office442360 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 442360;
-    private $OPSName = 'НЕЧАЕВКА';
+    private $OPSName = 'Нечаевка';
     private $OPSType = 'О';
     private $OPSSubm = 442789;
-    private $Region = 'ПЕНЗЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Пензенская область';
     private $Autonom = '';
-    private $Area = 'МОКШАНСКИЙ РАЙОН';
-    private $City = 'НЕЧАЕВКА';
+    private $Area = 'Мокшанский район';
+    private $City = 'Нечаевка';
     private $City1 = '';
     private $ActDate = '20060626';
     private $IndexOld = '';

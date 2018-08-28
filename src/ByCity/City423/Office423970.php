@@ -27,13 +27,13 @@ final class Office423970 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 423970;
-    private $OPSName = 'МУСЛЮМОВО';
+    private $OPSName = 'Муслюмово';
     private $OPSType = 'О';
     private $OPSSubm = 423349;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'МУСЛЮМОВСКИЙ РАЙОН';
-    private $City = 'МУСЛЮМОВО';
+    private $Area = 'Муслюмовский район';
+    private $City = 'Муслюмово';
     private $City1 = '';
     private $ActDate = '20111223';
     private $IndexOld = '';

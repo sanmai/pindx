@@ -27,13 +27,13 @@ final class Office215675 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 215675;
-    private $OPSName = 'ВЛАДИМИРСКИЙ ТУПИК';
+    private $OPSName = 'Владимирский Тупик';
     private $OPSType = 'О';
     private $OPSSubm = 215569;
-    private $Region = 'СМОЛЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Смоленская область';
     private $Autonom = '';
-    private $Area = 'ХОЛМ-ЖИРКОВСКИЙ РАЙОН';
-    private $City = 'ВЛАДИМИРСКИЙ ТУПИК';
+    private $Area = 'Холм-Жирковский район';
+    private $City = 'Владимирский Тупик';
     private $City1 = '';
     private $ActDate = '20180813';
     private $IndexOld = '';

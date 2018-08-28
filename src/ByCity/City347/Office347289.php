@@ -27,13 +27,13 @@ final class Office347289 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 347289;
-    private $OPSName = 'КОНСТАНТИНОВСК ПОЧТАМТ';
+    private $OPSName = 'Константиновск Почтамт';
     private $OPSType = 'П';
     private $OPSSubm = 344700;
-    private $Region = 'РОСТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ростовская область';
     private $Autonom = '';
-    private $Area = 'КОНСТАНТИНОВСКИЙ РАЙОН';
-    private $City = 'КОНСТАНТИНОВСК';
+    private $Area = 'Константиновский район';
+    private $City = 'Константиновск';
     private $City1 = '';
     private $ActDate = '20120517';
     private $IndexOld = '';

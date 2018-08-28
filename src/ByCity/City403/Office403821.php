@@ -27,13 +27,13 @@ final class Office403821 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 403821;
-    private $OPSName = 'ПЕРЕЩЕПНОЕ';
+    private $OPSName = 'Перещепное';
     private $OPSType = 'О';
     private $OPSSubm = 403870;
-    private $Region = 'ВОЛГОГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Волгоградская область';
     private $Autonom = '';
-    private $Area = 'КОТОВСКИЙ РАЙОН';
-    private $City = 'ПЕРЕЩЕПНОЕ';
+    private $Area = 'Котовский район';
+    private $City = 'Перещепное';
     private $City1 = '';
     private $ActDate = '20120613';
     private $IndexOld = '';

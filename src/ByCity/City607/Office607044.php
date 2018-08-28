@@ -27,13 +27,13 @@ final class Office607044 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 607044;
-    private $OPSName = 'БЛИЖНЕ-ПЕСОЧНОЕ';
+    private $OPSName = 'Ближне-Песочное';
     private $OPSType = 'О';
     private $OPSSubm = 607079;
-    private $Region = 'НИЖЕГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Нижегородская область';
     private $Autonom = '';
-    private $Area = 'ВЫКСУНСКИЙ РАЙОН';
-    private $City = 'БЛИЖНЕ-ПЕСОЧНОЕ';
+    private $Area = 'Выксунский район';
+    private $City = 'Ближне-Песочное';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

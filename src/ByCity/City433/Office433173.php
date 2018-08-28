@@ -27,13 +27,13 @@ final class Office433173 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 433173;
-    private $OPSName = 'РЕПЬЕВКА-КОСМЫНКА';
+    private $OPSName = 'Репьевка-Космынка';
     private $OPSType = 'О';
     private $OPSSubm = 433179;
-    private $Region = 'УЛЬЯНОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ульяновская область';
     private $Autonom = '';
-    private $Area = 'МАЙНСКИЙ РАЙОН';
-    private $City = 'РЕПЬЕВКА-КОСМЫНКА';
+    private $Area = 'Майнский район';
+    private $City = 'Репьевка-Космынка';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

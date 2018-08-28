@@ -27,13 +27,13 @@ final class Office427066 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 427066;
-    private $OPSName = 'ЗАРЕЧНАЯ МЕДЛА';
+    private $OPSName = 'Заречная Медла';
     private $OPSType = 'О';
     private $OPSSubm = 427169;
-    private $Region = 'УДМУРТСКАЯ РЕСПУБЛИКА';
+    private $Region = 'Удмуртская Республика';
     private $Autonom = '';
-    private $Area = 'ДЕБЕССКИЙ РАЙОН';
-    private $City = 'ЗАРЕЧНАЯ МЕДЛА';
+    private $Area = 'Дебесский район';
+    private $City = 'Заречная Медла';
     private $City1 = '';
     private $ActDate = '20041229';
     private $IndexOld = '';

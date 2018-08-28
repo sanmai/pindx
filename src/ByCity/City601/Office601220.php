@@ -27,13 +27,13 @@ final class Office601220 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 601220;
-    private $OPSName = 'СТАВРОВО';
+    private $OPSName = 'Ставрово';
     private $OPSType = 'О';
     private $OPSSubm = 601140;
-    private $Region = 'ВЛАДИМИРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Владимирская область';
     private $Autonom = '';
-    private $Area = 'СОБИНСКИЙ РАЙОН';
-    private $City = 'СТАВРОВО';
+    private $Area = 'Собинский район';
+    private $City = 'Ставрово';
     private $City1 = '';
     private $ActDate = '20111024';
     private $IndexOld = '';

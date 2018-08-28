@@ -27,13 +27,13 @@ final class Office431594 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 431594;
-    private $OPSName = 'СТАРЫЕ ТУРДАКИ';
+    private $OPSName = 'Старые Турдаки';
     private $OPSType = 'О';
     private $OPSSubm = 430000;
-    private $Region = 'МОРДОВИЯ РЕСПУБЛИКА';
+    private $Region = 'Мордовия Республика';
     private $Autonom = '';
-    private $Area = 'КОЧКУРОВСКИЙ РАЙОН';
-    private $City = 'СТАРЫЕ ТУРДАКИ';
+    private $Area = 'Кочкуровский район';
+    private $City = 'Старые Турдаки';
     private $City1 = '';
     private $ActDate = '20051212';
     private $IndexOld = '';

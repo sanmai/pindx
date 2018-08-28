@@ -27,13 +27,13 @@ final class Office399254 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 399254;
-    private $OPSName = 'КРЕЩЕНКА';
+    private $OPSName = 'Крещенка';
     private $OPSType = 'О';
     private $OPSSubm = 399379;
-    private $Region = 'ЛИПЕЦКАЯ ОБЛАСТЬ';
+    private $Region = 'Липецкая область';
     private $Autonom = '';
-    private $Area = 'ХЛЕВЕНСКИЙ РАЙОН';
-    private $City = 'КРЕЩЕНКА';
+    private $Area = 'Хлевенский район';
+    private $City = 'Крещенка';
     private $City1 = '';
     private $ActDate = '20130301';
     private $IndexOld = '';

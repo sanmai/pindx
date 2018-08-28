@@ -27,13 +27,13 @@ final class Office353544 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 353544;
-    private $OPSName = 'ВЕСЕЛОВКА';
+    private $OPSName = 'Веселовка';
     private $OPSType = 'О';
     private $OPSSubm = 353559;
-    private $Region = 'КРАСНОДАРСКИЙ КРАЙ';
+    private $Region = 'Краснодарский край';
     private $Autonom = '';
-    private $Area = 'ТЕМРЮКСКИЙ РАЙОН';
-    private $City = 'ВЕСЕЛОВКА';
+    private $Area = 'Темрюкский район';
+    private $City = 'Веселовка';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

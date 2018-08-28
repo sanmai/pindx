@@ -27,13 +27,13 @@ final class Office363766 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 363766;
-    private $OPSName = 'МОЗДОК КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Моздок Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 363750;
-    private $Region = 'СЕВЕРНАЯ ОСЕТИЯ - АЛАНИЯ РЕСПУБЛИКА';
+    private $Region = 'Северная Осетия - Алания Республика';
     private $Autonom = '';
-    private $Area = 'МОЗДОКСКИЙ РАЙОН';
-    private $City = 'МОЗДОК';
+    private $Area = 'Моздокский район';
+    private $City = 'Моздок';
     private $City1 = '';
     private $ActDate = '20161107';
     private $IndexOld = '';

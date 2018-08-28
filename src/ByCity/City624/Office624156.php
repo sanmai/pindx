@@ -27,14 +27,14 @@ final class Office624156 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 624156;
-    private $OPSName = 'ЛЕВИХА';
+    private $OPSName = 'Левиха';
     private $OPSType = 'О';
     private $OPSSubm = 624139;
-    private $Region = 'СВЕРДЛОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Свердловская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'КИРОВГРАД';
-    private $City1 = 'ЛЕВИХА';
+    private $City = 'Кировград';
+    private $City1 = 'Левиха';
     private $ActDate = '20100929';
     private $IndexOld = '';
 }

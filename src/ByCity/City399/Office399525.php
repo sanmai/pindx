@@ -27,13 +27,13 @@ final class Office399525 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 399525;
-    private $OPSName = 'ВЕРХНИЙ ЛОМОВЕЦ';
+    private $OPSName = 'Верхний Ломовец';
     private $OPSType = 'О';
     private $OPSSubm = 399569;
-    private $Region = 'ЛИПЕЦКАЯ ОБЛАСТЬ';
+    private $Region = 'Липецкая область';
     private $Autonom = '';
-    private $Area = 'ДОЛГОРУКОВСКИЙ РАЙОН';
-    private $City = 'ВЕРХНИЙ ЛОМОВЕЦ';
+    private $Area = 'Долгоруковский район';
+    private $City = 'Верхний Ломовец';
     private $City1 = '';
     private $ActDate = '20060503';
     private $IndexOld = '';

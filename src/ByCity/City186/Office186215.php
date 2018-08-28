@@ -27,13 +27,13 @@ final class Office186215 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 186215;
-    private $OPSName = 'КОНДОПОГА 15';
-    private $OPSType = 'ПЕРЕДВИЖНОЕ ОС';
+    private $OPSName = 'Кондопога 15';
+    private $OPSType = 'Передвижное Ос';
     private $OPSSubm = 185000;
-    private $Region = 'КАРЕЛИЯ РЕСПУБЛИКА';
+    private $Region = 'Карелия Республика';
     private $Autonom = '';
-    private $Area = 'КОНДОПОЖСКИЙ РАЙОН';
-    private $City = 'КОНДОПОГА';
+    private $Area = 'Кондопожский район';
+    private $City = 'Кондопога';
     private $City1 = '';
     private $ActDate = '20150710';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office249277 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 249277;
-    private $OPSName = 'СУХИНИЧИ 7';
-    private $OPSType = 'ПЕРЕДВИЖНОЕ ОС';
+    private $OPSName = 'Сухиничи 7';
+    private $OPSType = 'Передвижное Ос';
     private $OPSSubm = 249270;
-    private $Region = 'КАЛУЖСКАЯ ОБЛАСТЬ';
+    private $Region = 'Калужская область';
     private $Autonom = '';
-    private $Area = 'СУХИНИЧСКИЙ РАЙОН';
-    private $City = 'СУХИНИЧИ';
+    private $Area = 'Сухиничский район';
+    private $City = 'Сухиничи';
     private $City1 = '';
     private $ActDate = '20170725';
     private $IndexOld = '';

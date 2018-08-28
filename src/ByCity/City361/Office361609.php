@@ -27,13 +27,13 @@ final class Office361609 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 361609;
-    private $OPSName = 'НЕЙТРИНО';
+    private $OPSName = 'Нейтрино';
     private $OPSType = 'О';
     private $OPSSubm = 360000;
-    private $Region = 'КАБАРДИНО-БАЛКАРСКАЯ РЕСПУБЛИКА';
+    private $Region = 'Кабардино-Балкарская Республика';
     private $Autonom = '';
-    private $Area = 'ЭЛЬБРУССКИЙ РАЙОН';
-    private $City = 'НЕЙТРИНО';
+    private $Area = 'Эльбрусский район';
+    private $City = 'Нейтрино';
     private $City1 = '';
     private $ActDate = '20070814';
     private $IndexOld = '';

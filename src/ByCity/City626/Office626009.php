@@ -27,13 +27,13 @@ final class Office626009 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 626009;
-    private $OPSName = 'НИЖНЯЯ ТАВДА УООП';
+    private $OPSName = 'Нижняя Тавда Уооп';
     private $OPSType = 'Участок';
     private $OPSSubm = 625500;
-    private $Region = 'ТЮМЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тюменская область';
     private $Autonom = '';
-    private $Area = 'НИЖНЕТАВДИНСКИЙ РАЙОН';
-    private $City = 'НИЖНЯЯ ТАВДА';
+    private $Area = 'Нижнетавдинский район';
+    private $City = 'Нижняя Тавда';
     private $City1 = '';
     private $ActDate = '20161025';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office674611 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 674611;
-    private $OPSName = 'АЛЕКСАНДРОВСКИЙ ЗАВОД';
-    private $OPSType = 'ПЕРЕДВИЖНОЕ ОС';
+    private $OPSName = 'Александровский Завод';
+    private $OPSType = 'Передвижное Ос';
     private $OPSSubm = 674609;
-    private $Region = 'ЗАБАЙКАЛЬСКИЙ КРАЙ';
+    private $Region = 'Забайкальский край';
     private $Autonom = '';
-    private $Area = 'АЛЕКСАНДРОВО-ЗАВОДСКИЙ РАЙОН';
-    private $City = 'АЛЕКСАНДРОВСКИЙ ЗАВОД';
+    private $Area = 'Александрово-Заводский район';
+    private $City = 'Александровский Завод';
     private $City1 = '';
     private $ActDate = '20150331';
     private $IndexOld = '';

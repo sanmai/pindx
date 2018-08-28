@@ -27,13 +27,13 @@ final class Office429256 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 429256;
-    private $OPSName = 'ЯНДОБА';
+    private $OPSName = 'Яндоба';
     private $OPSType = 'О';
     private $OPSSubm = 429139;
-    private $Region = 'ЧУВАШИЯ РЕСПУБЛИКА';
+    private $Region = 'Чувашия Республика';
     private $Autonom = '';
-    private $Area = 'АЛИКОВСКИЙ РАЙОН';
-    private $City = 'ЯНДОБА';
+    private $Area = 'Аликовский район';
+    private $City = 'Яндоба';
     private $City1 = '';
     private $ActDate = '20070302';
     private $IndexOld = '';

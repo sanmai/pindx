@@ -27,13 +27,13 @@ final class Office431063 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 431063;
-    private $OPSName = 'СТРЕЛЬНИКОВО';
+    private $OPSName = 'Стрельниково';
     private $OPSType = 'О';
     private $OPSSubm = 431029;
-    private $Region = 'МОРДОВИЯ РЕСПУБЛИКА';
+    private $Region = 'Мордовия Республика';
     private $Autonom = '';
-    private $Area = 'АТЮРЬЕВСКИЙ РАЙОН';
-    private $City = 'СТРЕЛЬНИКОВО';
+    private $Area = 'Атюрьевский район';
+    private $City = 'Стрельниково';
     private $City1 = '';
     private $ActDate = '20051212';
     private $IndexOld = '';

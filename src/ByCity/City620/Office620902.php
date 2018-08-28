@@ -27,14 +27,14 @@ final class Office620902 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 620902;
-    private $OPSName = 'ГОРНЫЙ ЩИТ';
+    private $OPSName = 'Горный Щит';
     private $OPSType = 'О';
     private $OPSSubm = 620999;
-    private $Region = 'СВЕРДЛОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Свердловская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'ЕКАТЕРИНБУРГ';
-    private $City1 = 'ГОРНЫЙ ЩИТ';
+    private $City = 'Екатеринбург';
+    private $City1 = 'Горный Щит';
     private $ActDate = '20001030';
     private $IndexOld = '';
 }

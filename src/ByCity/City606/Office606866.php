@@ -27,13 +27,13 @@ final class Office606866 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 606866;
-    private $OPSName = 'БЕЛЫШЕВО ППС';
-    private $OPSType = 'ППС';
+    private $OPSName = 'Белышево Ппс';
+    private $OPSType = 'Ппс';
     private $OPSSubm = 606879;
-    private $Region = 'НИЖЕГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Нижегородская область';
     private $Autonom = '';
-    private $Area = 'ВЕТЛУЖСКИЙ РАЙОН';
-    private $City = 'БЕЛЫШЕВО';
+    private $Area = 'Ветлужский район';
+    private $City = 'Белышево';
     private $City1 = '';
     private $ActDate = '20170711';
     private $IndexOld = '';

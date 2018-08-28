@@ -27,13 +27,13 @@ final class Office601045 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 601045;
-    private $OPSName = 'АФАНАСОВО ППС';
-    private $OPSType = 'ППС';
+    private $OPSName = 'Афанасово Ппс';
+    private $OPSType = 'Ппс';
     private $OPSSubm = 601659;
-    private $Region = 'ВЛАДИМИРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Владимирская область';
     private $Autonom = '';
-    private $Area = 'КИРЖАЧСКИЙ РАЙОН';
-    private $City = 'АФАНАСОВО';
+    private $Area = 'Киржачский район';
+    private $City = 'Афанасово';
     private $City1 = '';
     private $ActDate = '20170713';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office423114 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 423114;
-    private $OPSName = 'НИЖНЯЯ КАМЕНКА';
+    private $OPSName = 'Нижняя Каменка';
     private $OPSType = 'О';
     private $OPSSubm = 423469;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'ЧЕРЕМШАНСКИЙ РАЙОН';
-    private $City = 'НИЖНЯЯ КАМЕНКА';
+    private $Area = 'Черемшанский район';
+    private $City = 'Нижняя Каменка';
     private $City1 = '';
     private $ActDate = '20030123';
     private $IndexOld = '';

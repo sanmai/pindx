@@ -27,13 +27,13 @@ final class Office456105 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 456105;
-    private $OPSName = 'СЕРПИЕВКА';
+    private $OPSName = 'Серпиевка';
     private $OPSType = 'О';
     private $OPSSubm = 456069;
-    private $Region = 'ЧЕЛЯБИНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Челябинская область';
     private $Autonom = '';
-    private $Area = 'КАТАВ-ИВАНОВСКИЙ РАЙОН';
-    private $City = 'СЕРПИЕВКА';
+    private $Area = 'Катав-Ивановский район';
+    private $City = 'Серпиевка';
     private $City1 = '';
     private $ActDate = '20061101';
     private $IndexOld = '';

@@ -27,14 +27,14 @@ final class Office298180 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 298180;
-    private $OPSName = 'НАСЫПНОЕ';
+    private $OPSName = 'Насыпное';
     private $OPSType = 'О';
     private $OPSSubm = 298199;
-    private $Region = 'КРЫМ РЕСПУБЛИКА';
+    private $Region = 'Крым Республика';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'ФЕОДОСИЯ';
-    private $City1 = 'НАСЫПНОЕ';
+    private $City = 'Феодосия';
+    private $City1 = 'Насыпное';
     private $ActDate = '20140325';
     private $IndexOld = '';
 }

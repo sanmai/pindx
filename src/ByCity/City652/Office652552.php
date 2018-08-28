@@ -27,14 +27,14 @@ final class Office652552 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 652552;
-    private $OPSName = 'НИКИТИНСКИЙ';
+    private $OPSName = 'Никитинский';
     private $OPSType = 'О';
     private $OPSSubm = 652599;
-    private $Region = 'КЕМЕРОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Кемеровская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'ЛЕНИНСК-КУЗНЕЦКИЙ';
-    private $City1 = 'НИКИТИНСКИЙ';
+    private $City = 'Ленинск-Кузнецкий';
+    private $City1 = 'Никитинский';
     private $ActDate = '20180813';
     private $IndexOld = '';
 }

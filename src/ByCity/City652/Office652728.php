@@ -27,14 +27,14 @@ final class Office652728 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 652728;
-    private $OPSName = 'ВЕРХ-ЧУМЫШ';
+    private $OPSName = 'Верх-Чумыш';
     private $OPSType = 'О';
     private $OPSSubm = 653099;
-    private $Region = 'КЕМЕРОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Кемеровская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'КИСЕЛЕВСК';
-    private $City1 = 'ВЕРХ-ЧУМЫШ';
+    private $City = 'Киселевск';
+    private $City1 = 'Верх-Чумыш';
     private $ActDate = '20070321';
     private $IndexOld = '';
 }

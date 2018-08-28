@@ -27,10 +27,10 @@ final class Office190020 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 190020;
-    private $OPSName = 'САНКТ-ПЕТЕРБУРГ 20';
+    private $OPSName = 'Санкт-Петербург 20';
     private $OPSType = 'О';
     private $OPSSubm = 190999;
-    private $Region = 'САНКТ-ПЕТЕРБУРГ';
+    private $Region = 'Санкт-Петербург';
     private $Autonom = '';
     private $Area = '';
     private $City = '';

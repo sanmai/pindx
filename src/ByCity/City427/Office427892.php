@@ -27,13 +27,13 @@ final class Office427892 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 427892;
-    private $OPSName = 'НИЖНИЙ СЫРЬЕЗ';
+    private $OPSName = 'Нижний Сырьез';
     private $OPSType = 'О';
     private $OPSSubm = 427749;
-    private $Region = 'УДМУРТСКАЯ РЕСПУБЛИКА';
+    private $Region = 'Удмуртская Республика';
     private $Autonom = '';
-    private $Area = 'АЛНАШСКИЙ РАЙОН';
-    private $City = 'НИЖНИЙ СЫРЬЕЗ';
+    private $Area = 'Алнашский район';
+    private $City = 'Нижний Сырьез';
     private $City1 = '';
     private $ActDate = '20110809';
     private $IndexOld = '';

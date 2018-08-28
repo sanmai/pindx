@@ -27,13 +27,13 @@ final class Office309771 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 309771;
-    private $OPSName = 'НИЖНЯЯ СЕРЕБРЯНКА';
+    private $OPSName = 'Нижняя Серебрянка';
     private $OPSType = 'О';
     private $OPSSubm = 309990;
-    private $Region = 'БЕЛГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Белгородская область';
     private $Autonom = '';
-    private $Area = 'РОВЕНЬСКИЙ РАЙОН';
-    private $City = 'НИЖНЯЯ СЕРЕБРЯНКА';
+    private $Area = 'Ровеньский район';
+    private $City = 'Нижняя Серебрянка';
     private $City1 = '';
     private $ActDate = '20060905';
     private $IndexOld = '';

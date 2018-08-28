@@ -27,13 +27,13 @@ final class Office249311 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 249311;
-    private $OPSName = 'ВЕРХНЕЕ ГУЛЬЦОВО';
+    private $OPSName = 'Верхнее Гульцово';
     private $OPSType = 'О';
     private $OPSSubm = 249270;
-    private $Region = 'КАЛУЖСКАЯ ОБЛАСТЬ';
+    private $Region = 'Калужская область';
     private $Autonom = '';
-    private $Area = 'ДУМИНИЧСКИЙ РАЙОН';
-    private $City = 'ВЕРХНЕЕ ГУЛЬЦОВО';
+    private $Area = 'Думиничский район';
+    private $City = 'Верхнее Гульцово';
     private $City1 = '';
     private $ActDate = '20051110';
     private $IndexOld = '';

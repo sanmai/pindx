@@ -27,13 +27,13 @@ final class Office652499 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 652499;
-    private $OPSName = 'АНЖЕРО-СУДЖЕНСК ПОЧТАМТ';
+    private $OPSName = 'Анжеро-Судженск Почтамт';
     private $OPSType = 'П';
     private $OPSSubm = 650700;
-    private $Region = 'КЕМЕРОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Кемеровская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'АНЖЕРО-СУДЖЕНСК';
+    private $City = 'Анжеро-Судженск';
     private $City1 = '';
     private $ActDate = '20080326';
     private $IndexOld = '';

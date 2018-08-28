@@ -27,13 +27,13 @@ final class Office671623 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 671623;
-    private $OPSName = 'УСТЬ-БАРГУЗИН';
+    private $OPSName = 'Усть-Баргузин';
     private $OPSType = 'О';
     private $OPSSubm = 671289;
-    private $Region = 'БУРЯТИЯ РЕСПУБЛИКА';
+    private $Region = 'Бурятия Республика';
     private $Autonom = '';
-    private $Area = 'БАРГУЗИНСКИЙ РАЙОН';
-    private $City = 'УСТЬ-БАРГУЗИН';
+    private $Area = 'Баргузинский район';
+    private $City = 'Усть-Баргузин';
     private $City1 = '';
     private $ActDate = '20071224';
     private $IndexOld = '';

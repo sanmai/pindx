@@ -27,13 +27,13 @@ final class Office396534 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 396534;
-    private $OPSName = 'БОЛЬШАЯ ХВОЩЕВАТКА';
+    private $OPSName = 'Большая Хвощеватка';
     private $OPSType = 'О';
     private $OPSSubm = 396669;
-    private $Region = 'ВОРОНЕЖСКАЯ ОБЛАСТЬ';
+    private $Region = 'Воронежская область';
     private $Autonom = '';
-    private $Area = 'ПОДГОРЕНСКИЙ РАЙОН';
-    private $City = 'БОЛЬШАЯ ХВОЩЕВАТКА';
+    private $Area = 'Подгоренский район';
+    private $City = 'Большая Хвощеватка';
     private $City1 = '';
     private $ActDate = '20111004';
     private $IndexOld = '';

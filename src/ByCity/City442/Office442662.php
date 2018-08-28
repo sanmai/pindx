@@ -27,13 +27,13 @@ final class Office442662 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 442662;
-    private $OPSName = 'БАЗАРНАЯ КЕНЬША';
+    private $OPSName = 'Базарная Кеньша';
     private $OPSType = 'О';
     private $OPSSubm = 442699;
-    private $Region = 'ПЕНЗЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Пензенская область';
     private $Autonom = '';
-    private $Area = 'НИКОЛЬСКИЙ РАЙОН';
-    private $City = 'БАЗАРНАЯ КЕНЬША';
+    private $Area = 'Никольский район';
+    private $City = 'Базарная Кеньша';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

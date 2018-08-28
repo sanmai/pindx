@@ -27,13 +27,13 @@ final class Office694320 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 694320;
-    private $OPSName = 'БУЮКЛЫ';
+    private $OPSName = 'Буюклы';
     private $OPSType = 'О';
     private $OPSSubm = 694249;
-    private $Region = 'САХАЛИНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Сахалинская область';
     private $Autonom = '';
-    private $Area = 'СМИРНЫХОВСКИЙ РАЙОН';
-    private $City = 'БУЮКЛЫ';
+    private $Area = 'Смирныховский район';
+    private $City = 'Буюклы';
     private $City1 = '';
     private $ActDate = '20051212';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office301020 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 301020;
-    private $OPSName = 'ПАХОМОВО';
+    private $OPSName = 'Пахомово';
     private $OPSType = 'О';
     private $OPSSubm = 301379;
-    private $Region = 'ТУЛЬСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тульская область';
     private $Autonom = '';
-    private $Area = 'ЗАОКСКИЙ РАЙОН';
-    private $City = 'ПАХОМОВО';
+    private $Area = 'Заокский район';
+    private $City = 'Пахомово';
     private $City1 = '';
     private $ActDate = '20020701';
     private $IndexOld = '';

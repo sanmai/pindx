@@ -27,13 +27,13 @@ final class Office641584 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 641584;
-    private $OPSName = 'ЧЕРДЫНЦЕВО';
+    private $OPSName = 'Чердынцево';
     private $OPSType = 'О';
     private $OPSSubm = 641639;
-    private $Region = 'КУРГАНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Курганская область';
     private $Autonom = '';
-    private $Area = 'ЧАСТООЗЕРСКИЙ РАЙОН';
-    private $City = 'ЧЕРДЫНЦЕВО';
+    private $Area = 'Частоозерский район';
+    private $City = 'Чердынцево';
     private $City1 = '';
     private $ActDate = '20051116';
     private $IndexOld = '';

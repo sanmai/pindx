@@ -27,13 +27,13 @@ final class Office679109 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 679109;
-    private $OPSName = 'ОБЛУЧЬЕ СТРХ. УЧ.';
+    private $OPSName = 'Облучье Стрх. Уч.';
     private $OPSType = 'Участок';
     private $OPSSubm = 679100;
     private $Region = '';
-    private $Autonom = 'ЕВРЕЙСКАЯ АВТОНОМНАЯ ОБЛАСТЬ';
-    private $Area = 'ОБЛУЧЕНСКИЙ РАЙОН';
-    private $City = 'ОБЛУЧЬЕ';
+    private $Autonom = 'Еврейская автономная область';
+    private $Area = 'Облученский район';
+    private $City = 'Облучье';
     private $City1 = '';
     private $ActDate = '20060517';
     private $IndexOld = '';

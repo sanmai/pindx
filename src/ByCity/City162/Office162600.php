@@ -27,13 +27,13 @@ final class Office162600 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 162600;
-    private $OPSName = 'ЧЕРЕПОВЕЦ ПОЧТАМТ';
+    private $OPSName = 'Череповец Почтамт';
     private $OPSType = 'П';
     private $OPSSubm = 160700;
-    private $Region = 'ВОЛОГОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Вологодская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'ЧЕРЕПОВЕЦ';
+    private $City = 'Череповец';
     private $City1 = '';
     private $ActDate = '20090917';
     private $IndexOld = '';

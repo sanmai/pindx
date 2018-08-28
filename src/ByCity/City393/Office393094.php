@@ -27,13 +27,13 @@ final class Office393094 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 393094;
-    private $OPSName = 'НАЙДЕНОВКА';
+    private $OPSName = 'Найденовка';
     private $OPSType = 'О';
     private $OPSSubm = 393779;
-    private $Region = 'ТАМБОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тамбовская область';
     private $Autonom = '';
-    private $Area = 'ПЕТРОВСКИЙ РАЙОН';
-    private $City = 'НАЙДЕНОВКА';
+    private $Area = 'Петровский район';
+    private $City = 'Найденовка';
     private $City1 = '';
     private $ActDate = '20080115';
     private $IndexOld = '';

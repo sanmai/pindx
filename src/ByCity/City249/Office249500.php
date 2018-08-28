@@ -27,13 +27,13 @@ final class Office249500 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 249500;
-    private $OPSName = 'БЕТЛИЦА';
+    private $OPSName = 'Бетлица';
     private $OPSType = 'О';
     private $OPSSubm = 249449;
-    private $Region = 'КАЛУЖСКАЯ ОБЛАСТЬ';
+    private $Region = 'Калужская область';
     private $Autonom = '';
-    private $Area = 'КУЙБЫШЕВСКИЙ РАЙОН';
-    private $City = 'БЕТЛИЦА';
+    private $Area = 'Куйбышевский район';
+    private $City = 'Бетлица';
     private $City1 = '';
     private $ActDate = '20061102';
     private $IndexOld = '';

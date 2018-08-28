@@ -27,13 +27,13 @@ final class Office994300 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 994300;
-    private $OPSName = 'ИРКУТСК-ПОЧТОМАТ (АПС)';
+    private $OPSName = 'Иркутск-Почтомат (Апс)';
     private $OPSType = 'Почтомат';
     private $OPSSubm = 664043;
-    private $Region = 'ИРКУТСКАЯ ОБЛАСТЬ';
+    private $Region = 'Иркутская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'ИРКУТСК';
+    private $City = 'Иркутск';
     private $City1 = '';
     private $ActDate = '20171206';
     private $IndexOld = '';

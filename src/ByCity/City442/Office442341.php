@@ -27,13 +27,13 @@ final class Office442341 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 442341;
-    private $OPSName = 'ДИГИЛЕВКА';
+    private $OPSName = 'Дигилевка';
     private $OPSType = 'О';
     private $OPSSubm = 442699;
-    private $Region = 'ПЕНЗЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Пензенская область';
     private $Autonom = '';
-    private $Area = 'ГОРОДИЩЕНСКИЙ РАЙОН';
-    private $City = 'ДИГИЛЕВКА';
+    private $Area = 'Городищенский район';
+    private $City = 'Дигилевка';
     private $City1 = '';
     private $ActDate = '20060626';
     private $IndexOld = '';

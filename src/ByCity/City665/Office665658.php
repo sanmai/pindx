@@ -27,13 +27,13 @@ final class Office665658 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 665658;
-    private $OPSName = 'ЖЕЛЕЗНОГОРСК-ИЛИМСКИЙ УООП';
+    private $OPSName = 'Железногорск-Илимский Уооп';
     private $OPSType = 'Участок';
     private $OPSSubm = 665650;
-    private $Region = 'ИРКУТСКАЯ ОБЛАСТЬ';
+    private $Region = 'Иркутская область';
     private $Autonom = '';
-    private $Area = 'НИЖНЕИЛИМСКИЙ РАЙОН';
-    private $City = 'ЖЕЛЕЗНОГОРСК-ИЛИМСКИЙ';
+    private $Area = 'Нижнеилимский район';
+    private $City = 'Железногорск-Илимский';
     private $City1 = '';
     private $ActDate = '20180510';
     private $IndexOld = '';

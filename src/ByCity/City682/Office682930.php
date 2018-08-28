@@ -27,13 +27,13 @@ final class Office682930 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 682930;
-    private $OPSName = 'БИЧЕВАЯ';
+    private $OPSName = 'Бичевая';
     private $OPSType = 'О';
     private $OPSSubm = 682938;
-    private $Region = 'ХАБАРОВСКИЙ КРАЙ';
+    private $Region = 'Хабаровский край';
     private $Autonom = '';
-    private $Area = 'ИМЕНИ ЛАЗО РАЙОН';
-    private $City = 'БИЧЕВАЯ';
+    private $Area = 'Имени Лазо район';
+    private $City = 'Бичевая';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

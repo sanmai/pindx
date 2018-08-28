@@ -27,14 +27,14 @@ final class Office347142 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 347142;
-    private $OPSName = 'ОБЛИВСКАЯ 2';
+    private $OPSName = 'Обливская 2';
     private $OPSType = 'О';
     private $OPSSubm = 347239;
-    private $Region = 'РОСТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ростовская область';
     private $Autonom = '';
-    private $Area = 'ОБЛИВСКИЙ РАЙОН';
-    private $City = 'ОБЛИВСКАЯ';
-    private $City1 = 'МЕХЛЕСХОЗ';
+    private $Area = 'Обливский район';
+    private $City = 'Обливская';
+    private $City1 = 'Мехлесхоз';
     private $ActDate = '20070214';
     private $IndexOld = '';
 }

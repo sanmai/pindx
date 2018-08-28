@@ -27,13 +27,13 @@ final class Office346092 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 346092;
-    private $OPSName = 'МИТЯКИНСКАЯ';
+    private $OPSName = 'Митякинская';
     private $OPSType = 'О';
     private $OPSSubm = 347819;
-    private $Region = 'РОСТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ростовская область';
     private $Autonom = '';
-    private $Area = 'ТАРАСОВСКИЙ РАЙОН';
-    private $City = 'МИТЯКИНСКАЯ';
+    private $Area = 'Тарасовский район';
+    private $City = 'Митякинская';
     private $City1 = '';
     private $ActDate = '20070214';
     private $IndexOld = '';

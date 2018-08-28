@@ -27,13 +27,13 @@ final class Office623580 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 623580;
-    private $OPSName = 'ТИМОХИНСКОЕ';
+    private $OPSName = 'Тимохинское';
     private $OPSType = 'О';
     private $OPSSubm = 624869;
-    private $Region = 'СВЕРДЛОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Свердловская область';
     private $Autonom = '';
-    private $Area = 'ПЫШМИНСКИЙ РАЙОН';
-    private $City = 'ТИМОХИНСКОЕ';
+    private $Area = 'Пышминский район';
+    private $City = 'Тимохинское';
     private $City1 = '';
     private $ActDate = '20060627';
     private $IndexOld = '';

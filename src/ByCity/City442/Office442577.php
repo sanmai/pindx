@@ -27,13 +27,13 @@ final class Office442577 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 442577;
-    private $OPSName = 'РУССКИЙ КАЧИМ';
+    private $OPSName = 'Русский Качим';
     private $OPSType = 'О';
     private $OPSSubm = 442699;
-    private $Region = 'ПЕНЗЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Пензенская область';
     private $Autonom = '';
-    private $Area = 'СОСНОВОБОРСКИЙ РАЙОН';
-    private $City = 'РУССКИЙ КАЧИМ';
+    private $Area = 'Сосновоборский район';
+    private $City = 'Русский Качим';
     private $City1 = '';
     private $ActDate = '20060626';
     private $IndexOld = '';

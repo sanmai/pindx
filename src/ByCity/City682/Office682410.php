@@ -27,13 +27,13 @@ final class Office682410 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 682410;
-    private $OPSName = 'ЦИММЕРМАНОВКА';
+    private $OPSName = 'Циммермановка';
     private $OPSType = 'О';
     private $OPSSubm = 682459;
-    private $Region = 'ХАБАРОВСКИЙ КРАЙ';
+    private $Region = 'Хабаровский край';
     private $Autonom = '';
-    private $Area = 'УЛЬЧСКИЙ РАЙОН';
-    private $City = 'ЦИММЕРМАНОВКА';
+    private $Area = 'Ульчский район';
+    private $City = 'Циммермановка';
     private $City1 = '';
     private $ActDate = '20060620';
     private $IndexOld = '';

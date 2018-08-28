@@ -27,13 +27,13 @@ final class Office346391 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 346391;
-    private $OPSName = 'ТАБУНЩИКОВО';
+    private $OPSName = 'Табунщиково';
     private $OPSType = 'О';
     private $OPSSubm = 346369;
-    private $Region = 'РОСТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ростовская область';
     private $Autonom = '';
-    private $Area = 'КРАСНОСУЛИНСКИЙ РАЙОН';
-    private $City = 'ТАБУНЩИКОВО';
+    private $Area = 'Красносулинский район';
+    private $City = 'Табунщиково';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

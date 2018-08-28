@@ -27,13 +27,13 @@ final class Office352843 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 352843;
-    private $OPSName = 'ТЕНГИНКА';
+    private $OPSName = 'Тенгинка';
     private $OPSType = 'О';
     private $OPSSubm = 352859;
-    private $Region = 'КРАСНОДАРСКИЙ КРАЙ';
+    private $Region = 'Краснодарский край';
     private $Autonom = '';
-    private $Area = 'ТУАПСИНСКИЙ РАЙОН';
-    private $City = 'ТЕНГИНКА';
+    private $Area = 'Туапсинский район';
+    private $City = 'Тенгинка';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

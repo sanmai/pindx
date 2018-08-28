@@ -27,13 +27,13 @@ final class Office429585 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 429585;
-    private $OPSName = 'БОЛЬШОЕ ШИГАЕВО';
+    private $OPSName = 'Большое Шигаево';
     private $OPSType = 'О';
     private $OPSSubm = 429929;
-    private $Region = 'ЧУВАШИЯ РЕСПУБЛИКА';
+    private $Region = 'Чувашия Республика';
     private $Autonom = '';
-    private $Area = 'МАРИИНСКО-ПОСАДСКИЙ РАЙОН';
-    private $City = 'БОЛЬШОЕ ШИГАЕВО';
+    private $Area = 'Мариинско-Посадский район';
+    private $City = 'Большое Шигаево';
     private $City1 = '';
     private $ActDate = '20060609';
     private $IndexOld = '';

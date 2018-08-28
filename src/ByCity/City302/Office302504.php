@@ -27,13 +27,13 @@ final class Office302504 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 302504;
-    private $OPSName = 'БАКЛАНОВО';
+    private $OPSName = 'Бакланово';
     private $OPSType = 'О';
     private $OPSSubm = 302500;
-    private $Region = 'ОРЛОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Орловская область';
     private $Autonom = '';
-    private $Area = 'ОРЛОВСКИЙ РАЙОН';
-    private $City = 'БАКЛАНОВО';
+    private $Area = 'Орловский район';
+    private $City = 'Бакланово';
     private $City1 = '';
     private $ActDate = '20010518';
     private $IndexOld = '';

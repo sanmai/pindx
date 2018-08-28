@@ -27,13 +27,13 @@ final class Office152981 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 152981;
-    private $OPSName = 'САНАТОРИЙ ИМ. ВОРОВСКОГО';
+    private $OPSName = 'Санаторий Им. Воровского';
     private $OPSType = 'О';
     private $OPSSubm = 152939;
-    private $Region = 'ЯРОСЛАВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ярославская область';
     private $Autonom = '';
-    private $Area = 'РЫБИНСКИЙ РАЙОН';
-    private $City = 'САНАТОРИЙ ИМ ВОРОВСКОГО';
+    private $Area = 'Рыбинский район';
+    private $City = 'Санаторий Им Воровского';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office678220 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 678220;
-    private $OPSName = 'ТЕРБЯС';
+    private $OPSName = 'Тербяс';
     private $OPSType = 'О';
     private $OPSSubm = 678219;
-    private $Region = 'САХА (ЯКУТИЯ) РЕСПУБЛИКА';
+    private $Region = 'Саха (Якутия) Республика';
     private $Autonom = '';
-    private $Area = 'ВИЛЮЙСКИЙ РАЙОН';
-    private $City = 'ТЕРБЯС';
+    private $Area = 'Вилюйский район';
+    private $City = 'Тербяс';
     private $City1 = '';
     private $ActDate = '20180702';
     private $IndexOld = '';

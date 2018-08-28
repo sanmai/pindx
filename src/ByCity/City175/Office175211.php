@@ -27,13 +27,13 @@ final class Office175211 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 175211;
-    private $OPSName = 'НАГОВО';
+    private $OPSName = 'Нагово';
     private $OPSType = 'О';
     private $OPSSubm = 175200;
-    private $Region = 'НОВГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Новгородская область';
     private $Autonom = '';
-    private $Area = 'СТАРОРУССКИЙ РАЙОН';
-    private $City = 'НАГОВО';
+    private $Area = 'Старорусский район';
+    private $City = 'Нагово';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

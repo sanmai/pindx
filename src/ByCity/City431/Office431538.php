@@ -27,13 +27,13 @@ final class Office431538 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 431538;
-    private $OPSName = 'ЛЯМБИРЬ КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Лямбирь Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 431539;
-    private $Region = 'МОРДОВИЯ РЕСПУБЛИКА';
+    private $Region = 'Мордовия Республика';
     private $Autonom = '';
-    private $Area = 'ЛЯМБИРСКИЙ РАЙОН';
-    private $City = 'ЛЯМБИРЬ';
+    private $Area = 'Лямбирский район';
+    private $City = 'Лямбирь';
     private $City1 = '';
     private $ActDate = '20170929';
     private $IndexOld = '';

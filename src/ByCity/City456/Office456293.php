@@ -27,14 +27,14 @@ final class Office456293 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 456293;
-    private $OPSName = 'ТУНДУШ';
+    private $OPSName = 'Тундуш';
     private $OPSType = 'О';
     private $OPSSubm = 456299;
-    private $Region = 'ЧЕЛЯБИНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Челябинская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'ЗЛАТОУСТ';
-    private $City1 = 'ТУНДУШ';
+    private $City = 'Златоуст';
+    private $City1 = 'Тундуш';
     private $ActDate = '20001030';
     private $IndexOld = '';
 }

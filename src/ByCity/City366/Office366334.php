@@ -27,13 +27,13 @@ final class Office366334 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 366334;
-    private $OPSName = 'ДЫШНЕ-ВЕДЕНО';
+    private $OPSName = 'Дышне-Ведено';
     private $OPSType = 'О';
     private $OPSSubm = 366300;
-    private $Region = 'ЧЕЧЕНСКАЯ РЕСПУБЛИКА';
+    private $Region = 'Чеченская Республика';
     private $Autonom = '';
-    private $Area = 'ВЕДЕНСКИЙ РАЙОН';
-    private $City = 'ДИШНИ ВЕДЕНО';
+    private $Area = 'Веденский район';
+    private $City = 'Дишни Ведено';
     private $City1 = '';
     private $ActDate = '20101220';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office249088 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 249088;
-    private $OPSName = 'ТОРБЕЕВО';
+    private $OPSName = 'Торбеево';
     private $OPSType = 'О';
     private $OPSSubm = 248099;
-    private $Region = 'КАЛУЖСКАЯ ОБЛАСТЬ';
+    private $Region = 'Калужская область';
     private $Autonom = '';
-    private $Area = 'МАЛОЯРОСЛАВЕЦКИЙ РАЙОН';
-    private $City = 'ТОРБЕЕВО';
+    private $Area = 'Малоярославецкий район';
+    private $City = 'Торбеево';
     private $City1 = '';
     private $ActDate = '20100927';
     private $IndexOld = '';

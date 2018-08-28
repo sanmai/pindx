@@ -27,13 +27,13 @@ final class Office684300 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 684300;
-    private $OPSName = 'МИЛЬКОВО';
+    private $OPSName = 'Мильково';
     private $OPSType = 'О';
     private $OPSSubm = 684039;
-    private $Region = 'КАМЧАТСКИЙ КРАЙ';
+    private $Region = 'Камчатский край';
     private $Autonom = '';
-    private $Area = 'МИЛЬКОВСКИЙ РАЙОН';
-    private $City = 'МИЛЬКОВО';
+    private $Area = 'Мильковский район';
+    private $City = 'Мильково';
     private $City1 = '';
     private $ActDate = '20070604';
     private $IndexOld = '';

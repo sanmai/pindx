@@ -27,13 +27,13 @@ final class Office628515 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 628515;
-    private $OPSName = 'РЕПОЛОВО';
+    private $OPSName = 'Реполово';
     private $OPSType = 'О';
     private $OPSSubm = 628000;
     private $Region = '';
-    private $Autonom = 'ХАНТЫ-МАНСИЙСКИЙ-ЮГРА АВТОНОМНЫЙ ОКРУГ';
-    private $Area = 'ХАНТЫ-МАНСИЙСКИЙ РАЙОН';
-    private $City = 'РЕПОЛОВО';
+    private $Autonom = 'Ханты-Мансийский-Югра автономный округ';
+    private $Area = 'Ханты-Мансийский район';
+    private $City = 'Реполово';
     private $City1 = '';
     private $ActDate = '20170906';
     private $IndexOld = '';

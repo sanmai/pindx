@@ -27,13 +27,13 @@ final class Office612996 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 612996;
-    private $OPSName = 'ВЯТСКИЕ ПОЛЯНЫ УООП';
+    private $OPSName = 'Вятские Поляны Уооп';
     private $OPSType = 'Участок';
     private $OPSSubm = 612999;
-    private $Region = 'КИРОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Кировская область';
     private $Autonom = '';
-    private $Area = 'ВЯТСКОПОЛЯНСКИЙ РАЙОН';
-    private $City = 'ВЯТСКИЕ ПОЛЯНЫ';
+    private $Area = 'Вятскополянский район';
+    private $City = 'Вятские Поляны';
     private $City1 = '';
     private $ActDate = '20171018';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office171533 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 171533;
-    private $OPSName = 'ФЕДОРОВКА';
+    private $OPSName = 'Федоровка';
     private $OPSType = 'О';
     private $OPSSubm = 171500;
-    private $Region = 'ТВЕРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тверская область';
     private $Autonom = '';
-    private $Area = 'КИМРСКИЙ РАЙОН';
-    private $City = 'ФЕДОРОВКА';
+    private $Area = 'Кимрский район';
+    private $City = 'Федоровка';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

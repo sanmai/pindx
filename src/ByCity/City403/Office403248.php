@@ -27,13 +27,13 @@ final class Office403248 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 403248;
-    private $OPSName = 'АЛЕКСЕЕВСКАЯ КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Алексеевская Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 403240;
-    private $Region = 'ВОЛГОГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Волгоградская область';
     private $Autonom = '';
-    private $Area = 'АЛЕКСЕЕВСКИЙ РАЙОН';
-    private $City = 'АЛЕКСЕЕВСКАЯ';
+    private $Area = 'Алексеевский район';
+    private $City = 'Алексеевская';
     private $City1 = '';
     private $ActDate = '20171129';
     private $IndexOld = '';

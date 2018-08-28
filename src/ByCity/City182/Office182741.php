@@ -27,13 +27,13 @@ final class Office182741 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 182741;
-    private $OPSName = 'ГОРОДОВИК';
+    private $OPSName = 'Городовик';
     private $OPSType = 'О';
     private $OPSSubm = 182629;
-    private $Region = 'ПСКОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Псковская область';
     private $Autonom = '';
-    private $Area = 'ДЕДОВИЧСКИЙ РАЙОН';
-    private $City = 'ГОРОДОВИК';
+    private $Area = 'Дедовичский район';
+    private $City = 'Городовик';
     private $City1 = '';
     private $ActDate = '20050909';
     private $IndexOld = '';

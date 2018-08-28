@@ -27,13 +27,13 @@ final class Office369998 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 369998;
-    private $OPSName = 'ЧЕРКЕССК КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Черкесск Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 369999;
-    private $Region = 'КАРАЧАЕВО-ЧЕРКЕССКАЯ РЕСПУБЛИКА';
+    private $Region = 'Карачаево-Черкесская Республика';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'ЧЕРКЕССК';
+    private $City = 'Черкесск';
     private $City1 = '';
     private $ActDate = '20171010';
     private $IndexOld = '';

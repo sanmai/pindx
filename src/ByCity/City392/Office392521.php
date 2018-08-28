@@ -27,13 +27,13 @@ final class Office392521 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 392521;
-    private $OPSName = 'БОЛЬШАЯ ЛИПОВИЦА';
+    private $OPSName = 'Большая Липовица';
     private $OPSType = 'О';
     private $OPSSubm = 392999;
-    private $Region = 'ТАМБОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тамбовская область';
     private $Autonom = '';
-    private $Area = 'ТАМБОВСКИЙ РАЙОН';
-    private $City = 'БОЛЬШАЯ ЛИПОВИЦА';
+    private $Area = 'Тамбовский район';
+    private $City = 'Большая Липовица';
     private $City1 = '';
     private $ActDate = '20041125';
     private $IndexOld = '';

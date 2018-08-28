@@ -27,13 +27,13 @@ final class Office423741 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 423741;
-    private $OPSName = 'АИШЕВО ППС';
-    private $OPSType = 'ППС';
+    private $OPSName = 'Аишево Ппс';
+    private $OPSType = 'Ппс';
     private $OPSSubm = 423849;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'АКТАНЫШСКИЙ РАЙОН';
-    private $City = 'АИШЕВО';
+    private $Area = 'Актанышский район';
+    private $City = 'Аишево';
     private $City1 = '';
     private $ActDate = '20170626';
     private $IndexOld = '';

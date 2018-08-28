@@ -27,13 +27,13 @@ final class Office188489 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 188489;
-    private $OPSName = 'КИНГИСЕПП ПОЧТАМТ УЧ. ТАРЫ';
-    private $OPSType = 'ТИ';
+    private $OPSName = 'Кингисепп Почтамт Уч. Тары';
+    private $OPSType = 'Ти';
     private $OPSSubm = 188499;
-    private $Region = 'ЛЕНИНГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ленинградская область';
     private $Autonom = '';
-    private $Area = 'КИНГИСЕППСКИЙ РАЙОН';
-    private $City = 'КИНГИСЕПП';
+    private $Area = 'Кингисеппский район';
+    private $City = 'Кингисепп';
     private $City1 = '';
     private $ActDate = '20061114';
     private $IndexOld = '';

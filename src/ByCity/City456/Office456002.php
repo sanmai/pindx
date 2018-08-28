@@ -27,13 +27,13 @@ final class Office456002 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 456002;
-    private $OPSName = 'УСТЬ-КУРЫШКА';
+    private $OPSName = 'Усть-Курышка';
     private $OPSType = 'О';
     private $OPSSubm = 456069;
-    private $Region = 'ЧЕЛЯБИНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Челябинская область';
     private $Autonom = '';
-    private $Area = 'АШИНСКИЙ РАЙОН';
-    private $City = 'УСТЬ-КУРЫШКА';
+    private $Area = 'Ашинский район';
+    private $City = 'Усть-Курышка';
     private $City1 = '';
     private $ActDate = '20061101';
     private $IndexOld = '';

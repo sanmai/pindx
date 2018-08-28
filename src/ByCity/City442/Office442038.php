@@ -27,13 +27,13 @@ final class Office442038 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 442038;
-    private $OPSName = 'ЗЕМЕТЧИНО КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Земетчино Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 442039;
-    private $Region = 'ПЕНЗЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Пензенская область';
     private $Autonom = '';
-    private $Area = 'ЗЕМЕТЧИНСКИЙ РАЙОН';
-    private $City = 'ЗЕМЕТЧИНО';
+    private $Area = 'Земетчинский район';
+    private $City = 'Земетчино';
     private $City1 = '';
     private $ActDate = '20171006';
     private $IndexOld = '';

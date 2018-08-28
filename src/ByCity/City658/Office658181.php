@@ -27,13 +27,13 @@ final class Office658181 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 658181;
-    private $OPSName = 'УСТЬ-ТУЛАТИНКА';
+    private $OPSName = 'Усть-Тулатинка';
     private $OPSType = 'О';
     private $OPSSubm = 658149;
-    private $Region = 'АЛТАЙСКИЙ КРАЙ';
+    private $Region = 'Алтайский край';
     private $Autonom = '';
-    private $Area = 'ЧАРЫШСКИЙ РАЙОН';
-    private $City = 'УСТЬ-ТУЛАТИНКА';
+    private $Area = 'Чарышский район';
+    private $City = 'Усть-Тулатинка';
     private $City1 = '';
     private $ActDate = '20041208';
     private $IndexOld = '';

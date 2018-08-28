@@ -27,13 +27,13 @@ final class Office164032 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 164032;
-    private $OPSName = 'КРЕМЛЕВО';
+    private $OPSName = 'Кремлево';
     private $OPSType = 'О';
     private $OPSSubm = 165159;
-    private $Region = 'АРХАНГЕЛЬСКАЯ ОБЛАСТЬ';
+    private $Region = 'Архангельская область';
     private $Autonom = '';
-    private $Area = 'КОНОШСКИЙ РАЙОН';
-    private $City = 'КРЕМЛЕВО';
+    private $Area = 'Коношский район';
+    private $City = 'Кремлево';
     private $City1 = '';
     private $ActDate = '20101124';
     private $IndexOld = '';

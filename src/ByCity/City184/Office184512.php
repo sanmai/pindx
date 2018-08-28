@@ -27,14 +27,14 @@ final class Office184512 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 184512;
-    private $OPSName = 'МОНЧЕГОРСК 12';
+    private $OPSName = 'Мончегорск 12';
     private $OPSType = 'О';
     private $OPSSubm = 184200;
-    private $Region = 'МУРМАНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Мурманская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'МОНЧЕГОРСК';
-    private $City1 = '27 КМ';
+    private $City = 'Мончегорск';
+    private $City1 = '27 Км';
     private $ActDate = '20061121';
     private $IndexOld = '';
 }

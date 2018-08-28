@@ -27,13 +27,13 @@ final class Office641433 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 641433;
-    private $OPSName = 'КУРТАМЫШ 3';
-    private $OPSType = 'ПЕРЕДВИЖНОЕ ОС';
+    private $OPSName = 'Куртамыш 3';
+    private $OPSType = 'Передвижное Ос';
     private $OPSSubm = 641069;
-    private $Region = 'КУРГАНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Курганская область';
     private $Autonom = '';
-    private $Area = 'КУРТАМЫШСКИЙ РАЙОН';
-    private $City = 'КУРТАМЫШ';
+    private $Area = 'Куртамышский район';
+    private $City = 'Куртамыш';
     private $City1 = '';
     private $ActDate = '20160802';
     private $IndexOld = '';

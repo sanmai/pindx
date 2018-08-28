@@ -27,13 +27,13 @@ final class Office416471 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 416471;
-    private $OPSName = 'ОСЫПНОЙ БУГОР';
+    private $OPSName = 'Осыпной Бугор';
     private $OPSType = 'О';
     private $OPSSubm = 414999;
-    private $Region = 'АСТРАХАНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Астраханская область';
     private $Autonom = '';
-    private $Area = 'ПРИВОЛЖСКИЙ РАЙОН';
-    private $City = 'ОСЫПНОЙ БУГОР';
+    private $Area = 'Приволжский район';
+    private $City = 'Осыпной Бугор';
     private $City1 = '';
     private $ActDate = '20020902';
     private $IndexOld = '';

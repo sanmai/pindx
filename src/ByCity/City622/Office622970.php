@@ -27,13 +27,13 @@ final class Office622970 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 622970;
-    private $OPSName = 'ВИСИМ';
+    private $OPSName = 'Висим';
     private $OPSType = 'О';
     private $OPSSubm = 622059;
-    private $Region = 'СВЕРДЛОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Свердловская область';
     private $Autonom = '';
-    private $Area = 'ПРИГОРОДНЫЙ РАЙОН';
-    private $City = 'ВИСИМ';
+    private $Area = 'Пригородный район';
+    private $City = 'Висим';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

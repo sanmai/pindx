@@ -27,13 +27,13 @@ final class Office161259 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 161259;
-    private $OPSName = 'ЛИПИН БОР УООП';
+    private $OPSName = 'Липин Бор Уооп';
     private $OPSType = 'Участок';
     private $OPSSubm = 162969;
-    private $Region = 'ВОЛОГОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Вологодская область';
     private $Autonom = '';
-    private $Area = 'ВАШКИНСКИЙ РАЙОН';
-    private $City = 'ЛИПИН БОР';
+    private $Area = 'Вашкинский район';
+    private $City = 'Липин Бор';
     private $City1 = '';
     private $ActDate = '20180810';
     private $IndexOld = '';

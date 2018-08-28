@@ -27,13 +27,13 @@ final class Office404621 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 404621;
-    private $OPSName = 'ЛЕНИНСК 1';
+    private $OPSName = 'Ленинск 1';
     private $OPSType = 'О';
     private $OPSSubm = 404100;
-    private $Region = 'ВОЛГОГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Волгоградская область';
     private $Autonom = '';
-    private $Area = 'ЛЕНИНСКИЙ РАЙОН';
-    private $City = 'ЛЕНИНСК';
+    private $Area = 'Ленинский район';
+    private $City = 'Ленинск';
     private $City1 = '';
     private $ActDate = '20070411';
     private $IndexOld = '';

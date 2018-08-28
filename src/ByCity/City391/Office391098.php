@@ -27,13 +27,13 @@ final class Office391098 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 391098;
-    private $OPSName = 'СПАССК-РЯЗАНСКИЙ КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Спасск-Рязанский Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 391099;
-    private $Region = 'РЯЗАНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Рязанская область';
     private $Autonom = '';
-    private $Area = 'СПАССКИЙ РАЙОН';
-    private $City = 'СПАССК-РЯЗАНСКИЙ';
+    private $Area = 'Спасский район';
+    private $City = 'Спасск-Рязанский';
     private $City1 = '';
     private $ActDate = '20170925';
     private $IndexOld = '';

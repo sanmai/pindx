@@ -27,13 +27,13 @@ final class Office673497 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 673497;
-    private $OPSName = 'АКСЕНОВО-ЗИЛОВСКОЕ';
+    private $OPSName = 'Аксеново-Зиловское';
     private $OPSType = 'О';
     private $OPSSubm = 673779;
-    private $Region = 'ЗАБАЙКАЛЬСКИЙ КРАЙ';
+    private $Region = 'Забайкальский край';
     private $Autonom = '';
-    private $Area = 'ЧЕРНЫШЕВСКИЙ РАЙОН';
-    private $City = 'АКСЕНОВО-ЗИЛОВСКОЕ';
+    private $Area = 'Чернышевский район';
+    private $City = 'Аксеново-Зиловское';
     private $City1 = '';
     private $ActDate = '20060208';
     private $IndexOld = '';

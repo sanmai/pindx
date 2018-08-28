@@ -27,13 +27,13 @@ final class Office301265 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 301265;
-    private $OPSName = 'ЛИПКИ 1';
+    private $OPSName = 'Липки 1';
     private $OPSType = 'О';
     private $OPSSubm = 300999;
-    private $Region = 'ТУЛЬСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тульская область';
     private $Autonom = '';
-    private $Area = 'КИРЕЕВСКИЙ РАЙОН';
-    private $City = 'ЛИПКИ';
+    private $Area = 'Киреевский район';
+    private $City = 'Липки';
     private $City1 = '';
     private $ActDate = '20060506';
     private $IndexOld = '';

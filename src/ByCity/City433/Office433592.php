@@ -27,13 +27,13 @@ final class Office433592 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 433592;
-    private $OPSName = 'СТАРАЯ ТЮГАЛЬБУГА';
+    private $OPSName = 'Старая Тюгальбуга';
     private $OPSType = 'О';
     private $OPSSubm = 433500;
-    private $Region = 'УЛЬЯНОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ульяновская область';
     private $Autonom = '';
-    private $Area = 'НОВОМАЛЫКЛИНСКИЙ РАЙОН';
-    private $City = 'СТАРАЯ ТЮГАЛЬБУГА';
+    private $Area = 'Новомалыклинский район';
+    private $City = 'Старая Тюгальбуга';
     private $City1 = '';
     private $ActDate = '20050526';
     private $IndexOld = '';

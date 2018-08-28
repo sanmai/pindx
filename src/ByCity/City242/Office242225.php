@@ -27,13 +27,13 @@ final class Office242225 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 242225;
-    private $OPSName = 'СЕМЯЧКИ';
+    private $OPSName = 'Семячки';
     private $OPSType = 'О';
     private $OPSSubm = 242259;
-    private $Region = 'БРЯНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Брянская область';
     private $Autonom = '';
-    private $Area = 'ТРУБЧЕВСКИЙ РАЙОН';
-    private $City = 'СЕМЯЧКИ';
+    private $Area = 'Трубчевский район';
+    private $City = 'Семячки';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office164689 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 164689;
-    private $OPSName = 'ЛЕШУКОНСКОЕ УООП';
+    private $OPSName = 'Лешуконское Уооп';
     private $OPSType = 'Участок';
     private $OPSSubm = 164779;
-    private $Region = 'АРХАНГЕЛЬСКАЯ ОБЛАСТЬ';
+    private $Region = 'Архангельская область';
     private $Autonom = '';
-    private $Area = 'ЛЕШУКОНСКИЙ РАЙОН';
-    private $City = 'ЛЕШУКОНСКОЕ';
+    private $Area = 'Лешуконский район';
+    private $City = 'Лешуконское';
     private $City1 = '';
     private $ActDate = '20160901';
     private $IndexOld = '';

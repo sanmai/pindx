@@ -27,14 +27,14 @@ final class Office430905 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 430905;
-    private $OPSName = 'ГОРЯЙНОВКА';
+    private $OPSName = 'Горяйновка';
     private $OPSType = 'О';
     private $OPSSubm = 430000;
-    private $Region = 'МОРДОВИЯ РЕСПУБЛИКА';
+    private $Region = 'Мордовия Республика';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'САРАНСК';
-    private $City1 = 'ГОРЯЙНОВКА';
+    private $City = 'Саранск';
+    private $City1 = 'Горяйновка';
     private $ActDate = '20001030';
     private $IndexOld = '';
 }

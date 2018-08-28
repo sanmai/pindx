@@ -27,13 +27,13 @@ final class Office452572 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 452572;
-    private $OPSName = 'АТАРША';
+    private $OPSName = 'Атарша';
     private $OPSType = 'О';
     private $OPSSubm = 452549;
-    private $Region = 'БАШКОРТОСТАН РЕСПУБЛИКА';
+    private $Region = 'Башкортостан Республика';
     private $Autonom = '';
-    private $Area = 'БЕЛОКАТАЙСКИЙ РАЙОН';
-    private $City = 'АТАРША';
+    private $Area = 'Белокатайский район';
+    private $City = 'Атарша';
     private $City1 = '';
     private $ActDate = '20070212';
     private $IndexOld = '';

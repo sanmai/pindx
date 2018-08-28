@@ -27,13 +27,13 @@ final class Office416324 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 416324;
-    private $OPSName = 'КАРАУЛЬНОЕ';
+    private $OPSName = 'Караульное';
     private $OPSType = 'О';
     private $OPSSubm = 416349;
-    private $Region = 'АСТРАХАНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Астраханская область';
     private $Autonom = '';
-    private $Area = 'КАМЫЗЯКСКИЙ РАЙОН';
-    private $City = 'КАРАУЛЬНОЕ';
+    private $Area = 'Камызякский район';
+    private $City = 'Караульное';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office632376 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 632376;
-    private $OPSName = 'КУЙБЫШЕВ КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Куйбышев Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 632380;
-    private $Region = 'НОВОСИБИРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Новосибирская область';
     private $Autonom = '';
-    private $Area = 'КУЙБЫШЕВСКИЙ РАЙОН';
-    private $City = 'КУЙБЫШЕВ';
+    private $Area = 'Куйбышевский район';
+    private $City = 'Куйбышев';
     private $City1 = '';
     private $ActDate = '20170706';
     private $IndexOld = '';

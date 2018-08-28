@@ -27,13 +27,13 @@ final class Office442172 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 442172;
-    private $OPSName = 'ТАТАРСКАЯ ЛАКА';
+    private $OPSName = 'Татарская Лака';
     private $OPSType = 'О';
     private $OPSSubm = 442039;
-    private $Region = 'ПЕНЗЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Пензенская область';
     private $Autonom = '';
-    private $Area = 'ВАДИНСКИЙ РАЙОН';
-    private $City = 'ТАТАРСКАЯ ЛАКА';
+    private $Area = 'Вадинский район';
+    private $City = 'Татарская Лака';
     private $City1 = '';
     private $ActDate = '20051024';
     private $IndexOld = '';

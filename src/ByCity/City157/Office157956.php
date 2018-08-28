@@ -27,13 +27,13 @@ final class Office157956 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 157956;
-    private $OPSName = 'ВЕСЕЛОВО';
+    private $OPSName = 'Веселово';
     private $OPSType = 'О';
     private $OPSSubm = 156999;
-    private $Region = 'КОСТРОМСКАЯ ОБЛАСТЬ';
+    private $Region = 'Костромская область';
     private $Autonom = '';
-    private $Area = 'КРАСНОСЕЛЬСКИЙ РАЙОН';
-    private $City = 'ВЕСЕЛОВО';
+    private $Area = 'Красносельский район';
+    private $City = 'Веселово';
     private $City1 = '';
     private $ActDate = '20090716';
     private $IndexOld = '';

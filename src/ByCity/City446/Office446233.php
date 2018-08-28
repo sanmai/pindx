@@ -27,13 +27,13 @@ final class Office446233 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 446233;
-    private $OPSName = 'ВЛАДИМИРОВКА';
+    private $OPSName = 'Владимировка';
     private $OPSType = 'О';
     private $OPSSubm = 446259;
-    private $Region = 'САМАРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Самарская область';
     private $Autonom = '';
-    private $Area = 'БЕЗЕНЧУКСКИЙ РАЙОН';
-    private $City = 'ВЛАДИМИРОВКА';
+    private $Area = 'Безенчукский район';
+    private $City = 'Владимировка';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

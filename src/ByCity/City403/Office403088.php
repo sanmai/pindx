@@ -27,13 +27,13 @@ final class Office403088 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 403088;
-    private $OPSName = 'КАЧАЛИНСКИЙ ДОМ ОТДЫХА';
+    private $OPSName = 'Качалинский Дом Отдыха';
     private $OPSType = 'О';
     private $OPSSubm = 403070;
-    private $Region = 'ВОЛГОГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Волгоградская область';
     private $Autonom = '';
-    private $Area = 'ИЛОВЛИНСКИЙ РАЙОН';
-    private $City = 'КАЧАЛИНСКИЙ';
+    private $Area = 'Иловлинский район';
+    private $City = 'Качалинский';
     private $City1 = '';
     private $ActDate = '20180813';
     private $IndexOld = '';

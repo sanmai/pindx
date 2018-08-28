@@ -27,13 +27,13 @@ final class Office404198 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 404198;
-    private $OPSName = 'СВЕТЛЫЙ ЯР КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Светлый Яр Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 404170;
-    private $Region = 'ВОЛГОГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Волгоградская область';
     private $Autonom = '';
-    private $Area = 'СВЕТЛОЯРСКИЙ РАЙОН';
-    private $City = 'СВЕТЛЫЙ ЯР';
+    private $Area = 'Светлоярский район';
+    private $City = 'Светлый Яр';
     private $City1 = '';
     private $ActDate = '20171129';
     private $IndexOld = '';

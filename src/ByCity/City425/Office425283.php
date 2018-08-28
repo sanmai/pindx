@@ -27,13 +27,13 @@ final class Office425283 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 425283;
-    private $OPSName = 'НЕЖНУРСКИЙ';
+    private $OPSName = 'Нежнурский';
     private $OPSType = 'О';
     private $OPSSubm = 425239;
-    private $Region = 'МАРИЙ ЭЛ РЕСПУБЛИКА';
+    private $Region = 'Марий Эл Республика';
     private $Autonom = '';
-    private $Area = 'КИЛЕМАРСКИЙ РАЙОН';
-    private $City = 'НЕЖНУРСКИЙ';
+    private $Area = 'Килемарский район';
+    private $City = 'Нежнурский';
     private $City1 = '';
     private $ActDate = '20070301';
     private $IndexOld = '';

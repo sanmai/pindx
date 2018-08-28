@@ -27,13 +27,13 @@ final class Office363223 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 363223;
-    private $OPSName = 'ВЕРХНИЙ ЗГИД';
+    private $OPSName = 'Верхний Згид';
     private $OPSType = 'О';
     private $OPSSubm = 363240;
-    private $Region = 'СЕВЕРНАЯ ОСЕТИЯ - АЛАНИЯ РЕСПУБЛИКА';
+    private $Region = 'Северная Осетия - Алания Республика';
     private $Autonom = '';
-    private $Area = 'АЛАГИРСКИЙ РАЙОН';
-    private $City = 'ВЕРХНИЙ ЗГИД';
+    private $Area = 'Алагирский район';
+    private $City = 'Верхний Згид';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

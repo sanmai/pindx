@@ -27,13 +27,13 @@ final class Office672542 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 672542;
-    private $OPSName = 'СИВЯКОВО ППС';
-    private $OPSType = 'ППС';
+    private $OPSName = 'Сивяково Ппс';
+    private $OPSType = 'Ппс';
     private $OPSSubm = 672999;
-    private $Region = 'ЗАБАЙКАЛЬСКИЙ КРАЙ';
+    private $Region = 'Забайкальский край';
     private $Autonom = '';
-    private $Area = 'ЧИТИНСКИЙ РАЙОН';
-    private $City = 'СИВЯКОВО';
+    private $Area = 'Читинский район';
+    private $City = 'Сивяково';
     private $City1 = '';
     private $ActDate = '20170626';
     private $IndexOld = '';

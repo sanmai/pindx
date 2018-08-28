@@ -27,13 +27,13 @@ final class Office171903 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 171903;
-    private $OPSName = 'ДЫМЦЕВО';
+    private $OPSName = 'Дымцево';
     private $OPSType = 'О';
     private $OPSSubm = 171939;
-    private $Region = 'ТВЕРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тверская область';
     private $Autonom = '';
-    private $Area = 'МАКСАТИХИНСКИЙ РАЙОН';
-    private $City = 'ДЫМЦЕВО';
+    private $Area = 'Максатихинский район';
+    private $City = 'Дымцево';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office628113 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 628113;
-    private $OPSName = 'БОЛЬШИЕ ЛЕУШИ';
+    private $OPSName = 'Большие Леуши';
     private $OPSType = 'О';
     private $OPSSubm = 628160;
     private $Region = '';
-    private $Autonom = 'ХАНТЫ-МАНСИЙСКИЙ-ЮГРА АВТОНОМНЫЙ ОКРУГ';
-    private $Area = 'ОКТЯБРЬСКИЙ РАЙОН';
-    private $City = 'БОЛЬШИЕ ЛЕУШИ';
+    private $Autonom = 'Ханты-Мансийский-Югра автономный округ';
+    private $Area = 'Октябрьский район';
+    private $City = 'Большие Леуши';
     private $City1 = '';
     private $ActDate = '20171130';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office628452 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 628452;
-    private $OPSName = 'СОЛНЕЧНЫЙ';
+    private $OPSName = 'Солнечный';
     private $OPSType = 'О';
     private $OPSSubm = 628400;
     private $Region = '';
-    private $Autonom = 'ХАНТЫ-МАНСИЙСКИЙ-ЮГРА АВТОНОМНЫЙ ОКРУГ';
-    private $Area = 'СУРГУТСКИЙ РАЙОН';
-    private $City = 'СОЛНЕЧНЫЙ';
+    private $Autonom = 'Ханты-Мансийский-Югра автономный округ';
+    private $Area = 'Сургутский район';
+    private $City = 'Солнечный';
     private $City1 = '';
     private $ActDate = '20170906';
     private $IndexOld = '';

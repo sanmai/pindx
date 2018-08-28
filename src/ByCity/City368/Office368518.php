@@ -27,13 +27,13 @@ final class Office368518 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 368518;
-    private $OPSName = 'ЛЕВАШИ 8';
-    private $OPSType = 'ПЕРЕДВИЖНОЕ ОС';
+    private $OPSName = 'Леваши 8';
+    private $OPSType = 'Передвижное Ос';
     private $OPSSubm = 368319;
-    private $Region = 'ДАГЕСТАН РЕСПУБЛИКА';
+    private $Region = 'Дагестан Республика';
     private $Autonom = '';
-    private $Area = 'ЛЕВАШИНСКИЙ РАЙОН';
-    private $City = 'ЛЕВАШИ';
+    private $Area = 'Левашинский район';
+    private $City = 'Леваши';
     private $City1 = '';
     private $ActDate = '20151008';
     private $IndexOld = '';

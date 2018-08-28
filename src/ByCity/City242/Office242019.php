@@ -27,13 +27,13 @@ final class Office242019 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 242019;
-    private $OPSName = 'КНЯВИЧИ';
+    private $OPSName = 'Княвичи';
     private $OPSType = 'О';
     private $OPSSubm = 242039;
-    private $Region = 'БРЯНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Брянская область';
     private $Autonom = '';
-    private $Area = 'ЖИРЯТИНСКИЙ РАЙОН';
-    private $City = 'КНЯВИЧИ';
+    private $Area = 'Жирятинский район';
+    private $City = 'Княвичи';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

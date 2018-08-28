@@ -27,14 +27,14 @@ final class Office360901 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 360901;
-    private $OPSName = 'БЕЛАЯ РЕЧКА';
+    private $OPSName = 'Белая Речка';
     private $OPSType = 'О';
     private $OPSSubm = 360000;
-    private $Region = 'КАБАРДИНО-БАЛКАРСКАЯ РЕСПУБЛИКА';
+    private $Region = 'Кабардино-Балкарская Республика';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'НАЛЬЧИК';
-    private $City1 = 'БЕЛАЯ РЕЧКА';
+    private $City = 'Нальчик';
+    private $City1 = 'Белая Речка';
     private $ActDate = '20001030';
     private $IndexOld = '';
 }

@@ -27,13 +27,13 @@ final class Office412162 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 412162;
-    private $OPSName = 'БОЛЬШАЯ ФЕДОРОВКА';
+    private $OPSName = 'Большая Федоровка';
     private $OPSType = 'О';
     private $OPSSubm = 410999;
-    private $Region = 'САРАТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Саратовская область';
     private $Autonom = '';
-    private $Area = 'ТАТИЩЕВСКИЙ РАЙОН';
-    private $City = 'БОЛЬШАЯ ФЕДОРОВКА';
+    private $Area = 'Татищевский район';
+    private $City = 'Большая Федоровка';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

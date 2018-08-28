@@ -27,13 +27,13 @@ final class Office363214 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 363214;
-    private $OPSName = 'НИЖНИЙ УНАЛ';
+    private $OPSName = 'Нижний Унал';
     private $OPSType = 'О';
     private $OPSSubm = 363240;
-    private $Region = 'СЕВЕРНАЯ ОСЕТИЯ - АЛАНИЯ РЕСПУБЛИКА';
+    private $Region = 'Северная Осетия - Алания Республика';
     private $Autonom = '';
-    private $Area = 'АЛАГИРСКИЙ РАЙОН';
-    private $City = 'НИЖНИЙ  УНАЛ';
+    private $Area = 'Алагирский район';
+    private $City = 'Нижний  Унал';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

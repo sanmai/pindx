@@ -27,13 +27,13 @@ final class Office187470 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 187470;
-    private $OPSName = 'ВОЛХОВ 70';
-    private $OPSType = 'ПЕРЕДВИЖНОЕ ОС';
+    private $OPSName = 'Волхов 70';
+    private $OPSType = 'Передвижное Ос';
     private $OPSSubm = 187340;
-    private $Region = 'ЛЕНИНГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ленинградская область';
     private $Autonom = '';
-    private $Area = 'ВОЛХОВСКИЙ РАЙОН';
-    private $City = 'ВОЛХОВ';
+    private $Area = 'Волховский район';
+    private $City = 'Волхов';
     private $City1 = '';
     private $ActDate = '20150806';
     private $IndexOld = '';

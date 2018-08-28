@@ -27,13 +27,13 @@ final class Office652596 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 652596;
-    private $OPSName = 'ЛЕНИНСК-КУЗНЕЦКИЙ КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Ленинск-Кузнецкий Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 652599;
-    private $Region = 'КЕМЕРОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Кемеровская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'ЛЕНИНСК-КУЗНЕЦКИЙ';
+    private $City = 'Ленинск-Кузнецкий';
     private $City1 = '';
     private $ActDate = '20170915';
     private $IndexOld = '';

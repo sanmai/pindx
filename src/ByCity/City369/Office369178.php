@@ -27,13 +27,13 @@ final class Office369178 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 369178;
-    private $OPSName = 'ЗЕЛЕНЧУКСКАЯ КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Зеленчукская Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 369179;
-    private $Region = 'КАРАЧАЕВО-ЧЕРКЕССКАЯ РЕСПУБЛИКА';
+    private $Region = 'Карачаево-Черкесская Республика';
     private $Autonom = '';
-    private $Area = 'ЗЕЛЕНЧУКСКИЙ РАЙОН';
-    private $City = 'ЗЕЛЕНЧУКСКАЯ';
+    private $Area = 'Зеленчукский район';
+    private $City = 'Зеленчукская';
     private $City1 = '';
     private $ActDate = '20171010';
     private $IndexOld = '';

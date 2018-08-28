@@ -27,13 +27,13 @@ final class Office678359 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 678359;
-    private $OPSName = 'ТАНДА';
+    private $OPSName = 'Танда';
     private $OPSType = 'О';
     private $OPSSubm = 678099;
-    private $Region = 'САХА (ЯКУТИЯ) РЕСПУБЛИКА';
+    private $Region = 'Саха (Якутия) Республика';
     private $Autonom = '';
-    private $Area = 'УСТЬ-АЛДАНСКИЙ РАЙОН';
-    private $City = 'ТАНДА';
+    private $Area = 'Усть-Алданский район';
+    private $City = 'Танда';
     private $City1 = '';
     private $ActDate = '20180702';
     private $IndexOld = '';

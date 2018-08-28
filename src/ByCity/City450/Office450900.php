@@ -27,14 +27,14 @@ final class Office450900 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 450900;
-    private $OPSName = 'НАГАЕВО';
+    private $OPSName = 'Нагаево';
     private $OPSType = 'О';
     private $OPSSubm = 450999;
-    private $Region = 'БАШКОРТОСТАН РЕСПУБЛИКА';
+    private $Region = 'Башкортостан Республика';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'УФА';
-    private $City1 = 'НАГАЕВО';
+    private $City = 'Уфа';
+    private $City1 = 'Нагаево';
     private $ActDate = '20001030';
     private $IndexOld = '';
 }

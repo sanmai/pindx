@@ -27,13 +27,13 @@ final class Office602332 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 602332;
-    private $OPSName = 'КРАСНАЯ ГОРБАТКА 2';
+    private $OPSName = 'Красная Горбатка 2';
     private $OPSType = 'О';
     private $OPSSubm = 602250;
-    private $Region = 'ВЛАДИМИРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Владимирская область';
     private $Autonom = '';
-    private $Area = 'СЕЛИВАНОВСКИЙ РАЙОН';
-    private $City = 'КРАСНАЯ ГОРБАТКА';
+    private $Area = 'Селивановский район';
+    private $City = 'Красная Горбатка';
     private $City1 = '';
     private $ActDate = '20051118';
     private $IndexOld = '';

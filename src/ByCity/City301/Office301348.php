@@ -27,13 +27,13 @@ final class Office301348 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 301348;
-    private $OPSName = 'ИМ. МИЧУРИНА';
+    private $OPSName = 'Им. Мичурина';
     private $OPSType = 'О';
     private $OPSSubm = 301379;
-    private $Region = 'ТУЛЬСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тульская область';
     private $Autonom = '';
-    private $Area = 'АЛЕКСИНСКИЙ РАЙОН';
-    private $City = 'МИЧУРИНА';
+    private $Area = 'Алексинский район';
+    private $City = 'Мичурина';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

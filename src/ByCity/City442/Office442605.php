@@ -27,13 +27,13 @@ final class Office442605 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 442605;
-    private $OPSName = 'РУССКИЙ ШЕЛДАИС';
+    private $OPSName = 'Русский Шелдаис';
     private $OPSType = 'О';
     private $OPSSubm = 442169;
-    private $Region = 'ПЕНЗЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Пензенская область';
     private $Autonom = '';
-    private $Area = 'СПАССКИЙ РАЙОН';
-    private $City = 'РУССКИЙ ШЕЛДАИС';
+    private $Area = 'Спасский район';
+    private $City = 'Русский Шелдаис';
     private $City1 = '';
     private $ActDate = '20041004';
     private $IndexOld = '';

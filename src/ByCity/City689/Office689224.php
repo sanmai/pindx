@@ -27,13 +27,13 @@ final class Office689224 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 689224;
-    private $OPSName = 'КОНЕРГИНО';
+    private $OPSName = 'Конергино';
     private $OPSType = 'О';
     private $OPSSubm = 689700;
     private $Region = '';
-    private $Autonom = 'ЧУКОТСКИЙ АВТОНОМНЫЙ ОКРУГ';
-    private $Area = 'ИУЛЬТИНСКИЙ РАЙОН';
-    private $City = 'КОНЕРГИНО';
+    private $Autonom = 'Чукотский автономный округ';
+    private $Area = 'Иультинский район';
+    private $City = 'Конергино';
     private $City1 = '';
     private $ActDate = '20170705';
     private $IndexOld = '';

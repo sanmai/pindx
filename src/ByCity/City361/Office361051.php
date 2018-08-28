@@ -27,13 +27,13 @@ final class Office361051 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 361051;
-    private $OPSName = 'ПРОХЛАДНЫЙ ППС';
-    private $OPSType = 'ППС';
+    private $OPSName = 'Прохладный Ппс';
+    private $OPSType = 'Ппс';
     private $OPSSubm = 361040;
-    private $Region = 'КАБАРДИНО-БАЛКАРСКАЯ РЕСПУБЛИКА';
+    private $Region = 'Кабардино-Балкарская Республика';
     private $Autonom = '';
-    private $Area = 'ПРОХЛАДНЕНСКИЙ РАЙОН';
-    private $City = 'ПРОХЛАДНЫЙ';
+    private $Area = 'Прохладненский район';
+    private $City = 'Прохладный';
     private $City1 = '';
     private $ActDate = '20170713';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office166970 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 166970;
-    private $OPSName = 'НАРЬЯН-МАР АОПП';
-    private $OPSType = 'АОПП';
+    private $OPSName = 'Нарьян-Мар Аопп';
+    private $OPSType = 'Аопп';
     private $OPSSubm = 166100;
     private $Region = '';
-    private $Autonom = 'НЕНЕЦКИЙ АВТОНОМНЫЙ ОКРУГ';
+    private $Autonom = 'Ненецкий автономный округ';
     private $Area = '';
-    private $City = 'НАРЬЯН-МАР';
+    private $City = 'Нарьян-Мар';
     private $City1 = '';
     private $ActDate = '20070122';
     private $IndexOld = '';

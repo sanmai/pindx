@@ -27,13 +27,13 @@ final class Office606847 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 606847;
-    private $OPSName = 'БОЛЬШАЯ РУДКА ППС';
-    private $OPSType = 'ППС';
+    private $OPSName = 'Большая Рудка Ппс';
+    private $OPSType = 'Ппс';
     private $OPSSubm = 606839;
-    private $Region = 'НИЖЕГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Нижегородская область';
     private $Autonom = '';
-    private $Area = 'ШАРАНГСКИЙ РАЙОН';
-    private $City = 'БОЛЬШАЯ РУДКА';
+    private $Area = 'Шарангский район';
+    private $City = 'Большая Рудка';
     private $City1 = '';
     private $ActDate = '20170711';
     private $IndexOld = '';

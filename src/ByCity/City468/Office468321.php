@@ -27,10 +27,10 @@ final class Office468321 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 468321;
-    private $OPSName = 'БАЙКОНУР 1';
+    private $OPSName = 'Байконур 1';
     private $OPSType = 'О';
     private $OPSSubm = 468320;
-    private $Region = 'БАЙКОНУР';
+    private $Region = 'Байконур';
     private $Autonom = '';
     private $Area = '';
     private $City = '';

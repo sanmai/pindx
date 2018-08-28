@@ -27,13 +27,13 @@ final class Office403840 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 403840;
-    private $OPSName = 'ПЕТРОВ ВАЛ';
+    private $OPSName = 'Петров Вал';
     private $OPSType = 'О';
     private $OPSSubm = 403870;
-    private $Region = 'ВОЛГОГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Волгоградская область';
     private $Autonom = '';
-    private $Area = 'КАМЫШИНСКИЙ РАЙОН';
-    private $City = 'ПЕТРОВ ВАЛ';
+    private $Area = 'Камышинский район';
+    private $City = 'Петров Вал';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

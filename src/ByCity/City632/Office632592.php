@@ -27,13 +27,13 @@ final class Office632592 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 632592;
-    private $OPSName = 'ПЕНЕК';
+    private $OPSName = 'Пенек';
     private $OPSType = 'О';
     private $OPSSubm = 632550;
-    private $Region = 'НОВОСИБИРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Новосибирская область';
     private $Autonom = '';
-    private $Area = 'ЧУЛЫМСКИЙ РАЙОН';
-    private $City = 'ПЕНЕК';
+    private $Area = 'Чулымский район';
+    private $City = 'Пенек';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

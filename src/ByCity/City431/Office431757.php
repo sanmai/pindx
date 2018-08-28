@@ -27,13 +27,13 @@ final class Office431757 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 431757;
-    private $OPSName = 'КОСОГОРЫ';
+    private $OPSName = 'Косогоры';
     private $OPSType = 'О';
     private $OPSSubm = 431799;
-    private $Region = 'МОРДОВИЯ РЕСПУБЛИКА';
+    private $Region = 'Мордовия Республика';
     private $Autonom = '';
-    private $Area = 'БОЛЬШЕБЕРЕЗНИКОВСКИЙ РАЙОН';
-    private $City = 'КОСОГОРЫ';
+    private $Area = 'Большеберезниковский район';
+    private $City = 'Косогоры';
     private $City1 = '';
     private $ActDate = '20060615';
     private $IndexOld = '';

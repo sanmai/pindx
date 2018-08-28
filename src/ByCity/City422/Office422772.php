@@ -27,13 +27,13 @@ final class Office422772 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 422772;
-    private $OPSName = 'КОЩАКОВО';
+    private $OPSName = 'Кощаково';
     private $OPSType = 'О';
     private $OPSSubm = 420999;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'ПЕСТРЕЧИНСКИЙ РАЙОН';
-    private $City = 'КОЩАКОВО';
+    private $Area = 'Пестречинский район';
+    private $City = 'Кощаково';
     private $City1 = '';
     private $ActDate = '20100211';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office164118 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 164118;
-    private $OPSName = 'КАРГОПОЛЬ-ДТИ';
-    private $OPSType = 'ДТИ';
+    private $OPSName = 'Каргополь-Дти';
+    private $OPSType = 'Дти';
     private $OPSSubm = 164110;
-    private $Region = 'АРХАНГЕЛЬСКАЯ ОБЛАСТЬ';
+    private $Region = 'Архангельская область';
     private $Autonom = '';
-    private $Area = 'КАРГОПОЛЬСКИЙ РАЙОН';
-    private $City = 'КАРГОПОЛЬ';
+    private $Area = 'Каргопольский район';
+    private $City = 'Каргополь';
     private $City1 = '';
     private $ActDate = '20131017';
     private $IndexOld = '';

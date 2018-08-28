@@ -27,13 +27,13 @@ final class Office423298 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 423298;
-    private $OPSName = 'МОРДОВСКАЯ КАРМАЛКА';
+    private $OPSName = 'Мордовская Кармалка';
     private $OPSType = 'О';
     private $OPSSubm = 423249;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'ЛЕНИНОГОРСКИЙ РАЙОН';
-    private $City = 'МОРДОВСКАЯ КАРМАЛКА';
+    private $Area = 'Лениногорский район';
+    private $City = 'Мордовская Кармалка';
     private $City1 = '';
     private $ActDate = '20100211';
     private $IndexOld = '';

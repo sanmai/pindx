@@ -27,13 +27,13 @@ final class Office457018 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 457018;
-    private $OPSName = 'ЮЖНОУРАЛЬСК 18';
-    private $OPSType = 'ПЕРЕДВИЖНОЕ ОС';
+    private $OPSName = 'Южноуральск 18';
+    private $OPSType = 'Передвижное Ос';
     private $OPSSubm = 457059;
-    private $Region = 'ЧЕЛЯБИНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Челябинская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'ЮЖНОУРАЛЬСК';
+    private $City = 'Южноуральск';
     private $City1 = '';
     private $ActDate = '20150803';
     private $IndexOld = '';

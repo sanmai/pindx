@@ -27,13 +27,13 @@ final class Office648000 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 648000;
-    private $OPSName = 'ТУРА';
+    private $OPSName = 'Тура';
     private $OPSType = 'О';
     private $OPSSubm = 660999;
-    private $Region = 'КРАСНОЯРСКИЙ КРАЙ';
+    private $Region = 'Красноярский край';
     private $Autonom = '';
-    private $Area = 'ЭВЕНКИЙСКИЙ РАЙОН';
-    private $City = 'ТУРА';
+    private $Area = 'Эвенкийский район';
+    private $City = 'Тура';
     private $City1 = '';
     private $ActDate = '20071016';
     private $IndexOld = '';

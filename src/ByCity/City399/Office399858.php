@@ -27,13 +27,13 @@ final class Office399858 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 399858;
-    private $OPSName = 'ДАНКОВ КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Данков Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 399859;
-    private $Region = 'ЛИПЕЦКАЯ ОБЛАСТЬ';
+    private $Region = 'Липецкая область';
     private $Autonom = '';
-    private $Area = 'ДАНКОВСКИЙ РАЙОН';
-    private $City = 'ДАНКОВ';
+    private $Area = 'Данковский район';
+    private $City = 'Данков';
     private $City1 = '';
     private $ActDate = '20171130';
     private $IndexOld = '';

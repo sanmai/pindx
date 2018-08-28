@@ -27,13 +27,13 @@ final class Office353875 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 353875;
-    private $OPSName = 'БРИНЬКОВСКАЯ';
+    private $OPSName = 'Бриньковская';
     private $OPSType = 'О';
     private $OPSSubm = 353739;
-    private $Region = 'КРАСНОДАРСКИЙ КРАЙ';
+    private $Region = 'Краснодарский край';
     private $Autonom = '';
-    private $Area = 'ПРИМОРСКО-АХТАРСКИЙ РАЙОН';
-    private $City = 'БРИНЬКОВСКАЯ';
+    private $Area = 'Приморско-Ахтарский район';
+    private $City = 'Бриньковская';
     private $City1 = '';
     private $ActDate = '20150615';
     private $IndexOld = '';

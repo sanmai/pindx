@@ -27,13 +27,13 @@ final class Office446196 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 446196;
-    private $OPSName = 'ТАМБОВКА';
+    private $OPSName = 'Тамбовка';
     private $OPSType = 'О';
     private $OPSSubm = 446199;
-    private $Region = 'САМАРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Самарская область';
     private $Autonom = '';
-    private $Area = 'БОЛЬШЕГЛУШИЦКИЙ РАЙОН';
-    private $City = 'ТАМБОВКА';
+    private $Area = 'Большеглушицкий район';
+    private $City = 'Тамбовка';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

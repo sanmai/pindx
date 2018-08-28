@@ -27,13 +27,13 @@ final class Office456888 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 456888;
-    private $OPSName = 'АРГАЯШ 8';
-    private $OPSType = 'ПЕРЕДВИЖНОЕ ОС';
+    private $OPSName = 'Аргаяш 8';
+    private $OPSType = 'Передвижное Ос';
     private $OPSSubm = 456879;
-    private $Region = 'ЧЕЛЯБИНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Челябинская область';
     private $Autonom = '';
-    private $Area = 'АРГАЯШСКИЙ РАЙОН';
-    private $City = 'АРГАЯШ';
+    private $Area = 'Аргаяшский район';
+    private $City = 'Аргаяш';
     private $City1 = '';
     private $ActDate = '20150730';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office671002 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 671002;
-    private $OPSName = 'КЫРЕН 2';
-    private $OPSType = 'ПЕРЕДВИЖНОЕ ОС';
+    private $OPSName = 'Кырен 2';
+    private $OPSType = 'Передвижное Ос';
     private $OPSSubm = 671249;
-    private $Region = 'БУРЯТИЯ РЕСПУБЛИКА';
+    private $Region = 'Бурятия Республика';
     private $Autonom = '';
-    private $Area = 'ТУНКИНСКИЙ РАЙОН';
-    private $City = 'КЫРЕН';
+    private $Area = 'Тункинский район';
+    private $City = 'Кырен';
     private $City1 = '';
     private $ActDate = '20151127';
     private $IndexOld = '';

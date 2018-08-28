@@ -27,13 +27,13 @@ final class Office607107 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 607107;
-    private $OPSName = 'БОЛЬШОЕ ОКУЛОВО';
+    private $OPSName = 'Большое Окулово';
     private $OPSType = 'О';
     private $OPSSubm = 607079;
-    private $Region = 'НИЖЕГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Нижегородская область';
     private $Autonom = '';
-    private $Area = 'НАВАШИНСКИЙ РАЙОН';
-    private $City = 'БОЛЬШОЕ ОКУЛОВО';
+    private $Area = 'Навашинский район';
+    private $City = 'Большое Окулово';
     private $City1 = '';
     private $ActDate = '20061225';
     private $IndexOld = '';

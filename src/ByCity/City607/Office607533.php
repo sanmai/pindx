@@ -27,13 +27,13 @@ final class Office607533 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 607533;
-    private $OPSName = 'БОЛЬШОЕ РЫБУШКИНО';
+    private $OPSName = 'Большое Рыбушкино';
     private $OPSType = 'О';
     private $OPSSubm = 607527;
-    private $Region = 'НИЖЕГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Нижегородская область';
     private $Autonom = '';
-    private $Area = 'КРАСНООКТЯБРЬСКИЙ РАЙОН';
-    private $City = 'БОЛЬШОЕ РЫБУШКИНО';
+    private $Area = 'Краснооктябрьский район';
+    private $City = 'Большое Рыбушкино';
     private $City1 = '';
     private $ActDate = '20060914';
     private $IndexOld = '';

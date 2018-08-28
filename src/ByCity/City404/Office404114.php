@@ -27,14 +27,14 @@ final class Office404114 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 404114;
-    private $OPSName = 'ВОЛЖСКИЙ 14';
+    private $OPSName = 'Волжский 14';
     private $OPSType = 'О';
     private $OPSSubm = 404100;
-    private $Region = 'ВОЛГОГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Волгоградская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'ВОЛЖСКИЙ';
-    private $City1 = 'КРАСНООКТЯБРЬСКИЙ';
+    private $City = 'Волжский';
+    private $City1 = 'Краснооктябрьский';
     private $ActDate = '20001030';
     private $IndexOld = '';
 }

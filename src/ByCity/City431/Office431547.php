@@ -27,13 +27,13 @@ final class Office431547 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 431547;
-    private $OPSName = 'СТАРАЯ ТЕРИЗМОРГА';
+    private $OPSName = 'Старая Теризморга';
     private $OPSType = 'О';
     private $OPSSubm = 431289;
-    private $Region = 'МОРДОВИЯ РЕСПУБЛИКА';
+    private $Region = 'Мордовия Республика';
     private $Autonom = '';
-    private $Area = 'СТАРОШАЙГОВСКИЙ РАЙОН';
-    private $City = 'СТАРАЯ ТЕРИЗМОРГА';
+    private $Area = 'Старошайговский район';
+    private $City = 'Старая Теризморга';
     private $City1 = '';
     private $ActDate = '20060615';
     private $IndexOld = '';

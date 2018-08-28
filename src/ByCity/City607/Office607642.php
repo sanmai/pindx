@@ -27,13 +27,13 @@ final class Office607642 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 607642;
-    private $OPSName = 'КСТОВО-ДТИ';
-    private $OPSType = 'ДТИ';
+    private $OPSName = 'Кстово-Дти';
+    private $OPSType = 'Дти';
     private $OPSSubm = 607650;
-    private $Region = 'НИЖЕГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Нижегородская область';
     private $Autonom = '';
-    private $Area = 'КСТОВСКИЙ РАЙОН';
-    private $City = 'КСТОВО';
+    private $Area = 'Кстовский район';
+    private $City = 'Кстово';
     private $City1 = '';
     private $ActDate = '20160914';
     private $IndexOld = '';

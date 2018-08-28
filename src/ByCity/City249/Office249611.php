@@ -27,13 +27,13 @@ final class Office249611 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 249611;
-    private $OPSName = 'СПАС-ДЕМЕНСК 1';
+    private $OPSName = 'Спас-Деменск 1';
     private $OPSType = 'О';
     private $OPSSubm = 249449;
-    private $Region = 'КАЛУЖСКАЯ ОБЛАСТЬ';
+    private $Region = 'Калужская область';
     private $Autonom = '';
-    private $Area = 'СПАС-ДЕМЕНСКИЙ РАЙОН';
-    private $City = 'СПАС-ДЕМЕНСК';
+    private $Area = 'Спас-Деменский район';
+    private $City = 'Спас-Деменск';
     private $City1 = '';
     private $ActDate = '20061102';
     private $IndexOld = '';

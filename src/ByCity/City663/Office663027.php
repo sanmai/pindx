@@ -27,13 +27,13 @@ final class Office663027 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 663027;
-    private $OPSName = 'ЗЕЛЕДЕЕВО';
+    private $OPSName = 'Зеледеево';
     private $OPSType = 'О';
     private $OPSSubm = 662989;
-    private $Region = 'КРАСНОЯРСКИЙ КРАЙ';
+    private $Region = 'Красноярский край';
     private $Autonom = '';
-    private $Area = 'ЕМЕЛЬЯНОВСКИЙ РАЙОН';
-    private $City = 'ЗЕЛЕДЕЕВО';
+    private $Area = 'Емельяновский район';
+    private $City = 'Зеледеево';
     private $City1 = '';
     private $ActDate = '20070427';
     private $IndexOld = '';

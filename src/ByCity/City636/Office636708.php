@@ -27,13 +27,13 @@ final class Office636708 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 636708;
-    private $OPSName = 'БОЛЬШАЯ ГРИВА';
+    private $OPSName = 'Большая Грива';
     private $OPSType = 'О';
     private $OPSSubm = 636759;
-    private $Region = 'ТОМСКАЯ ОБЛАСТЬ';
+    private $Region = 'Томская область';
     private $Autonom = '';
-    private $Area = 'КАРГАСОКСКИЙ РАЙОН';
-    private $City = 'БОЛЬШАЯ ГРИВА';
+    private $Area = 'Каргасокский район';
+    private $City = 'Большая Грива';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

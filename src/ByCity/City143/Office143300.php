@@ -27,13 +27,13 @@ final class Office143300 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 143300;
-    private $OPSName = 'НАРО-ФОМИНСК';
+    private $OPSName = 'Наро-Фоминск';
     private $OPSType = 'О';
     private $OPSSubm = 143399;
-    private $Region = 'МОСКОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Московская область';
     private $Autonom = '';
-    private $Area = 'НАРО-ФОМИНСКИЙ РАЙОН';
-    private $City = 'НАРО-ФОМИНСК';
+    private $Area = 'Наро-Фоминский район';
+    private $City = 'Наро-Фоминск';
     private $City1 = '';
     private $ActDate = '20080319';
     private $IndexOld = '';

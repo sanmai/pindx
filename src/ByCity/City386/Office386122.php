@@ -27,13 +27,13 @@ final class Office386122 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 386122;
-    private $OPSName = 'ДОЛАКОВО';
+    private $OPSName = 'Долаково';
     private $OPSType = 'О';
     private $OPSSubm = 386100;
-    private $Region = 'ИНГУШЕТИЯ РЕСПУБЛИКА';
+    private $Region = 'Ингушетия Республика';
     private $Autonom = '';
-    private $Area = 'НАЗРАНОВСКИЙ РАЙОН';
-    private $City = 'ДОЛАКОВО';
+    private $Area = 'Назрановский район';
+    private $City = 'Долаково';
     private $City1 = '';
     private $ActDate = '20171220';
     private $IndexOld = '';

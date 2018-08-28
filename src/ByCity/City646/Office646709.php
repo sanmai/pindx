@@ -27,13 +27,13 @@ final class Office646709 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 646709;
-    private $OPSName = 'ШЕРБАКУЛЬ УООП';
+    private $OPSName = 'Шербакуль Уооп';
     private $OPSType = 'Участок';
     private $OPSSubm = 646749;
-    private $Region = 'ОМСКАЯ ОБЛАСТЬ';
+    private $Region = 'Омская область';
     private $Autonom = '';
-    private $Area = 'ШЕРБАКУЛЬСКИЙ РАЙОН';
-    private $City = 'ШЕРБАКУЛЬ';
+    private $Area = 'Шербакульский район';
+    private $City = 'Шербакуль';
     private $City1 = '';
     private $ActDate = '20170306';
     private $IndexOld = '';

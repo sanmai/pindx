@@ -27,13 +27,13 @@ final class Office423567 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 423567;
-    private $OPSName = 'НИЖНЯЯ УРАТЬМА';
+    private $OPSName = 'Нижняя Уратьма';
     private $OPSType = 'О';
     private $OPSSubm = 423599;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'НИЖНЕКАМСКИЙ РАЙОН';
-    private $City = 'НИЖНЯЯ УРАТЬМА';
+    private $Area = 'Нижнекамский район';
+    private $City = 'Нижняя Уратьма';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

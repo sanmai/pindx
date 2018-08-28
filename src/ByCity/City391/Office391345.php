@@ -27,13 +27,13 @@ final class Office391345 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 391345;
-    private $OPSName = 'БАЛУШЕВО-ПОЧИНКИ';
+    private $OPSName = 'Балушево-Починки';
     private $OPSType = 'О';
     private $OPSSubm = 391379;
-    private $Region = 'РЯЗАНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Рязанская область';
     private $Autonom = '';
-    private $Area = 'КАСИМОВСКИЙ РАЙОН';
-    private $City = 'БАЛУШЕВО  ПОЧИНКИ';
+    private $Area = 'Касимовский район';
+    private $City = 'Балушево  Починки';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

@@ -27,14 +27,14 @@ final class Office404151 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 404151;
-    private $OPSName = 'БУРКОВСКИЙ';
+    private $OPSName = 'Бурковский';
     private $OPSType = 'О';
     private $OPSSubm = 404100;
-    private $Region = 'ВОЛГОГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Волгоградская область';
     private $Autonom = '';
-    private $Area = 'СРЕДНЕАХТУБИНСКИЙ РАЙОН';
-    private $City = 'БУРКОВСКИЙ';
-    private $City1 = 'ДУБРАВА';
+    private $Area = 'Среднеахтубинский район';
+    private $City = 'Бурковский';
+    private $City1 = 'Дубрава';
     private $ActDate = '20070411';
     private $IndexOld = '';
 }

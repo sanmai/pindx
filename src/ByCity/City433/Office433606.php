@@ -27,13 +27,13 @@ final class Office433606 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 433606;
-    private $OPSName = 'ТЕЛЕШОВКА';
+    private $OPSName = 'Телешовка';
     private $OPSType = 'О';
     private $OPSSubm = 433639;
-    private $Region = 'УЛЬЯНОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ульяновская область';
     private $Autonom = '';
-    private $Area = 'ЦИЛЬНИНСКИЙ РАЙОН';
-    private $City = 'ТЕЛЕШОВКА';
+    private $Area = 'Цильнинский район';
+    private $City = 'Телешовка';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

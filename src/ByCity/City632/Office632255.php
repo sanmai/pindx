@@ -27,13 +27,13 @@ final class Office632255 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 632255;
-    private $OPSName = 'ЧАНЫ 55';
-    private $OPSType = 'ПЕРЕДВИЖНОЕ ОС';
+    private $OPSName = 'Чаны 55';
+    private $OPSType = 'Передвижное Ос';
     private $OPSSubm = 632200;
-    private $Region = 'НОВОСИБИРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Новосибирская область';
     private $Autonom = '';
-    private $Area = 'ЧАНОВСКИЙ РАЙОН';
-    private $City = 'ЧАНЫ';
+    private $Area = 'Чановский район';
+    private $City = 'Чаны';
     private $City1 = '';
     private $ActDate = '20150708';
     private $IndexOld = '';

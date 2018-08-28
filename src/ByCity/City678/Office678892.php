@@ -27,13 +27,13 @@ final class Office678892 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 678892;
-    private $OPSName = 'КЕБЕРГЕНЕ';
+    private $OPSName = 'Кебергене';
     private $OPSType = 'О';
     private $OPSSubm = 677099;
-    private $Region = 'САХА (ЯКУТИЯ) РЕСПУБЛИКА';
+    private $Region = 'Саха (Якутия) Республика';
     private $Autonom = '';
-    private $Area = 'АБЫЙСКИЙ РАЙОН';
-    private $City = 'КЕБЕРГЕНЕ';
+    private $Area = 'Абыйский район';
+    private $City = 'Кебергене';
     private $City1 = '';
     private $ActDate = '20180702';
     private $IndexOld = '';

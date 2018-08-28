@@ -27,13 +27,13 @@ final class Office686441 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 686441;
-    private $OPSName = 'ГАРМАНДА';
+    private $OPSName = 'Гарманда';
     private $OPSType = 'О';
     private $OPSSubm = 685700;
-    private $Region = 'МАГАДАНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Магаданская область';
     private $Autonom = '';
-    private $Area = 'СЕВЕРО-ЭВЕНСКИЙ РАЙОН';
-    private $City = 'ГАРМАНДА';
+    private $Area = 'Северо-Эвенский район';
+    private $City = 'Гарманда';
     private $City1 = '';
     private $ActDate = '20110217';
     private $IndexOld = '';

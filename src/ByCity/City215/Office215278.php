@@ -27,13 +27,13 @@ final class Office215278 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 215278;
-    private $OPSName = 'СЫЧЕВКА КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Сычевка Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 215279;
-    private $Region = 'СМОЛЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Смоленская область';
     private $Autonom = '';
-    private $Area = 'СЫЧЕВСКИЙ РАЙОН';
-    private $City = 'СЫЧЕВКА';
+    private $Area = 'Сычевский район';
+    private $City = 'Сычевка';
     private $City1 = '';
     private $ActDate = '20180417';
     private $IndexOld = '';

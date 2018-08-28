@@ -27,14 +27,14 @@ final class Office366228 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 366228;
-    private $OPSName = 'БАЙТАРКИ';
+    private $OPSName = 'Байтарки';
     private $OPSType = 'О';
     private $OPSSubm = 366200;
-    private $Region = 'ЧЕЧЕНСКАЯ РЕСПУБЛИКА';
+    private $Region = 'Чеченская Республика';
     private $Autonom = '';
-    private $Area = 'ГУДЕРМЕССКИЙ РАЙОН';
-    private $City = 'НОЖАЙ-ЮРТОВСКИЙ';
-    private $City1 = 'БАЙТАРКИ';
+    private $Area = 'Гудермесский район';
+    private $City = 'Ножай-Юртовский';
+    private $City1 = 'Байтарки';
     private $ActDate = '20101220';
     private $IndexOld = '';
 }

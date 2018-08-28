@@ -27,14 +27,14 @@ final class Office300903 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 300903;
-    private $OPSName = 'КОСАЯ ГОРА';
+    private $OPSName = 'Косая Гора';
     private $OPSType = 'О';
     private $OPSSubm = 300999;
-    private $Region = 'ТУЛЬСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тульская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'ТУЛА';
-    private $City1 = 'КОСАЯ ГОРА';
+    private $City = 'Тула';
+    private $City1 = 'Косая Гора';
     private $ActDate = '20001030';
     private $IndexOld = '';
 }

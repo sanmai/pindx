@@ -27,13 +27,13 @@ final class Office399880 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 399880;
-    private $OPSName = 'НОВОЧЕМОДАНОВО';
+    private $OPSName = 'Новочемоданово';
     private $OPSType = 'О';
     private $OPSSubm = 399859;
-    private $Region = 'ЛИПЕЦКАЯ ОБЛАСТЬ';
+    private $Region = 'Липецкая область';
     private $Autonom = '';
-    private $Area = 'ЛЕВ-ТОЛСТОВСКИЙ РАЙОН';
-    private $City = 'НОВОЧЕМОДАНОВО';
+    private $Area = 'Лев-Толстовский район';
+    private $City = 'Новочемоданово';
     private $City1 = '';
     private $ActDate = '20120927';
     private $IndexOld = '';

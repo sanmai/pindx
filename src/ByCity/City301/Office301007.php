@@ -27,13 +27,13 @@ final class Office301007 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 301007;
-    private $OPSName = 'МАЛАХОВО';
+    private $OPSName = 'Малахово';
     private $OPSType = 'О';
     private $OPSSubm = 301379;
-    private $Region = 'ТУЛЬСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тульская область';
     private $Autonom = '';
-    private $Area = 'ЗАОКСКИЙ РАЙОН';
-    private $City = 'МАЛАХОВО';
+    private $Area = 'Заокский район';
+    private $City = 'Малахово';
     private $City1 = '';
     private $ActDate = '20020701';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office442046 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 442046;
-    private $OPSName = 'ГРОМОК';
+    private $OPSName = 'Громок';
     private $OPSType = 'О';
     private $OPSSubm = 442289;
-    private $Region = 'ПЕНЗЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Пензенская область';
     private $Autonom = '';
-    private $Area = 'БАШМАКОВСКИЙ РАЙОН';
-    private $City = 'ГРОМОК';
+    private $Area = 'Башмаковский район';
+    private $City = 'Громок';
     private $City1 = '';
     private $ActDate = '20060901';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office442518 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 442518;
-    private $OPSName = 'РУССКАЯ ПЕНДЕЛКА';
+    private $OPSName = 'Русская Пенделка';
     private $OPSType = 'О';
     private $OPSSubm = 442549;
-    private $Region = 'ПЕНЗЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Пензенская область';
     private $Autonom = '';
-    private $Area = 'КУЗНЕЦКИЙ РАЙОН';
-    private $City = 'ТАТАРСКАЯ ПЕНДЕЛКА';
+    private $Area = 'Кузнецкий район';
+    private $City = 'Татарская Пенделка';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

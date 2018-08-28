@@ -27,14 +27,14 @@ final class Office430901 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 430901;
-    private $OPSName = 'ЗЫКОВО';
+    private $OPSName = 'Зыково';
     private $OPSType = 'О';
     private $OPSSubm = 430000;
-    private $Region = 'МОРДОВИЯ РЕСПУБЛИКА';
+    private $Region = 'Мордовия Республика';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'САРАНСК';
-    private $City1 = 'ЗЫКОВО';
+    private $City = 'Саранск';
+    private $City1 = 'Зыково';
     private $ActDate = '20001030';
     private $IndexOld = '';
 }

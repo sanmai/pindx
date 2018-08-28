@@ -27,13 +27,13 @@ final class Office461126 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 461126;
-    private $OPSName = 'МАЛАЯ РЕМИЗЕНКА';
+    private $OPSName = 'Малая Ремизенка';
     private $OPSType = 'О';
     private $OPSSubm = 461949;
-    private $Region = 'ОРЕНБУРГСКАЯ ОБЛАСТЬ';
+    private $Region = 'Оренбургская область';
     private $Autonom = '';
-    private $Area = 'ТОЦКИЙ РАЙОН';
-    private $City = 'МАЛАЯ РЕМИЗЕНКА';
+    private $Area = 'Тоцкий район';
+    private $City = 'Малая Ремизенка';
     private $City1 = '';
     private $ActDate = '20140131';
     private $IndexOld = '';

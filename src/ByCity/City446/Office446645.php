@@ -27,13 +27,13 @@ final class Office446645 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 446645;
-    private $OPSName = 'ГЕРАСИМОВКА';
+    private $OPSName = 'Герасимовка';
     private $OPSType = 'О';
     private $OPSSubm = 446619;
-    private $Region = 'САМАРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Самарская область';
     private $Autonom = '';
-    private $Area = 'АЛЕКСЕЕВСКИЙ РАЙОН';
-    private $City = 'ГЕРАСИМОВКА';
+    private $Area = 'Алексеевский район';
+    private $City = 'Герасимовка';
     private $City1 = '';
     private $ActDate = '20050928';
     private $IndexOld = '';

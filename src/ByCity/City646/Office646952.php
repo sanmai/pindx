@@ -27,13 +27,13 @@ final class Office646952 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 646952;
-    private $OPSName = 'КРЕСТИКИ';
+    private $OPSName = 'Крестики';
     private $OPSType = 'О';
     private $OPSSubm = 646909;
-    private $Region = 'ОМСКАЯ ОБЛАСТЬ';
+    private $Region = 'Омская область';
     private $Autonom = '';
-    private $Area = 'ОКОНЕШНИКОВСКИЙ РАЙОН';
-    private $City = 'КРЕСТИКИ';
+    private $Area = 'Оконешниковский район';
+    private $City = 'Крестики';
     private $City1 = '';
     private $ActDate = '20070420';
     private $IndexOld = '';

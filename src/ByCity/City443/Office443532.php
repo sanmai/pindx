@@ -27,13 +27,13 @@ final class Office443532 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 443532;
-    private $OPSName = 'ВЕРХНЯЯ ПОДСТЕПНОВКА';
+    private $OPSName = 'Верхняя Подстепновка';
     private $OPSType = 'О';
     private $OPSSubm = 443000;
-    private $Region = 'САМАРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Самарская область';
     private $Autonom = '';
-    private $Area = 'ВОЛЖСКИЙ РАЙОН';
-    private $City = 'ВЕРХНЯЯ ПОДСТЕПНОВКА';
+    private $Area = 'Волжский район';
+    private $City = 'Верхняя Подстепновка';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

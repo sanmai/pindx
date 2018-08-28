@@ -27,13 +27,13 @@ final class Office682813 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 682813;
-    private $OPSName = 'СОВЕТСКАЯ ГАВАНЬ 13';
+    private $OPSName = 'Советская Гавань 13';
     private $OPSType = 'О';
     private $OPSSubm = 682849;
-    private $Region = 'ХАБАРОВСКИЙ КРАЙ';
+    private $Region = 'Хабаровский край';
     private $Autonom = '';
-    private $Area = 'СОВЕТСКО-ГАВАНСКИЙ РАЙОН';
-    private $City = 'СОВЕТСКАЯ ГАВАНЬ';
+    private $Area = 'Советско-Гаванский район';
+    private $City = 'Советская Гавань';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

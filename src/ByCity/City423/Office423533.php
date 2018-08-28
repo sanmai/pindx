@@ -27,13 +27,13 @@ final class Office423533 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 423533;
-    private $OPSName = 'ВЕРХНИЙ НАЛИМ';
+    private $OPSName = 'Верхний Налим';
     private $OPSType = 'О';
     private $OPSSubm = 423539;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'ЗАИНСКИЙ РАЙОН';
-    private $City = 'ВЕРХНИЙ НАЛИМ';
+    private $Area = 'Заинский район';
+    private $City = 'Верхний Налим';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

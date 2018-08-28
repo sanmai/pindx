@@ -27,13 +27,13 @@ final class Office433772 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 433772;
-    private $OPSName = 'СМЫШЛЯЕВКА';
+    private $OPSName = 'Смышляевка';
     private $OPSType = 'О';
     private $OPSSubm = 433799;
-    private $Region = 'УЛЬЯНОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ульяновская область';
     private $Autonom = '';
-    private $Area = 'КУЗОВАТОВСКИЙ РАЙОН';
-    private $City = 'СМЫШЛЯЕВКА';
+    private $Area = 'Кузоватовский район';
+    private $City = 'Смышляевка';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

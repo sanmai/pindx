@@ -27,13 +27,13 @@ final class Office403327 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 403327;
-    private $OPSName = 'ИЛЬМЕНСКИЙ-ПЕРВЫЙ';
+    private $OPSName = 'Ильменский-Первый';
     private $OPSType = 'О';
     private $OPSSubm = 403340;
-    private $Region = 'ВОЛГОГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Волгоградская область';
     private $Autonom = '';
-    private $Area = 'МИХАЙЛОВСКИЙ РАЙОН';
-    private $City = 'ИЛЬМЕНСКИЙ 1-Й';
+    private $Area = 'Михайловский район';
+    private $City = 'Ильменский 1-Й';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

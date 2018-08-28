@@ -27,13 +27,13 @@ final class Office416414 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 416414;
-    private $OPSName = 'ИКРЯНОЕ 4';
-    private $OPSType = 'ПЕРЕДВИЖНОЕ ОС';
+    private $OPSName = 'Икряное 4';
+    private $OPSType = 'Передвижное Ос';
     private $OPSSubm = 416379;
-    private $Region = 'АСТРАХАНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Астраханская область';
     private $Autonom = '';
-    private $Area = 'ИКРЯНИНСКИЙ РАЙОН';
-    private $City = 'ИКРЯНОЕ';
+    private $Area = 'Икрянинский район';
+    private $City = 'Икряное';
     private $City1 = '';
     private $ActDate = '20150529';
     private $IndexOld = '';

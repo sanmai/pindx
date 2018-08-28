@@ -27,13 +27,13 @@ final class Office461915 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 461915;
-    private $OPSName = 'ТОЛКАЕВКА';
+    private $OPSName = 'Толкаевка';
     private $OPSType = 'О';
     private $OPSSubm = 461949;
-    private $Region = 'ОРЕНБУРГСКАЯ ОБЛАСТЬ';
+    private $Region = 'Оренбургская область';
     private $Autonom = '';
-    private $Area = 'СОРОЧИНСКИЙ РАЙОН';
-    private $City = 'ТОЛКАЕВКА';
+    private $Area = 'Сорочинский район';
+    private $City = 'Толкаевка';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office399835 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 399835;
-    private $OPSName = 'ДАНКОВ 5';
-    private $OPSType = 'ПЕРЕДВИЖНОЕ ОС';
+    private $OPSName = 'Данков 5';
+    private $OPSType = 'Передвижное Ос';
     private $OPSSubm = 399859;
-    private $Region = 'ЛИПЕЦКАЯ ОБЛАСТЬ';
+    private $Region = 'Липецкая область';
     private $Autonom = '';
-    private $Area = 'ДАНКОВСКИЙ РАЙОН';
-    private $City = 'ДАНКОВ';
+    private $Area = 'Данковский район';
+    private $City = 'Данков';
     private $City1 = '';
     private $ActDate = '20150922';
     private $IndexOld = '';

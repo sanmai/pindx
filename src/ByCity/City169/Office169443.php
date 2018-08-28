@@ -27,13 +27,13 @@ final class Office169443 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 169443;
-    private $OPSName = 'ТИМУШБОР';
+    private $OPSName = 'Тимушбор';
     private $OPSType = 'О';
     private $OPSSubm = 169509;
-    private $Region = 'КОМИ РЕСПУБЛИКА';
+    private $Region = 'Коми Республика';
     private $Autonom = '';
-    private $Area = 'ТРОИЦКО-ПЕЧОРСКИЙ РАЙОН';
-    private $City = 'ТИМУШБОР';
+    private $Area = 'Троицко-Печорский район';
+    private $City = 'Тимушбор';
     private $City1 = '';
     private $ActDate = '20051114';
     private $IndexOld = '';

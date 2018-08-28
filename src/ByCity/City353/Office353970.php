@@ -27,14 +27,14 @@ final class Office353970 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 353970;
-    private $OPSName = 'ВЕРХНЕБАКАНСКИЙ';
+    private $OPSName = 'Верхнебаканский';
     private $OPSType = 'О';
     private $OPSSubm = 353999;
-    private $Region = 'КРАСНОДАРСКИЙ КРАЙ';
+    private $Region = 'Краснодарский край';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'НОВОРОССИЙСК';
-    private $City1 = 'ВЕРХНЕБАКАНСКИЙ';
+    private $City = 'Новороссийск';
+    private $City1 = 'Верхнебаканский';
     private $ActDate = '20001030';
     private $IndexOld = '';
 }

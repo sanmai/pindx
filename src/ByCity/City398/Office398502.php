@@ -27,13 +27,13 @@ final class Office398502 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 398502;
-    private $OPSName = 'СТУДЕНЫЕ ВЫСЕЛКИ';
+    private $OPSName = 'Студеные Выселки';
     private $OPSType = 'О';
     private $OPSSubm = 398999;
-    private $Region = 'ЛИПЕЦКАЯ ОБЛАСТЬ';
+    private $Region = 'Липецкая область';
     private $Autonom = '';
-    private $Area = 'ЛИПЕЦКИЙ РАЙОН';
-    private $City = 'СТУДЕНЫЕ ВЫСЕЛКИ';
+    private $Area = 'Липецкий район';
+    private $City = 'Студеные Выселки';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

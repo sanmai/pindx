@@ -27,13 +27,13 @@ final class Office624696 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 624696;
-    private $OPSName = 'БУБЧИКОВО';
+    private $OPSName = 'Бубчиково';
     private $OPSType = 'О';
     private $OPSSubm = 624619;
-    private $Region = 'СВЕРДЛОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Свердловская область';
     private $Autonom = '';
-    private $Area = 'АЛАПАЕВСКИЙ РАЙОН';
-    private $City = 'БУБЧИКОВО';
+    private $Area = 'Алапаевский район';
+    private $City = 'Бубчиково';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

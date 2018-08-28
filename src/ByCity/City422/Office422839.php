@@ -27,13 +27,13 @@ final class Office422839 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 422839;
-    private $OPSName = 'ТЕНИШЕВО';
+    private $OPSName = 'Тенишево';
     private $OPSType = 'О';
     private $OPSSubm = 422819;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'КАМСКО-УСТЬИНСКИЙ РАЙОН';
-    private $City = 'ТЕНИШЕВО';
+    private $Area = 'Камско-Устьинский район';
+    private $City = 'Тенишево';
     private $City1 = '';
     private $ActDate = '20030114';
     private $IndexOld = '';

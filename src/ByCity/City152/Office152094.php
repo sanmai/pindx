@@ -27,13 +27,13 @@ final class Office152094 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 152094;
-    private $OPSName = 'ХАБАРОВО';
+    private $OPSName = 'Хабарово';
     private $OPSType = 'О';
     private $OPSSubm = 152099;
-    private $Region = 'ЯРОСЛАВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ярославская область';
     private $Autonom = '';
-    private $Area = 'ДАНИЛОВСКИЙ РАЙОН';
-    private $City = 'ХАБАРОВО';
+    private $Area = 'Даниловский район';
+    private $City = 'Хабарово';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

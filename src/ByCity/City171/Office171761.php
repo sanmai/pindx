@@ -27,13 +27,13 @@ final class Office171761 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 171761;
-    private $OPSName = 'БОЛЬШОЕ МАЛИНСКОЕ';
+    private $OPSName = 'Большое Малинское';
     private $OPSType = 'О';
     private $OPSSubm = 171679;
-    private $Region = 'ТВЕРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тверская область';
     private $Autonom = '';
-    private $Area = 'САНДОВСКИЙ РАЙОН';
-    private $City = 'БОЛЬШОЕ МАЛИНСКОЕ';
+    private $Area = 'Сандовский район';
+    private $City = 'Большое Малинское';
     private $City1 = '';
     private $ActDate = '20050907';
     private $IndexOld = '';

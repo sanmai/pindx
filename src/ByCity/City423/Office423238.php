@@ -27,13 +27,13 @@ final class Office423238 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 423238;
-    private $OPSName = 'БУГУЛЬМА 8 ППС';
-    private $OPSType = 'ППС';
+    private $OPSName = 'Бугульма 8 Ппс';
+    private $OPSType = 'Ппс';
     private $OPSSubm = 423249;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'БУГУЛЬМИНСКИЙ РАЙОН';
-    private $City = 'БУГУЛЬМА';
+    private $Area = 'Бугульминский район';
+    private $City = 'Бугульма';
     private $City1 = '';
     private $ActDate = '20170913';
     private $IndexOld = '';

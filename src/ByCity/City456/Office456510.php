@@ -27,13 +27,13 @@ final class Office456510 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 456510;
-    private $OPSName = 'ДОЛГОДЕРЕВЕНСКОЕ';
+    private $OPSName = 'Долгодеревенское';
     private $OPSType = 'О';
     private $OPSSubm = 454999;
-    private $Region = 'ЧЕЛЯБИНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Челябинская область';
     private $Autonom = '';
-    private $Area = 'СОСНОВСКИЙ РАЙОН';
-    private $City = 'ДОЛГОДЕРЕВЕНСКОЕ';
+    private $Area = 'Сосновский район';
+    private $City = 'Долгодеревенское';
     private $City1 = '';
     private $ActDate = '20061101';
     private $IndexOld = '';

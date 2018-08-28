@@ -27,13 +27,13 @@ final class Office161224 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 161224;
-    private $OPSName = 'КАРПОВО';
+    private $OPSName = 'Карпово';
     private $OPSType = 'О';
     private $OPSSubm = 161139;
-    private $Region = 'ВОЛОГОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Вологодская область';
     private $Autonom = '';
-    private $Area = 'БЕЛОЗЕРСКИЙ РАЙОН';
-    private $City = 'КАРПОВО АРТЮШИНСКОЕ';
+    private $Area = 'Белозерский район';
+    private $City = 'Карпово Артюшинское';
     private $City1 = '';
     private $ActDate = '20180813';
     private $IndexOld = '';

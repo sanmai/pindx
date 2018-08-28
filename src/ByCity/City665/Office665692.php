@@ -27,13 +27,13 @@ final class Office665692 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 665692;
-    private $OPSName = 'ИГИРМА ППС';
-    private $OPSType = 'ППС';
+    private $OPSName = 'Игирма Ппс';
+    private $OPSType = 'Ппс';
     private $OPSSubm = 665650;
-    private $Region = 'ИРКУТСКАЯ ОБЛАСТЬ';
+    private $Region = 'Иркутская область';
     private $Autonom = '';
-    private $Area = 'НИЖНЕИЛИМСКИЙ РАЙОН';
-    private $City = 'ИГИРМА';
+    private $Area = 'Нижнеилимский район';
+    private $City = 'Игирма';
     private $City1 = '';
     private $ActDate = '20170623';
     private $IndexOld = '';

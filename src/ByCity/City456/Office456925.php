@@ -27,13 +27,13 @@ final class Office456925 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 456925;
-    private $OPSName = 'ВЕРХНИЙ АЙСК';
+    private $OPSName = 'Верхний Айск';
     private $OPSType = 'О';
     private $OPSSubm = 456299;
-    private $Region = 'ЧЕЛЯБИНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Челябинская область';
     private $Autonom = '';
-    private $Area = 'САТКИНСКИЙ РАЙОН';
-    private $City = 'ВЕРХНИЙ АЙСК';
+    private $Area = 'Саткинский район';
+    private $City = 'Верхний Айск';
     private $City1 = '';
     private $ActDate = '20070208';
     private $IndexOld = '';

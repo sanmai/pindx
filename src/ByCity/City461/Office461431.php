@@ -27,13 +27,13 @@ final class Office461431 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 461431;
-    private $OPSName = 'ТАТАРСКАЯ КАРГАЛА';
+    private $OPSName = 'Татарская Каргала';
     private $OPSType = 'О';
     private $OPSSubm = 460999;
-    private $Region = 'ОРЕНБУРГСКАЯ ОБЛАСТЬ';
+    private $Region = 'Оренбургская область';
     private $Autonom = '';
-    private $Area = 'САКМАРСКИЙ РАЙОН';
-    private $City = 'ТАТАРСКАЯ КАРГАЛА';
+    private $Area = 'Сакмарский район';
+    private $City = 'Татарская Каргала';
     private $City1 = '';
     private $ActDate = '20061013';
     private $IndexOld = '';

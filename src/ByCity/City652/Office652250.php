@@ -27,13 +27,13 @@ final class Office652250 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 652250;
-    private $OPSName = 'ТИСУЛЬ';
+    private $OPSName = 'Тисуль';
     private $OPSType = 'О';
     private $OPSSubm = 652269;
-    private $Region = 'КЕМЕРОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Кемеровская область';
     private $Autonom = '';
-    private $Area = 'ТЯЖИНСКИЙ РАЙОН';
-    private $City = 'ТИСУЛЬ';
+    private $Area = 'Тяжинский район';
+    private $City = 'Тисуль';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

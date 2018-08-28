@@ -27,13 +27,13 @@ final class Office442265 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 442265;
-    private $OPSName = 'КЕВДО-ВЕРШИНА';
+    private $OPSName = 'Кевдо-Вершина';
     private $OPSType = 'О';
     private $OPSSubm = 442289;
-    private $Region = 'ПЕНЗЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Пензенская область';
     private $Autonom = '';
-    private $Area = 'БЕЛИНСКИЙ РАЙОН';
-    private $City = 'КЕВДО-ВЕРШИНА';
+    private $Area = 'Белинский район';
+    private $City = 'Кевдо-Вершина';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office152381 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 152381;
-    private $OPSName = 'ДУНИЛОВО';
+    private $OPSName = 'Дунилово';
     private $OPSType = 'О';
     private $OPSSubm = 152619;
-    private $Region = 'ЯРОСЛАВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ярославская область';
     private $Autonom = '';
-    private $Area = 'БОЛЬШЕСЕЛЬСКИЙ РАЙОН';
-    private $City = 'ДУНИЛОВО';
+    private $Area = 'Большесельский район';
+    private $City = 'Дунилово';
     private $City1 = '';
     private $ActDate = '20150330';
     private $IndexOld = '';

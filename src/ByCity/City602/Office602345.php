@@ -27,13 +27,13 @@ final class Office602345 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 602345;
-    private $OPSName = 'НАДЕЖДИНО';
+    private $OPSName = 'Надеждино';
     private $OPSType = 'О';
     private $OPSSubm = 602250;
-    private $Region = 'ВЛАДИМИРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Владимирская область';
     private $Autonom = '';
-    private $Area = 'СЕЛИВАНОВСКИЙ РАЙОН';
-    private $City = 'НАДЕЖДИНО';
+    private $Area = 'Селивановский район';
+    private $City = 'Надеждино';
     private $City1 = '';
     private $ActDate = '20051118';
     private $IndexOld = '';

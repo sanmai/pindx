@@ -27,13 +27,13 @@ final class Office346963 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 346963;
-    private $OPSName = 'МАРФИНКА';
+    private $OPSName = 'Марфинка';
     private $OPSType = 'О';
     private $OPSSubm = 346879;
-    private $Region = 'РОСТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ростовская область';
     private $Autonom = '';
-    private $Area = 'МАТВЕЕВО-КУРГАНСКИЙ РАЙОН';
-    private $City = 'МАРФИНКА';
+    private $Area = 'Матвеево-Курганский район';
+    private $City = 'Марфинка';
     private $City1 = '';
     private $ActDate = '20070214';
     private $IndexOld = '';

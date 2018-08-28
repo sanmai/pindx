@@ -27,13 +27,13 @@ final class Office242444 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 242444;
-    private $OPSName = 'ЗАУЛЬЕ';
+    private $OPSName = 'Заулье';
     private $OPSType = 'О';
     private $OPSSubm = 242339;
-    private $Region = 'БРЯНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Брянская область';
     private $Autonom = '';
-    private $Area = 'СЕВСКИЙ РАЙОН';
-    private $City = 'ЗАУЛЬЕ';
+    private $Area = 'Севский район';
+    private $City = 'Заулье';
     private $City1 = '';
     private $ActDate = '20060413';
     private $IndexOld = '';

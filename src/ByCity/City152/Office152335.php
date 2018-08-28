@@ -27,13 +27,13 @@ final class Office152335 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 152335;
-    private $OPSName = 'ЧЕБАКОВО';
+    private $OPSName = 'Чебаково';
     private $OPSType = 'О';
     private $OPSSubm = 150599;
-    private $Region = 'ЯРОСЛАВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ярославская область';
     private $Autonom = '';
-    private $Area = 'ТУТАЕВСКИЙ РАЙОН';
-    private $City = 'ЧЕБАКОВО';
+    private $Area = 'Тутаевский район';
+    private $City = 'Чебаково';
     private $City1 = '';
     private $ActDate = '20150330';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office442714 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 442714;
-    private $OPSName = 'КАМЕННЫЙ БРОД';
+    private $OPSName = 'Каменный Брод';
     private $OPSType = 'О';
     private $OPSSubm = 442749;
-    private $Region = 'ПЕНЗЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Пензенская область';
     private $Autonom = '';
-    private $Area = 'ИССИНСКИЙ РАЙОН';
-    private $City = 'КАМЕННЫЙ БРОД';
+    private $Area = 'Иссинский район';
+    private $City = 'Каменный Брод';
     private $City1 = '';
     private $ActDate = '20050216';
     private $IndexOld = '';

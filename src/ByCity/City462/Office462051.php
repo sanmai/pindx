@@ -27,13 +27,13 @@ final class Office462051 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 462051;
-    private $OPSName = 'НИЖНИЙ ГУМБЕТ';
+    private $OPSName = 'Нижний Гумбет';
     private $OPSType = 'О';
     private $OPSSubm = 462059;
-    private $Region = 'ОРЕНБУРГСКАЯ ОБЛАСТЬ';
+    private $Region = 'Оренбургская область';
     private $Autonom = '';
-    private $Area = 'ОКТЯБРЬСКИЙ РАЙОН';
-    private $City = 'НИЖНИЙ ГУМБЕТ';
+    private $Area = 'Октябрьский район';
+    private $City = 'Нижний Гумбет';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

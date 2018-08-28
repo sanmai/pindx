@@ -27,13 +27,13 @@ final class Office629707 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 629707;
-    private $OPSName = 'ПАНАЕВСК';
+    private $OPSName = 'Панаевск';
     private $OPSType = 'О';
     private $OPSSubm = 629000;
     private $Region = '';
-    private $Autonom = 'ЯМАЛО-НЕНЕЦКИЙ АВТОНОМНЫЙ ОКРУГ';
-    private $Area = 'ЯМАЛЬСКИЙ РАЙОН';
-    private $City = 'ПАНАЕВСК';
+    private $Autonom = 'Ямало-Ненецкий автономный округ';
+    private $Area = 'Ямальский район';
+    private $City = 'Панаевск';
     private $City1 = '';
     private $ActDate = '20170906';
     private $IndexOld = '';

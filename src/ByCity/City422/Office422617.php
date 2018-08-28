@@ -27,13 +27,13 @@ final class Office422617 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 422617;
-    private $OPSName = 'ЛАИШЕВО 7';
-    private $OPSType = 'ПЕРЕДВИЖНОЕ ОС';
+    private $OPSName = 'Лаишево 7';
+    private $OPSType = 'Передвижное Ос';
     private $OPSSubm = 420999;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'ЛАИШЕВСКИЙ РАЙОН';
-    private $City = 'ЛАИШЕВО';
+    private $Area = 'Лаишевский район';
+    private $City = 'Лаишево';
     private $City1 = '';
     private $ActDate = '20151113';
     private $IndexOld = '';

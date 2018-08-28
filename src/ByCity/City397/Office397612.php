@@ -27,13 +27,13 @@ final class Office397612 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 397612;
-    private $OPSName = 'ПОДГОРНОЕ';
+    private $OPSName = 'Подгорное';
     private $OPSType = 'О';
     private $OPSSubm = 397659;
-    private $Region = 'ВОРОНЕЖСКАЯ ОБЛАСТЬ';
+    private $Region = 'Воронежская область';
     private $Autonom = '';
-    private $Area = 'КАЛАЧЕЕВСКИЙ РАЙОН';
-    private $City = 'ПОДГОРНОЕ';
+    private $Area = 'Калачеевский район';
+    private $City = 'Подгорное';
     private $City1 = '';
     private $ActDate = '20090915';
     private $IndexOld = '';

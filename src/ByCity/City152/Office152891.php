@@ -27,13 +27,13 @@ final class Office152891 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 152891;
-    private $OPSName = 'АНДРЮШИНО';
+    private $OPSName = 'Андрюшино';
     private $OPSType = 'О';
     private $OPSSubm = 152939;
-    private $Region = 'ЯРОСЛАВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ярославская область';
     private $Autonom = '';
-    private $Area = 'ПОШЕХОНСКИЙ РАЙОН';
-    private $City = 'АНДРЮШИНО';
+    private $Area = 'Пошехонский район';
+    private $City = 'Андрюшино';
     private $City1 = '';
     private $ActDate = '20061115';
     private $IndexOld = '';

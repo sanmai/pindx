@@ -27,13 +27,13 @@ final class Office361374 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 361374;
-    private $OPSName = 'ТАШЛЫ-ТАЛА';
+    private $OPSName = 'Ташлы-Тала';
     private $OPSType = 'О';
     private $OPSSubm = 361330;
-    private $Region = 'КАБАРДИНО-БАЛКАРСКАЯ РЕСПУБЛИКА';
+    private $Region = 'Кабардино-Балкарская Республика';
     private $Autonom = '';
-    private $Area = 'ЛЕСКЕНСКИЙ РАЙОН';
-    private $City = 'ТАШЛЫ-ТАЛА';
+    private $Area = 'Лескенский район';
+    private $City = 'Ташлы-Тала';
     private $City1 = '';
     private $ActDate = '20031104';
     private $IndexOld = '';

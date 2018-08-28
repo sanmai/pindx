@@ -27,13 +27,13 @@ final class Office663238 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 663238;
-    private $OPSName = 'ТУРУХАНСК УООП';
+    private $OPSName = 'Туруханск Уооп';
     private $OPSType = 'Участок';
     private $OPSSubm = 660999;
-    private $Region = 'КРАСНОЯРСКИЙ КРАЙ';
+    private $Region = 'Красноярский край';
     private $Autonom = '';
-    private $Area = 'ТУРУХАНСКИЙ РАЙОН';
-    private $City = 'ТУРУХАНСК';
+    private $Area = 'Туруханский район';
+    private $City = 'Туруханск';
     private $City1 = '';
     private $ActDate = '20160325';
     private $IndexOld = '';

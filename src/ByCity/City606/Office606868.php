@@ -27,13 +27,13 @@ final class Office606868 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 606868;
-    private $OPSName = 'СКУЛЯБИХА ППС';
-    private $OPSType = 'ППС';
+    private $OPSName = 'Скулябиха Ппс';
+    private $OPSType = 'Ппс';
     private $OPSSubm = 606879;
-    private $Region = 'НИЖЕГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Нижегородская область';
     private $Autonom = '';
-    private $Area = 'ВЕТЛУЖСКИЙ РАЙОН';
-    private $City = 'СКУЛЯБИХА';
+    private $Area = 'Ветлужский район';
+    private $City = 'Скулябиха';
     private $City1 = '';
     private $ActDate = '20170711';
     private $IndexOld = '';

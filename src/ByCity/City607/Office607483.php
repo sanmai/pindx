@@ -27,13 +27,13 @@ final class Office607483 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 607483;
-    private $OPSName = 'МАЛОЕ АНДОСОВО';
+    private $OPSName = 'Малое Андосово';
     private $OPSType = 'О';
     private $OPSSubm = 607489;
-    private $Region = 'НИЖЕГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Нижегородская область';
     private $Autonom = '';
-    private $Area = 'ПИЛЬНИНСКИЙ РАЙОН';
-    private $City = 'МАЛОЕ АНДОСОВО';
+    private $Area = 'Пильнинский район';
+    private $City = 'Малое Андосово';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

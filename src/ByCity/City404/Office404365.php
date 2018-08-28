@@ -27,13 +27,13 @@ final class Office404365 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 404365;
-    private $OPSName = 'ПИМЕНО-ЧЕРНИ';
+    private $OPSName = 'Пимено-Черни';
     private $OPSType = 'О';
     private $OPSSubm = 404350;
-    private $Region = 'ВОЛГОГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Волгоградская область';
     private $Autonom = '';
-    private $Area = 'КОТЕЛЬНИКОВСКИЙ РАЙОН';
-    private $City = 'ПИМЕНО-ЧЕРНИ';
+    private $Area = 'Котельниковский район';
+    private $City = 'Пимено-Черни';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

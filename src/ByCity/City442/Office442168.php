@@ -27,13 +27,13 @@ final class Office442168 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 442168;
-    private $OPSName = 'НИЖНИЙ ЛОМОВ КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Нижний Ломов Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 442169;
-    private $Region = 'ПЕНЗЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Пензенская область';
     private $Autonom = '';
-    private $Area = 'НИЖНЕЛОМОВСКИЙ РАЙОН';
-    private $City = 'НИЖНИЙ ЛОМОВ';
+    private $Area = 'Нижнеломовский район';
+    private $City = 'Нижний Ломов';
     private $City1 = '';
     private $ActDate = '20171006';
     private $IndexOld = '';

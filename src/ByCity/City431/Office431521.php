@@ -27,13 +27,13 @@ final class Office431521 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 431521;
-    private $OPSName = 'ПЕНЗЯТКА';
+    private $OPSName = 'Пензятка';
     private $OPSType = 'О';
     private $OPSSubm = 431539;
-    private $Region = 'МОРДОВИЯ РЕСПУБЛИКА';
+    private $Region = 'Мордовия Республика';
     private $Autonom = '';
-    private $Area = 'ЛЯМБИРСКИЙ РАЙОН';
-    private $City = 'ПЕНЗЯТКА';
+    private $Area = 'Лямбирский район';
+    private $City = 'Пензятка';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

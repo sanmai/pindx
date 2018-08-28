@@ -27,13 +27,13 @@ final class Office607549 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 607549;
-    private $OPSName = 'ЕРПЕЛЕВО';
+    private $OPSName = 'Ерпелево';
     private $OPSType = 'О';
     private $OPSSubm = 607527;
-    private $Region = 'НИЖЕГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Нижегородская область';
     private $Autonom = '';
-    private $Area = 'КРАСНООКТЯБРЬСКИЙ РАЙОН';
-    private $City = 'ЕРПЕЛЕВО';
+    private $Area = 'Краснооктябрьский район';
+    private $City = 'Ерпелево';
     private $City1 = '';
     private $ActDate = '20060914';
     private $IndexOld = '';

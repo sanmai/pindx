@@ -27,13 +27,13 @@ final class Office632951 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 632951;
-    private $OPSName = 'ЗДВИНСК 1';
+    private $OPSName = 'Здвинск 1';
     private $OPSType = 'О';
     private $OPSSubm = 632330;
-    private $Region = 'НОВОСИБИРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Новосибирская область';
     private $Autonom = '';
-    private $Area = 'ЗДВИНСКИЙ РАЙОН';
-    private $City = 'ЗДВИНСК';
+    private $Area = 'Здвинский район';
+    private $City = 'Здвинск';
     private $City1 = '';
     private $ActDate = '20060705';
     private $IndexOld = '';

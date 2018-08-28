@@ -27,14 +27,14 @@ final class Office108800 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 108800;
-    private $OPSName = 'КИЕВСКИЙ';
+    private $OPSName = 'Киевский';
     private $OPSType = 'О';
     private $OPSSubm = 143399;
-    private $Region = 'МОСКВА';
+    private $Region = 'Москва';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'КИЕВСКИЙ';
-    private $City1 = 'КИЕВСКИЙ';
+    private $City = 'Киевский';
+    private $City1 = 'Киевский';
     private $ActDate = '20180131';
     private $IndexOld = '';
 }

@@ -27,13 +27,13 @@ final class Office188268 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 188268;
-    private $OPSName = 'МШИНСКАЯ';
+    private $OPSName = 'Мшинская';
     private $OPSType = 'О';
     private $OPSSubm = 188299;
-    private $Region = 'ЛЕНИНГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ленинградская область';
     private $Autonom = '';
-    private $Area = 'ЛУЖСКИЙ РАЙОН';
-    private $City = 'МШИНСКАЯ';
+    private $Area = 'Лужский район';
+    private $City = 'Мшинская';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

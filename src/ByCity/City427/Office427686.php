@@ -27,13 +27,13 @@ final class Office427686 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 427686;
-    private $OPSName = 'МАЛЫЙ ВЕНИЖ';
+    private $OPSName = 'Малый Вениж';
     private $OPSType = 'О';
     private $OPSSubm = 427669;
-    private $Region = 'УДМУРТСКАЯ РЕСПУБЛИКА';
+    private $Region = 'Удмуртская Республика';
     private $Autonom = '';
-    private $Area = 'ЮКАМЕНСКИЙ РАЙОН';
-    private $City = 'МАЛЫЙ ВЕНИЖ';
+    private $Area = 'Юкаменский район';
+    private $City = 'Малый Вениж';
     private $City1 = '';
     private $ActDate = '20041229';
     private $IndexOld = '';

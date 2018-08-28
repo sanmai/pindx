@@ -27,13 +27,13 @@ final class Office423213 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 423213;
-    private $OPSName = 'ТАТАРСКАЯ ДЫМСКАЯ';
+    private $OPSName = 'Татарская Дымская';
     private $OPSType = 'О';
     private $OPSSubm = 423249;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'БУГУЛЬМИНСКИЙ РАЙОН';
-    private $City = 'ТАТАРСКАЯ-ДЫМСКАЯ';
+    private $Area = 'Бугульминский район';
+    private $City = 'Татарская-Дымская';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

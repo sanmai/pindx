@@ -27,13 +27,13 @@ final class Office636225 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 636225;
-    private $OPSName = 'ВЫСОКИЙ ЯР';
+    private $OPSName = 'Высокий Яр';
     private $OPSType = 'О';
     private $OPSSubm = 636159;
-    private $Region = 'ТОМСКАЯ ОБЛАСТЬ';
+    private $Region = 'Томская область';
     private $Autonom = '';
-    private $Area = 'БАКЧАРСКИЙ РАЙОН';
-    private $City = 'ВЫСОКИЙ ЯР';
+    private $Area = 'Бакчарский район';
+    private $City = 'Высокий Яр';
     private $City1 = '';
     private $ActDate = '20070514';
     private $IndexOld = '';

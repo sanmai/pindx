@@ -27,13 +27,13 @@ final class Office623040 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 623040;
-    private $OPSName = 'КЛЕНОВСКОЕ';
+    private $OPSName = 'Кленовское';
     private $OPSType = 'О';
     private $OPSSubm = 623309;
-    private $Region = 'СВЕРДЛОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Свердловская область';
     private $Autonom = '';
-    private $Area = 'НИЖНЕСЕРГИНСКИЙ РАЙОН';
-    private $City = 'КЛЕНОВСКОЕ';
+    private $Area = 'Нижнесергинский район';
+    private $City = 'Кленовское';
     private $City1 = '';
     private $ActDate = '20110427';
     private $IndexOld = '';

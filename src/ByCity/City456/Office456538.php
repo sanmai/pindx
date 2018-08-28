@@ -27,13 +27,13 @@ final class Office456538 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 456538;
-    private $OPSName = 'СМОЛИНО-СТАНЦИЯ';
+    private $OPSName = 'Смолино-Станция';
     private $OPSType = 'О';
     private $OPSSubm = 454999;
-    private $Region = 'ЧЕЛЯБИНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Челябинская область';
     private $Autonom = '';
-    private $Area = 'СОСНОВСКИЙ РАЙОН';
-    private $City = 'СМОЛИНО Ж-Д';
+    private $Area = 'Сосновский район';
+    private $City = 'Смолино Ж-Д';
     private $City1 = '';
     private $ActDate = '20061101';
     private $IndexOld = '';

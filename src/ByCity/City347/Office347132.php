@@ -27,13 +27,13 @@ final class Office347132 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 347132;
-    private $OPSName = 'КУТЕЙНИКОВ';
+    private $OPSName = 'Кутейников';
     private $OPSType = 'О';
     private $OPSSubm = 347239;
-    private $Region = 'РОСТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ростовская область';
     private $Autonom = '';
-    private $Area = 'МИЛЮТИНСКИЙ РАЙОН';
-    private $City = 'КУТЕЙНИКОВ';
+    private $Area = 'Милютинский район';
+    private $City = 'Кутейников';
     private $City1 = '';
     private $ActDate = '20070214';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office403453 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 403453;
-    private $OPSName = 'ОТРОЖКИ';
+    private $OPSName = 'Отрожки';
     private $OPSType = 'О';
     private $OPSSubm = 403400;
-    private $Region = 'ВОЛГОГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Волгоградская область';
     private $Autonom = '';
-    private $Area = 'СЕРАФИМОВИЧСКИЙ РАЙОН';
-    private $City = 'ОТРОЖКИ';
+    private $Area = 'Серафимовичский район';
+    private $City = 'Отрожки';
     private $City1 = '';
     private $ActDate = '20120613';
     private $IndexOld = '';

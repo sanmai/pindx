@@ -27,13 +27,13 @@ final class Office678995 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 678995;
-    private $OPSName = 'СЕРЕБРЯНЫЙ БОР';
+    private $OPSName = 'Серебряный Бор';
     private $OPSType = 'О';
     private $OPSSubm = 678999;
-    private $Region = 'САХА (ЯКУТИЯ) РЕСПУБЛИКА';
+    private $Region = 'Саха (Якутия) Республика';
     private $Autonom = '';
-    private $Area = 'НЕРЮНГРИНСКИЙ РАЙОН';
-    private $City = 'СЕРЕБРЯНЫЙ БОР';
+    private $Area = 'Нерюнгринский район';
+    private $City = 'Серебряный Бор';
     private $City1 = '';
     private $ActDate = '20180702';
     private $IndexOld = '';

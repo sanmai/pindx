@@ -27,13 +27,13 @@ final class Office500200 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 500200;
-    private $OPSName = 'ЦХИНВАЛ';
+    private $OPSName = 'Цхинвал';
     private $OPSType = 'О';
     private $OPSSubm = 362000;
-    private $Region = 'ЮЖНАЯ ОСЕТИЯ РЕСПУБЛИКА';
+    private $Region = 'Южная Осетия Республика';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'ЦХИНВАЛ';
+    private $City = 'Цхинвал';
     private $City1 = '';
     private $ActDate = '20101209';
     private $IndexOld = '';

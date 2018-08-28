@@ -27,13 +27,13 @@ final class Office165693 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 165693;
-    private $OPSName = 'ШИРОКИЙ ПРИЛУК';
+    private $OPSName = 'Широкий Прилук';
     private $OPSType = 'О';
     private $OPSSubm = 165399;
-    private $Region = 'АРХАНГЕЛЬСКАЯ ОБЛАСТЬ';
+    private $Region = 'Архангельская область';
     private $Autonom = '';
-    private $Area = 'ВИЛЕГОДСКИЙ РАЙОН';
-    private $City = 'ШИРОКИЙ ПРИЛУК';
+    private $Area = 'Вилегодский район';
+    private $City = 'Широкий Прилук';
     private $City1 = '';
     private $ActDate = '20031103';
     private $IndexOld = '';

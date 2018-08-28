@@ -27,14 +27,14 @@ final class Office462292 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 462292;
-    private $OPSName = 'БЛЯВТАМАК';
+    private $OPSName = 'Блявтамак';
     private $OPSType = 'О';
     private $OPSSubm = 462240;
-    private $Region = 'ОРЕНБУРГСКАЯ ОБЛАСТЬ';
+    private $Region = 'Оренбургская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'МЕДНОГОРСК';
-    private $City1 = 'БЛЯВТАМАК';
+    private $City = 'Медногорск';
+    private $City1 = 'Блявтамак';
     private $ActDate = '20040924';
     private $IndexOld = '';
 }

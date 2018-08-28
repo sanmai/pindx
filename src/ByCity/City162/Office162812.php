@@ -27,13 +27,13 @@ final class Office162812 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 162812;
-    private $OPSName = 'КРУГЛИЦЫ';
+    private $OPSName = 'Круглицы';
     private $OPSType = 'О';
     private $OPSSubm = 162499;
-    private $Region = 'ВОЛОГОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Вологодская область';
     private $Autonom = '';
-    private $Area = 'УСТЮЖЕНСКИЙ РАЙОН';
-    private $City = 'КРУГЛИЦЫ';
+    private $Area = 'Устюженский район';
+    private $City = 'Круглицы';
     private $City1 = '';
     private $ActDate = '20101119';
     private $IndexOld = '';

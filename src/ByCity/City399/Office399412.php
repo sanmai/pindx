@@ -27,13 +27,13 @@ final class Office399412 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 399412;
-    private $OPSName = 'НИЖНЯЯ МАТРЕНКА';
+    private $OPSName = 'Нижняя Матренка';
     private $OPSType = 'О';
     private $OPSSubm = 399099;
-    private $Region = 'ЛИПЕЦКАЯ ОБЛАСТЬ';
+    private $Region = 'Липецкая область';
     private $Autonom = '';
-    private $Area = 'ДОБРИНСКИЙ РАЙОН';
-    private $City = 'НИЖНЯЯ МАТРЕНКА';
+    private $Area = 'Добринский район';
+    private $City = 'Нижняя Матренка';
     private $City1 = '';
     private $ActDate = '20130301';
     private $IndexOld = '';

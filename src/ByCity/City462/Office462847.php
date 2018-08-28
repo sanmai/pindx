@@ -27,13 +27,13 @@ final class Office462847 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 462847;
-    private $OPSName = 'АДАМОВКА КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Адамовка Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 462849;
-    private $Region = 'ОРЕНБУРГСКАЯ ОБЛАСТЬ';
+    private $Region = 'Оренбургская область';
     private $Autonom = '';
-    private $Area = 'АДАМОВСКИЙ РАЙОН';
-    private $City = 'АДАМОВКА';
+    private $Area = 'Адамовский район';
+    private $City = 'Адамовка';
     private $City1 = '';
     private $ActDate = '20170815';
     private $IndexOld = '';

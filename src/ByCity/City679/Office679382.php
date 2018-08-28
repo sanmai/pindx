@@ -27,13 +27,13 @@ final class Office679382 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 679382;
-    private $OPSName = 'ДЕЖНЕВО';
+    private $OPSName = 'Дежнево';
     private $OPSType = 'О';
     private $OPSSubm = 679700;
     private $Region = '';
-    private $Autonom = 'ЕВРЕЙСКАЯ АВТОНОМНАЯ ОБЛАСТЬ';
-    private $Area = 'ЛЕНИНСКИЙ РАЙОН';
-    private $City = 'ДЕЖНЕВО';
+    private $Autonom = 'Еврейская автономная область';
+    private $Area = 'Ленинский район';
+    private $City = 'Дежнево';
     private $City1 = '';
     private $ActDate = '20060908';
     private $IndexOld = '';

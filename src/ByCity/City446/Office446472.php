@@ -27,13 +27,13 @@ final class Office446472 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 446472;
-    private $OPSName = 'СТАРЫЙ АМАНАК';
+    private $OPSName = 'Старый Аманак';
     private $OPSType = 'О';
     private $OPSSubm = 446499;
-    private $Region = 'САМАРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Самарская область';
     private $Autonom = '';
-    private $Area = 'ПОХВИСТНЕВСКИЙ РАЙОН';
-    private $City = 'СТАРЫЙ АМАНАК';
+    private $Area = 'Похвистневский район';
+    private $City = 'Старый Аманак';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

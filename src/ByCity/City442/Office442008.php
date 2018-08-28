@@ -27,13 +27,13 @@ final class Office442008 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 442008;
-    private $OPSName = 'КРАСНАЯ ДУБРАВА';
+    private $OPSName = 'Красная Дубрава';
     private $OPSType = 'О';
     private $OPSSubm = 442039;
-    private $Region = 'ПЕНЗЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Пензенская область';
     private $Autonom = '';
-    private $Area = 'ЗЕМЕТЧИНСКИЙ РАЙОН';
-    private $City = 'КРАСНАЯ ДУБРАВА';
+    private $Area = 'Земетчинский район';
+    private $City = 'Красная Дубрава';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office431110 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 431110;
-    private $OPSName = 'ЗУБОВА ПОЛЯНА';
+    private $OPSName = 'Зубова Поляна';
     private $OPSType = 'О';
     private $OPSSubm = 431169;
-    private $Region = 'МОРДОВИЯ РЕСПУБЛИКА';
+    private $Region = 'Мордовия Республика';
     private $Autonom = '';
-    private $Area = 'ЗУБОВО-ПОЛЯНСКИЙ РАЙОН';
-    private $City = 'ЗУБОВА ПОЛЯНА';
+    private $Area = 'Зубово-Полянский район';
+    private $City = 'Зубова Поляна';
     private $City1 = '';
     private $ActDate = '20180813';
     private $IndexOld = '';

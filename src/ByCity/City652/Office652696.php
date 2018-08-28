@@ -27,13 +27,13 @@ final class Office652696 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 652696;
-    private $OPSName = 'БЕЛОВО КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Белово Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 652699;
-    private $Region = 'КЕМЕРОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Кемеровская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'БЕЛОВО';
+    private $City = 'Белово';
     private $City1 = '';
     private $ActDate = '20170915';
     private $IndexOld = '';

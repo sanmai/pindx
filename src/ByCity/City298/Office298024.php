@@ -27,14 +27,14 @@ final class Office298024 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 298024;
-    private $OPSName = 'ЛЕСНОЕ';
+    private $OPSName = 'Лесное';
     private $OPSType = 'О';
     private $OPSSubm = 298199;
-    private $Region = 'КРЫМ РЕСПУБЛИКА';
+    private $Region = 'Крым Республика';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'СУДАК';
-    private $City1 = 'ЛЕСНОЕ';
+    private $City = 'Судак';
+    private $City1 = 'Лесное';
     private $ActDate = '20140325';
     private $IndexOld = '';
 }

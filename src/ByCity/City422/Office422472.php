@@ -27,13 +27,13 @@ final class Office422472 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 422472;
-    private $OPSName = 'НИЖНИЙ КАРАКИТАН';
+    private $OPSName = 'Нижний Каракитан';
     private $OPSType = 'О';
     private $OPSSubm = 422499;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'ДРОЖЖАНОВСКИЙ РАЙОН';
-    private $City = 'НИЖНИЙ КАРАКИТАН';
+    private $Area = 'Дрожжановский район';
+    private $City = 'Нижний Каракитан';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

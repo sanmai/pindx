@@ -27,13 +27,13 @@ final class Office357221 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 357221;
-    private $OPSName = 'КУМАГОРСК';
+    private $OPSName = 'Кумагорск';
     private $OPSType = 'О';
     private $OPSSubm = 357200;
-    private $Region = 'СТАВРОПОЛЬСКИЙ КРАЙ';
+    private $Region = 'Ставропольский край';
     private $Autonom = '';
-    private $Area = 'МИНЕРАЛОВОДСКИЙ РАЙОН';
-    private $City = 'КУМАГОРСК';
+    private $Area = 'Минераловодский район';
+    private $City = 'Кумагорск';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

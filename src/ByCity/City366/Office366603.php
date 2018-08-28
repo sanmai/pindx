@@ -27,14 +27,14 @@ final class Office366603 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 366603;
-    private $OPSName = 'НОВЫЙ ШАРОЙ';
+    private $OPSName = 'Новый Шарой';
     private $OPSType = 'О';
     private $OPSSubm = 366500;
-    private $Region = 'ЧЕЧЕНСКАЯ РЕСПУБЛИКА';
+    private $Region = 'Чеченская Республика';
     private $Autonom = '';
-    private $Area = 'УРУС-МАРТАНОВСКИЙ РАЙОН';
-    private $City = 'АЧХОЙ-МАРТАН';
-    private $City1 = 'НОВЫЙ-ШАРОЙ';
+    private $Area = 'Урус-Мартановский район';
+    private $City = 'Ачхой-Мартан';
+    private $City1 = 'Новый-Шарой';
     private $ActDate = '20101220';
     private $IndexOld = '';
 }

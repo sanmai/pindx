@@ -27,13 +27,13 @@ final class Office433222 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 433222;
-    private $OPSName = 'НОВОЕ ПОГОРЕЛОВО';
+    private $OPSName = 'Новое Погорелово';
     private $OPSType = 'О';
     private $OPSSubm = 433239;
-    private $Region = 'УЛЬЯНОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ульяновская область';
     private $Autonom = '';
-    private $Area = 'КАРСУНСКИЙ РАЙОН';
-    private $City = 'НОВОЕ ПОГОРЕЛОВО';
+    private $Area = 'Карсунский район';
+    private $City = 'Новое Погорелово';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

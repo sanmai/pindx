@@ -27,13 +27,13 @@ final class Office427886 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 427886;
-    private $OPSName = 'АСАНОВСКИЙ СОВХОЗ-ТЕХНИКУМ';
+    private $OPSName = 'Асановский Совхоз-Техникум';
     private $OPSType = 'О';
     private $OPSSubm = 427749;
-    private $Region = 'УДМУРТСКАЯ РЕСПУБЛИКА';
+    private $Region = 'Удмуртская Республика';
     private $Autonom = '';
-    private $Area = 'АЛНАШСКИЙ РАЙОН';
-    private $City = 'АСАНОВСКИЙ ТЕХНИКУМ';
+    private $Area = 'Алнашский район';
+    private $City = 'Асановский Техникум';
     private $City1 = '';
     private $ActDate = '20060814';
     private $IndexOld = '';

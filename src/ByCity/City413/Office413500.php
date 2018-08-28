@@ -27,13 +27,13 @@ final class Office413500 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 413500;
-    private $OPSName = 'ЕРШОВ ПОЧТАМТ';
+    private $OPSName = 'Ершов Почтамт';
     private $OPSType = 'П';
     private $OPSSubm = 410700;
-    private $Region = 'САРАТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Саратовская область';
     private $Autonom = '';
-    private $Area = 'ЕРШОВСКИЙ РАЙОН';
-    private $City = 'ЕРШОВ';
+    private $Area = 'Ершовский район';
+    private $City = 'Ершов';
     private $City1 = '';
     private $ActDate = '20120621';
     private $IndexOld = '';

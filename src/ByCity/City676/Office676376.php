@@ -27,13 +27,13 @@ final class Office676376 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 676376;
-    private $OPSName = 'ВЕРНОЕ';
+    private $OPSName = 'Верное';
     private $OPSType = 'О';
     private $OPSSubm = 676869;
-    private $Region = 'АМУРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Амурская область';
     private $Autonom = '';
-    private $Area = 'СЕРЫШЕВСКИЙ РАЙОН';
-    private $City = 'ВЕРНОЕ';
+    private $Area = 'Серышевский район';
+    private $City = 'Верное';
     private $City1 = '';
     private $ActDate = '20050131';
     private $IndexOld = '';

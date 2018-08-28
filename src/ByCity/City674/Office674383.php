@@ -27,13 +27,13 @@ final class Office674383 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 674383;
-    private $OPSName = 'ГОРБУНОВКА';
+    private $OPSName = 'Горбуновка';
     private $OPSType = 'О';
     private $OPSSubm = 674339;
-    private $Region = 'ЗАБАЙКАЛЬСКИЙ КРАЙ';
+    private $Region = 'Забайкальский край';
     private $Autonom = '';
-    private $Area = 'НЕРЧИНСКО-ЗАВОДСКИЙ РАЙОН';
-    private $City = 'ГОРБУНОВКА';
+    private $Area = 'Нерчинско-Заводский район';
+    private $City = 'Горбуновка';
     private $City1 = '';
     private $ActDate = '20030127';
     private $IndexOld = '';

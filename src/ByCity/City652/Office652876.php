@@ -27,13 +27,13 @@ final class Office652876 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 652876;
-    private $OPSName = 'МЕЖДУРЕЧЕНСК КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Междуреченск Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 652889;
-    private $Region = 'КЕМЕРОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Кемеровская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'МЕЖДУРЕЧЕНСК';
+    private $City = 'Междуреченск';
     private $City1 = '';
     private $ActDate = '20170915';
     private $IndexOld = '';

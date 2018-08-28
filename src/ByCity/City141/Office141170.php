@@ -27,13 +27,13 @@ final class Office141170 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 141170;
-    private $OPSName = 'МОНИНО';
+    private $OPSName = 'Монино';
     private $OPSType = 'О';
     private $OPSSubm = 141000;
-    private $Region = 'МОСКОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Московская область';
     private $Autonom = '';
-    private $Area = 'ЩЕЛКОВСКИЙ РАЙОН';
-    private $City = 'МОНИНО';
+    private $Area = 'Щелковский район';
+    private $City = 'Монино';
     private $City1 = '';
     private $ActDate = '20100721';
     private $IndexOld = '';

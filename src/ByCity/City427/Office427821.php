@@ -27,13 +27,13 @@ final class Office427821 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 427821;
-    private $OPSName = 'МАЛАЯ ПУРГА 1 ППС';
-    private $OPSType = 'ППС';
+    private $OPSName = 'Малая Пурга 1 Ппс';
+    private $OPSType = 'Ппс';
     private $OPSSubm = 426999;
-    private $Region = 'УДМУРТСКАЯ РЕСПУБЛИКА';
+    private $Region = 'Удмуртская Республика';
     private $Autonom = '';
-    private $Area = 'МАЛОПУРГИНСКИЙ РАЙОН';
-    private $City = 'МАЛАЯ ПУРГА';
+    private $Area = 'Малопургинский район';
+    private $City = 'Малая Пурга';
     private $City1 = '';
     private $ActDate = '20171023';
     private $IndexOld = '';

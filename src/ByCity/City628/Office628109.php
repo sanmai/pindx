@@ -27,13 +27,13 @@ final class Office628109 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 628109;
-    private $OPSName = 'ПЕРЕГРЕБНОЕ';
+    private $OPSName = 'Перегребное';
     private $OPSType = 'О';
     private $OPSSubm = 628160;
     private $Region = '';
-    private $Autonom = 'ХАНТЫ-МАНСИЙСКИЙ-ЮГРА АВТОНОМНЫЙ ОКРУГ';
-    private $Area = 'ОКТЯБРЬСКИЙ РАЙОН';
-    private $City = 'ПЕРЕГРЕБНОЕ';
+    private $Autonom = 'Ханты-Мансийский-Югра автономный округ';
+    private $Area = 'Октябрьский район';
+    private $City = 'Перегребное';
     private $City1 = '';
     private $ActDate = '20171130';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office431879 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 431879;
-    private $OPSName = 'МАНАДЫШИ-ПЕРВЫЕ';
+    private $OPSName = 'Манадыши-Первые';
     private $OPSType = 'О';
     private $OPSSubm = 431899;
-    private $Region = 'МОРДОВИЯ РЕСПУБЛИКА';
+    private $Region = 'Мордовия Республика';
     private $Autonom = '';
-    private $Area = 'АРДАТОВСКИЙ РАЙОН';
-    private $City = 'МАНАДЫШИ 1-Е';
+    private $Area = 'Ардатовский район';
+    private $City = 'Манадыши 1-Е';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office431242 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 431242;
-    private $OPSName = 'ПОЛЬСКОЕ ЦИБАЕВО';
+    private $OPSName = 'Польское Цибаево';
     private $OPSType = 'О';
     private $OPSSubm = 431259;
-    private $Region = 'МОРДОВИЯ РЕСПУБЛИКА';
+    private $Region = 'Мордовия Республика';
     private $Autonom = '';
-    private $Area = 'ТЕМНИКОВСКИЙ РАЙОН';
-    private $City = 'КУШКИ';
+    private $Area = 'Темниковский район';
+    private $City = 'Кушки';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

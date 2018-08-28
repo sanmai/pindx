@@ -27,14 +27,14 @@ final class Office186760 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 186760;
-    private $OPSName = 'ХЕЛЮЛЯ';
+    private $OPSName = 'Хелюля';
     private $OPSType = 'О';
     private $OPSSubm = 186799;
-    private $Region = 'КАРЕЛИЯ РЕСПУБЛИКА';
+    private $Region = 'Карелия Республика';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'СОРТАВАЛА';
-    private $City1 = 'ХЕЛЮЛЯ';
+    private $City = 'Сортавала';
+    private $City1 = 'Хелюля';
     private $ActDate = '20001030';
     private $IndexOld = '';
 }

@@ -27,13 +27,13 @@ final class Office175300 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 175300;
-    private $OPSName = 'ЛЫЧКОВО';
+    private $OPSName = 'Лычково';
     private $OPSType = 'О';
     private $OPSSubm = 175449;
-    private $Region = 'НОВГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Новгородская область';
     private $Autonom = '';
-    private $Area = 'ДЕМЯНСКИЙ РАЙОН';
-    private $City = 'ЛЫЧКОВО';
+    private $Area = 'Демянский район';
+    private $City = 'Лычково';
     private $City1 = '';
     private $ActDate = '20110117';
     private $IndexOld = '';

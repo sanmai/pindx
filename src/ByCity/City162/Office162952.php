@@ -27,13 +27,13 @@ final class Office162952 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 162952;
-    private $OPSName = 'АННЕНСКИЙ МОСТ';
+    private $OPSName = 'Анненский Мост';
     private $OPSType = 'О';
     private $OPSSubm = 162969;
-    private $Region = 'ВОЛОГОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Вологодская область';
     private $Autonom = '';
-    private $Area = 'ВЫТЕГОРСКИЙ РАЙОН';
-    private $City = 'АННЕНСКИЙ МОСТ';
+    private $Area = 'Вытегорский район';
+    private $City = 'Анненский Мост';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

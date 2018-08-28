@@ -27,13 +27,13 @@ final class Office309430 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 309430;
-    private $OPSName = 'ВЯЗОВОЕ';
+    private $OPSName = 'Вязовое';
     private $OPSType = 'О';
     private $OPSSubm = 309329;
-    private $Region = 'БЕЛГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Белгородская область';
     private $Autonom = '';
-    private $Area = 'КРАСНОЯРУЖСКИЙ РАЙОН';
-    private $City = 'ВЯЗОВОЕ';
+    private $Area = 'Краснояружский район';
+    private $City = 'Вязовое';
     private $City1 = '';
     private $ActDate = '20060814';
     private $IndexOld = '';

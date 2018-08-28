@@ -27,13 +27,13 @@ final class Office623613 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 623613;
-    private $OPSName = 'ТРЕХОЗЕРНАЯ';
+    private $OPSName = 'Трехозерная';
     private $OPSType = 'О';
     private $OPSSubm = 623649;
-    private $Region = 'СВЕРДЛОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Свердловская область';
     private $Autonom = '';
-    private $Area = 'ТАЛИЦКИЙ РАЙОН';
-    private $City = 'ТРЕХОЗЕРНАЯ';
+    private $Area = 'Талицкий район';
+    private $City = 'Трехозерная';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

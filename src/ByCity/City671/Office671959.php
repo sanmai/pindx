@@ -27,13 +27,13 @@ final class Office671959 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 671959;
-    private $OPSName = 'ЗАКАМЕНСК ПОЧТАМТ';
+    private $OPSName = 'Закаменск Почтамт';
     private $OPSType = 'П';
     private $OPSSubm = 670700;
-    private $Region = 'БУРЯТИЯ РЕСПУБЛИКА';
+    private $Region = 'Бурятия Республика';
     private $Autonom = '';
-    private $Area = 'ЗАКАМЕНСКИЙ РАЙОН';
-    private $City = 'ЗАКАМЕНСК';
+    private $Area = 'Закаменский район';
+    private $City = 'Закаменск';
     private $City1 = '';
     private $ActDate = '20071224';
     private $IndexOld = '';

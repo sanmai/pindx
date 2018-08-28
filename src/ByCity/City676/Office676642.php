@@ -27,13 +27,13 @@ final class Office676642 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 676642;
-    private $OPSName = 'ПЕСЧАНООЗЕРКА';
+    private $OPSName = 'Песчаноозерка';
     private $OPSType = 'О';
     private $OPSSubm = 676779;
-    private $Region = 'АМУРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Амурская область';
     private $Autonom = '';
-    private $Area = 'ОКТЯБРЬСКИЙ РАЙОН';
-    private $City = 'ПЕСЧАНООЗЕРКА';
+    private $Area = 'Октябрьский район';
+    private $City = 'Песчаноозерка';
     private $City1 = '';
     private $ActDate = '20141013';
     private $IndexOld = '';

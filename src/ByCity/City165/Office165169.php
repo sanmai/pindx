@@ -27,13 +27,13 @@ final class Office165169 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 165169;
-    private $OPSName = 'ШЕНКУРСК УООП';
+    private $OPSName = 'Шенкурск Уооп';
     private $OPSType = 'Участок';
     private $OPSSubm = 164589;
-    private $Region = 'АРХАНГЕЛЬСКАЯ ОБЛАСТЬ';
+    private $Region = 'Архангельская область';
     private $Autonom = '';
-    private $Area = 'ШЕНКУРСКИЙ РАЙОН';
-    private $City = 'ШЕНКУРСК';
+    private $Area = 'Шенкурский район';
+    private $City = 'Шенкурск';
     private $City1 = '';
     private $ActDate = '20160818';
     private $IndexOld = '';

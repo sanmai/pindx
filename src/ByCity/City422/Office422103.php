@@ -27,13 +27,13 @@ final class Office422103 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 422103;
-    private $OPSName = 'БОЛЬШОЙ САРДЕК';
+    private $OPSName = 'Большой Сардек';
     private $OPSType = 'О';
     private $OPSSubm = 422139;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'КУКМОРСКИЙ РАЙОН';
-    private $City = 'БОЛЬШОЙ САРДЕК';
+    private $Area = 'Кукморский район';
+    private $City = 'Большой Сардек';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

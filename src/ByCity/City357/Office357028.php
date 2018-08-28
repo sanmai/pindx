@@ -27,13 +27,13 @@ final class Office357028 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 357028;
-    private $OPSName = 'УСТЬ-НЕВИНСКИЙ';
+    private $OPSName = 'Усть-Невинский';
     private $OPSType = 'О';
     private $OPSSubm = 357129;
-    private $Region = 'СТАВРОПОЛЬСКИЙ КРАЙ';
+    private $Region = 'Ставропольский край';
     private $Autonom = '';
-    private $Area = 'КОЧУБЕЕВСКИЙ РАЙОН';
-    private $City = 'УСТЬ-НЕВИНСКИЙ';
+    private $Area = 'Кочубеевский район';
+    private $City = 'Усть-Невинский';
     private $City1 = '';
     private $ActDate = '20080619';
     private $IndexOld = '';

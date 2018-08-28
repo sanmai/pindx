@@ -27,13 +27,13 @@ final class Office431600 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 431600;
-    private $OPSName = 'РОМОДАНОВО';
+    private $OPSName = 'Ромоданово';
     private $OPSType = 'О';
     private $OPSSubm = 431539;
-    private $Region = 'МОРДОВИЯ РЕСПУБЛИКА';
+    private $Region = 'Мордовия Республика';
     private $Autonom = '';
-    private $Area = 'РОМОДАНОВСКИЙ РАЙОН';
-    private $City = 'РОМОДАНОВО';
+    private $Area = 'Ромодановский район';
+    private $City = 'Ромоданово';
     private $City1 = '';
     private $ActDate = '20061116';
     private $IndexOld = '';

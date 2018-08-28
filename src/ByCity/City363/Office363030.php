@@ -27,13 +27,13 @@ final class Office363030 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 363030;
-    private $OPSName = 'БЕСЛАН УКД';
-    private $OPSType = 'УКД';
+    private $OPSName = 'Беслан Укд';
+    private $OPSType = 'Укд';
     private $OPSSubm = 362700;
-    private $Region = 'СЕВЕРНАЯ ОСЕТИЯ - АЛАНИЯ РЕСПУБЛИКА';
+    private $Region = 'Северная Осетия - Алания Республика';
     private $Autonom = '';
-    private $Area = 'ПРАВОБЕРЕЖНЫЙ РАЙОН';
-    private $City = 'БЕСЛАН';
+    private $Area = 'Правобережный район';
+    private $City = 'Беслан';
     private $City1 = '';
     private $ActDate = '20170523';
     private $IndexOld = '';

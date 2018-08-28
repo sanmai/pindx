@@ -27,13 +27,13 @@ final class Office431471 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 431471;
-    private $OPSName = 'ИНСАР-АКШИНО';
+    private $OPSName = 'Инсар-Акшино';
     private $OPSType = 'О';
     private $OPSSubm = 431499;
-    private $Region = 'МОРДОВИЯ РЕСПУБЛИКА';
+    private $Region = 'Мордовия Республика';
     private $Autonom = '';
-    private $Area = 'РУЗАЕВСКИЙ РАЙОН';
-    private $City = 'ИНСАР-АКШИНО';
+    private $Area = 'Рузаевский район';
+    private $City = 'Инсар-Акшино';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

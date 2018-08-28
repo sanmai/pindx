@@ -27,13 +27,13 @@ final class Office399664 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 399664;
-    private $OPSName = 'ЗНАМЕНКА';
+    private $OPSName = 'Знаменка';
     private $OPSType = 'О';
     private $OPSSubm = 399619;
-    private $Region = 'ЛИПЕЦКАЯ ОБЛАСТЬ';
+    private $Region = 'Липецкая область';
     private $Autonom = '';
-    private $Area = 'КРАСНИНСКИЙ РАЙОН';
-    private $City = 'ЗНАМЕНКА';
+    private $Area = 'Краснинский район';
+    private $City = 'Знаменка';
     private $City1 = '';
     private $ActDate = '20061208';
     private $IndexOld = '';

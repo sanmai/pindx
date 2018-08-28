@@ -27,13 +27,13 @@ final class Office140013 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 140013;
-    private $OPSName = 'ЛЮБЕРЦЫ 13';
+    private $OPSName = 'Люберцы 13';
     private $OPSType = 'О';
     private $OPSSubm = 140079;
-    private $Region = 'МОСКОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Московская область';
     private $Autonom = '';
-    private $Area = 'ЛЮБЕРЕЦКИЙ РАЙОН';
-    private $City = 'ЛЮБЕРЦЫ';
+    private $Area = 'Люберецкий район';
+    private $City = 'Люберцы';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

@@ -27,14 +27,14 @@ final class Office184001 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 184001;
-    private $OPSName = 'ЛЕСОЗАВОДСКИЙ';
+    private $OPSName = 'Лесозаводский';
     private $OPSType = 'О';
     private $OPSSubm = 184200;
-    private $Region = 'МУРМАНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Мурманская область';
     private $Autonom = '';
-    private $Area = 'КАНДАЛАКШСКИЙ РАЙОН';
-    private $City = 'ЗЕЛЕНОБОРСКИЙ';
-    private $City1 = 'ЛЕСОЗАВОДСКИЙ';
+    private $Area = 'Кандалакшский район';
+    private $City = 'Зеленоборский';
+    private $City1 = 'Лесозаводский';
     private $ActDate = '20061121';
     private $IndexOld = '';
 }

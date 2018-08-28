@@ -27,13 +27,13 @@ final class Office606921 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 606921;
-    private $OPSName = 'ХМЕЛЕВИЦЫ';
+    private $OPSName = 'Хмелевицы';
     private $OPSType = 'О';
     private $OPSSubm = 606929;
-    private $Region = 'НИЖЕГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Нижегородская область';
     private $Autonom = '';
-    private $Area = 'ШАХУНСКИЙ РАЙОН';
-    private $City = 'ХМЕЛЕВИЦЫ';
+    private $Area = 'Шахунский район';
+    private $City = 'Хмелевицы';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

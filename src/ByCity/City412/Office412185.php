@@ -27,13 +27,13 @@ final class Office412185 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 412185;
-    private $OPSName = 'ЯГОДНАЯ ПОЛЯНА';
+    private $OPSName = 'Ягодная Поляна';
     private $OPSType = 'О';
     private $OPSSubm = 410999;
-    private $Region = 'САРАТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Саратовская область';
     private $Autonom = '';
-    private $Area = 'ТАТИЩЕВСКИЙ РАЙОН';
-    private $City = 'ЯГОДНАЯ ПОЛЯНА';
+    private $Area = 'Татищевский район';
+    private $City = 'Ягодная Поляна';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

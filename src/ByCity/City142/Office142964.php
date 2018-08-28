@@ -27,13 +27,13 @@ final class Office142964 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 142964;
-    private $OPSName = 'ГЛУБОКОЕ';
+    private $OPSName = 'Глубокое';
     private $OPSType = 'О';
     private $OPSSubm = 142949;
-    private $Region = 'МОСКОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Московская область';
     private $Autonom = '';
-    private $Area = 'СЕРЕБРЯНО-ПРУДСКИЙ РАЙОН';
-    private $City = 'ГЛУБОКОЕ';
+    private $Area = 'Серебряно-Прудский район';
+    private $City = 'Глубокое';
     private $City1 = '';
     private $ActDate = '20020111';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office215101 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 215101;
-    private $OPSName = 'КАЙДАКОВО';
+    private $OPSName = 'Кайдаково';
     private $OPSType = 'О';
     private $OPSSubm = 215169;
-    private $Region = 'СМОЛЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Смоленская область';
     private $Autonom = '';
-    private $Area = 'ВЯЗЕМСКИЙ РАЙОН';
-    private $City = 'КАЙДАКОВО';
+    private $Area = 'Вяземский район';
+    private $City = 'Кайдаково';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office243322 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 243322;
-    private $OPSName = 'ДОБРИК';
-    private $OPSType = 'ПЕРЕДВИЖНОЕ ОС';
+    private $OPSName = 'Добрик';
+    private $OPSType = 'Передвижное Ос';
     private $OPSSubm = 243339;
-    private $Region = 'БРЯНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Брянская область';
     private $Autonom = '';
-    private $Area = 'УНЕЧСКИЙ РАЙОН';
-    private $City = 'ДОБРИК';
+    private $Area = 'Унечский район';
+    private $City = 'Добрик';
     private $City1 = '';
     private $ActDate = '20140411';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office422873 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 422873;
-    private $OPSName = 'ВЕРХНЕЕ КОЛЧУРИНО';
+    private $OPSName = 'Верхнее Колчурино';
     private $OPSType = 'О';
     private $OPSSubm = 423049;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'АЛЬКЕЕВСКИЙ РАЙОН';
-    private $City = 'ВЕРХНЕЕ КОЛЧУРИНО';
+    private $Area = 'Алькеевский район';
+    private $City = 'Верхнее Колчурино';
     private $City1 = '';
     private $ActDate = '20030710';
     private $IndexOld = '';

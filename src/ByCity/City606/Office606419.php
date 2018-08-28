@@ -27,13 +27,13 @@ final class Office606419 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 606419;
-    private $OPSName = 'БУРЦЕВО ППС';
-    private $OPSType = 'ППС';
+    private $OPSName = 'Бурцево Ппс';
+    private $OPSType = 'Ппс';
     private $OPSSubm = 606429;
-    private $Region = 'НИЖЕГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Нижегородская область';
     private $Autonom = '';
-    private $Area = 'БАЛАХНИНСКИЙ РАЙОН';
-    private $City = 'БУРЦЕВО';
+    private $Area = 'Балахнинский район';
+    private $City = 'Бурцево';
     private $City1 = '';
     private $ActDate = '20171002';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office678096 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 678096;
-    private $OPSName = 'ТУМУЛ ППС';
-    private $OPSType = 'ППС';
+    private $OPSName = 'Тумул Ппс';
+    private $OPSType = 'Ппс';
     private $OPSSubm = 678099;
-    private $Region = 'САХА (ЯКУТИЯ) РЕСПУБЛИКА';
+    private $Region = 'Саха (Якутия) Республика';
     private $Autonom = '';
-    private $Area = 'МЕГИНО-КАНГАЛАССКИЙ РАЙОН';
-    private $City = 'ТУМУЛ';
+    private $Area = 'Мегино-Кангаласский район';
+    private $City = 'Тумул';
     private $City1 = '';
     private $ActDate = '20180702';
     private $IndexOld = '';

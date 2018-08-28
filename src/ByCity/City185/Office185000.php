@@ -27,13 +27,13 @@ final class Office185000 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 185000;
-    private $OPSName = 'ПЕТРОЗАВОДСК ПОЧТАМТ';
+    private $OPSName = 'Петрозаводск Почтамт';
     private $OPSType = 'П';
     private $OPSSubm = 185700;
-    private $Region = 'КАРЕЛИЯ РЕСПУБЛИКА';
+    private $Region = 'Карелия Республика';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'ПЕТРОЗАВОДСК';
+    private $City = 'Петрозаводск';
     private $City1 = '';
     private $ActDate = '20111004';
     private $IndexOld = '';

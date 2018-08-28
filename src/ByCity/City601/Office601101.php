@@ -27,13 +27,13 @@ final class Office601101 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 601101;
-    private $OPSName = 'КРУТОВО';
+    private $OPSName = 'Крутово';
     private $OPSType = 'О';
     private $OPSSubm = 601140;
-    private $Region = 'ВЛАДИМИРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Владимирская область';
     private $Autonom = '';
-    private $Area = 'ПЕТУШИНСКИЙ РАЙОН';
-    private $City = 'КРУТОВО';
+    private $Area = 'Петушинский район';
+    private $City = 'Крутово';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

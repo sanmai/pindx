@@ -27,13 +27,13 @@ final class Office442548 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 442548;
-    private $OPSName = 'КУЗНЕЦК КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Кузнецк Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 442549;
-    private $Region = 'ПЕНЗЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Пензенская область';
     private $Autonom = '';
-    private $Area = 'КУЗНЕЦКИЙ РАЙОН';
-    private $City = 'КУЗНЕЦК';
+    private $Area = 'Кузнецкий район';
+    private $City = 'Кузнецк';
     private $City1 = '';
     private $ActDate = '20171006';
     private $IndexOld = '';

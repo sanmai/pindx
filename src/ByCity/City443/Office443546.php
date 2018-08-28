@@ -27,13 +27,13 @@ final class Office443546 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 443546;
-    private $OPSName = 'ПЕТРА ДУБРАВА';
+    private $OPSName = 'Петра Дубрава';
     private $OPSType = 'О';
     private $OPSSubm = 443000;
-    private $Region = 'САМАРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Самарская область';
     private $Autonom = '';
-    private $Area = 'ВОЛЖСКИЙ РАЙОН';
-    private $City = 'ПЕТРА ДУБРАВА';
+    private $Area = 'Волжский район';
+    private $City = 'Петра Дубрава';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

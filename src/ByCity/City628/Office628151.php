@@ -27,13 +27,13 @@ final class Office628151 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 628151;
-    private $OPSName = 'АНЕЕВА';
+    private $OPSName = 'Анеева';
     private $OPSType = 'О';
     private $OPSSubm = 628160;
     private $Region = '';
-    private $Autonom = 'ХАНТЫ-МАНСИЙСКИЙ-ЮГРА АВТОНОМНЫЙ ОКРУГ';
-    private $Area = 'БЕРЕЗОВСКИЙ РАЙОН';
-    private $City = 'АНЕЕВА';
+    private $Autonom = 'Ханты-Мансийский-Югра автономный округ';
+    private $Area = 'Березовский район';
+    private $City = 'Анеева';
     private $City1 = '';
     private $ActDate = '20170906';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office685916 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 685916;
-    private $OPSName = 'КЛЕПКА';
+    private $OPSName = 'Клепка';
     private $OPSType = 'О';
     private $OPSSubm = 685700;
-    private $Region = 'МАГАДАНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Магаданская область';
     private $Autonom = '';
-    private $Area = 'ОЛЬСКИЙ РАЙОН';
-    private $City = 'КЛЕПКА';
+    private $Area = 'Ольский район';
+    private $City = 'Клепка';
     private $City1 = '';
     private $ActDate = '20110217';
     private $IndexOld = '';

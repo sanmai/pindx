@@ -27,13 +27,13 @@ final class Office428700 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 428700;
-    private $OPSName = 'УФПС ЧУВАШСКОЙ РЕСПУБЛИКИ';
-    private $OPSType = 'УФПС';
+    private $OPSName = 'Уфпс Чувашской Республики';
+    private $OPSType = 'Уфпс';
     private $OPSSubm = 0;
-    private $Region = 'ЧУВАШИЯ РЕСПУБЛИКА';
+    private $Region = 'Чувашия Республика';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'ЧЕБОКСАРЫ';
+    private $City = 'Чебоксары';
     private $City1 = '';
     private $ActDate = '20060222';
     private $IndexOld = '';

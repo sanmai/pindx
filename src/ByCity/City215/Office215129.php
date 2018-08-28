@@ -27,13 +27,13 @@ final class Office215129 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 215129;
-    private $OPSName = 'ВЯЗЬМА ПОЧТАМТ УЧ. ТАРЫ';
-    private $OPSType = 'ТИ';
+    private $OPSName = 'Вязьма Почтамт Уч. Тары';
+    private $OPSType = 'Ти';
     private $OPSSubm = 215169;
-    private $Region = 'СМОЛЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Смоленская область';
     private $Autonom = '';
-    private $Area = 'ВЯЗЕМСКИЙ РАЙОН';
-    private $City = 'ВЯЗЬМА';
+    private $Area = 'Вяземский район';
+    private $City = 'Вязьма';
     private $City1 = '';
     private $ActDate = '20061114';
     private $IndexOld = '';

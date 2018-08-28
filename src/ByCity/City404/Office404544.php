@@ -27,13 +27,13 @@ final class Office404544 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 404544;
-    private $OPSName = 'БУЗИНОВКА';
+    private $OPSName = 'Бузиновка';
     private $OPSType = 'О';
     private $OPSSubm = 404500;
-    private $Region = 'ВОЛГОГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Волгоградская область';
     private $Autonom = '';
-    private $Area = 'КАЛАЧЕВСКИЙ РАЙОН';
-    private $City = 'БУЗИНОВКА';
+    private $Area = 'Калачевский район';
+    private $City = 'Бузиновка';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

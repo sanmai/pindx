@@ -27,13 +27,13 @@ final class Office161056 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 161056;
-    private $OPSName = 'ГАВРИЛКОВО';
+    private $OPSName = 'Гаврилково';
     private $OPSType = 'О';
     private $OPSSubm = 160999;
-    private $Region = 'ВОЛОГОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Вологодская область';
     private $Autonom = '';
-    private $Area = 'МЕЖДУРЕЧЕНСКИЙ РАЙОН';
-    private $City = 'ГАВРИЛКОВО';
+    private $Area = 'Междуреченский район';
+    private $City = 'Гаврилково';
     private $City1 = '';
     private $ActDate = '20020521';
     private $IndexOld = '';

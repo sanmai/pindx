@@ -27,13 +27,13 @@ final class Office689460 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 689460;
-    private $OPSName = 'АНЮЙСК';
+    private $OPSName = 'Анюйск';
     private $OPSType = 'О';
     private $OPSSubm = 689700;
     private $Region = '';
-    private $Autonom = 'ЧУКОТСКИЙ АВТОНОМНЫЙ ОКРУГ';
-    private $Area = 'БИЛИБИНСКИЙ РАЙОН';
-    private $City = 'АНЮЙСК';
+    private $Autonom = 'Чукотский автономный округ';
+    private $Area = 'Билибинский район';
+    private $City = 'Анюйск';
     private $City1 = '';
     private $ActDate = '20060504';
     private $IndexOld = '';

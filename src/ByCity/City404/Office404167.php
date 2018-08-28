@@ -27,13 +27,13 @@ final class Office404167 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 404167;
-    private $OPSName = 'ВЕРХНЕПОГРОМНОЕ';
+    private $OPSName = 'Верхнепогромное';
     private $OPSType = 'О';
     private $OPSSubm = 404100;
-    private $Region = 'ВОЛГОГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Волгоградская область';
     private $Autonom = '';
-    private $Area = 'СРЕДНЕАХТУБИНСКИЙ РАЙОН';
-    private $City = 'ВЕРХНЕПОГРОМНОЕ';
+    private $Area = 'Среднеахтубинский район';
+    private $City = 'Верхнепогромное';
     private $City1 = '';
     private $ActDate = '20070411';
     private $IndexOld = '';

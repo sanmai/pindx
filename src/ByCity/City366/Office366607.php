@@ -27,14 +27,14 @@ final class Office366607 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 366607;
-    private $OPSName = 'КАТЫР-ЮРТ';
+    private $OPSName = 'Катыр-Юрт';
     private $OPSType = 'О';
     private $OPSSubm = 366500;
-    private $Region = 'ЧЕЧЕНСКАЯ РЕСПУБЛИКА';
+    private $Region = 'Чеченская Республика';
     private $Autonom = '';
-    private $Area = 'УРУС-МАРТАНОВСКИЙ РАЙОН';
-    private $City = 'АЧХОЙ-МАРТАН';
-    private $City1 = 'КАТАР-ЮРТ';
+    private $Area = 'Урус-Мартановский район';
+    private $City = 'Ачхой-Мартан';
+    private $City1 = 'Катар-Юрт';
     private $ActDate = '20101220';
     private $IndexOld = '';
 }

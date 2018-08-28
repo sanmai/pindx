@@ -27,13 +27,13 @@ final class Office628116 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 628116;
-    private $OPSName = 'КАМЕННОЕ';
+    private $OPSName = 'Каменное';
     private $OPSType = 'О';
     private $OPSSubm = 628160;
     private $Region = '';
-    private $Autonom = 'ХАНТЫ-МАНСИЙСКИЙ-ЮГРА АВТОНОМНЫЙ ОКРУГ';
-    private $Area = 'ОКТЯБРЬСКИЙ РАЙОН';
-    private $City = 'КАМЕННОЕ';
+    private $Autonom = 'Ханты-Мансийский-Югра автономный округ';
+    private $Area = 'Октябрьский район';
+    private $City = 'Каменное';
     private $City1 = '';
     private $ActDate = '20171130';
     private $IndexOld = '';

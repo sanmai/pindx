@@ -27,13 +27,13 @@ final class Office453613 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 453613;
-    private $OPSName = 'КУСИМОВСКИЙ РУДНИК';
+    private $OPSName = 'Кусимовский Рудник';
     private $OPSType = 'О';
     private $OPSSubm = 453519;
-    private $Region = 'БАШКОРТОСТАН РЕСПУБЛИКА';
+    private $Region = 'Башкортостан Республика';
     private $Autonom = '';
-    private $Area = 'АБЗЕЛИЛОВСКИЙ РАЙОН';
-    private $City = 'КУСИМОВСКОГО РУДНИКА';
+    private $Area = 'Абзелиловский район';
+    private $City = 'Кусимовского Рудника';
     private $City1 = '';
     private $ActDate = '20060913';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office423220 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 423220;
-    private $OPSName = 'НОВАЯ АЛЕКСАНДРОВКА';
+    private $OPSName = 'Новая Александровка';
     private $OPSType = 'О';
     private $OPSSubm = 423249;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'БУГУЛЬМИНСКИЙ РАЙОН';
-    private $City = 'НОВАЯ АЛЕКСАНДРОВКА';
+    private $Area = 'Бугульминский район';
+    private $City = 'Новая Александровка';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office404482 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 404482;
-    private $OPSName = 'ВЕРХНЕГНУТОВ';
+    private $OPSName = 'Верхнегнутов';
     private $OPSType = 'О';
     private $OPSSubm = 404410;
-    private $Region = 'ВОЛГОГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Волгоградская область';
     private $Autonom = '';
-    private $Area = 'ЧЕРНЫШКОВСКИЙ РАЙОН';
-    private $City = 'ВЕРХНЕГНУТОВ';
+    private $Area = 'Чернышковский район';
+    private $City = 'Верхнегнутов';
     private $City1 = '';
     private $ActDate = '20070411';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office666370 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 666370;
-    private $OPSName = 'СВЕТЛОЛОБОВО';
+    private $OPSName = 'Светлолобово';
     private $OPSType = 'О';
     private $OPSSubm = 669310;
-    private $Region = 'ИРКУТСКАЯ ОБЛАСТЬ';
+    private $Region = 'Иркутская область';
     private $Autonom = '';
-    private $Area = 'УСТЬ-УДИНСКИЙ РАЙОН';
-    private $City = 'СВЕТЛОЛОБОВО';
+    private $Area = 'Усть-Удинский район';
+    private $City = 'Светлолобово';
     private $City1 = '';
     private $ActDate = '20070124';
     private $IndexOld = '';

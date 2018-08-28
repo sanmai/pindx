@@ -27,13 +27,13 @@ final class Office655746 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 655746;
-    private $OPSName = 'МАЛЫЕ АРБАТЫ';
+    private $OPSName = 'Малые Арбаты';
     private $OPSType = 'О';
     private $OPSSubm = 655799;
-    private $Region = 'ХАКАСИЯ РЕСПУБЛИКА';
+    private $Region = 'Хакасия Республика';
     private $Autonom = '';
-    private $Area = 'ТАШТЫПСКИЙ РАЙОН';
-    private $City = 'МАЛЫЕ АРБАТЫ';
+    private $Area = 'Таштыпский район';
+    private $City = 'Малые Арбаты';
     private $City1 = '';
     private $ActDate = '20070309';
     private $IndexOld = '';

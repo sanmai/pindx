@@ -27,13 +27,13 @@ final class Office613546 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 613546;
-    private $OPSName = 'ДОНАУРОВО';
+    private $OPSName = 'Донаурово';
     private $OPSType = 'О';
     private $OPSSubm = 613459;
-    private $Region = 'КИРОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Кировская область';
     private $Autonom = '';
-    private $Area = 'УРЖУМСКИЙ РАЙОН';
-    private $City = 'ДОНАУРОВО';
+    private $Area = 'Уржумский район';
+    private $City = 'Донаурово';
     private $City1 = '';
     private $ActDate = '20060123';
     private $IndexOld = '';

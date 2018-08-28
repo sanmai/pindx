@@ -27,13 +27,13 @@ final class Office422556 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 422556;
-    private $OPSName = 'ЗЕЛЕНОДОЛЬСК КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Зеленодольск Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 422559;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'ЗЕЛЕНОДОЛЬСКИЙ РАЙОН';
-    private $City = 'ЗЕЛЕНОДОЛЬСК';
+    private $Area = 'Зеленодольский район';
+    private $City = 'Зеленодольск';
     private $City1 = '';
     private $ActDate = '20170823';
     private $IndexOld = '';

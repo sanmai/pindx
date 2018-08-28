@@ -27,13 +27,13 @@ final class Office641903 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 641903;
-    private $OPSName = 'КАРГАПОЛЬЕ 3';
-    private $OPSType = 'ПЕРЕДВИЖНОЕ ОС';
+    private $OPSName = 'Каргаполье 3';
+    private $OPSType = 'Передвижное Ос';
     private $OPSSubm = 641889;
-    private $Region = 'КУРГАНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Курганская область';
     private $Autonom = '';
-    private $Area = 'КАРГАПОЛЬСКИЙ РАЙОН';
-    private $City = 'КАРГАПОЛЬЕ';
+    private $Area = 'Каргапольский район';
+    private $City = 'Каргаполье';
     private $City1 = '';
     private $ActDate = '20150617';
     private $IndexOld = '';

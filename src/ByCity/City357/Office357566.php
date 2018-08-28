@@ -27,14 +27,14 @@ final class Office357566 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 357566;
-    private $OPSName = 'НИЖНЕПОДКУМСКИЙ';
+    private $OPSName = 'Нижнеподкумский';
     private $OPSType = 'О';
     private $OPSSubm = 357500;
-    private $Region = 'СТАВРОПОЛЬСКИЙ КРАЙ';
+    private $Region = 'Ставропольский край';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'ПЯТИГОРСК';
-    private $City1 = 'НИЖНЕПОДКУМСКИЙ';
+    private $City = 'Пятигорск';
+    private $City1 = 'Нижнеподкумский';
     private $ActDate = '20001030';
     private $IndexOld = '';
 }

@@ -27,13 +27,13 @@ final class Office446981 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 446981;
-    private $OPSName = 'СТАРОЕ ЕРМАКОВО';
+    private $OPSName = 'Старое Ермаково';
     private $OPSType = 'О';
     private $OPSSubm = 446499;
-    private $Region = 'САМАРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Самарская область';
     private $Autonom = '';
-    private $Area = 'КАМЫШЛИНСКИЙ РАЙОН';
-    private $City = 'СТАРОЕ ЕРМАКОВО';
+    private $Area = 'Камышлинский район';
+    private $City = 'Старое Ермаково';
     private $City1 = '';
     private $ActDate = '20101014';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office678489 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 678489;
-    private $OPSName = 'ОЛЕНЕК ОП';
-    private $OPSType = 'ОП';
+    private $OPSName = 'Оленек Оп';
+    private $OPSType = 'Оп';
     private $OPSSubm = 678170;
-    private $Region = 'САХА (ЯКУТИЯ) РЕСПУБЛИКА';
+    private $Region = 'Саха (Якутия) Республика';
     private $Autonom = '';
-    private $Area = 'ОЛЕНЕКСКИЙ НАЦИОНАЛЬНЫЙ РАЙОН';
-    private $City = 'ОЛЕНЕК';
+    private $Area = 'Оленекский национальный район';
+    private $City = 'Оленек';
     private $City1 = '';
     private $ActDate = '20180702';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office628506 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 628506;
-    private $OPSName = 'СЕЛИЯРОВО';
+    private $OPSName = 'Селиярово';
     private $OPSType = 'О';
     private $OPSSubm = 628000;
     private $Region = '';
-    private $Autonom = 'ХАНТЫ-МАНСИЙСКИЙ-ЮГРА АВТОНОМНЫЙ ОКРУГ';
-    private $Area = 'ХАНТЫ-МАНСИЙСКИЙ РАЙОН';
-    private $City = 'СЕЛИЯРОВО';
+    private $Autonom = 'Ханты-Мансийский-Югра автономный округ';
+    private $Area = 'Ханты-Мансийский район';
+    private $City = 'Селиярово';
     private $City1 = '';
     private $ActDate = '20170906';
     private $IndexOld = '';

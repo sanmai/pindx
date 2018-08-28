@@ -27,13 +27,13 @@ final class Office215299 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 215299;
-    private $OPSName = 'ЛЕСНЫЕ ДАЛИ';
+    private $OPSName = 'Лесные Дали';
     private $OPSType = 'О';
     private $OPSSubm = 215279;
-    private $Region = 'СМОЛЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Смоленская область';
     private $Autonom = '';
-    private $Area = 'СЫЧЕВСКИЙ РАЙОН';
-    private $City = 'ЛЕСНЫЕ ДАЛИ';
+    private $Area = 'Сычевский район';
+    private $City = 'Лесные Дали';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

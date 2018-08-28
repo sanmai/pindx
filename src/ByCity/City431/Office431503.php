@@ -27,13 +27,13 @@ final class Office431503 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 431503;
-    private $OPSName = 'БОЛЬШАЯ ЕЛХОВКА';
+    private $OPSName = 'Большая Елховка';
     private $OPSType = 'О';
     private $OPSSubm = 431539;
-    private $Region = 'МОРДОВИЯ РЕСПУБЛИКА';
+    private $Region = 'Мордовия Республика';
     private $Autonom = '';
-    private $Area = 'ЛЯМБИРСКИЙ РАЙОН';
-    private $City = 'БОЛЬШАЯ ЕЛХОВКА';
+    private $Area = 'Лямбирский район';
+    private $City = 'Большая Елховка';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

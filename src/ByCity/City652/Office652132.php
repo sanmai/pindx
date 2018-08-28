@@ -27,13 +27,13 @@ final class Office652132 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 652132;
-    private $OPSName = 'ИЖМОРКА-ВТОРАЯ';
+    private $OPSName = 'Ижморка-Вторая';
     private $OPSType = 'О';
     private $OPSSubm = 652499;
-    private $Region = 'КЕМЕРОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Кемеровская область';
     private $Autonom = '';
-    private $Area = 'ИЖМОРСКИЙ РАЙОН';
-    private $City = 'ИЖМОРКА 2-Я';
+    private $Area = 'Ижморский район';
+    private $City = 'Ижморка 2-Я';
     private $City1 = '';
     private $ActDate = '20051228';
     private $IndexOld = '';

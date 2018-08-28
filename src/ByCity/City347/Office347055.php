@@ -27,13 +27,13 @@ final class Office347055 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 347055;
-    private $OPSName = 'ЯСНОГОРКА';
+    private $OPSName = 'Ясногорка';
     private $OPSType = 'О';
     private $OPSSubm = 347049;
-    private $Region = 'РОСТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ростовская область';
     private $Autonom = '';
-    private $Area = 'БЕЛОКАЛИТВИНСКИЙ РАЙОН';
-    private $City = 'ЯСНОГОРКА';
+    private $Area = 'Белокалитвинский район';
+    private $City = 'Ясногорка';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

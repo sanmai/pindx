@@ -27,13 +27,13 @@ final class Office362028 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 362028;
-    private $OPSName = 'МОЗДОК';
-    private $OPSType = 'ПЕРЕДВИЖНОЕ ОС';
+    private $OPSName = 'Моздок';
+    private $OPSType = 'Передвижное Ос';
     private $OPSSubm = 363750;
-    private $Region = 'СЕВЕРНАЯ ОСЕТИЯ - АЛАНИЯ РЕСПУБЛИКА';
+    private $Region = 'Северная Осетия - Алания Республика';
     private $Autonom = '';
-    private $Area = 'МОЗДОКСКИЙ РАЙОН';
-    private $City = 'МОЗДОК';
+    private $Area = 'Моздокский район';
+    private $City = 'Моздок';
     private $City1 = '';
     private $ActDate = '20150218';
     private $IndexOld = '';

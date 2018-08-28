@@ -27,13 +27,13 @@ final class Office456886 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 456886;
-    private $OPSName = 'НОВАЯ СОБОЛЕВА';
+    private $OPSName = 'Новая Соболева';
     private $OPSType = 'О';
     private $OPSSubm = 456879;
-    private $Region = 'ЧЕЛЯБИНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Челябинская область';
     private $Autonom = '';
-    private $Area = 'АРГАЯШСКИЙ РАЙОН';
-    private $City = 'НОВАЯ СОБОЛЕВА';
+    private $Area = 'Аргаяшский район';
+    private $City = 'Новая Соболева';
     private $City1 = '';
     private $ActDate = '20060126';
     private $IndexOld = '';

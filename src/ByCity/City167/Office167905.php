@@ -27,14 +27,14 @@ final class Office167905 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 167905;
-    private $OPSName = 'ВЕРХНЯЯ МАКСАКОВКА';
+    private $OPSName = 'Верхняя Максаковка';
     private $OPSType = 'О';
     private $OPSSubm = 167999;
-    private $Region = 'КОМИ РЕСПУБЛИКА';
+    private $Region = 'Коми Республика';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'СЫКТЫВКАР';
-    private $City1 = 'ВЕРХНЯЯ МАКСАКОВКА';
+    private $City = 'Сыктывкар';
+    private $City1 = 'Верхняя Максаковка';
     private $ActDate = '20001030';
     private $IndexOld = '';
 }

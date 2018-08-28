@@ -27,13 +27,13 @@ final class Office404190 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 404190;
-    private $OPSName = 'АБГАНЕРОВО-ВОКЗАЛ';
+    private $OPSName = 'Абганерово-Вокзал';
     private $OPSType = 'О';
     private $OPSSubm = 404170;
-    private $Region = 'ВОЛГОГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Волгоградская область';
     private $Autonom = '';
-    private $Area = 'СВЕТЛОЯРСКИЙ РАЙОН';
-    private $City = 'АБГАНЕРОВО-ВОКЗАЛ';
+    private $Area = 'Светлоярский район';
+    private $City = 'Абганерово-Вокзал';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

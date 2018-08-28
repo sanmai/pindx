@@ -27,13 +27,13 @@ final class Office165508 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 165508;
-    private $OPSName = 'ВЕРХНЯЯ ТОЙМА-ДТИ';
-    private $OPSType = 'ДТИ';
+    private $OPSName = 'Верхняя Тойма-Дти';
+    private $OPSType = 'Дти';
     private $OPSSubm = 165500;
-    private $Region = 'АРХАНГЕЛЬСКАЯ ОБЛАСТЬ';
+    private $Region = 'Архангельская область';
     private $Autonom = '';
-    private $Area = 'ВЕРХНЕТОЕМСКИЙ РАЙОН';
-    private $City = 'ВЕРХНЯЯ ТОЙМА';
+    private $Area = 'Верхнетоемский район';
+    private $City = 'Верхняя Тойма';
     private $City1 = '';
     private $ActDate = '20131017';
     private $IndexOld = '';

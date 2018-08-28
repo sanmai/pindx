@@ -27,13 +27,13 @@ final class Office404157 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 404157;
-    private $OPSName = 'КРАСНЫЙ БУКСИР';
+    private $OPSName = 'Красный Буксир';
     private $OPSType = 'О';
     private $OPSSubm = 404100;
-    private $Region = 'ВОЛГОГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Волгоградская область';
     private $Autonom = '';
-    private $Area = 'СРЕДНЕАХТУБИНСКИЙ РАЙОН';
-    private $City = 'КРАСНЫЙ БУКСИР';
+    private $Area = 'Среднеахтубинский район';
+    private $City = 'Красный Буксир';
     private $City1 = '';
     private $ActDate = '20070411';
     private $IndexOld = '';

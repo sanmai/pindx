@@ -27,13 +27,13 @@ final class Office433440 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 433440;
-    private $OPSName = 'ДМИТРИЕВО-ПОМРЯСКИНО';
+    private $OPSName = 'Дмитриево-Помряскино';
     private $OPSType = 'О';
     private $OPSSubm = 433439;
-    private $Region = 'УЛЬЯНОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ульяновская область';
     private $Autonom = '';
-    private $Area = 'СТАРОМАЙНСКИЙ РАЙОН';
-    private $City = 'ДМИТРИЕВО-ПОМРЯСКИНО';
+    private $Area = 'Старомайнский район';
+    private $City = 'Дмитриево-Помряскино';
     private $City1 = '';
     private $ActDate = '20060607';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office347762 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 347762;
-    private $OPSName = 'СРЕДНИЙ ЕГОРЛЫК';
+    private $OPSName = 'Средний Егорлык';
     private $OPSType = 'О';
     private $OPSSubm = 347749;
-    private $Region = 'РОСТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ростовская область';
     private $Autonom = '';
-    private $Area = 'ЦЕЛИНСКИЙ РАЙОН';
-    private $City = 'СРЕДНИЙ ЕГОРЛЫК';
+    private $Area = 'Целинский район';
+    private $City = 'Средний Егорлык';
     private $City1 = '';
     private $ActDate = '20070214';
     private $IndexOld = '';

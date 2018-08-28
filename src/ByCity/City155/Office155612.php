@@ -27,13 +27,13 @@ final class Office155612 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 155612;
-    private $OPSName = 'ТИМЕНКА';
+    private $OPSName = 'Тименка';
     private $OPSType = 'О';
     private $OPSSubm = 155619;
-    private $Region = 'ИВАНОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ивановская область';
     private $Autonom = '';
-    private $Area = 'ПАЛЕХСКИЙ РАЙОН';
-    private $City = 'ТИМЕНКА';
+    private $Area = 'Палехский район';
+    private $City = 'Тименка';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

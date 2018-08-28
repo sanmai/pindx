@@ -27,13 +27,13 @@ final class Office453639 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 453639;
-    private $OPSName = 'БАЙМАК ПОЧТАМТ';
+    private $OPSName = 'Баймак Почтамт';
     private $OPSType = 'П';
     private $OPSSubm = 450700;
-    private $Region = 'БАШКОРТОСТАН РЕСПУБЛИКА';
+    private $Region = 'Башкортостан Республика';
     private $Autonom = '';
-    private $Area = 'БАЙМАКСКИЙ РАЙОН';
-    private $City = 'БАЙМАК';
+    private $Area = 'Баймакский район';
+    private $City = 'Баймак';
     private $City1 = '';
     private $ActDate = '20120316';
     private $IndexOld = '';

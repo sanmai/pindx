@@ -27,13 +27,13 @@ final class Office368160 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 368160;
-    private $OPSName = 'НОВОЛАКСКОЕ';
+    private $OPSName = 'Новолакское';
     private $OPSType = 'О';
     private $OPSSubm = 368059;
-    private $Region = 'ДАГЕСТАН РЕСПУБЛИКА';
+    private $Region = 'Дагестан Республика';
     private $Autonom = '';
-    private $Area = 'НОВОЛАКСКИЙ РАЙОН';
-    private $City = 'НОВОЛАКСКОЕ';
+    private $Area = 'Новолакский район';
+    private $City = 'Новолакское';
     private $City1 = '';
     private $ActDate = '20050815';
     private $IndexOld = '';

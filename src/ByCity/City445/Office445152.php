@@ -27,14 +27,14 @@ final class Office445152 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 445152;
-    private $OPSName = 'ЯГОДНОЕ ППС';
-    private $OPSType = 'ППС';
+    private $OPSName = 'Ягодное Ппс';
+    private $OPSType = 'Ппс';
     private $OPSSubm = 445000;
-    private $Region = 'САМАРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Самарская область';
     private $Autonom = '';
-    private $Area = 'СТАВРОПОЛЬСКИЙ РАЙОН';
-    private $City = 'ЯГОДНОЕ';
-    private $City1 = 'ПКС ЯГОДНОЕ';
+    private $Area = 'Ставропольский район';
+    private $City = 'Ягодное';
+    private $City1 = 'Пкс Ягодное';
     private $ActDate = '20180813';
     private $IndexOld = '';
 }

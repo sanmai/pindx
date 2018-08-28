@@ -27,13 +27,13 @@ final class Office174290 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 174290;
-    private $OPSName = 'МСТИНСКИЙ МОСТ';
+    private $OPSName = 'Мстинский Мост';
     private $OPSType = 'О';
     private $OPSSubm = 173999;
-    private $Region = 'НОВГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Новгородская область';
     private $Autonom = '';
-    private $Area = 'МАЛОВИШЕРСКИЙ РАЙОН';
-    private $City = 'МСТИНСКИЙ МОСТ';
+    private $Area = 'Маловишерский район';
+    private $City = 'Мстинский Мост';
     private $City1 = '';
     private $ActDate = '20051214';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office607022 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 607022;
-    private $OPSName = 'ГРЕМЯЧЕВО';
+    private $OPSName = 'Гремячево';
     private $OPSType = 'О';
     private $OPSSubm = 607079;
-    private $Region = 'НИЖЕГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Нижегородская область';
     private $Autonom = '';
-    private $Area = 'КУЛЕБАКСКИЙ РАЙОН';
-    private $City = 'ГРЕМЯЧЕВО';
+    private $Area = 'Кулебакский район';
+    private $City = 'Гремячево';
     private $City1 = '';
     private $ActDate = '20061107';
     private $IndexOld = '';

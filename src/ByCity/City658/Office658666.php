@@ -27,13 +27,13 @@ final class Office658666 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 658666;
-    private $OPSName = 'ГЛЯДЕНЬ-ПЕРВОЕ';
+    private $OPSName = 'Глядень-Первое';
     private $OPSType = 'О';
     private $OPSSubm = 658679;
-    private $Region = 'АЛТАЙСКИЙ КРАЙ';
+    private $Region = 'Алтайский край';
     private $Autonom = '';
-    private $Area = 'БЛАГОВЕЩЕНСКИЙ РАЙОН';
-    private $City = 'ГЛЯДЕНЬ-1';
+    private $Area = 'Благовещенский район';
+    private $City = 'Глядень-1';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

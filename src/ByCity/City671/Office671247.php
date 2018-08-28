@@ -27,13 +27,13 @@ final class Office671247 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 671247;
-    private $OPSName = 'СЕЛЕНГИНСК';
+    private $OPSName = 'Селенгинск';
     private $OPSType = 'О';
     private $OPSSubm = 671249;
-    private $Region = 'БУРЯТИЯ РЕСПУБЛИКА';
+    private $Region = 'Бурятия Республика';
     private $Autonom = '';
-    private $Area = 'КАБАНСКИЙ РАЙОН';
-    private $City = 'СЕЛЕНГИНСК';
+    private $Area = 'Кабанский район';
+    private $City = 'Селенгинск';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

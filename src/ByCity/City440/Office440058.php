@@ -27,13 +27,13 @@ final class Office440058 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 440058;
-    private $OPSName = 'ПЕНЗА 58';
+    private $OPSName = 'Пенза 58';
     private $OPSType = 'О';
     private $OPSSubm = 440999;
-    private $Region = 'ПЕНЗЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Пензенская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'ПЕНЗА';
+    private $City = 'Пенза';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

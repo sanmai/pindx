@@ -27,13 +27,13 @@ final class Office629001 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 629001;
-    private $OPSName = 'САЛЕХАРД 1';
+    private $OPSName = 'Салехард 1';
     private $OPSType = 'О';
     private $OPSSubm = 629000;
     private $Region = '';
-    private $Autonom = 'ЯМАЛО-НЕНЕЦКИЙ АВТОНОМНЫЙ ОКРУГ';
+    private $Autonom = 'Ямало-Ненецкий автономный округ';
     private $Area = '';
-    private $City = 'САЛЕХАРД';
+    private $City = 'Салехард';
     private $City1 = '';
     private $ActDate = '20170906';
     private $IndexOld = '';

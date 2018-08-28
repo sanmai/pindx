@@ -27,13 +27,13 @@ final class Office397613 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 397613;
-    private $OPSName = 'СЕРЯКОВО';
+    private $OPSName = 'Серяково';
     private $OPSType = 'О';
     private $OPSSubm = 397659;
-    private $Region = 'ВОРОНЕЖСКАЯ ОБЛАСТЬ';
+    private $Region = 'Воронежская область';
     private $Autonom = '';
-    private $Area = 'КАЛАЧЕЕВСКИЙ РАЙОН';
-    private $City = 'СЕРЯКОВО';
+    private $Area = 'Калачеевский район';
+    private $City = 'Серяково';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

@@ -27,14 +27,14 @@ final class Office393024 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 393024;
-    private $OPSName = 'АНДРЕЕВКА';
+    private $OPSName = 'Андреевка';
     private $OPSType = 'О';
     private $OPSSubm = 393779;
-    private $Region = 'ТАМБОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тамбовская область';
     private $Autonom = '';
-    private $Area = 'НИКИФОРОВСКИЙ РАЙОН';
-    private $City = 'АНДРЕЕВКА';
-    private $City1 = 'ПОЛЬНАЯ ДМИТРИЕВКА';
+    private $Area = 'Никифоровский район';
+    private $City = 'Андреевка';
+    private $City1 = 'Польная Дмитриевка';
     private $ActDate = '20031209';
     private $IndexOld = '';
 }

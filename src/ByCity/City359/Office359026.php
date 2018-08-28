@@ -27,13 +27,13 @@ final class Office359026 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 359026;
-    private $OPSName = 'ЭСТО-АЛТАЙ';
+    private $OPSName = 'Эсто-Алтай';
     private $OPSType = 'О';
     private $OPSSubm = 359029;
-    private $Region = 'КАЛМЫКИЯ РЕСПУБЛИКА';
+    private $Region = 'Калмыкия Республика';
     private $Autonom = '';
-    private $Area = 'ЯШАЛТИНСКИЙ РАЙОН';
-    private $City = 'ЭСТО-АЛТАЙ';
+    private $Area = 'Яшалтинский район';
+    private $City = 'Эсто-Алтай';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

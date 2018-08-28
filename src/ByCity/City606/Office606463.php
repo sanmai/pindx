@@ -27,13 +27,13 @@ final class Office606463 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 606463;
-    private $OPSName = 'ЧЕРНОЛЕССКАЯ ПУСТЫНЬ';
+    private $OPSName = 'Чернолесская Пустынь';
     private $OPSType = 'О';
     private $OPSSubm = 606449;
-    private $Region = 'НИЖЕГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Нижегородская область';
     private $Autonom = '';
-    private $Area = 'БОРСКИЙ РАЙОН';
-    private $City = 'ЧЕРНОЛЕССКАЯ ПУСТЫНЬ';
+    private $Area = 'Борский район';
+    private $City = 'Чернолесская Пустынь';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

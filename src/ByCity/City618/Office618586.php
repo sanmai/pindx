@@ -27,13 +27,13 @@ final class Office618586 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 618586;
-    private $OPSName = 'СЕВЕРНЫЙ КОЛЧИМ';
+    private $OPSName = 'Северный Колчим';
     private $OPSType = 'О';
     private $OPSSubm = 618439;
-    private $Region = 'ПЕРМСКИЙ КРАЙ';
+    private $Region = 'Пермский край';
     private $Autonom = '';
-    private $Area = 'КРАСНОВИШЕРСКИЙ РАЙОН';
-    private $City = 'СЕВЕРНЫЙ КОЛЧИМ';
+    private $Area = 'Красновишерский район';
+    private $City = 'Северный Колчим';
     private $City1 = '';
     private $ActDate = '20121023';
     private $IndexOld = '';

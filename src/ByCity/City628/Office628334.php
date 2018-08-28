@@ -27,13 +27,13 @@ final class Office628334 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 628334;
-    private $OPSName = 'ЛЕМПИНО';
+    private $OPSName = 'Лемпино';
     private $OPSType = 'О';
     private $OPSSubm = 628400;
     private $Region = '';
-    private $Autonom = 'ХАНТЫ-МАНСИЙСКИЙ-ЮГРА АВТОНОМНЫЙ ОКРУГ';
-    private $Area = 'НЕФТЕЮГАНСКИЙ РАЙОН';
-    private $City = 'ЛЕМПИНО';
+    private $Autonom = 'Ханты-Мансийский-Югра автономный округ';
+    private $Area = 'Нефтеюганский район';
+    private $City = 'Лемпино';
     private $City1 = '';
     private $ActDate = '20170906';
     private $IndexOld = '';

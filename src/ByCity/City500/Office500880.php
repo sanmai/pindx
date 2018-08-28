@@ -27,10 +27,10 @@ final class Office500880 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 500880;
-    private $OPSName = 'ALTANBULAG';
-    private $OPSType = 'ММПО';
+    private $OPSName = 'Altanbulag';
+    private $OPSType = 'Ммпо';
     private $OPSSubm = 131000;
-    private $Region = 'МОСКВА';
+    private $Region = 'Москва';
     private $Autonom = '';
     private $Area = '';
     private $City = '';

@@ -27,13 +27,13 @@ final class Office391560 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 391560;
-    private $OPSName = 'КАРНАУХОВО';
+    private $OPSName = 'Карнаухово';
     private $OPSType = 'О';
     private $OPSSubm = 391599;
-    private $Region = 'РЯЗАНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Рязанская область';
     private $Autonom = '';
-    private $Area = 'ШАЦКИЙ РАЙОН';
-    private $City = 'КАРНАУХОВО';
+    private $Area = 'Шацкий район';
+    private $City = 'Карнаухово';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

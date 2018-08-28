@@ -27,13 +27,13 @@ final class Office626142 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 626142;
-    private $OPSName = 'МАЛАЯ ЗОРКАЛЬЦЕВА';
+    private $OPSName = 'Малая Зоркальцева';
     private $OPSType = 'О';
     private $OPSSubm = 626151;
-    private $Region = 'ТЮМЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тюменская область';
     private $Autonom = '';
-    private $Area = 'ТОБОЛЬСКИЙ РАЙОН';
-    private $City = 'МАЛАЯ ЗОРКАЛЬЦЕВА';
+    private $Area = 'Тобольский район';
+    private $City = 'Малая Зоркальцева';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

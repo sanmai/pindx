@@ -27,13 +27,13 @@ final class Office403621 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 403621;
-    private $OPSName = 'ПОДКУЙКОВО';
+    private $OPSName = 'Подкуйково';
     private $OPSType = 'О';
     private $OPSSubm = 403790;
-    private $Region = 'ВОЛГОГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Волгоградская область';
     private $Autonom = '';
-    private $Area = 'РУДНЯНСКИЙ РАЙОН';
-    private $City = 'ПОДКУЙКОВО';
+    private $Area = 'Руднянский район';
+    private $City = 'Подкуйково';
     private $City1 = '';
     private $ActDate = '20070411';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office140241 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 140241;
-    private $OPSName = 'ХОРЛОВО 1';
+    private $OPSName = 'Хорлово 1';
     private $OPSType = 'О';
     private $OPSSubm = 140259;
-    private $Region = 'МОСКОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Московская область';
     private $Autonom = '';
-    private $Area = 'ВОСКРЕСЕНСКИЙ РАЙОН';
-    private $City = 'ХОРЛОВО';
+    private $Area = 'Воскресенский район';
+    private $City = 'Хорлово';
     private $City1 = '';
     private $ActDate = '20050513';
     private $IndexOld = '';

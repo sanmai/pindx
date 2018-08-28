@@ -27,13 +27,13 @@ final class Office423934 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 423934;
-    private $OPSName = 'ВЕРХНЯЯ ФОМИНОВКА';
+    private $OPSName = 'Верхняя Фоминовка';
     private $OPSType = 'О';
     private $OPSSubm = 423249;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'БАВЛИНСКИЙ РАЙОН';
-    private $City = 'ВЕРХНЯЯ ФОМИНОВКА';
+    private $Area = 'Бавлинский район';
+    private $City = 'Верхняя Фоминовка';
     private $City1 = '';
     private $ActDate = '20100212';
     private $IndexOld = '';

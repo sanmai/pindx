@@ -27,13 +27,13 @@ final class Office422054 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 422054;
-    private $OPSName = 'БОЛЬШОЙ ШИНАР';
+    private $OPSName = 'Большой Шинар';
     private $OPSType = 'О';
     private $OPSSubm = 422079;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'САБИНСКИЙ РАЙОН';
-    private $City = 'БОЛЬШОЙ ШИНАР';
+    private $Area = 'Сабинский район';
+    private $City = 'Большой Шинар';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

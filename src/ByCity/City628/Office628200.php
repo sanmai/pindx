@@ -27,13 +27,13 @@ final class Office628200 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 628200;
-    private $OPSName = 'МЕЖДУРЕЧЕНСКИЙ';
+    private $OPSName = 'Междуреченский';
     private $OPSType = 'О';
     private $OPSSubm = 628280;
     private $Region = '';
-    private $Autonom = 'ХАНТЫ-МАНСИЙСКИЙ-ЮГРА АВТОНОМНЫЙ ОКРУГ';
-    private $Area = 'КОНДИНСКИЙ РАЙОН';
-    private $City = 'МЕЖДУРЕЧЕНСКИЙ';
+    private $Autonom = 'Ханты-Мансийский-Югра автономный округ';
+    private $Area = 'Кондинский район';
+    private $City = 'Междуреченский';
     private $City1 = '';
     private $ActDate = '20170906';
     private $IndexOld = '';

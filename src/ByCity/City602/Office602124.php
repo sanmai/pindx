@@ -27,13 +27,13 @@ final class Office602124 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 602124;
-    private $OPSName = 'КАМЕНКА';
+    private $OPSName = 'Каменка';
     private $OPSType = 'О';
     private $OPSSubm = 602250;
-    private $Region = 'ВЛАДИМИРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Владимирская область';
     private $Autonom = '';
-    private $Area = 'МЕЛЕНКОВСКИЙ РАЙОН';
-    private $City = 'КАМЕНКА';
+    private $Area = 'Меленковский район';
+    private $City = 'Каменка';
     private $City1 = '';
     private $ActDate = '20110128';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office243113 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 243113;
-    private $OPSName = 'ВЕЛИКАЯ ТОПАЛЬ';
+    private $OPSName = 'Великая Топаль';
     private $OPSType = 'О';
     private $OPSSubm = 243149;
-    private $Region = 'БРЯНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Брянская область';
     private $Autonom = '';
-    private $Area = 'КЛИНЦОВСКИЙ РАЙОН';
-    private $City = 'ВЕЛИКАЯ ТОПАЛЬ';
+    private $Area = 'Клинцовский район';
+    private $City = 'Великая Топаль';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office632945 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 632945;
-    private $OPSName = 'НОВЫЙ БАГАНЕНОК';
+    private $OPSName = 'Новый Баганенок';
     private $OPSType = 'О';
     private $OPSSubm = 632900;
-    private $Region = 'НОВОСИБИРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Новосибирская область';
     private $Autonom = '';
-    private $Area = 'КРАСНОЗЕРСКИЙ РАЙОН';
-    private $City = 'НОВЫЙ БАГАНЕНОК';
+    private $Area = 'Краснозерский район';
+    private $City = 'Новый Баганенок';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

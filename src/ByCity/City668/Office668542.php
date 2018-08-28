@@ -27,13 +27,13 @@ final class Office668542 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 668542;
-    private $OPSName = 'ЫРБАН ППС';
-    private $OPSType = 'ППС';
+    private $OPSName = 'Ырбан Ппс';
+    private $OPSType = 'Ппс';
     private $OPSSubm = 667999;
-    private $Region = 'ТЫВА РЕСПУБЛИКА';
+    private $Region = 'Тыва Республика';
     private $Autonom = '';
-    private $Area = 'ТОДЖИНСКИЙ РАЙОН';
-    private $City = 'ЫРБАН';
+    private $Area = 'Тоджинский район';
+    private $City = 'Ырбан';
     private $City1 = '';
     private $ActDate = '20170713';
     private $IndexOld = '';

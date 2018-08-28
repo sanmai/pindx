@@ -27,13 +27,13 @@ final class Office215246 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 215246;
-    private $OPSName = 'ТАТАРКА';
+    private $OPSName = 'Татарка';
     private $OPSType = 'О';
     private $OPSSubm = 215279;
-    private $Region = 'СМОЛЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Смоленская область';
     private $Autonom = '';
-    private $Area = 'НОВОДУГИНСКИЙ РАЙОН';
-    private $City = 'ТАТАРКА';
+    private $Area = 'Новодугинский район';
+    private $City = 'Татарка';
     private $City1 = '';
     private $ActDate = '20020430';
     private $IndexOld = '';

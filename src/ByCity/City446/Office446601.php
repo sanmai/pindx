@@ -27,13 +27,13 @@ final class Office446601 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 446601;
-    private $OPSName = 'НЕФТЕГОРСК 1';
+    private $OPSName = 'Нефтегорск 1';
     private $OPSType = 'О';
     private $OPSSubm = 446619;
-    private $Region = 'САМАРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Самарская область';
     private $Autonom = '';
-    private $Area = 'НЕФТЕГОРСКИЙ РАЙОН';
-    private $City = 'НЕФТЕГОРСК';
+    private $Area = 'Нефтегорский район';
+    private $City = 'Нефтегорск';
     private $City1 = '';
     private $ActDate = '20161213';
     private $IndexOld = '';

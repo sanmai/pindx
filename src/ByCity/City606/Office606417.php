@@ -27,13 +27,13 @@ final class Office606417 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 606417;
-    private $OPSName = 'ШЕЛЯУХОВО ППС';
-    private $OPSType = 'ППС';
+    private $OPSName = 'Шеляухово Ппс';
+    private $OPSType = 'Ппс';
     private $OPSSubm = 606429;
-    private $Region = 'НИЖЕГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Нижегородская область';
     private $Autonom = '';
-    private $Area = 'БАЛАХНИНСКИЙ РАЙОН';
-    private $City = 'ШЕЛЯУХОВО';
+    private $Area = 'Балахнинский район';
+    private $City = 'Шеляухово';
     private $City1 = '';
     private $ActDate = '20170711';
     private $IndexOld = '';

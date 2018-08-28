@@ -27,13 +27,13 @@ final class Office347675 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 347675;
-    private $OPSName = 'ТАГАНРОГСКИЙ';
+    private $OPSName = 'Таганрогский';
     private $OPSType = 'О';
     private $OPSSubm = 347749;
-    private $Region = 'РОСТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ростовская область';
     private $Autonom = '';
-    private $Area = 'ЕГОРЛЫКСКИЙ РАЙОН';
-    private $City = 'ТАГАНРОГСКИЙ';
+    private $Area = 'Егорлыкский район';
+    private $City = 'Таганрогский';
     private $City1 = '';
     private $ActDate = '20130730';
     private $IndexOld = '';

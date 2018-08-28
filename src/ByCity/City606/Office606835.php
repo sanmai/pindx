@@ -27,13 +27,13 @@ final class Office606835 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 606835;
-    private $OPSName = 'МИНЕЕВО ППС';
-    private $OPSType = 'ППС';
+    private $OPSName = 'Минеево Ппс';
+    private $OPSType = 'Ппс';
     private $OPSSubm = 606839;
-    private $Region = 'НИЖЕГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Нижегородская область';
     private $Autonom = '';
-    private $Area = 'УРЕНСКИЙ РАЙОН';
-    private $City = 'МИНЕЕВО';
+    private $Area = 'Уренский район';
+    private $City = 'Минеево';
     private $City1 = '';
     private $ActDate = '20170711';
     private $IndexOld = '';

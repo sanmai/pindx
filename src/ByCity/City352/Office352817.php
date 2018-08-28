@@ -27,13 +27,13 @@ final class Office352817 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 352817;
-    private $OPSName = 'ГУНАЙКА-ЧЕТВЕРТАЯ';
+    private $OPSName = 'Гунайка-Четвертая';
     private $OPSType = 'О';
     private $OPSSubm = 352859;
-    private $Region = 'КРАСНОДАРСКИЙ КРАЙ';
+    private $Region = 'Краснодарский край';
     private $Autonom = '';
-    private $Area = 'ТУАПСИНСКИЙ РАЙОН';
-    private $City = 'ГУНАЙКА ЧЕТВЕРТАЯ';
+    private $Area = 'Туапсинский район';
+    private $City = 'Гунайка Четвертая';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

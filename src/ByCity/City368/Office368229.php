@@ -27,13 +27,13 @@ final class Office368229 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 368229;
-    private $OPSName = 'БУЙНАКСК УООП';
+    private $OPSName = 'Буйнакск Уооп';
     private $OPSType = 'Участок';
     private $OPSSubm = 367999;
-    private $Region = 'ДАГЕСТАН РЕСПУБЛИКА';
+    private $Region = 'Дагестан Республика';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'БУЙНАКСК';
+    private $City = 'Буйнакск';
     private $City1 = '';
     private $ActDate = '20160215';
     private $IndexOld = '';

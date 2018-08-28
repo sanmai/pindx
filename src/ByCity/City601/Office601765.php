@@ -27,13 +27,13 @@ final class Office601765 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 601765;
-    private $OPSName = 'ВИШНЕВЫЙ';
-    private $OPSType = 'ПЕРЕДВИЖНОЕ ОС';
+    private $OPSName = 'Вишневый';
+    private $OPSType = 'Передвижное Ос';
     private $OPSSubm = 601780;
-    private $Region = 'ВЛАДИМИРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Владимирская область';
     private $Autonom = '';
-    private $Area = 'КОЛЬЧУГИНСКИЙ РАЙОН';
-    private $City = 'ВИШНЕВЫЙ';
+    private $Area = 'Кольчугинский район';
+    private $City = 'Вишневый';
     private $City1 = '';
     private $ActDate = '20140411';
     private $IndexOld = '';

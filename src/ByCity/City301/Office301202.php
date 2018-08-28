@@ -27,13 +27,13 @@ final class Office301202 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 301202;
-    private $OPSName = 'ЖИТОВО';
+    private $OPSName = 'Житово';
     private $OPSType = 'О';
     private $OPSSubm = 301259;
-    private $Region = 'ТУЛЬСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тульская область';
     private $Autonom = '';
-    private $Area = 'ЩЕКИНСКИЙ РАЙОН';
-    private $City = 'ЖИТОВО-ДЕДОВО';
+    private $Area = 'Щекинский район';
+    private $City = 'Житово-Дедово';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

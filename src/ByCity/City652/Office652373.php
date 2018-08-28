@@ -27,13 +27,13 @@ final class Office652373 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 652373;
-    private $OPSName = 'ОЗЕРКИ';
+    private $OPSName = 'Озерки';
     private $OPSType = 'О';
     private $OPSSubm = 652359;
-    private $Region = 'КЕМЕРОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Кемеровская область';
     private $Autonom = '';
-    private $Area = 'ПРОМЫШЛЕННОВСКИЙ РАЙОН';
-    private $City = 'СТЕПНЫЕ ОЗЕРКИ';
+    private $Area = 'Промышленновский район';
+    private $City = 'Степные Озерки';
     private $City1 = '';
     private $ActDate = '20070406';
     private $IndexOld = '';

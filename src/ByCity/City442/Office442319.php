@@ -27,13 +27,13 @@ final class Office442319 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 442319;
-    private $OPSName = 'КАРДАВО';
+    private $OPSName = 'Кардаво';
     private $OPSType = 'О';
     private $OPSSubm = 442699;
-    private $Region = 'ПЕНЗЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Пензенская область';
     private $Autonom = '';
-    private $Area = 'ГОРОДИЩЕНСКИЙ РАЙОН';
-    private $City = 'КАРДАВО';
+    private $Area = 'Городищенский район';
+    private $City = 'Кардаво';
     private $City1 = '';
     private $ActDate = '20180813';
     private $IndexOld = '';

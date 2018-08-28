@@ -27,13 +27,13 @@ final class Office456537 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 456537;
-    private $OPSName = 'ТОМИНСКИЙ';
+    private $OPSName = 'Томинский';
     private $OPSType = 'О';
     private $OPSSubm = 454999;
-    private $Region = 'ЧЕЛЯБИНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Челябинская область';
     private $Autonom = '';
-    private $Area = 'СОСНОВСКИЙ РАЙОН';
-    private $City = 'ТОМИНСКИЙ';
+    private $Area = 'Сосновский район';
+    private $City = 'Томинский';
     private $City1 = '';
     private $ActDate = '20180813';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office431775 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 431775;
-    private $OPSName = 'КАБАЕВО';
+    private $OPSName = 'Кабаево';
     private $OPSType = 'О';
     private $OPSSubm = 431799;
-    private $Region = 'МОРДОВИЯ РЕСПУБЛИКА';
+    private $Region = 'Мордовия Республика';
     private $Autonom = '';
-    private $Area = 'ДУБЕНСКИЙ РАЙОН';
-    private $City = 'КАБАЕВО';
+    private $Area = 'Дубенский район';
+    private $City = 'Кабаево';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

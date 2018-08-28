@@ -27,13 +27,13 @@ final class Office171940 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 171940;
-    private $OPSName = 'ШИШКОВО-ДУБРОВО';
+    private $OPSName = 'Шишково-Дуброво';
     private $OPSType = 'О';
     private $OPSSubm = 171999;
-    private $Region = 'ТВЕРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тверская область';
     private $Autonom = '';
-    private $Area = 'БЕЖЕЦКИЙ РАЙОН';
-    private $City = 'ШИШКОВО-ДУБРОВО';
+    private $Area = 'Бежецкий район';
+    private $City = 'Шишково-Дуброво';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

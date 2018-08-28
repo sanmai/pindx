@@ -27,13 +27,13 @@ final class Office671235 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 671235;
-    private $OPSName = 'НИЖНИЙ БУРГАЛТАЙ';
+    private $OPSName = 'Нижний Бургалтай';
     private $OPSType = 'О';
     private $OPSSubm = 671959;
-    private $Region = 'БУРЯТИЯ РЕСПУБЛИКА';
+    private $Region = 'Бурятия Республика';
     private $Autonom = '';
-    private $Area = 'ДЖИДИНСКИЙ РАЙОН';
-    private $City = 'НИЖНИЙ БУРГАЛТАЙ';
+    private $Area = 'Джидинский район';
+    private $City = 'Нижний Бургалтай';
     private $City1 = '';
     private $ActDate = '20120111';
     private $IndexOld = '';

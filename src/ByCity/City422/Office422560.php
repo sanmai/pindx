@@ -27,13 +27,13 @@ final class Office422560 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 422560;
-    private $OPSName = 'ЗЕЛЕНОДОЛЬСК УКД';
-    private $OPSType = 'УКД';
+    private $OPSName = 'Зеленодольск Укд';
+    private $OPSType = 'Укд';
     private $OPSSubm = 421700;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'ЗЕЛЕНОДОЛЬСКИЙ РАЙОН';
-    private $City = 'ЗЕЛЕНОДОЛЬСК';
+    private $Area = 'Зеленодольский район';
+    private $City = 'Зеленодольск';
     private $City1 = '';
     private $ActDate = '20170626';
     private $IndexOld = '';

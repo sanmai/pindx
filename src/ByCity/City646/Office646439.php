@@ -27,13 +27,13 @@ final class Office646439 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 646439;
-    private $OPSName = 'МУРОМЦЕВО ПОЧТАМТ';
+    private $OPSName = 'Муромцево Почтамт';
     private $OPSType = 'П';
     private $OPSSubm = 644700;
-    private $Region = 'ОМСКАЯ ОБЛАСТЬ';
+    private $Region = 'Омская область';
     private $Autonom = '';
-    private $Area = 'МУРОМЦЕВСКИЙ РАЙОН';
-    private $City = 'МУРОМЦЕВО';
+    private $Area = 'Муромцевский район';
+    private $City = 'Муромцево';
     private $City1 = '';
     private $ActDate = '20070424';
     private $IndexOld = '';

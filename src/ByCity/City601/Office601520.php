@@ -27,13 +27,13 @@ final class Office601520 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 601520;
-    private $OPSName = 'НЕКЛЮДОВО';
+    private $OPSName = 'Неклюдово';
     private $OPSType = 'О';
     private $OPSSubm = 601500;
-    private $Region = 'ВЛАДИМИРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Владимирская область';
     private $Autonom = '';
-    private $Area = 'ГУСЬ-ХРУСТАЛЬНЫЙ РАЙОН';
-    private $City = 'НЕКЛЮДОВО';
+    private $Area = 'Гусь-Хрустальный район';
+    private $City = 'Неклюдово';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

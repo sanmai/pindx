@@ -27,14 +27,14 @@ final class Office629325 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 629325;
-    private $OPSName = 'ЛИМБЯЯХА';
+    private $OPSName = 'Лимбяяха';
     private $OPSType = 'О';
     private $OPSSubm = 629329;
     private $Region = '';
-    private $Autonom = 'ЯМАЛО-НЕНЕЦКИЙ АВТОНОМНЫЙ ОКРУГ';
+    private $Autonom = 'Ямало-Ненецкий автономный округ';
     private $Area = '';
-    private $City = 'НОВЫЙ УРЕНГОЙ';
-    private $City1 = 'ЛИМБЯЯХА';
+    private $City = 'Новый Уренгой';
+    private $City1 = 'Лимбяяха';
     private $ActDate = '20170906';
     private $IndexOld = '';
 }

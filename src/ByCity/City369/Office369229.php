@@ -27,14 +27,14 @@ final class Office369229 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 369229;
-    private $OPSName = 'КАМЕННОМОСТ';
+    private $OPSName = 'Каменномост';
     private $OPSType = 'О';
     private $OPSSubm = 369329;
-    private $Region = 'КАРАЧАЕВО-ЧЕРКЕССКАЯ РЕСПУБЛИКА';
+    private $Region = 'Карачаево-Черкесская Республика';
     private $Autonom = '';
-    private $Area = 'КАРАЧАЕВСКИЙ РАЙОН';
-    private $City = 'КАМЕННОМОСТ';
-    private $City1 = 'НИЖНИЙ КАМЕННОМОСТ';
+    private $Area = 'Карачаевский район';
+    private $City = 'Каменномост';
+    private $City1 = 'Нижний Каменномост';
     private $ActDate = '20180813';
     private $IndexOld = '';
 }

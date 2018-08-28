@@ -27,13 +27,13 @@ final class Office671198 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 671198;
-    private $OPSName = 'ТЕМНИК';
+    private $OPSName = 'Темник';
     private $OPSType = 'О';
     private $OPSSubm = 670999;
-    private $Region = 'БУРЯТИЯ РЕСПУБЛИКА';
+    private $Region = 'Бурятия Республика';
     private $Autonom = '';
-    private $Area = 'СЕЛЕНГИНСКИЙ РАЙОН';
-    private $City = 'ТЕМНИК';
+    private $Area = 'Селенгинский район';
+    private $City = 'Темник';
     private $City1 = '';
     private $ActDate = '20120910';
     private $IndexOld = '';

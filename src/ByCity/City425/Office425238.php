@@ -27,13 +27,13 @@ final class Office425238 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 425238;
-    private $OPSName = 'МЕДВЕДЕВО КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Медведево Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 425239;
-    private $Region = 'МАРИЙ ЭЛ РЕСПУБЛИКА';
+    private $Region = 'Марий Эл Республика';
     private $Autonom = '';
-    private $Area = 'МЕДВЕДЕВСКИЙ РАЙОН';
-    private $City = 'МЕДВЕДЕВО';
+    private $Area = 'Медведевский район';
+    private $City = 'Медведево';
     private $City1 = '';
     private $ActDate = '20170927';
     private $IndexOld = '';

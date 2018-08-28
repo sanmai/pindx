@@ -27,13 +27,13 @@ final class Office187731 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 187731;
-    private $OPSName = 'ЛОДЕЙНОЕ ПОЛЕ 31';
-    private $OPSType = 'ПЕРЕДВИЖНОЕ ОС';
+    private $OPSName = 'Лодейное Поле 31';
+    private $OPSType = 'Передвижное Ос';
     private $OPSSubm = 187739;
-    private $Region = 'ЛЕНИНГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ленинградская область';
     private $Autonom = '';
-    private $Area = 'ЛОДЕЙНОПОЛЬСКИЙ РАЙОН';
-    private $City = 'ЛОДЕЙНОЕ ПОЛЕ';
+    private $Area = 'Лодейнопольский район';
+    private $City = 'Лодейное Поле';
     private $City1 = '';
     private $ActDate = '20180116';
     private $IndexOld = '';

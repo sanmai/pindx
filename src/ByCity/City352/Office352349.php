@@ -27,13 +27,13 @@ final class Office352349 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 352349;
-    private $OPSName = 'УСТЬ-ЛАБИНСК ПОЧТАМТ';
+    private $OPSName = 'Усть-Лабинск Почтамт';
     private $OPSType = 'П';
     private $OPSSubm = 350700;
-    private $Region = 'КРАСНОДАРСКИЙ КРАЙ';
+    private $Region = 'Краснодарский край';
     private $Autonom = '';
-    private $Area = 'УСТЬ-ЛАБИНСКИЙ РАЙОН';
-    private $City = 'УСТЬ-ЛАБИНСК';
+    private $Area = 'Усть-Лабинский район';
+    private $City = 'Усть-Лабинск';
     private $City1 = '';
     private $ActDate = '20080305';
     private $IndexOld = '';

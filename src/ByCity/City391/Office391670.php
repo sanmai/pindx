@@ -27,13 +27,13 @@ final class Office391670 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 391670;
-    private $OPSName = 'КАДОМ';
+    private $OPSName = 'Кадом';
     private $OPSType = 'О';
     private $OPSSubm = 391469;
-    private $Region = 'РЯЗАНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Рязанская область';
     private $Autonom = '';
-    private $Area = 'КАДОМСКИЙ РАЙОН';
-    private $City = 'КАДОМ';
+    private $Area = 'Кадомский район';
+    private $City = 'Кадом';
     private $City1 = '';
     private $ActDate = '20050826';
     private $IndexOld = '';

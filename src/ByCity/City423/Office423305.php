@@ -27,13 +27,13 @@ final class Office423305 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 423305;
-    private $OPSName = 'АГЕРЗЕ ППС';
-    private $OPSType = 'ППС';
+    private $OPSName = 'Агерзе Ппс';
+    private $OPSType = 'Ппс';
     private $OPSSubm = 423349;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'АЗНАКАЕВСКИЙ РАЙОН';
-    private $City = 'АГЕРЗЕ';
+    private $Area = 'Азнакаевский район';
+    private $City = 'Агерзе';
     private $City1 = '';
     private $ActDate = '20170626';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office633353 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 633353;
-    private $OPSName = 'БАРАТАЕВКА';
+    private $OPSName = 'Баратаевка';
     private $OPSType = 'О';
     private $OPSSubm = 633130;
-    private $Region = 'НОВОСИБИРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Новосибирская область';
     private $Autonom = '';
-    private $Area = 'БОЛОТНИНСКИЙ РАЙОН';
-    private $City = 'БАРАТАЕВКА';
+    private $Area = 'Болотнинский район';
+    private $City = 'Баратаевка';
     private $City1 = '';
     private $ActDate = '20041223';
     private $IndexOld = '';

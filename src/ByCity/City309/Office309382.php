@@ -27,13 +27,13 @@ final class Office309382 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 309382;
-    private $OPSName = 'ГОРА-ПОДОЛ';
+    private $OPSName = 'Гора-Подол';
     private $OPSType = 'О';
     private $OPSSubm = 309329;
-    private $Region = 'БЕЛГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Белгородская область';
     private $Autonom = '';
-    private $Area = 'ГРАЙВОРОНСКИЙ РАЙОН';
-    private $City = 'ГОРА ПОДОЛ';
+    private $Area = 'Грайворонский район';
+    private $City = 'Гора Подол';
     private $City1 = '';
     private $ActDate = '20110802';
     private $IndexOld = '';

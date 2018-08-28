@@ -27,13 +27,13 @@ final class Office346647 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 346647;
-    private $OPSName = 'ЗЕЛЕНАЯ ГОРКА';
+    private $OPSName = 'Зеленая Горка';
     private $OPSType = 'О';
     private $OPSSubm = 347289;
-    private $Region = 'РОСТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ростовская область';
     private $Autonom = '';
-    private $Area = 'СЕМИКАРАКОРСКИЙ РАЙОН';
-    private $City = 'ЗЕЛЕНАЯ ГОРКА';
+    private $Area = 'Семикаракорский район';
+    private $City = 'Зеленая Горка';
     private $City1 = '';
     private $ActDate = '20070214';
     private $IndexOld = '';

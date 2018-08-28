@@ -27,13 +27,13 @@ final class Office391641 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 391641;
-    private $OPSName = 'МЕРДУШЬ';
+    private $OPSName = 'Мердушь';
     private $OPSType = 'О';
     private $OPSSubm = 391469;
-    private $Region = 'РЯЗАНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Рязанская область';
     private $Autonom = '';
-    private $Area = 'ЕРМИШИНСКИЙ РАЙОН';
-    private $City = 'МЕРДУШЬ';
+    private $Area = 'Ермишинский район';
+    private $City = 'Мердушь';
     private $City1 = '';
     private $ActDate = '20060606';
     private $IndexOld = '';

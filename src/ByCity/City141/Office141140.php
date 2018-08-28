@@ -27,13 +27,13 @@ final class Office141140 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 141140;
-    private $OPSName = 'СВЕРДЛОВСКИЙ';
+    private $OPSName = 'Свердловский';
     private $OPSType = 'О';
     private $OPSSubm = 141000;
-    private $Region = 'МОСКОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Московская область';
     private $Autonom = '';
-    private $Area = 'ЩЕЛКОВСКИЙ РАЙОН';
-    private $City = 'СВЕРДЛОВСКИЙ';
+    private $Area = 'Щелковский район';
+    private $City = 'Свердловский';
     private $City1 = '';
     private $ActDate = '20100721';
     private $IndexOld = '';

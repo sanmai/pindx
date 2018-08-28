@@ -27,13 +27,13 @@ final class Office626022 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 626022;
-    private $OPSName = 'НИЖНЯЯ ТАВДА 2';
+    private $OPSName = 'Нижняя Тавда 2';
     private $OPSType = 'О';
     private $OPSSubm = 625500;
-    private $Region = 'ТЮМЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тюменская область';
     private $Autonom = '';
-    private $Area = 'НИЖНЕТАВДИНСКИЙ РАЙОН';
-    private $City = 'НИЖНЯЯ ТАВДА';
+    private $Area = 'Нижнетавдинский район';
+    private $City = 'Нижняя Тавда';
     private $City1 = '';
     private $ActDate = '20051026';
     private $IndexOld = '';

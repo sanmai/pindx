@@ -27,13 +27,13 @@ final class Office215032 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 215032;
-    private $OPSName = 'САМУЙЛОВО';
+    private $OPSName = 'Самуйлово';
     private $OPSType = 'О';
     private $OPSSubm = 215059;
-    private $Region = 'СМОЛЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Смоленская область';
     private $Autonom = '';
-    private $Area = 'ГАГАРИНСКИЙ РАЙОН';
-    private $City = 'САМУЙЛОВО САМУЙЛОВСКИЙ ОКРУГ';
+    private $Area = 'Гагаринский район';
+    private $City = 'Самуйлово Самуйловский округ';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

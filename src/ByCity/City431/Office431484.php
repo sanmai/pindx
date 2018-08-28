@@ -27,13 +27,13 @@ final class Office431484 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 431484;
-    private $OPSName = 'ШИШКЕЕВО';
+    private $OPSName = 'Шишкеево';
     private $OPSType = 'О';
     private $OPSSubm = 431499;
-    private $Region = 'МОРДОВИЯ РЕСПУБЛИКА';
+    private $Region = 'Мордовия Республика';
     private $Autonom = '';
-    private $Area = 'РУЗАЕВСКИЙ РАЙОН';
-    private $City = 'ШИШКЕЕВО';
+    private $Area = 'Рузаевский район';
+    private $City = 'Шишкеево';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

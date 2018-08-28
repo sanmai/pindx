@@ -27,13 +27,13 @@ final class Office162163 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 162163;
-    private $OPSName = 'НЕФЕДОВСКАЯ';
+    private $OPSName = 'Нефедовская';
     private $OPSType = 'О';
     private $OPSSubm = 162129;
-    private $Region = 'ВОЛОГОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Вологодская область';
     private $Autonom = '';
-    private $Area = 'ВОЖЕГОДСКИЙ РАЙОН';
-    private $City = 'НЕФЕДОВСКАЯ ОГИБАЛОВСКОЕ';
+    private $Area = 'Вожегодский район';
+    private $City = 'Нефедовская Огибаловское';
     private $City1 = '';
     private $ActDate = '20101119';
     private $IndexOld = '';

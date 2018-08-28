@@ -27,13 +27,13 @@ final class Office391566 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 391566;
-    private $OPSName = 'ПОЛЬНОЕ ЯЛТУНОВО';
+    private $OPSName = 'Польное Ялтуново';
     private $OPSType = 'О';
     private $OPSSubm = 391599;
-    private $Region = 'РЯЗАНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Рязанская область';
     private $Autonom = '';
-    private $Area = 'ШАЦКИЙ РАЙОН';
-    private $City = 'ПОЛЬНОЕ ЯЛТУНОВО';
+    private $Area = 'Шацкий район';
+    private $City = 'Польное Ялтуново';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

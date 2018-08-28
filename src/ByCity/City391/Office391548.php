@@ -27,13 +27,13 @@ final class Office391548 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 391548;
-    private $OPSName = 'ШИЛОВО КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Шилово Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 391549;
-    private $Region = 'РЯЗАНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Рязанская область';
     private $Autonom = '';
-    private $Area = 'ШИЛОВСКИЙ РАЙОН';
-    private $City = 'ШИЛОВО';
+    private $Area = 'Шиловский район';
+    private $City = 'Шилово';
     private $City1 = '';
     private $ActDate = '20170925';
     private $IndexOld = '';

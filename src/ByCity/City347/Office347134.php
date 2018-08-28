@@ -27,13 +27,13 @@ final class Office347134 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 347134;
-    private $OPSName = 'МАНЬКОВО-БЕРЕЗОВСКАЯ';
+    private $OPSName = 'Маньково-Березовская';
     private $OPSType = 'О';
     private $OPSSubm = 347239;
-    private $Region = 'РОСТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ростовская область';
     private $Autonom = '';
-    private $Area = 'МИЛЮТИНСКИЙ РАЙОН';
-    private $City = 'МАНЬКОВО-БЕРЕЗОВСКАЯ';
+    private $Area = 'Милютинский район';
+    private $City = 'Маньково-Березовская';
     private $City1 = '';
     private $ActDate = '20070214';
     private $IndexOld = '';

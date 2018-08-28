@@ -27,14 +27,14 @@ final class Office650904 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 650904;
-    private $OPSName = 'ПРОМЫШЛЕННОВСКИЙ';
+    private $OPSName = 'Промышленновский';
     private $OPSType = 'О';
     private $OPSSubm = 650999;
-    private $Region = 'КЕМЕРОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Кемеровская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'КЕМЕРОВО';
-    private $City1 = 'ПРОМЫШЛЕННОВСКИЙ';
+    private $City = 'Кемерово';
+    private $City1 = 'Промышленновский';
     private $ActDate = '20150801';
     private $IndexOld = '';
 }

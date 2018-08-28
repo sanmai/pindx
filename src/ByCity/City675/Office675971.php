@@ -27,13 +27,13 @@ final class Office675971 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 675971;
-    private $OPSName = 'БЛАГОВЕЩЕНСК-ДТИ';
-    private $OPSType = 'ДТИ';
+    private $OPSName = 'Благовещенск-Дти';
+    private $OPSType = 'Дти';
     private $OPSSubm = 675004;
-    private $Region = 'АМУРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Амурская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'БЛАГОВЕЩЕНСК';
+    private $City = 'Благовещенск';
     private $City1 = '';
     private $ActDate = '20070627';
     private $IndexOld = '';

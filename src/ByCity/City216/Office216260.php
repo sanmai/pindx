@@ -27,13 +27,13 @@ final class Office216260 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 216260;
-    private $OPSName = 'ВЕРХНИЕ МОХОВИЧИ';
+    private $OPSName = 'Верхние Моховичи';
     private $OPSType = 'О';
     private $OPSSubm = 216279;
-    private $Region = 'СМОЛЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Смоленская область';
     private $Autonom = '';
-    private $Area = 'ДЕМИДОВСКИЙ РАЙОН';
-    private $City = 'ВЕРХНИЕ МОХОВИЧИ';
+    private $Area = 'Демидовский район';
+    private $City = 'Верхние Моховичи';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

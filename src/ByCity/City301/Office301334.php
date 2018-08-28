@@ -27,13 +27,13 @@ final class Office301334 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 301334;
-    private $OPSName = 'ДЕДИЛОВСКИЕ ВЫСЕЛКИ';
+    private $OPSName = 'Дедиловские Выселки';
     private $OPSType = 'О';
     private $OPSSubm = 301679;
-    private $Region = 'ТУЛЬСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тульская область';
     private $Autonom = '';
-    private $Area = 'ВЕНЕВСКИЙ РАЙОН';
-    private $City = 'ДЕДИЛОВСКИЕ ВЫСЕЛКИ';
+    private $Area = 'Веневский район';
+    private $City = 'Дедиловские Выселки';
     private $City1 = '';
     private $ActDate = '20020701';
     private $IndexOld = '';

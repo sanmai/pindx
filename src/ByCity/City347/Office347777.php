@@ -27,13 +27,13 @@ final class Office347777 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 347777;
-    private $OPSName = 'ХЛЕБОДАРНОЕ';
+    private $OPSName = 'Хлебодарное';
     private $OPSType = 'О';
     private $OPSSubm = 347749;
-    private $Region = 'РОСТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ростовская область';
     private $Autonom = '';
-    private $Area = 'ЦЕЛИНСКИЙ РАЙОН';
-    private $City = 'ХЛЕБОДАРНОЕ';
+    private $Area = 'Целинский район';
+    private $City = 'Хлебодарное';
     private $City1 = '';
     private $ActDate = '20070214';
     private $IndexOld = '';

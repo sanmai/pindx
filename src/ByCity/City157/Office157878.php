@@ -27,13 +27,13 @@ final class Office157878 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 157878;
-    private $OPSName = 'ГРУДКИ';
+    private $OPSName = 'Грудки';
     private $OPSType = 'О';
     private $OPSSubm = 156999;
-    private $Region = 'КОСТРОМСКАЯ ОБЛАСТЬ';
+    private $Region = 'Костромская область';
     private $Autonom = '';
-    private $Area = 'СУДИСЛАВСКИЙ РАЙОН';
-    private $City = 'ГРУДКИ';
+    private $Area = 'Судиславский район';
+    private $City = 'Грудки';
     private $City1 = '';
     private $ActDate = '20060811';
     private $IndexOld = '';

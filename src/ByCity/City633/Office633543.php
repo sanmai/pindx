@@ -27,13 +27,13 @@ final class Office633543 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 633543;
-    private $OPSName = 'БЕЗМЕНОВО';
+    private $OPSName = 'Безменово';
     private $OPSType = 'О';
     private $OPSSubm = 633529;
-    private $Region = 'НОВОСИБИРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Новосибирская область';
     private $Autonom = '';
-    private $Area = 'ЧЕРЕПАНОВСКИЙ РАЙОН';
-    private $City = 'БЕЗМЕНОВО';
+    private $Area = 'Черепановский район';
+    private $City = 'Безменово';
     private $City1 = '';
     private $ActDate = '20091020';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office623581 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 623581;
-    private $OPSName = 'ЧЕРЕМЫШ';
+    private $OPSName = 'Черемыш';
     private $OPSType = 'О';
     private $OPSSubm = 624869;
-    private $Region = 'СВЕРДЛОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Свердловская область';
     private $Autonom = '';
-    private $Area = 'ПЫШМИНСКИЙ РАЙОН';
-    private $City = 'ЧЕРЕМЫШ';
+    private $Area = 'Пышминский район';
+    private $City = 'Черемыш';
     private $City1 = '';
     private $ActDate = '20060627';
     private $IndexOld = '';

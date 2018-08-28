@@ -27,13 +27,13 @@ final class Office413753 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 413753;
-    private $OPSName = 'ГРАЧЕВ КУСТ';
+    private $OPSName = 'Грачев Куст';
     private $OPSType = 'О';
     private $OPSSubm = 413840;
-    private $Region = 'САРАТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Саратовская область';
     private $Autonom = '';
-    private $Area = 'ПЕРЕЛЮБСКИЙ РАЙОН';
-    private $City = 'ГРАЧЕВ КУСТ';
+    private $Area = 'Перелюбский район';
+    private $City = 'Грачев Куст';
     private $City1 = '';
     private $ActDate = '20030610';
     private $IndexOld = '';

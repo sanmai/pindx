@@ -27,13 +27,13 @@ final class Office423725 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 423725;
-    private $OPSName = 'АТРЯКЛЕ';
+    private $OPSName = 'Атрякле';
     private $OPSType = 'О';
     private $OPSSubm = 423849;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'МЕНЗЕЛИНСКИЙ РАЙОН';
-    private $City = 'АТРЯКЛЕ';
+    private $Area = 'Мензелинский район';
+    private $City = 'Атрякле';
     private $City1 = '';
     private $ActDate = '20040115';
     private $IndexOld = '';

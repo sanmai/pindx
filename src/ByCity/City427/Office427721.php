@@ -27,13 +27,13 @@ final class Office427721 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 427721;
-    private $OPSName = 'ВЕРХНЯЯ ТЫЖМА';
+    private $OPSName = 'Верхняя Тыжма';
     private $OPSType = 'О';
     private $OPSSubm = 427714;
-    private $Region = 'УДМУРТСКАЯ РЕСПУБЛИКА';
+    private $Region = 'Удмуртская Республика';
     private $Autonom = '';
-    private $Area = 'КИЗНЕРСКИЙ РАЙОН';
-    private $City = 'ВЕРХНЯЯ ТЫЖМА';
+    private $Area = 'Кизнерский район';
+    private $City = 'Верхняя Тыжма';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

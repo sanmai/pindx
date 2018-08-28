@@ -27,13 +27,13 @@ final class Office186016 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 186016;
-    private $OPSName = 'НУРМОЛИЦЫ';
+    private $OPSName = 'Нурмолицы';
     private $OPSType = 'О';
     private $OPSSubm = 185000;
-    private $Region = 'КАРЕЛИЯ РЕСПУБЛИКА';
+    private $Region = 'Карелия Республика';
     private $Autonom = '';
-    private $Area = 'ОЛОНЕЦКИЙ РАЙОН';
-    private $City = 'НУРМОЛИЦЫ';
+    private $Area = 'Олонецкий район';
+    private $City = 'Нурмолицы';
     private $City1 = '';
     private $ActDate = '20060329';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office412078 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 412078;
-    private $OPSName = 'ПЕРЕВЕСИНО-МИХАЙЛОВКА';
+    private $OPSName = 'Перевесино-Михайловка';
     private $OPSType = 'О';
     private $OPSSubm = 412030;
-    private $Region = 'САРАТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Саратовская область';
     private $Autonom = '';
-    private $Area = 'ТУРКОВСКИЙ РАЙОН';
-    private $City = 'ПЕРЕВЕСИНО-МИХАЙЛОВКА';
+    private $Area = 'Турковский район';
+    private $City = 'Перевесино-Михайловка';
     private $City1 = '';
     private $ActDate = '20030610';
     private $IndexOld = '';

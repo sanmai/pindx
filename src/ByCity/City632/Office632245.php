@@ -27,13 +27,13 @@ final class Office632245 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 632245;
-    private $OPSName = 'СЕЛИКЛА';
+    private $OPSName = 'Селикла';
     private $OPSType = 'О';
     private $OPSSubm = 632200;
-    private $Region = 'НОВОСИБИРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Новосибирская область';
     private $Autonom = '';
-    private $Area = 'ВЕНГЕРОВСКИЙ РАЙОН';
-    private $City = 'СЕЛИКЛА';
+    private $Area = 'Венгеровский район';
+    private $City = 'Селикла';
     private $City1 = '';
     private $ActDate = '20060705';
     private $IndexOld = '';

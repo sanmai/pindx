@@ -27,13 +27,13 @@ final class Office309420 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 309420;
-    private $OPSName = 'КРАСНАЯ ЯРУГА';
+    private $OPSName = 'Красная Яруга';
     private $OPSType = 'О';
     private $OPSSubm = 309329;
-    private $Region = 'БЕЛГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Белгородская область';
     private $Autonom = '';
-    private $Area = 'КРАСНОЯРУЖСКИЙ РАЙОН';
-    private $City = 'КРАСНАЯ ЯРУГА';
+    private $Area = 'Краснояружский район';
+    private $City = 'Красная Яруга';
     private $City1 = '';
     private $ActDate = '20060814';
     private $IndexOld = '';

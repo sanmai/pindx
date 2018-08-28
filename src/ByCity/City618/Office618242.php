@@ -27,14 +27,14 @@ final class Office618242 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 618242;
-    private $OPSName = 'ВЕРХНЕЕ КАЛИНО';
+    private $OPSName = 'Верхнее Калино';
     private $OPSType = 'О';
     private $OPSSubm = 618249;
-    private $Region = 'ПЕРМСКИЙ КРАЙ';
+    private $Region = 'Пермский край';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'ЧУСОВОЙ';
-    private $City1 = 'ВЕРХНЕЕ КАЛИНО';
+    private $City = 'Чусовой';
+    private $City1 = 'Верхнее Калино';
     private $ActDate = '20001030';
     private $IndexOld = '';
 }

@@ -27,13 +27,13 @@ final class Office150518 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 150518;
-    private $OPSName = 'КРАСНЫЙ БОР';
+    private $OPSName = 'Красный Бор';
     private $OPSType = 'О';
     private $OPSSubm = 150599;
-    private $Region = 'ЯРОСЛАВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ярославская область';
     private $Autonom = '';
-    private $Area = 'ЯРОСЛАВСКИЙ РАЙОН';
-    private $City = 'КРАСНЫЙ БОР';
+    private $Area = 'Ярославский район';
+    private $City = 'Красный Бор';
     private $City1 = '';
     private $ActDate = '20150330';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office633222 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 633222;
-    private $OPSName = 'ЛЕГОСТАЕВО';
+    private $OPSName = 'Легостаево';
     private $OPSType = 'О';
     private $OPSSubm = 633200;
-    private $Region = 'НОВОСИБИРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Новосибирская область';
     private $Autonom = '';
-    private $Area = 'ИСКИТИМСКИЙ РАЙОН';
-    private $City = 'ЛЕГОСТАЕВО';
+    private $Area = 'Искитимский район';
+    private $City = 'Легостаево';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

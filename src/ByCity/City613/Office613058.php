@@ -27,13 +27,13 @@ final class Office613058 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 613058;
-    private $OPSName = 'КИРОВО-ЧЕПЕЦК КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Кирово-Чепецк Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 613059;
-    private $Region = 'КИРОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Кировская область';
     private $Autonom = '';
-    private $Area = 'КИРОВО-ЧЕПЕЦКИЙ РАЙОН';
-    private $City = 'КИРОВО-ЧЕПЕЦК';
+    private $Area = 'Кирово-Чепецкий район';
+    private $City = 'Кирово-Чепецк';
     private $City1 = '';
     private $ActDate = '20170926';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office188425 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 188425;
-    private $OPSName = 'ЗИМИТИЦЫ';
+    private $OPSName = 'Зимитицы';
     private $OPSType = 'О';
     private $OPSSubm = 188449;
-    private $Region = 'ЛЕНИНГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ленинградская область';
     private $Autonom = '';
-    private $Area = 'ВОЛОСОВСКИЙ РАЙОН';
-    private $City = 'ЗИМИТИЦЫ';
+    private $Area = 'Волосовский район';
+    private $City = 'Зимитицы';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

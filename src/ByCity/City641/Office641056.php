@@ -27,13 +27,13 @@ final class Office641056 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 641056;
-    private $OPSName = 'МАЛОЕ ОКУНЕВО';
+    private $OPSName = 'Малое Окунево';
     private $OPSType = 'О';
     private $OPSSubm = 641069;
-    private $Region = 'КУРГАНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Курганская область';
     private $Autonom = '';
-    private $Area = 'МИШКИНСКИЙ РАЙОН';
-    private $City = 'МАЛОЕ ОКУНЕВО';
+    private $Area = 'Мишкинский район';
+    private $City = 'Малое Окунево';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

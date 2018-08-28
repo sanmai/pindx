@@ -27,13 +27,13 @@ final class Office901163 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 901163;
-    private $OPSName = 'ПВ ТЮМЕНЬ-МОСКВА';
-    private $OPSType = 'ТИ';
+    private $OPSName = 'Пв Тюмень-Москва';
+    private $OPSType = 'Ти';
     private $OPSSubm = 625960;
-    private $Region = 'ТЮМЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тюменская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'ТЮМЕНЬ';
+    private $City = 'Тюмень';
     private $City1 = '';
     private $ActDate = '20120531';
     private $IndexOld = '';

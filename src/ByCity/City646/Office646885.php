@@ -27,13 +27,13 @@ final class Office646885 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 646885;
-    private $OPSName = 'СОСНОВКА';
+    private $OPSName = 'Сосновка';
     private $OPSType = 'О';
     private $OPSSubm = 646749;
-    private $Region = 'ОМСКАЯ ОБЛАСТЬ';
+    private $Region = 'Омская область';
     private $Autonom = '';
-    private $Area = 'АЗОВСКИЙ НЕМЕЦКИЙ НАЦИОНАЛЬНЫЙ РАЙОН';
-    private $City = 'СОСНОВКА';
+    private $Area = 'Азовский немецкий национальный район';
+    private $City = 'Сосновка';
     private $City1 = '';
     private $ActDate = '20070420';
     private $IndexOld = '';

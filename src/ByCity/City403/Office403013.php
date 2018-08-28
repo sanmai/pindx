@@ -27,13 +27,13 @@ final class Office403013 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 403013;
-    private $OPSName = 'ОБЛАСТНАЯ СЕЛЬСКОХОЗЯЙСТВЕННАЯ ОПЫТНАЯ СТАНЦИЯ';
+    private $OPSName = 'Областная Сельскохозяйственная Опытная Станция';
     private $OPSType = 'О';
     private $OPSSubm = 404029;
-    private $Region = 'ВОЛГОГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Волгоградская область';
     private $Autonom = '';
-    private $Area = 'ГОРОДИЩЕНСКИЙ РАЙОН';
-    private $City = 'ОБЛАСТНОЙ СЕЛЬСКОХОЗЯЙСТВЕННОЙ ОПЫТНОЙ СТАНЦИИ';
+    private $Area = 'Городищенский район';
+    private $City = 'Областной Сельскохозяйственной Опытной Станции';
     private $City1 = '';
     private $ActDate = '20180813';
     private $IndexOld = '';

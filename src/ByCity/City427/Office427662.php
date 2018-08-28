@@ -27,13 +27,13 @@ final class Office427662 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 427662;
-    private $OPSName = 'БОЛЬШОЙ СЕЛЕГ';
+    private $OPSName = 'Большой Селег';
     private $OPSType = 'О';
     private $OPSSubm = 427669;
-    private $Region = 'УДМУРТСКАЯ РЕСПУБЛИКА';
+    private $Region = 'Удмуртская Республика';
     private $Autonom = '';
-    private $Area = 'КРАСНОГОРСКИЙ РАЙОН';
-    private $City = 'БОЛЬШОЙ СЕЛЕГ';
+    private $Area = 'Красногорский район';
+    private $City = 'Большой Селег';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

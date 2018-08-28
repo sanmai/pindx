@@ -27,13 +27,13 @@ final class Office186358 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 186358;
-    private $OPSName = 'МЕДВЕЖЬЕГОРСК КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Медвежьегорск Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 186359;
-    private $Region = 'КАРЕЛИЯ РЕСПУБЛИКА';
+    private $Region = 'Карелия Республика';
     private $Autonom = '';
-    private $Area = 'МЕДВЕЖЬЕГОРСКИЙ РАЙОН';
-    private $City = 'МЕДВЕЖЬЕГОРСК';
+    private $Area = 'Медвежьегорский район';
+    private $City = 'Медвежьегорск';
     private $City1 = '';
     private $ActDate = '20170831';
     private $IndexOld = '';

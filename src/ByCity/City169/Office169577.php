@@ -27,13 +27,13 @@ final class Office169577 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 169577;
-    private $OPSName = 'ЛЕМТЫ';
+    private $OPSName = 'Лемты';
     private $OPSType = 'О';
     private $OPSSubm = 169509;
-    private $Region = 'КОМИ РЕСПУБЛИКА';
+    private $Region = 'Коми Республика';
     private $Autonom = '';
-    private $Area = 'ВУКТЫЛЬСКИЙ РАЙОН';
-    private $City = 'ЛЕМТЫ';
+    private $Area = 'Вуктыльский район';
+    private $City = 'Лемты';
     private $City1 = '';
     private $ActDate = '20051114';
     private $IndexOld = '';

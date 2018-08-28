@@ -27,13 +27,13 @@ final class Office606830 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 606830;
-    private $OPSName = 'БОЛЬШОЕ НЕПРЯХИНО ППС';
-    private $OPSType = 'ППС';
+    private $OPSName = 'Большое Непряхино Ппс';
+    private $OPSType = 'Ппс';
     private $OPSSubm = 606839;
-    private $Region = 'НИЖЕГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Нижегородская область';
     private $Autonom = '';
-    private $Area = 'УРЕНСКИЙ РАЙОН';
-    private $City = 'БОЛЬШОЕ НЕПРЯХИНО';
+    private $Area = 'Уренский район';
+    private $City = 'Большое Непряхино';
     private $City1 = '';
     private $ActDate = '20170711';
     private $IndexOld = '';

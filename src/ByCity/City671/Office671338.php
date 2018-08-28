@@ -27,13 +27,13 @@ final class Office671338 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 671338;
-    private $OPSName = 'ЗАИГРАЕВО-ПОПС 3';
-    private $OPSType = 'ПЕРЕДВИЖНОЕ ОС';
+    private $OPSName = 'Заиграево-Попс 3';
+    private $OPSType = 'Передвижное Ос';
     private $OPSSubm = 670999;
-    private $Region = 'БУРЯТИЯ РЕСПУБЛИКА';
+    private $Region = 'Бурятия Республика';
     private $Autonom = '';
-    private $Area = 'ЗАИГРАЕВСКИЙ РАЙОН';
-    private $City = 'ЗАИГРАЕВО';
+    private $Area = 'Заиграевский район';
+    private $City = 'Заиграево';
     private $City1 = '';
     private $ActDate = '20040705';
     private $IndexOld = '';

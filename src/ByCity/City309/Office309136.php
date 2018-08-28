@@ -27,13 +27,13 @@ final class Office309136 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 309136;
-    private $OPSName = 'СЫРЦЕВО';
+    private $OPSName = 'Сырцево';
     private $OPSType = 'О';
     private $OPSSubm = 309099;
-    private $Region = 'БЕЛГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Белгородская область';
     private $Autonom = '';
-    private $Area = 'ИВНЯНСКИЙ РАЙОН';
-    private $City = 'СЫРЦЕВО';
+    private $Area = 'Ивнянский район';
+    private $City = 'Сырцево';
     private $City1 = '';
     private $ActDate = '20050913';
     private $IndexOld = '';

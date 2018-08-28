@@ -27,13 +27,13 @@ final class Office689409 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 689409;
-    private $OPSName = 'ПЕВЕК УООП';
+    private $OPSName = 'Певек Уооп';
     private $OPSType = 'Участок';
     private $OPSSubm = 689700;
     private $Region = '';
-    private $Autonom = 'ЧУКОТСКИЙ АВТОНОМНЫЙ ОКРУГ';
-    private $Area = 'ЧАУНСКИЙ РАЙОН';
-    private $City = 'ПЕВЕК';
+    private $Autonom = 'Чукотский автономный округ';
+    private $Area = 'Чаунский район';
+    private $City = 'Певек';
     private $City1 = '';
     private $ActDate = '20160512';
     private $IndexOld = '';

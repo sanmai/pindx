@@ -27,13 +27,13 @@ final class Office162724 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 162724;
-    private $OPSName = 'БОЛЬШАЯ ЯГНИЦА';
+    private $OPSName = 'Большая Ягница';
     private $OPSType = 'О';
     private $OPSSubm = 162600;
-    private $Region = 'ВОЛОГОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Вологодская область';
     private $Autonom = '';
-    private $Area = 'ЧЕРЕПОВЕЦКИЙ РАЙОН';
-    private $City = 'БОЛЬШАЯ ЯГНИЦА';
+    private $Area = 'Череповецкий район';
+    private $City = 'Большая Ягница';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office658926 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 658926;
-    private $OPSName = 'КУЛУНДА КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Кулунда Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 658929;
-    private $Region = 'АЛТАЙСКИЙ КРАЙ';
+    private $Region = 'Алтайский край';
     private $Autonom = '';
-    private $Area = 'КУЛУНДИНСКИЙ РАЙОН';
-    private $City = 'КУЛУНДА';
+    private $Area = 'Кулундинский район';
+    private $City = 'Кулунда';
     private $City1 = '';
     private $ActDate = '20180117';
     private $IndexOld = '';

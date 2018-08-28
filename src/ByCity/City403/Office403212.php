@@ -27,13 +27,13 @@ final class Office403212 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 403212;
-    private $OPSName = 'МОРДВИНЦЕВО';
+    private $OPSName = 'Мордвинцево';
     private $OPSType = 'О';
     private $OPSSubm = 403950;
-    private $Region = 'ВОЛГОГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Волгоградская область';
     private $Autonom = '';
-    private $Area = 'КИКВИДЗЕНСКИЙ РАЙОН';
-    private $City = 'МОРДВИНЦЕВО';
+    private $Area = 'Киквидзенский район';
+    private $City = 'Мордвинцево';
     private $City1 = '';
     private $ActDate = '20070411';
     private $IndexOld = '';

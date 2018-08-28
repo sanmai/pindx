@@ -27,13 +27,13 @@ final class Office462222 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 462222;
-    private $OPSName = 'ЧУРАЕВО';
+    private $OPSName = 'Чураево';
     private $OPSType = 'О';
     private $OPSSubm = 462240;
-    private $Region = 'ОРЕНБУРГСКАЯ ОБЛАСТЬ';
+    private $Region = 'Оренбургская область';
     private $Autonom = '';
-    private $Area = 'КУВАНДЫКСКИЙ РАЙОН';
-    private $City = 'БОЛЬШОЕ ЧУРАЕВО';
+    private $Area = 'Кувандыкский район';
+    private $City = 'Большое Чураево';
     private $City1 = '';
     private $ActDate = '20170707';
     private $IndexOld = '';

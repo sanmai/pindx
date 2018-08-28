@@ -27,13 +27,13 @@ final class Office433822 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 433822;
-    private $OPSName = 'ТЕЛЯТНИКОВО';
+    private $OPSName = 'Телятниково';
     private $OPSType = 'О';
     private $OPSSubm = 433849;
-    private $Region = 'УЛЬЯНОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ульяновская область';
     private $Autonom = '';
-    private $Area = 'НИКОЛАЕВСКИЙ РАЙОН';
-    private $City = 'ТЕЛЯТНИКОВО';
+    private $Area = 'Николаевский район';
+    private $City = 'Телятниково';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office357290 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 357290;
-    private $OPSName = 'МИНЕРАЛЬНЫЕ ВОДЫ УКД';
-    private $OPSType = 'УКД';
+    private $OPSName = 'Минеральные Воды Укд';
+    private $OPSType = 'Укд';
     private $OPSSubm = 355700;
-    private $Region = 'СТАВРОПОЛЬСКИЙ КРАЙ';
+    private $Region = 'Ставропольский край';
     private $Autonom = '';
-    private $Area = 'МИНЕРАЛОВОДСКИЙ РАЙОН';
-    private $City = 'МИНЕРАЛЬНЫЕ ВОДЫ';
+    private $Area = 'Минераловодский район';
+    private $City = 'Минеральные Воды';
     private $City1 = '';
     private $ActDate = '20170523';
     private $IndexOld = '';

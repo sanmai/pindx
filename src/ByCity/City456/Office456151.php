@@ -27,14 +27,14 @@ final class Office456151 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 456151;
-    private $OPSName = 'МУХАМЕТОВО';
+    private $OPSName = 'Мухаметово';
     private $OPSType = 'О';
     private $OPSSubm = 456329;
-    private $Region = 'ЧЕЛЯБИНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Челябинская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'КАРАБАШ';
-    private $City1 = 'МУХАМЕТОВО';
+    private $City = 'Карабаш';
+    private $City1 = 'Мухаметово';
     private $ActDate = '20021223';
     private $IndexOld = '';
 }

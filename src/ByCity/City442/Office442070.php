@@ -27,13 +27,13 @@ final class Office442070 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 442070;
-    private $OPSName = 'НОВОЗНАМЕНСКИЙ';
+    private $OPSName = 'Новознаменский';
     private $OPSType = 'О';
     private $OPSSubm = 442289;
-    private $Region = 'ПЕНЗЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Пензенская область';
     private $Autonom = '';
-    private $Area = 'БАШМАКОВСКИЙ РАЙОН';
-    private $City = 'НОВОЗНАМЕНСКИЙ';
+    private $Area = 'Башмаковский район';
+    private $City = 'Новознаменский';
     private $City1 = '';
     private $ActDate = '20060901';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office679110 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 679110;
-    private $OPSName = 'ТЕПЛООЗЕРСК';
+    private $OPSName = 'Теплоозерск';
     private $OPSType = 'О';
     private $OPSSubm = 679700;
     private $Region = '';
-    private $Autonom = 'ЕВРЕЙСКАЯ АВТОНОМНАЯ ОБЛАСТЬ';
-    private $Area = 'ОБЛУЧЕНСКИЙ РАЙОН';
-    private $City = 'ТЕПЛООЗЕРСК';
+    private $Autonom = 'Еврейская автономная область';
+    private $Area = 'Облученский район';
+    private $City = 'Теплоозерск';
     private $City1 = '';
     private $ActDate = '20060517';
     private $IndexOld = '';

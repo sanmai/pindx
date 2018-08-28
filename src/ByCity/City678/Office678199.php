@@ -27,13 +27,13 @@ final class Office678199 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 678199;
-    private $OPSName = 'МИРНЫЙ ММПО';
-    private $OPSType = 'ММПО';
+    private $OPSName = 'Мирный Ммпо';
+    private $OPSType = 'Ммпо';
     private $OPSSubm = 678170;
-    private $Region = 'САХА (ЯКУТИЯ) РЕСПУБЛИКА';
+    private $Region = 'Саха (Якутия) Республика';
     private $Autonom = '';
-    private $Area = 'МИРНИНСКИЙ РАЙОН';
-    private $City = 'МИРНЫЙ';
+    private $Area = 'Мирнинский район';
+    private $City = 'Мирный';
     private $City1 = '';
     private $ActDate = '20180702';
     private $IndexOld = '';

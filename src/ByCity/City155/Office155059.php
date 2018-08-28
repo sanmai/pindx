@@ -27,13 +27,13 @@ final class Office155059 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 155059;
-    private $OPSName = 'ТЕЙКОВО ПОЧТАМТ';
+    private $OPSName = 'Тейково Почтамт';
     private $OPSType = 'П';
     private $OPSSubm = 153700;
-    private $Region = 'ИВАНОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ивановская область';
     private $Autonom = '';
-    private $Area = 'ТЕЙКОВСКИЙ РАЙОН';
-    private $City = 'ТЕЙКОВО';
+    private $Area = 'Тейковский район';
+    private $City = 'Тейково';
     private $City1 = '';
     private $ActDate = '20080123';
     private $IndexOld = '';

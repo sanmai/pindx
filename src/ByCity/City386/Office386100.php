@@ -27,13 +27,13 @@ final class Office386100 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 386100;
-    private $OPSName = 'НАЗРАНЬ ПОЧТАМТ';
+    private $OPSName = 'Назрань Почтамт';
     private $OPSType = 'П';
     private $OPSSubm = 386700;
-    private $Region = 'ИНГУШЕТИЯ РЕСПУБЛИКА';
+    private $Region = 'Ингушетия Республика';
     private $Autonom = '';
-    private $Area = 'НАЗРАНОВСКИЙ РАЙОН';
-    private $City = 'НАЗРАНЬ';
+    private $Area = 'Назрановский район';
+    private $City = 'Назрань';
     private $City1 = '';
     private $ActDate = '20120621';
     private $IndexOld = '';

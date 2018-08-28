@@ -27,13 +27,13 @@ final class Office452017 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 452017;
-    private $OPSName = 'ПРИЮТОВО';
+    private $OPSName = 'Приютово';
     private $OPSType = 'О';
     private $OPSSubm = 452039;
-    private $Region = 'БАШКОРТОСТАН РЕСПУБЛИКА';
+    private $Region = 'Башкортостан Республика';
     private $Autonom = '';
-    private $Area = 'БЕЛЕБЕЕВСКИЙ РАЙОН';
-    private $City = 'ПРИЮТОВО';
+    private $Area = 'Белебеевский район';
+    private $City = 'Приютово';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

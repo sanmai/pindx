@@ -27,13 +27,13 @@ final class Office456924 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 456924;
-    private $OPSName = 'САТКА 24';
-    private $OPSType = 'ПЕРЕДВИЖНОЕ ОС';
+    private $OPSName = 'Сатка 24';
+    private $OPSType = 'Передвижное Ос';
     private $OPSSubm = 456299;
-    private $Region = 'ЧЕЛЯБИНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Челябинская область';
     private $Autonom = '';
-    private $Area = 'САТКИНСКИЙ РАЙОН';
-    private $City = 'САТКА';
+    private $Area = 'Саткинский район';
+    private $City = 'Сатка';
     private $City1 = '';
     private $ActDate = '20180813';
     private $IndexOld = '';

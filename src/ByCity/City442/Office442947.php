@@ -27,13 +27,13 @@ final class Office442947 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 442947;
-    private $OPSName = 'МАЧА-РОДНИКИ';
+    private $OPSName = 'Мача-Родники';
     private $OPSType = 'О';
     private $OPSSubm = 442899;
-    private $Region = 'ПЕНЗЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Пензенская область';
     private $Autonom = '';
-    private $Area = 'БЕКОВСКИЙ РАЙОН';
-    private $City = 'МАЧА-РОДНИКИ';
+    private $Area = 'Бековский район';
+    private $City = 'Мача-Родники';
     private $City1 = '';
     private $ActDate = '20060626';
     private $IndexOld = '';

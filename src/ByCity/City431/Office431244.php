@@ -27,13 +27,13 @@ final class Office431244 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 431244;
-    private $OPSName = 'БАБЕЕВО';
+    private $OPSName = 'Бабеево';
     private $OPSType = 'О';
     private $OPSSubm = 431259;
-    private $Region = 'МОРДОВИЯ РЕСПУБЛИКА';
+    private $Region = 'Мордовия Республика';
     private $Autonom = '';
-    private $Area = 'ТЕМНИКОВСКИЙ РАЙОН';
-    private $City = 'БАБЕЕВО';
+    private $Area = 'Темниковский район';
+    private $City = 'Бабеево';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

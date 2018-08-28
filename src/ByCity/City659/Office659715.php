@@ -27,13 +27,13 @@ final class Office659715 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 659715;
-    private $OPSName = 'КАЛМЫЦКИЕ МЫСЫ';
+    private $OPSName = 'Калмыцкие Мысы';
     private $OPSType = 'О';
     private $OPSSubm = 659719;
-    private $Region = 'АЛТАЙСКИЙ КРАЙ';
+    private $Region = 'Алтайский край';
     private $Autonom = '';
-    private $Area = 'ПОСПЕЛИХИНСКИЙ РАЙОН';
-    private $City = 'КАЛМЫЦКИЕ МЫСЫ';
+    private $Area = 'Поспелихинский район';
+    private $City = 'Калмыцкие Мысы';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office249054 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 249054;
-    private $OPSName = 'САНАТОРИЙ ВОРОБЬЕВО';
+    private $OPSName = 'Санаторий Воробьево';
     private $OPSType = 'О';
     private $OPSSubm = 249030;
-    private $Region = 'КАЛУЖСКАЯ ОБЛАСТЬ';
+    private $Region = 'Калужская область';
     private $Autonom = '';
-    private $Area = 'МАЛОЯРОСЛАВЕЦКИЙ РАЙОН';
-    private $City = 'САНАТОРИЙ ВОРОБЬЕВО';
+    private $Area = 'Малоярославецкий район';
+    private $City = 'Санаторий Воробьево';
     private $City1 = '';
     private $ActDate = '20110328';
     private $IndexOld = '';

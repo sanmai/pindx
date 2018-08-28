@@ -27,13 +27,13 @@ final class Office425200 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 425200;
-    private $OPSName = 'МЕДВЕДЕВО';
+    private $OPSName = 'Медведево';
     private $OPSType = 'О';
     private $OPSSubm = 425239;
-    private $Region = 'МАРИЙ ЭЛ РЕСПУБЛИКА';
+    private $Region = 'Марий Эл Республика';
     private $Autonom = '';
-    private $Area = 'МЕДВЕДЕВСКИЙ РАЙОН';
-    private $City = 'МЕДВЕДЕВО';
+    private $Area = 'Медведевский район';
+    private $City = 'Медведево';
     private $City1 = '';
     private $ActDate = '20061110';
     private $IndexOld = '';

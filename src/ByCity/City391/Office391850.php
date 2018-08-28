@@ -27,13 +27,13 @@ final class Office391850 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 391850;
-    private $OPSName = 'ЖЕЛТУХИНО-ВОКЗАЛ';
+    private $OPSName = 'Желтухино-Вокзал';
     private $OPSType = 'О';
     private $OPSSubm = 391859;
-    private $Region = 'РЯЗАНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Рязанская область';
     private $Autonom = '';
-    private $Area = 'СКОПИНСКИЙ РАЙОН';
-    private $City = 'СВХ ЖЕЛТУХИНО';
+    private $Area = 'Скопинский район';
+    private $City = 'Свх Желтухино';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

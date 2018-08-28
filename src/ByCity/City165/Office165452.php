@@ -27,13 +27,13 @@ final class Office165452 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 165452;
-    private $OPSName = 'ВЕРХНЕЕ ШИЛОВО';
+    private $OPSName = 'Верхнее Шилово';
     private $OPSType = 'О';
     private $OPSSubm = 165399;
-    private $Region = 'АРХАНГЕЛЬСКАЯ ОБЛАСТЬ';
+    private $Region = 'Архангельская область';
     private $Autonom = '';
-    private $Area = 'КРАСНОБОРСКИЙ РАЙОН';
-    private $City = 'ВЕРХНЕЕ ШИЛОВО';
+    private $Area = 'Красноборский район';
+    private $City = 'Верхнее Шилово';
     private $City1 = '';
     private $ActDate = '20101124';
     private $IndexOld = '';

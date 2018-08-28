@@ -27,13 +27,13 @@ final class Office623997 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 623997;
-    private $OPSName = 'УНЖЕ-ПАВИНСКАЯ';
+    private $OPSName = 'Унже-Павинская';
     private $OPSType = 'О';
     private $OPSSubm = 623869;
-    private $Region = 'СВЕРДЛОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Свердловская область';
     private $Autonom = '';
-    private $Area = 'ТАБОРИНСКИЙ РАЙОН';
-    private $City = 'УНЖЕ-ПАВИНСКАЯ';
+    private $Area = 'Таборинский район';
+    private $City = 'Унже-Павинская';
     private $City1 = '';
     private $ActDate = '20110131';
     private $IndexOld = '';

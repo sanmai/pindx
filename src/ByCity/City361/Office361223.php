@@ -27,13 +27,13 @@ final class Office361223 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 361223;
-    private $OPSName = 'ТАМБОВСКОЕ';
+    private $OPSName = 'Тамбовское';
     private $OPSType = 'О';
     private $OPSSubm = 361200;
-    private $Region = 'КАБАРДИНО-БАЛКАРСКАЯ РЕСПУБЛИКА';
+    private $Region = 'Кабардино-Балкарская Республика';
     private $Autonom = '';
-    private $Area = 'ТЕРСКИЙ РАЙОН';
-    private $City = 'ТАМБОВСКОЕ';
+    private $Area = 'Терский район';
+    private $City = 'Тамбовское';
     private $City1 = '';
     private $ActDate = '20010105';
     private $IndexOld = '';

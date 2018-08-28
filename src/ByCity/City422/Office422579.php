@@ -27,13 +27,13 @@ final class Office422579 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 422579;
-    private $OPSName = 'ТАТАРСКОЕ БУРНАШЕВО';
+    private $OPSName = 'Татарское Бурнашево';
     private $OPSType = 'О';
     private $OPSSubm = 422559;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'ВЕРХНЕУСЛОНСКИЙ РАЙОН';
-    private $City = 'ТАТАРСКОЕ БУРНАШЕВО';
+    private $Area = 'Верхнеуслонский район';
+    private $City = 'Татарское Бурнашево';
     private $City1 = '';
     private $ActDate = '20020927';
     private $IndexOld = '';

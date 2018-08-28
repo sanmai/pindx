@@ -27,13 +27,13 @@ final class Office346014 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 346014;
-    private $OPSName = 'СЕМЕНО-КАМЫШЕНСКАЯ';
+    private $OPSName = 'Семено-Камышенская';
     private $OPSType = 'О';
     private $OPSSubm = 346139;
-    private $Region = 'РОСТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ростовская область';
     private $Autonom = '';
-    private $Area = 'ЧЕРТКОВСКИЙ РАЙОН';
-    private $City = 'СЕМЕНО-КАМЫШИНСКАЯ';
+    private $Area = 'Чертковский район';
+    private $City = 'Семено-Камышинская';
     private $City1 = '';
     private $ActDate = '20070214';
     private $IndexOld = '';

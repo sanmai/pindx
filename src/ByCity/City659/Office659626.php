@@ -27,13 +27,13 @@ final class Office659626 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 659626;
-    private $OPSName = 'СМОЛЕНСКОЕ КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Смоленское Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 659629;
-    private $Region = 'АЛТАЙСКИЙ КРАЙ';
+    private $Region = 'Алтайский край';
     private $Autonom = '';
-    private $Area = 'СМОЛЕНСКИЙ РАЙОН';
-    private $City = 'СМОЛЕНСКОЕ';
+    private $Area = 'Смоленский район';
+    private $City = 'Смоленское';
     private $City1 = '';
     private $ActDate = '20180117';
     private $IndexOld = '';

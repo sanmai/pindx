@@ -27,13 +27,13 @@ final class Office694550 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 694550;
-    private $OPSName = 'СЕВЕРО-КУРИЛЬСК';
+    private $OPSName = 'Северо-Курильск';
     private $OPSType = 'О';
     private $OPSSubm = 683000;
-    private $Region = 'САХАЛИНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Сахалинская область';
     private $Autonom = '';
-    private $Area = 'СЕВЕРО-КУРИЛЬСКИЙ РАЙОН';
-    private $City = 'СЕВЕРО-КУРИЛЬСК';
+    private $Area = 'Северо-Курильский район';
+    private $City = 'Северо-Курильск';
     private $City1 = '';
     private $ActDate = '20110630';
     private $IndexOld = '';

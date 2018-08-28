@@ -27,13 +27,13 @@ final class Office303900 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 303900;
-    private $OPSName = 'НАРЫШКИНО';
+    private $OPSName = 'Нарышкино';
     private $OPSType = 'О';
     private $OPSSubm = 303919;
-    private $Region = 'ОРЛОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Орловская область';
     private $Autonom = '';
-    private $Area = 'УРИЦКИЙ РАЙОН';
-    private $City = 'НАРЫШКИНО';
+    private $Area = 'Урицкий район';
+    private $City = 'Нарышкино';
     private $City1 = '';
     private $ActDate = '20070816';
     private $IndexOld = '';

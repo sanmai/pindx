@@ -27,13 +27,13 @@ final class Office397561 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 397561;
-    private $OPSName = 'НИЖНИЙ БЫК';
+    private $OPSName = 'Нижний Бык';
     private $OPSType = 'О';
     private $OPSSubm = 397659;
-    private $Region = 'ВОРОНЕЖСКАЯ ОБЛАСТЬ';
+    private $Region = 'Воронежская область';
     private $Autonom = '';
-    private $Area = 'ВОРОБЬЕВСКИЙ РАЙОН';
-    private $City = 'НИЖНИЙ БЫК';
+    private $Area = 'Воробьевский район';
+    private $City = 'Нижний Бык';
     private $City1 = '';
     private $ActDate = '20111004';
     private $IndexOld = '';

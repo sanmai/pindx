@@ -27,13 +27,13 @@ final class Office433649 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 433649;
-    private $OPSName = 'НОВЫЕ ТИМЕРСЯНЫ';
+    private $OPSName = 'Новые Тимерсяны';
     private $OPSType = 'О';
     private $OPSSubm = 433639;
-    private $Region = 'УЛЬЯНОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ульяновская область';
     private $Autonom = '';
-    private $Area = 'ЦИЛЬНИНСКИЙ РАЙОН';
-    private $City = 'НОВЫЕ ТИМЕРСЯНЫ';
+    private $Area = 'Цильнинский район';
+    private $City = 'Новые Тимерсяны';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

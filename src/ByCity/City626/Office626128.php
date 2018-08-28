@@ -27,14 +27,14 @@ final class Office626128 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 626128;
-    private $OPSName = 'МЕНДЕЛЕЕВО';
+    private $OPSName = 'Менделеево';
     private $OPSType = 'О';
     private $OPSSubm = 626151;
-    private $Region = 'ТЮМЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тюменская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'ТОБОЛЬСК';
-    private $City1 = 'МЕНДЕЛЕЕВО';
+    private $City = 'Тобольск';
+    private $City1 = 'Менделеево';
     private $ActDate = '20180813';
     private $IndexOld = '';
 }

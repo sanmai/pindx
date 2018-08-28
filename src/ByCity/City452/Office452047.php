@@ -27,13 +27,13 @@ final class Office452047 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 452047;
-    private $OPSName = 'МАЛЫЙ СЕДЯК';
+    private $OPSName = 'Малый Седяк';
     private $OPSType = 'О';
     private $OPSSubm = 452039;
-    private $Region = 'БАШКОРТОСТАН РЕСПУБЛИКА';
+    private $Region = 'Башкортостан Республика';
     private $Autonom = '';
-    private $Area = 'БИЖБУЛЯКСКИЙ РАЙОН';
-    private $City = 'МАЛЫЙ СЕДЯК';
+    private $Area = 'Бижбулякский район';
+    private $City = 'Малый Седяк';
     private $City1 = '';
     private $ActDate = '20060913';
     private $IndexOld = '';

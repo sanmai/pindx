@@ -27,13 +27,13 @@ final class Office613468 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 613468;
-    private $OPSName = 'ХМЕЛЕВКА';
+    private $OPSName = 'Хмелевка';
     private $OPSType = 'О';
     private $OPSSubm = 613459;
-    private $Region = 'КИРОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Кировская область';
     private $Autonom = '';
-    private $Area = 'НОЛИНСКИЙ РАЙОН';
-    private $City = 'ХМЕЛЕВКА';
+    private $Area = 'Нолинский район';
+    private $City = 'Хмелевка';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

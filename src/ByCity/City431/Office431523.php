@@ -27,13 +27,13 @@ final class Office431523 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 431523;
-    private $OPSName = 'ТАТАРСКАЯ СВЕРБЕЙКА';
+    private $OPSName = 'Татарская Свербейка';
     private $OPSType = 'О';
     private $OPSSubm = 431539;
-    private $Region = 'МОРДОВИЯ РЕСПУБЛИКА';
+    private $Region = 'Мордовия Республика';
     private $Autonom = '';
-    private $Area = 'ЛЯМБИРСКИЙ РАЙОН';
-    private $City = 'ТАТАРСКАЯ СВЕРБЕЙКА';
+    private $Area = 'Лямбирский район';
+    private $City = 'Татарская Свербейка';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

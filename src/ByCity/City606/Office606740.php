@@ -27,13 +27,13 @@ final class Office606740 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 606740;
-    private $OPSName = 'ГЛУХОВО';
+    private $OPSName = 'Глухово';
     private $OPSType = 'О';
     private $OPSSubm = 606669;
-    private $Region = 'НИЖЕГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Нижегородская область';
     private $Autonom = '';
-    private $Area = 'ВОСКРЕСЕНСКИЙ РАЙОН';
-    private $City = 'ГЛУХОВО';
+    private $Area = 'Воскресенский район';
+    private $City = 'Глухово';
     private $City1 = '';
     private $ActDate = '20110217';
     private $IndexOld = '';

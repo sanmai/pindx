@@ -27,13 +27,13 @@ final class Office646698 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 646698;
-    private $OPSName = 'ПОЧЕКУЕВО';
+    private $OPSName = 'Почекуево';
     private $OPSType = 'О';
     private $OPSSubm = 646539;
-    private $Region = 'ОМСКАЯ ОБЛАСТЬ';
+    private $Region = 'Омская область';
     private $Autonom = '';
-    private $Area = 'БОЛЬШЕРЕЧЕНСКИЙ РАЙОН';
-    private $City = 'ПОЧЕКУЕВО';
+    private $Area = 'Большереченский район';
+    private $City = 'Почекуево';
     private $City1 = '';
     private $ActDate = '20070420';
     private $IndexOld = '';

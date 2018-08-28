@@ -27,13 +27,13 @@ final class Office369151 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 369151;
-    private $OPSName = 'НИЖНЯЯ ЕРМОЛОВКА';
+    private $OPSName = 'Нижняя Ермоловка';
     private $OPSType = 'О';
     private $OPSSubm = 369179;
-    private $Region = 'КАРАЧАЕВО-ЧЕРКЕССКАЯ РЕСПУБЛИКА';
+    private $Region = 'Карачаево-Черкесская Республика';
     private $Autonom = '';
-    private $Area = 'ЗЕЛЕНЧУКСКИЙ РАЙОН';
-    private $City = 'НИЖНЯЯ ЕРМОЛОВКА';
+    private $Area = 'Зеленчукский район';
+    private $City = 'Нижняя Ермоловка';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

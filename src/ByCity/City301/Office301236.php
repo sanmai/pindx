@@ -27,13 +27,13 @@ final class Office301236 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 301236;
-    private $OPSName = 'ЖЕРДЕВО';
+    private $OPSName = 'Жердево';
     private $OPSType = 'О';
     private $OPSSubm = 301259;
-    private $Region = 'ТУЛЬСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тульская область';
     private $Autonom = '';
-    private $Area = 'ЩЕКИНСКИЙ РАЙОН';
-    private $City = 'ЖЕРДЕВО';
+    private $Area = 'Щекинский район';
+    private $City = 'Жердево';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

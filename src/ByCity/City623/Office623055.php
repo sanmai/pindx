@@ -27,13 +27,13 @@ final class Office623055 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 623055;
-    private $OPSName = 'НАКОРЯКОВО';
+    private $OPSName = 'Накоряково';
     private $OPSType = 'О';
     private $OPSSubm = 623309;
-    private $Region = 'СВЕРДЛОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Свердловская область';
     private $Autonom = '';
-    private $Area = 'НИЖНЕСЕРГИНСКИЙ РАЙОН';
-    private $City = 'НАКОРЯКОВО';
+    private $Area = 'Нижнесергинский район';
+    private $City = 'Накоряково';
     private $City1 = '';
     private $ActDate = '20110427';
     private $IndexOld = '';

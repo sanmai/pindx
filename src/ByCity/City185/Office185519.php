@@ -27,13 +27,13 @@ final class Office185519 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 185519;
-    private $OPSName = 'ЛАДВА-ВЕТКА';
+    private $OPSName = 'Ладва-Ветка';
     private $OPSType = 'О';
     private $OPSSubm = 185000;
-    private $Region = 'КАРЕЛИЯ РЕСПУБЛИКА';
+    private $Region = 'Карелия Республика';
     private $Autonom = '';
-    private $Area = 'ПРИОНЕЖСКИЙ РАЙОН';
-    private $City = 'ЛАДВА-ВЕТКА';
+    private $Area = 'Прионежский район';
+    private $City = 'Ладва-Ветка';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office442340 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 442340;
-    private $OPSName = 'НОВЫЕ ЗАБАЛКИ';
+    private $OPSName = 'Новые Забалки';
     private $OPSType = 'О';
     private $OPSSubm = 442699;
-    private $Region = 'ПЕНЗЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Пензенская область';
     private $Autonom = '';
-    private $Area = 'ГОРОДИЩЕНСКИЙ РАЙОН';
-    private $City = 'НОВЫЕ ЗАБАЛКИ';
+    private $Area = 'Городищенский район';
+    private $City = 'Новые Забалки';
     private $City1 = '';
     private $ActDate = '20060626';
     private $IndexOld = '';

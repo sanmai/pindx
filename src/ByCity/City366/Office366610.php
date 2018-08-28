@@ -27,14 +27,14 @@ final class Office366610 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 366610;
-    private $OPSName = 'БАМУТ';
+    private $OPSName = 'Бамут';
     private $OPSType = 'О';
     private $OPSSubm = 366500;
-    private $Region = 'ЧЕЧЕНСКАЯ РЕСПУБЛИКА';
+    private $Region = 'Чеченская Республика';
     private $Autonom = '';
-    private $Area = 'УРУС-МАРТАНОВСКИЙ РАЙОН';
-    private $City = 'АЧХОЙ-МАРТАН';
-    private $City1 = 'БАМУТ';
+    private $Area = 'Урус-Мартановский район';
+    private $City = 'Ачхой-Мартан';
+    private $City1 = 'Бамут';
     private $ActDate = '20101220';
     private $IndexOld = '';
 }

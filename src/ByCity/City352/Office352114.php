@@ -27,13 +27,13 @@ final class Office352114 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 352114;
-    private $OPSName = 'ЕРЕМИЗИНО-БОРИСОВСКАЯ';
+    private $OPSName = 'Еремизино-Борисовская';
     private $OPSType = 'О';
     private $OPSSubm = 352139;
-    private $Region = 'КРАСНОДАРСКИЙ КРАЙ';
+    private $Region = 'Краснодарский край';
     private $Autonom = '';
-    private $Area = 'ТИХОРЕЦКИЙ РАЙОН';
-    private $City = 'ЕРЕМИЗИНО-БОРИСОВСКАЯ';
+    private $Area = 'Тихорецкий район';
+    private $City = 'Еремизино-Борисовская';
     private $City1 = '';
     private $ActDate = '20180813';
     private $IndexOld = '';

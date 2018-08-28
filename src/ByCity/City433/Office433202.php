@@ -27,13 +27,13 @@ final class Office433202 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 433202;
-    private $OPSName = 'ТЕНЬКОВКА';
+    private $OPSName = 'Теньковка';
     private $OPSType = 'О';
     private $OPSSubm = 433239;
-    private $Region = 'УЛЬЯНОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ульяновская область';
     private $Autonom = '';
-    private $Area = 'КАРСУНСКИЙ РАЙОН';
-    private $City = 'ТЕНЬКОВКА';
+    private $Area = 'Карсунский район';
+    private $City = 'Теньковка';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

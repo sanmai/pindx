@@ -27,13 +27,13 @@ final class Office423023 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 423023;
-    private $OPSName = 'ТЮРНЯСЕВСКИЙ СОВХОЗ';
+    private $OPSName = 'Тюрнясевский Совхоз';
     private $OPSType = 'О';
     private $OPSSubm = 423049;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'НУРЛАТСКИЙ РАЙОН';
-    private $City = 'ТЮРНЯСЕВО';
+    private $Area = 'Нурлатский район';
+    private $City = 'Тюрнясево';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

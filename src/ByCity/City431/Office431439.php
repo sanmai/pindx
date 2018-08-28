@@ -27,13 +27,13 @@ final class Office431439 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 431439;
-    private $OPSName = 'НИЖНЯЯ ВЯЗЕРА';
+    private $OPSName = 'Нижняя Вязера';
     private $OPSType = 'О';
     private $OPSSubm = 431499;
-    private $Region = 'МОРДОВИЯ РЕСПУБЛИКА';
+    private $Region = 'Мордовия Республика';
     private $Autonom = '';
-    private $Area = 'ИНСАРСКИЙ РАЙОН';
-    private $City = 'НИЖНЯЯ ВЯЗЕРА';
+    private $Area = 'Инсарский район';
+    private $City = 'Нижняя Вязера';
     private $City1 = '';
     private $ActDate = '20110121';
     private $IndexOld = '';

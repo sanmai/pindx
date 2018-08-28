@@ -27,13 +27,13 @@ final class Office423182 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 423182;
-    private $OPSName = 'СЛОБОДА-АРХАНГЕЛЬСКАЯ';
+    private $OPSName = 'Слобода-Архангельская';
     private $OPSType = 'О';
     private $OPSSubm = 422999;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'НОВОШЕШМИНСКИЙ РАЙОН';
-    private $City = 'СЛОБОДА АРХАНГЕЛЬСКАЯ';
+    private $Area = 'Новошешминский район';
+    private $City = 'Слобода Архангельская';
     private $City1 = '';
     private $ActDate = '20020927';
     private $IndexOld = '';

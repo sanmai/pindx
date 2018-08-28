@@ -27,13 +27,13 @@ final class Office462722 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 462722;
-    private $OPSName = 'ГОЛУБОЙ ФАКЕЛ';
+    private $OPSName = 'Голубой Факел';
     private $OPSType = 'О';
     private $OPSSubm = 462400;
-    private $Region = 'ОРЕНБУРГСКАЯ ОБЛАСТЬ';
+    private $Region = 'Оренбургская область';
     private $Autonom = '';
-    private $Area = 'ДОМБАРОВСКИЙ РАЙОН';
-    private $City = 'ГОЛУБОЙ ФАКЕЛ';
+    private $Area = 'Домбаровский район';
+    private $City = 'Голубой Факел';
     private $City1 = '';
     private $ActDate = '20060712';
     private $IndexOld = '';

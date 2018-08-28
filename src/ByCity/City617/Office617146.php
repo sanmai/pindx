@@ -27,13 +27,13 @@ final class Office617146 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 617146;
-    private $OPSName = 'СПЕШКОВО';
+    private $OPSName = 'Спешково';
     private $OPSType = 'О';
     private $OPSSubm = 617119;
-    private $Region = 'ПЕРМСКИЙ КРАЙ';
+    private $Region = 'Пермский край';
     private $Autonom = '';
-    private $Area = 'ОЧЕРСКИЙ РАЙОН';
-    private $City = 'СПЕШКОВО';
+    private $Area = 'Очерский район';
+    private $City = 'Спешково';
     private $City1 = '';
     private $ActDate = '20041014';
     private $IndexOld = '';

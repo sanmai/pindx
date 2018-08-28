@@ -27,13 +27,13 @@ final class Office429124 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 429124;
-    private $OPSName = 'ШУМЕРЛЯ 4';
+    private $OPSName = 'Шумерля 4';
     private $OPSType = 'О';
     private $OPSSubm = 429139;
-    private $Region = 'ЧУВАШИЯ РЕСПУБЛИКА';
+    private $Region = 'Чувашия Республика';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'ШУМЕРЛЯ';
+    private $City = 'Шумерля';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office431668 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 431668;
-    private $OPSName = 'КЕМЛЯ КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Кемля Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 431669;
-    private $Region = 'МОРДОВИЯ РЕСПУБЛИКА';
+    private $Region = 'Мордовия Республика';
     private $Autonom = '';
-    private $Area = 'ИЧАЛКОВСКИЙ РАЙОН';
-    private $City = 'КЕМЛЯ';
+    private $Area = 'Ичалковский район';
+    private $City = 'Кемля';
     private $City1 = '';
     private $ActDate = '20170929';
     private $IndexOld = '';

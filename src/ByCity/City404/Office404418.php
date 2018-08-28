@@ -27,13 +27,13 @@ final class Office404418 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 404418;
-    private $OPSName = 'СУРОВИКИНО КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Суровикино Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 404410;
-    private $Region = 'ВОЛГОГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Волгоградская область';
     private $Autonom = '';
-    private $Area = 'СУРОВИКИНСКИЙ РАЙОН';
-    private $City = 'СУРОВИКИНО';
+    private $Area = 'Суровикинский район';
+    private $City = 'Суровикино';
     private $City1 = '';
     private $ActDate = '20171129';
     private $IndexOld = '';

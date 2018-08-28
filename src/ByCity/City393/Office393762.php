@@ -27,14 +27,14 @@ final class Office393762 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 393762;
-    private $OPSName = 'МИЧУРИНСК 2';
+    private $OPSName = 'Мичуринск 2';
     private $OPSType = 'О';
     private $OPSSubm = 393779;
-    private $Region = 'ТАМБОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тамбовская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'МИЧУРИНСК';
-    private $City1 = 'КОЧЕТОВКА';
+    private $City = 'Мичуринск';
+    private $City1 = 'Кочетовка';
     private $ActDate = '20180813';
     private $IndexOld = '';
 }

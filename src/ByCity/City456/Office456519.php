@@ -27,13 +27,13 @@ final class Office456519 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 456519;
-    private $OPSName = 'ДОЛГОДЕРЕВЕНСКОЕ УООП';
+    private $OPSName = 'Долгодеревенское Уооп';
     private $OPSType = 'Участок';
     private $OPSSubm = 454999;
-    private $Region = 'ЧЕЛЯБИНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Челябинская область';
     private $Autonom = '';
-    private $Area = 'СОСНОВСКИЙ РАЙОН';
-    private $City = 'ДОЛГОДЕРЕВЕНСКОЕ';
+    private $Area = 'Сосновский район';
+    private $City = 'Долгодеревенское';
     private $City1 = '';
     private $ActDate = '20161128';
     private $IndexOld = '';

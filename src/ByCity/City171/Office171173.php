@@ -27,13 +27,13 @@ final class Office171173 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 171173;
-    private $OPSName = 'БИРЮЧЕВО';
+    private $OPSName = 'Бирючево';
     private $OPSType = 'О';
     private $OPSSubm = 171150;
-    private $Region = 'ТВЕРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тверская область';
     private $Autonom = '';
-    private $Area = 'СПИРОВСКИЙ РАЙОН';
-    private $City = 'БИРЮЧЕВО';
+    private $Area = 'Спировский район';
+    private $City = 'Бирючево';
     private $City1 = '';
     private $ActDate = '20050907';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office627551 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 627551;
-    private $OPSName = 'БАННИКОВО';
+    private $OPSName = 'Банниково';
     private $OPSType = 'О';
     private $OPSSubm = 627769;
-    private $Region = 'ТЮМЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тюменская область';
     private $Autonom = '';
-    private $Area = 'АБАТСКИЙ РАЙОН';
-    private $City = 'БАННИКОВО';
+    private $Area = 'Абатский район';
+    private $City = 'Банниково';
     private $City1 = '';
     private $ActDate = '20030624';
     private $IndexOld = '';

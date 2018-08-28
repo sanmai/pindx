@@ -27,13 +27,13 @@ final class Office216424 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 216424;
-    private $OPSName = 'ГНЕВКОВО';
+    private $OPSName = 'Гневково';
     private $OPSType = 'О';
     private $OPSSubm = 216569;
-    private $Region = 'СМОЛЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Смоленская область';
     private $Autonom = '';
-    private $Area = 'ШУМЯЧСКИЙ РАЙОН';
-    private $City = 'ГНЕВКОВО';
+    private $Area = 'Шумячский район';
+    private $City = 'Гневково';
     private $City1 = '';
     private $ActDate = '20020430';
     private $IndexOld = '';

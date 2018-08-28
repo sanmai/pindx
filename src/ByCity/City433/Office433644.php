@@ -27,13 +27,13 @@ final class Office433644 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 433644;
-    private $OPSName = 'ВЕРХНИЕ ТИМЕРСЯНЫ';
+    private $OPSName = 'Верхние Тимерсяны';
     private $OPSType = 'О';
     private $OPSSubm = 433639;
-    private $Region = 'УЛЬЯНОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ульяновская область';
     private $Autonom = '';
-    private $Area = 'ЦИЛЬНИНСКИЙ РАЙОН';
-    private $City = 'ВЕРХНИЕ ТИМЕРСЯНЫ';
+    private $Area = 'Цильнинский район';
+    private $City = 'Верхние Тимерсяны';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

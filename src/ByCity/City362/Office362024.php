@@ -27,14 +27,14 @@ final class Office362024 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 362024;
-    private $OPSName = 'ВЛАДИКАВКАЗ 24';
+    private $OPSName = 'Владикавказ 24';
     private $OPSType = 'О';
     private $OPSSubm = 362000;
-    private $Region = 'СЕВЕРНАЯ ОСЕТИЯ - АЛАНИЯ РЕСПУБЛИКА';
+    private $Region = 'Северная Осетия - Алания Республика';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'ВЛАДИКАВКАЗ';
-    private $City1 = 'ПЕРВОМАЙСКОЕ';
+    private $City = 'Владикавказ';
+    private $City1 = 'Первомайское';
     private $ActDate = '20061023';
     private $IndexOld = '';
 }

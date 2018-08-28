@@ -27,13 +27,13 @@ final class Office992101 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 992101;
-    private $OPSName = 'НОВОКУЙБЫШЕВСК-ПОЧТОМАТ (АПС)';
+    private $OPSName = 'Новокуйбышевск-Почтомат (Апс)';
     private $OPSType = 'Почтомат';
     private $OPSSubm = 446218;
-    private $Region = 'САМАРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Самарская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'НОВОКУЙБЫШЕВСК';
+    private $City = 'Новокуйбышевск';
     private $City1 = '';
     private $ActDate = '20180329';
     private $IndexOld = '';

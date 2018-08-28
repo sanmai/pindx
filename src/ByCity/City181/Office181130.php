@@ -27,13 +27,13 @@ final class Office181130 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 181130;
-    private $OPSName = 'ЗАПОЛЬЕ';
+    private $OPSName = 'Заполье';
     private $OPSType = 'О';
     private $OPSSubm = 182629;
-    private $Region = 'ПСКОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Псковская область';
     private $Autonom = '';
-    private $Area = 'СТРУГОКРАСНЕНСКИЙ РАЙОН';
-    private $City = 'ЗАПОЛЬЕ СЕЛЬСКОЕ ПОСЕЛЕНИЕ СИКОВИЦЫ';
+    private $Area = 'Стругокрасненский район';
+    private $City = 'Заполье Сельское Поселение Сиковицы';
     private $City1 = '';
     private $ActDate = '20180813';
     private $IndexOld = '';

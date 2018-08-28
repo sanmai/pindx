@@ -27,13 +27,13 @@ final class Office453412 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 453412;
-    private $OPSName = 'КИДРЯЧЕВО';
+    private $OPSName = 'Кидрячево';
     private $OPSType = 'О';
     private $OPSSubm = 453409;
-    private $Region = 'БАШКОРТОСТАН РЕСПУБЛИКА';
+    private $Region = 'Башкортостан Республика';
     private $Autonom = '';
-    private $Area = 'ДАВЛЕКАНОВСКИЙ РАЙОН';
-    private $City = 'КИДРЯЧЕВО';
+    private $Area = 'Давлекановский район';
+    private $City = 'Кидрячево';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

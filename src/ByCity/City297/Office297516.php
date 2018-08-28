@@ -27,13 +27,13 @@ final class Office297516 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 297516;
-    private $OPSName = 'СИМФЕРОПОЛЬ ПОЧТАМТ УЧ. КРАСНАЯ ЗОРЬКА';
+    private $OPSName = 'Симферополь Почтамт Уч. Красная Зорька';
     private $OPSType = 'Участок';
     private $OPSSubm = 295999;
-    private $Region = 'КРЫМ РЕСПУБЛИКА';
+    private $Region = 'Крым Республика';
     private $Autonom = '';
-    private $Area = 'СИМФЕРОПОЛЬСКИЙ РАЙОН';
-    private $City = 'КРАСНАЯ ЗОРЬКА';
+    private $Area = 'Симферопольский район';
+    private $City = 'Красная Зорька';
     private $City1 = '';
     private $ActDate = '20140716';
     private $IndexOld = '';

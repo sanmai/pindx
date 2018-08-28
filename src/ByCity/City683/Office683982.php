@@ -27,13 +27,13 @@ final class Office683982 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 683982;
-    private $OPSName = 'ПЕТРОПАВЛОВСК-КАМЧАТСКИЙ-ДТИ';
-    private $OPSType = 'ДТИ';
+    private $OPSName = 'Петропавловск-Камчатский-Дти';
+    private $OPSType = 'Дти';
     private $OPSSubm = 683023;
-    private $Region = 'КАМЧАТСКИЙ КРАЙ';
+    private $Region = 'Камчатский край';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'ПЕТРОПАВЛОВСК-КАМЧАТСКИЙ';
+    private $City = 'Петропавловск-Камчатский';
     private $City1 = '';
     private $ActDate = '20090827';
     private $IndexOld = '';

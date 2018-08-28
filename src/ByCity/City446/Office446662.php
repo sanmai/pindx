@@ -27,13 +27,13 @@ final class Office446662 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 446662;
-    private $OPSName = 'БОРСКОЕ 2 ППС';
-    private $OPSType = 'ППС';
+    private $OPSName = 'Борское 2 Ппс';
+    private $OPSType = 'Ппс';
     private $OPSSubm = 446699;
-    private $Region = 'САМАРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Самарская область';
     private $Autonom = '';
-    private $Area = 'БОРСКИЙ РАЙОН';
-    private $City = 'БОРСКОЕ';
+    private $Area = 'Борский район';
+    private $City = 'Борское';
     private $City1 = '';
     private $ActDate = '20170808';
     private $IndexOld = '';

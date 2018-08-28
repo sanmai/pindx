@@ -27,13 +27,13 @@ final class Office369230 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 369230;
-    private $OPSName = 'НОВАЯ ТЕБЕРДА';
+    private $OPSName = 'Новая Теберда';
     private $OPSType = 'О';
     private $OPSSubm = 369329;
-    private $Region = 'КАРАЧАЕВО-ЧЕРКЕССКАЯ РЕСПУБЛИКА';
+    private $Region = 'Карачаево-Черкесская Республика';
     private $Autonom = '';
-    private $Area = 'КАРАЧАЕВСКИЙ РАЙОН';
-    private $City = 'НОВАЯ ТЕБЕРДА';
+    private $Area = 'Карачаевский район';
+    private $City = 'Новая Теберда';
     private $City1 = '';
     private $ActDate = '20130607';
     private $IndexOld = '';

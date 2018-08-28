@@ -27,13 +27,13 @@ final class Office344072 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 344072;
-    private $OPSName = 'РОСТОВ-НА-ДОНУ 72';
+    private $OPSName = 'Ростов-На-Дону 72';
     private $OPSType = 'О';
     private $OPSSubm = 344999;
-    private $Region = 'РОСТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ростовская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'РОСТОВ-НА-ДОНУ';
+    private $City = 'Ростов-На-Дону';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

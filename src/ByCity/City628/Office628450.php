@@ -27,13 +27,13 @@ final class Office628450 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 628450;
-    private $OPSName = 'БАРСОВО';
+    private $OPSName = 'Барсово';
     private $OPSType = 'О';
     private $OPSSubm = 628400;
     private $Region = '';
-    private $Autonom = 'ХАНТЫ-МАНСИЙСКИЙ-ЮГРА АВТОНОМНЫЙ ОКРУГ';
-    private $Area = 'СУРГУТСКИЙ РАЙОН';
-    private $City = 'БАРСОВО';
+    private $Autonom = 'Ханты-Мансийский-Югра автономный округ';
+    private $Area = 'Сургутский район';
+    private $City = 'Барсово';
     private $City1 = '';
     private $ActDate = '20170906';
     private $IndexOld = '';

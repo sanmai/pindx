@@ -27,13 +27,13 @@ final class Office393233 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 393233;
-    private $OPSName = 'ПАХОТНЫЙ УГОЛ';
+    private $OPSName = 'Пахотный Угол';
     private $OPSType = 'О';
     private $OPSSubm = 393259;
-    private $Region = 'ТАМБОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тамбовская область';
     private $Autonom = '';
-    private $Area = 'БОНДАРСКИЙ РАЙОН';
-    private $City = 'ПАХОТНЫЙ УГОЛ';
+    private $Area = 'Бондарский район';
+    private $City = 'Пахотный Угол';
     private $City1 = '';
     private $ActDate = '20060320';
     private $IndexOld = '';

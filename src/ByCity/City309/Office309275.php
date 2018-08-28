@@ -27,13 +27,13 @@ final class Office309275 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 309275;
-    private $OPSName = 'ЧЕРВОНА ДИБРОВКА';
+    private $OPSName = 'Червона Дибровка';
     private $OPSType = 'О';
     private $OPSSubm = 309299;
-    private $Region = 'БЕЛГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Белгородская область';
     private $Autonom = '';
-    private $Area = 'ШЕБЕКИНСКИЙ РАЙОН';
-    private $City = 'ЧЕРВОНА ДИБРОВКА';
+    private $Area = 'Шебекинский район';
+    private $City = 'Червона Дибровка';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

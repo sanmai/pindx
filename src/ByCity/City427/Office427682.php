@@ -27,13 +27,13 @@ final class Office427682 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 427682;
-    private $OPSName = 'ЗАСЕКОВО';
+    private $OPSName = 'Засеково';
     private $OPSType = 'О';
     private $OPSSubm = 427669;
-    private $Region = 'УДМУРТСКАЯ РЕСПУБЛИКА';
+    private $Region = 'Удмуртская Республика';
     private $Autonom = '';
-    private $Area = 'ЮКАМЕНСКИЙ РАЙОН';
-    private $City = 'ЗАСЕКОВО';
+    private $Area = 'Юкаменский район';
+    private $City = 'Засеково';
     private $City1 = '';
     private $ActDate = '20041229';
     private $IndexOld = '';

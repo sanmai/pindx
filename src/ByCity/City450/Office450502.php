@@ -27,13 +27,13 @@ final class Office450502 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 450502;
-    private $OPSName = 'КИРИЛЛОВО ППС';
-    private $OPSType = 'ППС';
+    private $OPSName = 'Кириллово Ппс';
+    private $OPSType = 'Ппс';
     private $OPSSubm = 450999;
-    private $Region = 'БАШКОРТОСТАН РЕСПУБЛИКА';
+    private $Region = 'Башкортостан Республика';
     private $Autonom = '';
-    private $Area = 'УФИМСКИЙ РАЙОН';
-    private $City = 'КИРИЛОВО';
+    private $Area = 'Уфимский район';
+    private $City = 'Кирилово';
     private $City1 = '';
     private $ActDate = '20171030';
     private $IndexOld = '';

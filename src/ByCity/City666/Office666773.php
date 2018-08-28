@@ -27,13 +27,13 @@ final class Office666773 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 666773;
-    private $OPSName = 'КАЙМОНОВО';
+    private $OPSName = 'Каймоново';
     private $OPSType = 'О';
     private $OPSSubm = 666780;
-    private $Region = 'ИРКУТСКАЯ ОБЛАСТЬ';
+    private $Region = 'Иркутская область';
     private $Autonom = '';
-    private $Area = 'УСТЬ-КУТСКИЙ РАЙОН';
-    private $City = 'КАЙМОНОВО';
+    private $Area = 'Усть-Кутский район';
+    private $City = 'Каймоново';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

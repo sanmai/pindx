@@ -27,13 +27,13 @@ final class Office404159 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 404159;
-    private $OPSName = 'ГОСПИТОМНИК';
+    private $OPSName = 'Госпитомник';
     private $OPSType = 'О';
     private $OPSSubm = 404100;
-    private $Region = 'ВОЛГОГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Волгоградская область';
     private $Autonom = '';
-    private $Area = 'СРЕДНЕАХТУБИНСКИЙ РАЙОН';
-    private $City = 'ГОСПИТОМНИК';
+    private $Area = 'Среднеахтубинский район';
+    private $City = 'Госпитомник';
     private $City1 = '';
     private $ActDate = '20070411';
     private $IndexOld = '';

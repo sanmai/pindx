@@ -27,13 +27,13 @@ final class Office641246 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 641246;
-    private $OPSName = 'БОЛЬШОЕ ПРОСЕКОВО';
+    private $OPSName = 'Большое Просеково';
     private $OPSType = 'О';
     private $OPSSubm = 640000;
-    private $Region = 'КУРГАНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Курганская область';
     private $Autonom = '';
-    private $Area = 'ВАРГАШИНСКИЙ РАЙОН';
-    private $City = 'БОЛЬШОЕ ПРОСЕКОВО';
+    private $Area = 'Варгашинский район';
+    private $City = 'Большое Просеково';
     private $City1 = '';
     private $ActDate = '20180228';
     private $IndexOld = '';

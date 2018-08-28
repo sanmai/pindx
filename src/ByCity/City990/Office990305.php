@@ -27,13 +27,13 @@ final class Office990305 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 990305;
-    private $OPSName = 'СОСНОВЫЙ БОР-ПОЧТОМАТ (АПС)';
+    private $OPSName = 'Сосновый Бор-Почтомат (Апс)';
     private $OPSType = 'Почтомат';
     private $OPSSubm = 188541;
-    private $Region = 'ЛЕНИНГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ленинградская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'СОСНОВЫЙ БОР';
+    private $City = 'Сосновый Бор';
     private $City1 = '';
     private $ActDate = '20180125';
     private $IndexOld = '';

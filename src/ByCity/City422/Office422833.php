@@ -27,13 +27,13 @@ final class Office422833 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 422833;
-    private $OPSName = 'БОЛЬШИЕ БУРТАСЫ';
+    private $OPSName = 'Большие Буртасы';
     private $OPSType = 'О';
     private $OPSSubm = 422819;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'КАМСКО-УСТЬИНСКИЙ РАЙОН';
-    private $City = 'БОЛЬШИЕ БУРТАСЫ';
+    private $Area = 'Камско-Устьинский район';
+    private $City = 'Большие Буртасы';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

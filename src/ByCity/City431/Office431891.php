@@ -27,13 +27,13 @@ final class Office431891 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 431891;
-    private $OPSName = 'ТУРГЕНЕВО 1';
+    private $OPSName = 'Тургенево 1';
     private $OPSType = 'О';
     private $OPSSubm = 431899;
-    private $Region = 'МОРДОВИЯ РЕСПУБЛИКА';
+    private $Region = 'Мордовия Республика';
     private $Autonom = '';
-    private $Area = 'АРДАТОВСКИЙ РАЙОН';
-    private $City = 'ТУРГЕНЕВО';
+    private $Area = 'Ардатовский район';
+    private $City = 'Тургенево';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

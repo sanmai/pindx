@@ -27,13 +27,13 @@ final class Office422780 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 422780;
-    private $OPSName = 'ЛЕНИНО-КОКУШКИНО';
+    private $OPSName = 'Ленино-Кокушкино';
     private $OPSType = 'О';
     private $OPSSubm = 420999;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'ПЕСТРЕЧИНСКИЙ РАЙОН';
-    private $City = 'ЛЕНИНО-КОКУШКИНО';
+    private $Area = 'Пестречинский район';
+    private $City = 'Ленино-Кокушкино';
     private $City1 = '';
     private $ActDate = '20100211';
     private $IndexOld = '';

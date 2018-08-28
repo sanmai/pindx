@@ -27,13 +27,13 @@ final class Office461058 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 461058;
-    private $OPSName = 'БУЗУЛУК УООП';
+    private $OPSName = 'Бузулук Уооп';
     private $OPSType = 'Участок';
     private $OPSSubm = 461059;
-    private $Region = 'ОРЕНБУРГСКАЯ ОБЛАСТЬ';
+    private $Region = 'Оренбургская область';
     private $Autonom = '';
-    private $Area = 'БУЗУЛУКСКИЙ РАЙОН';
-    private $City = 'БУЗУЛУК';
+    private $Area = 'Бузулукский район';
+    private $City = 'Бузулук';
     private $City1 = '';
     private $ActDate = '20160121';
     private $IndexOld = '';

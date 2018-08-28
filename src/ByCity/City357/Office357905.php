@@ -27,13 +27,13 @@ final class Office357905 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 357905;
-    private $OPSName = 'СЕЛИВАНОВКА';
+    private $OPSName = 'Селивановка';
     private $OPSType = 'О';
     private $OPSSubm = 357319;
-    private $Region = 'СТАВРОПОЛЬСКИЙ КРАЙ';
+    private $Region = 'Ставропольский край';
     private $Autonom = '';
-    private $Area = 'СОВЕТСКИЙ РАЙОН';
-    private $City = 'СЕЛИВАНОВКА';
+    private $Area = 'Советский район';
+    private $City = 'Селивановка';
     private $City1 = '';
     private $ActDate = '20110127';
     private $IndexOld = '';

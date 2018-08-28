@@ -27,13 +27,13 @@ final class Office296040 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 296040;
-    private $OPSName = 'МАГАЗИНКА';
+    private $OPSName = 'Магазинка';
     private $OPSType = 'О';
     private $OPSSubm = 297069;
-    private $Region = 'КРЫМ РЕСПУБЛИКА';
+    private $Region = 'Крым Республика';
     private $Autonom = '';
-    private $Area = 'КРАСНОПЕРЕКОПСКИЙ РАЙОН';
-    private $City = 'МАГАЗИНКА';
+    private $Area = 'Красноперекопский район';
+    private $City = 'Магазинка';
     private $City1 = '';
     private $ActDate = '20140325';
     private $IndexOld = '';

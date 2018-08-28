@@ -27,13 +27,13 @@ final class Office399015 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 399015;
-    private $OPSName = 'ЯСЕНОК';
+    private $OPSName = 'Ясенок';
     private $OPSType = 'О';
     private $OPSSubm = 399799;
-    private $Region = 'ЛИПЕЦКАЯ ОБЛАСТЬ';
+    private $Region = 'Липецкая область';
     private $Autonom = '';
-    private $Area = 'ИЗМАЛКОВСКИЙ РАЙОН';
-    private $City = 'ЯСЕНОК';
+    private $Area = 'Измалковский район';
+    private $City = 'Ясенок';
     private $City1 = '';
     private $ActDate = '20060503';
     private $IndexOld = '';

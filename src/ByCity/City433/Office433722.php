@@ -27,13 +27,13 @@ final class Office433722 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 433722;
-    private $OPSName = 'ЛЯХОВКА';
+    private $OPSName = 'Ляховка';
     private $OPSType = 'О';
     private $OPSSubm = 433759;
-    private $Region = 'УЛЬЯНОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ульяновская область';
     private $Autonom = '';
-    private $Area = 'БАРЫШСКИЙ РАЙОН';
-    private $City = 'ЛЯХОВКА';
+    private $Area = 'Барышский район';
+    private $City = 'Ляховка';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

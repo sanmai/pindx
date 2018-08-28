@@ -27,13 +27,13 @@ final class Office404201 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 404201;
-    private $OPSName = 'ВЕРХНЯЯ ВОДЯНКА';
+    private $OPSName = 'Верхняя Водянка';
     private $OPSType = 'О';
     private $OPSSubm = 404260;
-    private $Region = 'ВОЛГОГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Волгоградская область';
     private $Autonom = '';
-    private $Area = 'СТАРОПОЛТАВСКИЙ РАЙОН';
-    private $City = 'ВЕРХНЯЯ ВОДЯНКА';
+    private $Area = 'Старополтавский район';
+    private $City = 'Верхняя Водянка';
     private $City1 = '';
     private $ActDate = '20070411';
     private $IndexOld = '';

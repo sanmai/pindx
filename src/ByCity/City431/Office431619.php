@@ -27,13 +27,13 @@ final class Office431619 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 431619;
-    private $OPSName = 'ЛИПКИ';
+    private $OPSName = 'Липки';
     private $OPSType = 'О';
     private $OPSSubm = 431539;
-    private $Region = 'МОРДОВИЯ РЕСПУБЛИКА';
+    private $Region = 'Мордовия Республика';
     private $Autonom = '';
-    private $Area = 'РОМОДАНОВСКИЙ РАЙОН';
-    private $City = 'ЛИПКИ';
+    private $Area = 'Ромодановский район';
+    private $City = 'Липки';
     private $City1 = '';
     private $ActDate = '20061116';
     private $IndexOld = '';

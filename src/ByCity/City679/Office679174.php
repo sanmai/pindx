@@ -27,13 +27,13 @@ final class Office679174 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 679174;
-    private $OPSName = 'ДАНИЛОВКА';
+    private $OPSName = 'Даниловка';
     private $OPSType = 'О';
     private $OPSSubm = 679700;
     private $Region = '';
-    private $Autonom = 'ЕВРЕЙСКАЯ АВТОНОМНАЯ ОБЛАСТЬ';
-    private $Area = 'СМИДОВИЧСКИЙ РАЙОН';
-    private $City = 'ДАНИЛОВКА';
+    private $Autonom = 'Еврейская автономная область';
+    private $Area = 'Смидовичский район';
+    private $City = 'Даниловка';
     private $City1 = '';
     private $ActDate = '20060517';
     private $IndexOld = '';

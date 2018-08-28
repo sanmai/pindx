@@ -27,13 +27,13 @@ final class Office393339 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 393339;
-    private $OPSName = 'ГРУШЕВКА';
+    private $OPSName = 'Грушевка';
     private $OPSType = 'О';
     private $OPSSubm = 393469;
-    private $Region = 'ТАМБОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тамбовская область';
     private $Autonom = '';
-    private $Area = 'ИНЖАВИНСКИЙ РАЙОН';
-    private $City = 'ГРУШЕВКА';
+    private $Area = 'Инжавинский район';
+    private $City = 'Грушевка';
     private $City1 = '';
     private $ActDate = '20090506';
     private $IndexOld = '';

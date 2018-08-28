@@ -27,14 +27,14 @@ final class Office366242 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 366242;
-    private $OPSName = 'ШОВХАЛ-БЕРД';
+    private $OPSName = 'Шовхал-Берд';
     private $OPSType = 'О';
     private $OPSSubm = 366200;
-    private $Region = 'ЧЕЧЕНСКАЯ РЕСПУБЛИКА';
+    private $Region = 'Чеченская Республика';
     private $Autonom = '';
-    private $Area = 'ГУДЕРМЕССКИЙ РАЙОН';
-    private $City = 'НОЖАЙ-ЮРТОВСКИЙ';
-    private $City1 = 'ШОВХАЛ-БЕРДЫ';
+    private $Area = 'Гудермесский район';
+    private $City = 'Ножай-Юртовский';
+    private $City1 = 'Шовхал-Берды';
     private $ActDate = '20101220';
     private $IndexOld = '';
 }

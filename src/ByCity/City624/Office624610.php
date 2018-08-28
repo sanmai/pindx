@@ -27,14 +27,14 @@ final class Office624610 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 624610;
-    private $OPSName = 'НЕЙВО-ШАЙТАНСКИЙ';
+    private $OPSName = 'Нейво-Шайтанский';
     private $OPSType = 'О';
     private $OPSSubm = 624619;
-    private $Region = 'СВЕРДЛОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Свердловская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'АЛАПАЕВСК';
-    private $City1 = 'НЕЙВО-ШАЙТАНСКИЙ';
+    private $City = 'Алапаевск';
+    private $City1 = 'Нейво-Шайтанский';
     private $ActDate = '20001030';
     private $IndexOld = '';
 }

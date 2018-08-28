@@ -27,13 +27,13 @@ final class Office431384 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 431384;
-    private $OPSName = 'СТАРОТЕШТЕЛИМСКИЕ ВЫСЕЛКИ';
+    private $OPSName = 'Старотештелимские Выселки';
     private $OPSType = 'О';
     private $OPSSubm = 431289;
-    private $Region = 'МОРДОВИЯ РЕСПУБЛИКА';
+    private $Region = 'Мордовия Республика';
     private $Autonom = '';
-    private $Area = 'ЕЛЬНИКОВСКИЙ РАЙОН';
-    private $City = 'СТАРОТЕШТЕЛИМСКИЕ';
+    private $Area = 'Ельниковский район';
+    private $City = 'Старотештелимские';
     private $City1 = '';
     private $ActDate = '20180813';
     private $IndexOld = '';

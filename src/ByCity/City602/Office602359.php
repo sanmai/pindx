@@ -27,13 +27,13 @@ final class Office602359 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 602359;
-    private $OPSName = 'КОСТЕНЕЦ';
+    private $OPSName = 'Костенец';
     private $OPSType = 'О';
     private $OPSSubm = 602250;
-    private $Region = 'ВЛАДИМИРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Владимирская область';
     private $Autonom = '';
-    private $Area = 'СЕЛИВАНОВСКИЙ РАЙОН';
-    private $City = 'КОСТЕНЕЦ';
+    private $Area = 'Селивановский район';
+    private $City = 'Костенец';
     private $City1 = '';
     private $ActDate = '20051118';
     private $IndexOld = '';

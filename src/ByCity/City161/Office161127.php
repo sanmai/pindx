@@ -27,13 +27,13 @@ final class Office161127 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 161127;
-    private $OPSName = 'ПЕНЬКОВО';
+    private $OPSName = 'Пеньково';
     private $OPSType = 'О';
     private $OPSSubm = 161139;
-    private $Region = 'ВОЛОГОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Вологодская область';
     private $Autonom = '';
-    private $Area = 'КИРИЛЛОВСКИЙ РАЙОН';
-    private $City = 'ПЕНЬКОВО';
+    private $Area = 'Кирилловский район';
+    private $City = 'Пеньково';
     private $City1 = '';
     private $ActDate = '20111116';
     private $IndexOld = '';

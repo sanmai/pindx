@@ -27,13 +27,13 @@ final class Office453297 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 453297;
-    private $OPSName = 'ВЕРХНЕЯУШЕВО ППС';
-    private $OPSType = 'ППС';
+    private $OPSName = 'Верхнеяушево Ппс';
+    private $OPSType = 'Ппс';
     private $OPSSubm = 453169;
-    private $Region = 'БАШКОРТОСТАН РЕСПУБЛИКА';
+    private $Region = 'Башкортостан Республика';
     private $Autonom = '';
-    private $Area = 'ФЕДОРОВСКИЙ РАЙОН';
-    private $City = 'ВЕРХНЕЯУШЕВО';
+    private $Area = 'Федоровский район';
+    private $City = 'Верхнеяушево';
     private $City1 = '';
     private $ActDate = '20171220';
     private $IndexOld = '';

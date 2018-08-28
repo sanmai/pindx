@@ -27,13 +27,13 @@ final class Office366109 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 366109;
-    private $OPSName = 'ШЕЛКОВСКАЯ 2';
+    private $OPSName = 'Шелковская 2';
     private $OPSType = 'О';
     private $OPSSubm = 366120;
-    private $Region = 'ЧЕЧЕНСКАЯ РЕСПУБЛИКА';
+    private $Region = 'Чеченская Республика';
     private $Autonom = '';
-    private $Area = 'ШЕЛКОВСКОЙ РАЙОН';
-    private $City = 'ШЕЛКОВСКАЯ';
+    private $Area = 'Шелковской район';
+    private $City = 'Шелковская';
     private $City1 = '';
     private $ActDate = '20101220';
     private $IndexOld = '';

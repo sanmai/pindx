@@ -27,13 +27,13 @@ final class Office369235 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 369235;
-    private $OPSName = 'ВЕРХНЯЯ МАРА';
+    private $OPSName = 'Верхняя Мара';
     private $OPSType = 'О';
     private $OPSSubm = 369329;
-    private $Region = 'КАРАЧАЕВО-ЧЕРКЕССКАЯ РЕСПУБЛИКА';
+    private $Region = 'Карачаево-Черкесская Республика';
     private $Autonom = '';
-    private $Area = 'КАРАЧАЕВСКИЙ РАЙОН';
-    private $City = 'ВЕРХНЯЯ МАРА';
+    private $Area = 'Карачаевский район';
+    private $City = 'Верхняя Мара';
     private $City1 = '';
     private $ActDate = '20130607';
     private $IndexOld = '';

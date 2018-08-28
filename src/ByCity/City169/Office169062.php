@@ -27,13 +27,13 @@ final class Office169062 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 169062;
-    private $OPSName = 'МИКУНЬ-2';
-    private $OPSType = 'ППС';
+    private $OPSName = 'Микунь-2';
+    private $OPSType = 'Ппс';
     private $OPSSubm = 169069;
-    private $Region = 'КОМИ РЕСПУБЛИКА';
+    private $Region = 'Коми Республика';
     private $Autonom = '';
-    private $Area = 'УСТЬ-ВЫМСКИЙ РАЙОН';
-    private $City = 'МИКУНЬ';
+    private $Area = 'Усть-Вымский район';
+    private $City = 'Микунь';
     private $City1 = '';
     private $ActDate = '20180403';
     private $IndexOld = '';

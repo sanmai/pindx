@@ -27,13 +27,13 @@ final class Office366404 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 366404;
-    private $OPSName = 'ИТУМ-КАЛЕ';
+    private $OPSName = 'Итум-Кале';
     private $OPSType = 'О';
     private $OPSSubm = 366400;
-    private $Region = 'ЧЕЧЕНСКАЯ РЕСПУБЛИКА';
+    private $Region = 'Чеченская Республика';
     private $Autonom = '';
-    private $Area = 'ШАТОЙСКИЙ РАЙОН';
-    private $City = 'ИТУМ-КАЛИ';
+    private $Area = 'Шатойский район';
+    private $City = 'Итум-Кали';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

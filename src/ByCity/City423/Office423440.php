@@ -27,13 +27,13 @@ final class Office423440 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 423440;
-    private $OPSName = 'НИЖНЯЯ МАКТАМА';
+    private $OPSName = 'Нижняя Мактама';
     private $OPSType = 'О';
     private $OPSSubm = 423469;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'АЛЬМЕТЬЕВСКИЙ РАЙОН';
-    private $City = 'НИЖНЯЯ МАКТАМА';
+    private $Area = 'Альметьевский район';
+    private $City = 'Нижняя Мактама';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

@@ -27,14 +27,14 @@ final class Office353981 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 353981;
-    private $OPSName = 'СЕМИГОРСКИЙ';
+    private $OPSName = 'Семигорский';
     private $OPSType = 'О';
     private $OPSSubm = 353999;
-    private $Region = 'КРАСНОДАРСКИЙ КРАЙ';
+    private $Region = 'Краснодарский край';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'НОВОРОССИЙСК';
-    private $City1 = 'СЕМИГОРСКИЙ';
+    private $City = 'Новороссийск';
+    private $City1 = 'Семигорский';
     private $ActDate = '20081008';
     private $IndexOld = '';
 }

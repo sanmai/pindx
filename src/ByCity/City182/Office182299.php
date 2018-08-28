@@ -27,13 +27,13 @@ final class Office182299 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 182299;
-    private $OPSName = 'СЕБЕЖ ПОЧТАМТ';
+    private $OPSName = 'Себеж Почтамт';
     private $OPSType = 'П';
     private $OPSSubm = 180700;
-    private $Region = 'ПСКОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Псковская область';
     private $Autonom = '';
-    private $Area = 'СЕБЕЖСКИЙ РАЙОН';
-    private $City = 'СЕБЕЖ';
+    private $Area = 'Себежский район';
+    private $City = 'Себеж';
     private $City1 = '';
     private $ActDate = '20080214';
     private $IndexOld = '';

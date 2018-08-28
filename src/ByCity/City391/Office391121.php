@@ -27,13 +27,13 @@ final class Office391121 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 391121;
-    private $OPSName = 'БАГРАМОВО';
+    private $OPSName = 'Баграмово';
     private $OPSType = 'О';
     private $OPSSubm = 390099;
-    private $Region = 'РЯЗАНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Рязанская область';
     private $Autonom = '';
-    private $Area = 'РЫБНОВСКИЙ РАЙОН';
-    private $City = 'БАГРАМОВО';
+    private $Area = 'Рыбновский район';
+    private $City = 'Баграмово';
     private $City1 = '';
     private $ActDate = '20061225';
     private $IndexOld = '';

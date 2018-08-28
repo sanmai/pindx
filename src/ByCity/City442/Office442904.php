@@ -27,13 +27,13 @@ final class Office442904 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 442904;
-    private $OPSName = 'ДУРОВКА';
+    private $OPSName = 'Дуровка';
     private $OPSType = 'О';
     private $OPSSubm = 442899;
-    private $Region = 'ПЕНЗЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Пензенская область';
     private $Autonom = '';
-    private $Area = 'ТАМАЛИНСКИЙ РАЙОН';
-    private $City = 'ДУРОВКА';
+    private $Area = 'Тамалинский район';
+    private $City = 'Дуровка';
     private $City1 = '';
     private $ActDate = '20060626';
     private $IndexOld = '';

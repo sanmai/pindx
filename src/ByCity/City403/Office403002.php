@@ -27,13 +27,13 @@ final class Office403002 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 403002;
-    private $OPSName = 'ГОРОДИЩЕ 2';
+    private $OPSName = 'Городище 2';
     private $OPSType = 'О';
     private $OPSSubm = 404029;
-    private $Region = 'ВОЛГОГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Волгоградская область';
     private $Autonom = '';
-    private $Area = 'ГОРОДИЩЕНСКИЙ РАЙОН';
-    private $City = 'ГОРОДИЩЕ';
+    private $Area = 'Городищенский район';
+    private $City = 'Городище';
     private $City1 = '';
     private $ActDate = '20120613';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office396316 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 396316;
-    private $OPSName = 'НИЖНЯЯ КАТУХОВКА';
+    private $OPSName = 'Нижняя Катуховка';
     private $OPSType = 'О';
     private $OPSSubm = 396339;
-    private $Region = 'ВОРОНЕЖСКАЯ ОБЛАСТЬ';
+    private $Region = 'Воронежская область';
     private $Autonom = '';
-    private $Area = 'НОВОУСМАНСКИЙ РАЙОН';
-    private $City = 'НИЖНЯЯ КАТУХОВКА';
+    private $Area = 'Новоусманский район';
+    private $City = 'Нижняя Катуховка';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

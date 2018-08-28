@@ -27,13 +27,13 @@ final class Office397549 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 397549;
-    private $OPSName = 'БУТУРЛИНОВКА ПОЧТАМТ';
+    private $OPSName = 'Бутурлиновка Почтамт';
     private $OPSType = 'П';
     private $OPSSubm = 394700;
-    private $Region = 'ВОРОНЕЖСКАЯ ОБЛАСТЬ';
+    private $Region = 'Воронежская область';
     private $Autonom = '';
-    private $Area = 'БУТУРЛИНОВСКИЙ РАЙОН';
-    private $City = 'БУТУРЛИНОВКА';
+    private $Area = 'Бутурлиновский район';
+    private $City = 'Бутурлиновка';
     private $City1 = '';
     private $ActDate = '20080320';
     private $IndexOld = '';

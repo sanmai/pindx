@@ -27,13 +27,13 @@ final class Office301640 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 301640;
-    private $OPSName = 'БУТЫРКИ';
+    private $OPSName = 'Бутырки';
     private $OPSType = 'О';
     private $OPSSubm = 301679;
-    private $Region = 'ТУЛЬСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тульская область';
     private $Autonom = '';
-    private $Area = 'УЗЛОВСКИЙ РАЙОН';
-    private $City = 'БУТЫРКИ';
+    private $Area = 'Узловский район';
+    private $City = 'Бутырки';
     private $City1 = '';
     private $ActDate = '20110128';
     private $IndexOld = '';

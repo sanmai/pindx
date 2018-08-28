@@ -27,13 +27,13 @@ final class Office658594 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 658594;
-    private $OPSName = 'МЕЗЕНЦЕВО';
+    private $OPSName = 'Мезенцево';
     private $OPSType = 'О';
     private $OPSSubm = 658739;
-    private $Region = 'АЛТАЙСКИЙ КРАЙ';
+    private $Region = 'Алтайский край';
     private $Autonom = '';
-    private $Area = 'ТЮМЕНЦЕВСКИЙ РАЙОН';
-    private $City = 'МЕЗЕНЦЕВО';
+    private $Area = 'Тюменцевский район';
+    private $City = 'Мезенцево';
     private $City1 = '';
     private $ActDate = '20041208';
     private $IndexOld = '';

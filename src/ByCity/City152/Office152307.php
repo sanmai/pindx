@@ -27,13 +27,13 @@ final class Office152307 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 152307;
-    private $OPSName = 'ВЕЛИКОЕ СЕЛО';
+    private $OPSName = 'Великое Село';
     private $OPSType = 'О';
     private $OPSSubm = 150599;
-    private $Region = 'ЯРОСЛАВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ярославская область';
     private $Autonom = '';
-    private $Area = 'ТУТАЕВСКИЙ РАЙОН';
-    private $City = 'ВЕЛИКОЕ СЕЛО';
+    private $Area = 'Тутаевский район';
+    private $City = 'Великое Село';
     private $City1 = '';
     private $ActDate = '20150330';
     private $IndexOld = '';

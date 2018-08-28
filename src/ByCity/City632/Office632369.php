@@ -27,13 +27,13 @@ final class Office632369 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 632369;
-    private $OPSName = 'ПОМЕЛЬЦЕВО';
+    private $OPSName = 'Помельцево';
     private $OPSType = 'О';
     private $OPSSubm = 632380;
-    private $Region = 'НОВОСИБИРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Новосибирская область';
     private $Autonom = '';
-    private $Area = 'КУЙБЫШЕВСКИЙ РАЙОН';
-    private $City = 'ПОМЕЛЬЦЕВО';
+    private $Area = 'Куйбышевский район';
+    private $City = 'Помельцево';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

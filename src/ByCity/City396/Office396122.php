@@ -27,13 +27,13 @@ final class Office396122 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 396122;
-    private $OPSName = 'ВЕРХНЯЯ ПЛАВИЦА';
+    private $OPSName = 'Верхняя Плавица';
     private $OPSType = 'О';
     private $OPSSubm = 396339;
-    private $Region = 'ВОРОНЕЖСКАЯ ОБЛАСТЬ';
+    private $Region = 'Воронежская область';
     private $Autonom = '';
-    private $Area = 'ВЕРХНЕХАВСКИЙ РАЙОН';
-    private $City = 'ВЕРХНЯЯ ПЛАВИЦА';
+    private $Area = 'Верхнехавский район';
+    private $City = 'Верхняя Плавица';
     private $City1 = '';
     private $ActDate = '20040622';
     private $IndexOld = '';

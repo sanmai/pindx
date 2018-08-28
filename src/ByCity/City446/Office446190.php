@@ -27,13 +27,13 @@ final class Office446190 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 446190;
-    private $OPSName = 'БОЛЬШАЯ ДЕРГУНОВКА';
+    private $OPSName = 'Большая Дергуновка';
     private $OPSType = 'О';
     private $OPSSubm = 446199;
-    private $Region = 'САМАРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Самарская область';
     private $Autonom = '';
-    private $Area = 'БОЛЬШЕГЛУШИЦКИЙ РАЙОН';
-    private $City = 'БОЛЬШАЯ ДЕРГУНОВКА';
+    private $Area = 'Большеглушицкий район';
+    private $City = 'Большая Дергуновка';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

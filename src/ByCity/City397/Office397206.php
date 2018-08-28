@@ -27,13 +27,13 @@ final class Office397206 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 397206;
-    private $OPSName = 'ТЕЛЛЕРМАНОВСКИЙ';
+    private $OPSName = 'Теллермановский';
     private $OPSType = 'О';
     private $OPSSubm = 397189;
-    private $Region = 'ВОРОНЕЖСКАЯ ОБЛАСТЬ';
+    private $Region = 'Воронежская область';
     private $Autonom = '';
-    private $Area = 'ГРИБАНОВСКИЙ РАЙОН';
-    private $City = 'ТЕЛЛЕРМАНОВСКИЙ';
+    private $Area = 'Грибановский район';
+    private $City = 'Теллермановский';
     private $City1 = '';
     private $ActDate = '20171130';
     private $IndexOld = '';

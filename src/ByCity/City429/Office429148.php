@@ -27,13 +27,13 @@ final class Office429148 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 429148;
-    private $OPSName = 'НОВОЧЕЛНЫ-СЮРБЕЕВО';
+    private $OPSName = 'Новочелны-Сюрбеево';
     private $OPSType = 'О';
     private $OPSSubm = 429349;
-    private $Region = 'ЧУВАШИЯ РЕСПУБЛИКА';
+    private $Region = 'Чувашия Республика';
     private $Autonom = '';
-    private $Area = 'КОМСОМОЛЬСКИЙ РАЙОН';
-    private $City = 'НОВОЧЕЛНЫ-СЮРБЕЕВО';
+    private $Area = 'Комсомольский район';
+    private $City = 'Новочелны-Сюрбеево';
     private $City1 = '';
     private $ActDate = '20070302';
     private $IndexOld = '';

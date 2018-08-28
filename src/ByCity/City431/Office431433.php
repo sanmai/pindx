@@ -27,13 +27,13 @@ final class Office431433 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 431433;
-    private $OPSName = 'ШАДЫМО-РЫСКИНО';
+    private $OPSName = 'Шадымо-Рыскино';
     private $OPSType = 'О';
     private $OPSSubm = 431499;
-    private $Region = 'МОРДОВИЯ РЕСПУБЛИКА';
+    private $Region = 'Мордовия Республика';
     private $Autonom = '';
-    private $Area = 'ИНСАРСКИЙ РАЙОН';
-    private $City = 'ШАДЫМО-РЫСКИНО';
+    private $Area = 'Инсарский район';
+    private $City = 'Шадымо-Рыскино';
     private $City1 = '';
     private $ActDate = '20110121';
     private $IndexOld = '';

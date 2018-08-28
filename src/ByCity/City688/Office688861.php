@@ -27,13 +27,13 @@ final class Office688861 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 688861;
-    private $OPSName = 'ТАЛОВКА';
+    private $OPSName = 'Таловка';
     private $OPSType = 'О';
     private $OPSSubm = 683000;
-    private $Region = 'КАМЧАТСКИЙ КРАЙ';
-    private $Autonom = 'КОРЯКСКИЙ ОКРУГ';
-    private $Area = 'ПЕНЖИНСКИЙ РАЙОН';
-    private $City = 'ТАЛОВКА';
+    private $Region = 'Камчатский край';
+    private $Autonom = 'Корякский округ';
+    private $Area = 'Пенжинский район';
+    private $City = 'Таловка';
     private $City1 = '';
     private $ActDate = '20070604';
     private $IndexOld = '';

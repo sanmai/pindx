@@ -27,13 +27,13 @@ final class Office641684 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 641684;
-    private $OPSName = 'БОЛЬШОЕ КАМЕННОЕ';
+    private $OPSName = 'Большое Каменное';
     private $OPSType = 'О';
     private $OPSSubm = 641639;
-    private $Region = 'КУРГАНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Курганская область';
     private $Autonom = '';
-    private $Area = 'ПЕТУХОВСКИЙ РАЙОН';
-    private $City = 'БОЛЬШОЕ КАМЕННОЕ';
+    private $Area = 'Петуховский район';
+    private $City = 'Большое Каменное';
     private $City1 = '';
     private $ActDate = '20051116';
     private $IndexOld = '';

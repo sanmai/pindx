@@ -27,13 +27,13 @@ final class Office613911 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 613911;
-    private $OPSName = 'ДЕМЬЯНОВО';
+    private $OPSName = 'Демьяново';
     private $OPSType = 'О';
     private $OPSSubm = 613999;
-    private $Region = 'КИРОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Кировская область';
     private $Autonom = '';
-    private $Area = 'ПОДОСИНОВСКИЙ РАЙОН';
-    private $City = 'ДЕМЬЯНОВО';
+    private $Area = 'Подосиновский район';
+    private $City = 'Демьяново';
     private $City1 = '';
     private $ActDate = '20070406';
     private $IndexOld = '';

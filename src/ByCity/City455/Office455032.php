@@ -27,13 +27,13 @@ final class Office455032 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 455032;
-    private $OPSName = 'МАГНИТОГОРСК 32 ППС';
-    private $OPSType = 'ППС';
+    private $OPSName = 'Магнитогорск 32 Ппс';
+    private $OPSType = 'Ппс';
     private $OPSSubm = 455999;
-    private $Region = 'ЧЕЛЯБИНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Челябинская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'МАГНИТОГОРСК';
+    private $City = 'Магнитогорск';
     private $City1 = '';
     private $ActDate = '20180315';
     private $IndexOld = '';

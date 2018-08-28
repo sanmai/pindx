@@ -27,13 +27,13 @@ final class Office141840 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 141840;
-    private $OPSName = 'ЯХРОМА';
+    private $OPSName = 'Яхрома';
     private $OPSType = 'О';
     private $OPSSubm = 141899;
-    private $Region = 'МОСКОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Московская область';
     private $Autonom = '';
-    private $Area = 'ДМИТРОВСКИЙ РАЙОН';
-    private $City = 'ЯХРОМА';
+    private $Area = 'Дмитровский район';
+    private $City = 'Яхрома';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

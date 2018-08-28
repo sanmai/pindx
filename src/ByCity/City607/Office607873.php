@@ -27,13 +27,13 @@ final class Office607873 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 607873;
-    private $OPSName = 'СЫЧЕНКИ ППС';
-    private $OPSType = 'ППС';
+    private $OPSName = 'Сыченки Ппс';
+    private $OPSType = 'Ппс';
     private $OPSSubm = 607527;
-    private $Region = 'НИЖЕГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Нижегородская область';
     private $Autonom = '';
-    private $Area = 'ГАГИНСКИЙ РАЙОН';
-    private $City = 'СЫЧЕНКИ';
+    private $Area = 'Гагинский район';
+    private $City = 'Сыченки';
     private $City1 = '';
     private $ActDate = '20170711';
     private $IndexOld = '';

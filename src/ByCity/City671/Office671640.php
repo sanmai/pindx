@@ -27,13 +27,13 @@ final class Office671640 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 671640;
-    private $OPSName = 'КУРУМКАН';
+    private $OPSName = 'Курумкан';
     private $OPSType = 'О';
     private $OPSSubm = 671289;
-    private $Region = 'БУРЯТИЯ РЕСПУБЛИКА';
+    private $Region = 'Бурятия Республика';
     private $Autonom = '';
-    private $Area = 'КУРУМКАНСКИЙ РАЙОН';
-    private $City = 'КУРУМКАН';
+    private $Area = 'Курумканский район';
+    private $City = 'Курумкан';
     private $City1 = '';
     private $ActDate = '20071224';
     private $IndexOld = '';

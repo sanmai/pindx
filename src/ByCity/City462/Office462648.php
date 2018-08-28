@@ -27,13 +27,13 @@ final class Office462648 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 462648;
-    private $OPSName = 'ВИШНЕВОЕ';
+    private $OPSName = 'Вишневое';
     private $OPSType = 'О';
     private $OPSSubm = 462400;
-    private $Region = 'ОРЕНБУРГСКАЯ ОБЛАСТЬ';
+    private $Region = 'Оренбургская область';
     private $Autonom = '';
-    private $Area = 'ГАЙСКИЙ РАЙОН';
-    private $City = 'ВИШНЕВОЕ';
+    private $Area = 'Гайский район';
+    private $City = 'Вишневое';
     private $City1 = '';
     private $ActDate = '20140131';
     private $IndexOld = '';

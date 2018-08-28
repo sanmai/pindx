@@ -27,13 +27,13 @@ final class Office433524 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 433524;
-    private $OPSName = 'СТАРАЯ САХЧА';
+    private $OPSName = 'Старая Сахча';
     private $OPSType = 'О';
     private $OPSSubm = 433500;
-    private $Region = 'УЛЬЯНОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ульяновская область';
     private $Autonom = '';
-    private $Area = 'МЕЛЕКЕССКИЙ РАЙОН';
-    private $City = 'СТАРАЯ САХЧА';
+    private $Area = 'Мелекесский район';
+    private $City = 'Старая Сахча';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

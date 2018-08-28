@@ -27,13 +27,13 @@ final class Office346496 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 346496;
-    private $OPSName = 'ЯНОВО-ГРУШЕВСКИЙ';
+    private $OPSName = 'Яново-Грушевский';
     private $OPSType = 'О';
     private $OPSSubm = 346439;
-    private $Region = 'РОСТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ростовская область';
     private $Autonom = '';
-    private $Area = 'ОКТЯБРЬСКИЙ РАЙОН';
-    private $City = 'ЯНОВО-ГРУШЕВСКИЙ';
+    private $Area = 'Октябрьский район';
+    private $City = 'Яново-Грушевский';
     private $City1 = '';
     private $ActDate = '20080328';
     private $IndexOld = '';

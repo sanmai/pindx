@@ -27,13 +27,13 @@ final class Office442929 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 442929;
-    private $OPSName = 'ТАМАЛА УООП';
+    private $OPSName = 'Тамала Уооп';
     private $OPSType = 'Участок';
     private $OPSSubm = 442899;
-    private $Region = 'ПЕНЗЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Пензенская область';
     private $Autonom = '';
-    private $Area = 'ТАМАЛИНСКИЙ РАЙОН';
-    private $City = 'ТАМАЛА';
+    private $Area = 'Тамалинский район';
+    private $City = 'Тамала';
     private $City1 = '';
     private $ActDate = '20160727';
     private $IndexOld = '';

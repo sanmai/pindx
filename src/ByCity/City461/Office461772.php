@@ -27,13 +27,13 @@ final class Office461772 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 461772;
-    private $OPSName = 'БОЛЬШОЙ СУРМЕТ';
+    private $OPSName = 'Большой Сурмет';
     private $OPSType = 'О';
     private $OPSSubm = 461740;
-    private $Region = 'ОРЕНБУРГСКАЯ ОБЛАСТЬ';
+    private $Region = 'Оренбургская область';
     private $Autonom = '';
-    private $Area = 'АБДУЛИНСКИЙ РАЙОН';
-    private $City = 'БОЛЬШОЙ СУРМЕТ';
+    private $Area = 'Абдулинский район';
+    private $City = 'Большой Сурмет';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

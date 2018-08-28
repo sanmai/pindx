@@ -27,13 +27,13 @@ final class Office143035 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 143035;
-    private $OPSName = 'САНАТОРИЙ ПОРЕЧЬЕ';
+    private $OPSName = 'Санаторий Поречье';
     private $OPSType = 'О';
     private $OPSSubm = 143000;
-    private $Region = 'МОСКОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Московская область';
     private $Autonom = '';
-    private $Area = 'ОДИНЦОВСКИЙ РАЙОН';
-    private $City = 'САНАТОРИЙ ПОРЕЧЬЕ';
+    private $Area = 'Одинцовский район';
+    private $City = 'Санаторий Поречье';
     private $City1 = '';
     private $ActDate = '20020130';
     private $IndexOld = '';

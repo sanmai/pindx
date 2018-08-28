@@ -27,13 +27,13 @@ final class Office607079 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 607079;
-    private $OPSName = 'ВЫКСА ПОЧТАМТ';
+    private $OPSName = 'Выкса Почтамт';
     private $OPSType = 'П';
     private $OPSSubm = 603700;
-    private $Region = 'НИЖЕГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Нижегородская область';
     private $Autonom = '';
-    private $Area = 'ВЫКСУНСКИЙ РАЙОН';
-    private $City = 'ВЫКСА';
+    private $Area = 'Выксунский район';
+    private $City = 'Выкса';
     private $City1 = '';
     private $ActDate = '20080222';
     private $IndexOld = '';

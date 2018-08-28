@@ -27,13 +27,13 @@ final class Office403459 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 403459;
-    private $OPSName = 'КЛЕТСКО-ПОЧТОВСКИЙ';
+    private $OPSName = 'Клетско-Почтовский';
     private $OPSType = 'О';
     private $OPSSubm = 403400;
-    private $Region = 'ВОЛГОГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Волгоградская область';
     private $Autonom = '';
-    private $Area = 'СЕРАФИМОВИЧСКИЙ РАЙОН';
-    private $City = 'КЛЕТСКО-ПОЧТОВСКИЙ';
+    private $Area = 'Серафимовичский район';
+    private $City = 'Клетско-Почтовский';
     private $City1 = '';
     private $ActDate = '20120613';
     private $IndexOld = '';

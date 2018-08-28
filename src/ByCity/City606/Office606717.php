@@ -27,13 +27,13 @@ final class Office606717 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 606717;
-    private $OPSName = 'ЗУБИЛИХА';
+    private $OPSName = 'Зубилиха';
     private $OPSType = 'О';
     private $OPSSubm = 606879;
-    private $Region = 'НИЖЕГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Нижегородская область';
     private $Autonom = '';
-    private $Area = 'КРАСНОБАКОВСКИЙ РАЙОН';
-    private $City = 'ЗУБИЛИХА';
+    private $Area = 'Краснобаковский район';
+    private $City = 'Зубилиха';
     private $City1 = '';
     private $ActDate = '20060914';
     private $IndexOld = '';

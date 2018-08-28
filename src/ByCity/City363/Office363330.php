@@ -27,13 +27,13 @@ final class Office363330 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 363330;
-    private $OPSName = 'АРДОН МРП';
-    private $OPSType = 'МРП';
+    private $OPSName = 'Ардон Мрп';
+    private $OPSType = 'Мрп';
     private $OPSSubm = 362700;
-    private $Region = 'СЕВЕРНАЯ ОСЕТИЯ - АЛАНИЯ РЕСПУБЛИКА';
+    private $Region = 'Северная Осетия - Алания Республика';
     private $Autonom = '';
-    private $Area = 'АРДОНСКИЙ РАЙОН';
-    private $City = 'АРДОН';
+    private $Area = 'Ардонский район';
+    private $City = 'Ардон';
     private $City1 = '';
     private $ActDate = '20171031';
     private $IndexOld = '';

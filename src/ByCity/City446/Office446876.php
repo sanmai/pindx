@@ -27,13 +27,13 @@ final class Office446876 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 446876;
-    private $OPSName = 'СУХИЕ АВРАЛИ';
+    private $OPSName = 'Сухие Аврали';
     private $OPSType = 'О';
     private $OPSSubm = 446829;
-    private $Region = 'САМАРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Самарская область';
     private $Autonom = '';
-    private $Area = 'ЕЛХОВСКИЙ РАЙОН';
-    private $City = 'СУХИЕ АВРАЛИ';
+    private $Area = 'Елховский район';
+    private $City = 'Сухие Аврали';
     private $City1 = '';
     private $ActDate = '20021128';
     private $IndexOld = '';

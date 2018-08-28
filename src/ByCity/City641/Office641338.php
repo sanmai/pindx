@@ -27,13 +27,13 @@ final class Office641338 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 641338;
-    private $OPSName = 'КЕТОВО УООП';
+    private $OPSName = 'Кетово Уооп';
     private $OPSType = 'Участок';
     private $OPSSubm = 641339;
-    private $Region = 'КУРГАНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Курганская область';
     private $Autonom = '';
-    private $Area = 'КЕТОВСКИЙ РАЙОН';
-    private $City = 'КЕТОВО';
+    private $Area = 'Кетовский район';
+    private $City = 'Кетово';
     private $City1 = '';
     private $ActDate = '20170911';
     private $IndexOld = '';

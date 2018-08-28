@@ -27,13 +27,13 @@ final class Office613460 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 613460;
-    private $OPSName = 'ЛУДЯНА-ЯСАШИНСКАЯ';
+    private $OPSName = 'Лудяна-Ясашинская';
     private $OPSType = 'О';
     private $OPSSubm = 613459;
-    private $Region = 'КИРОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Кировская область';
     private $Autonom = '';
-    private $Area = 'НОЛИНСКИЙ РАЙОН';
-    private $City = 'ЛУДЯНА-  ЯСАШИНСКАЯ';
+    private $Area = 'Нолинский район';
+    private $City = 'Лудяна-  Ясашинская';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

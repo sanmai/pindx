@@ -27,13 +27,13 @@ final class Office456446 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 456446;
-    private $OPSName = 'ЧЕБАРКУЛЬ 6';
+    private $OPSName = 'Чебаркуль 6';
     private $OPSType = 'О';
     private $OPSSubm = 456439;
-    private $Region = 'ЧЕЛЯБИНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Челябинская область';
     private $Autonom = '';
-    private $Area = 'ЧЕБАРКУЛЬСКИЙ РАЙОН';
-    private $City = 'ЧЕБАРКУЛЬ';
+    private $Area = 'Чебаркульский район';
+    private $City = 'Чебаркуль';
     private $City1 = '';
     private $ActDate = '20180813';
     private $IndexOld = '';

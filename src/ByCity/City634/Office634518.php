@@ -27,13 +27,13 @@ final class Office634518 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 634518;
-    private $OPSName = 'РЫБАЛОВО';
+    private $OPSName = 'Рыбалово';
     private $OPSType = 'О';
     private $OPSSubm = 634000;
-    private $Region = 'ТОМСКАЯ ОБЛАСТЬ';
+    private $Region = 'Томская область';
     private $Autonom = '';
-    private $Area = 'ТОМСКИЙ РАЙОН';
-    private $City = 'РЫБАЛОВО';
+    private $Area = 'Томский район';
+    private $City = 'Рыбалово';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

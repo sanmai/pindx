@@ -27,13 +27,13 @@ final class Office632280 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 632280;
-    private $OPSName = 'ВЕРХ-ЧЕКИНО';
+    private $OPSName = 'Верх-Чекино';
     private $OPSType = 'О';
     private $OPSSubm = 632200;
-    private $Region = 'НОВОСИБИРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Новосибирская область';
     private $Autonom = '';
-    private $Area = 'КЫШТОВСКИЙ РАЙОН';
-    private $City = 'ВЕРХ-ЧЕКИНО';
+    private $Area = 'Кыштовский район';
+    private $City = 'Верх-Чекино';
     private $City1 = '';
     private $ActDate = '20110701';
     private $IndexOld = '';

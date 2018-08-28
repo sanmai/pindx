@@ -27,13 +27,13 @@ final class Office617818 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 617818;
-    private $OPSName = 'ЕМАШ-ПАВЛОВО';
+    private $OPSName = 'Емаш-Павлово';
     private $OPSType = 'О';
     private $OPSSubm = 617839;
-    private $Region = 'ПЕРМСКИЙ КРАЙ';
+    private $Region = 'Пермский край';
     private $Autonom = '';
-    private $Area = 'ЧЕРНУШИНСКИЙ РАЙОН';
-    private $City = 'ЕМАШ-ПАВЛОВО';
+    private $Area = 'Чернушинский район';
+    private $City = 'Емаш-Павлово';
     private $City1 = '';
     private $ActDate = '20071004';
     private $IndexOld = '';

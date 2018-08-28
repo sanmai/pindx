@@ -27,13 +27,13 @@ final class Office607261 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 607261;
-    private $OPSName = 'УСПЕНСКОЕ-ПЕРВОЕ';
+    private $OPSName = 'Успенское-Первое';
     private $OPSType = 'О';
     private $OPSSubm = 607279;
-    private $Region = 'НИЖЕГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Нижегородская область';
     private $Autonom = '';
-    private $Area = 'АРЗАМАССКИЙ РАЙОН';
-    private $City = 'УСПЕНСКОЕ 1-Е';
+    private $Area = 'Арзамасский район';
+    private $City = 'Успенское 1-Е';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

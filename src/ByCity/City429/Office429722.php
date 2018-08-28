@@ -27,13 +27,13 @@ final class Office429722 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 429722;
-    private $OPSName = 'МАЛЫЕ КАРМАЛЫ';
+    private $OPSName = 'Малые Кармалы';
     private $OPSType = 'О';
     private $OPSSubm = 429239;
-    private $Region = 'ЧУВАШИЯ РЕСПУБЛИКА';
+    private $Region = 'Чувашия Республика';
     private $Autonom = '';
-    private $Area = 'ИБРЕСИНСКИЙ РАЙОН';
-    private $City = 'МАЛЫЕ КАРМАЛЫ';
+    private $Area = 'Ибресинский район';
+    private $City = 'Малые Кармалы';
     private $City1 = '';
     private $ActDate = '20061002';
     private $IndexOld = '';

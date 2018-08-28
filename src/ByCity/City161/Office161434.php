@@ -27,13 +27,13 @@ final class Office161434 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 161434;
-    private $OPSName = 'НИЖНЯЯ ЕНТАЛА';
+    private $OPSName = 'Нижняя Ентала';
     private $OPSType = 'О';
     private $OPSSubm = 161479;
-    private $Region = 'ВОЛОГОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Вологодская область';
     private $Autonom = '';
-    private $Area = 'КИЧМЕНГСКО-ГОРОДЕЦКИЙ РАЙОН';
-    private $City = 'НИЖНЯЯ ЕНТАЛА';
+    private $Area = 'Кичменгско-Городецкий район';
+    private $City = 'Нижняя Ентала';
     private $City1 = '';
     private $ActDate = '20050404';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office404023 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 404023;
-    private $OPSName = 'МАЛАЯ ИВАНОВКА';
+    private $OPSName = 'Малая Ивановка';
     private $OPSType = 'О';
     private $OPSSubm = 404029;
-    private $Region = 'ВОЛГОГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Волгоградская область';
     private $Autonom = '';
-    private $Area = 'ДУБОВСКИЙ РАЙОН';
-    private $City = 'МАЛАЯ ИВАНОВКА';
+    private $Area = 'Дубовский район';
+    private $City = 'Малая Ивановка';
     private $City1 = '';
     private $ActDate = '20120613';
     private $IndexOld = '';

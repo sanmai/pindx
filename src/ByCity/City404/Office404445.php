@@ -27,13 +27,13 @@ final class Office404445 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 404445;
-    private $OPSName = 'БЛИЖНЕПОДГОРСКИЙ';
+    private $OPSName = 'Ближнеподгорский';
     private $OPSType = 'О';
     private $OPSSubm = 404410;
-    private $Region = 'ВОЛГОГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Волгоградская область';
     private $Autonom = '';
-    private $Area = 'СУРОВИКИНСКИЙ РАЙОН';
-    private $City = 'БЛИЖНЕПОДГОРСКИЙ';
+    private $Area = 'Суровикинский район';
+    private $City = 'Ближнеподгорский';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

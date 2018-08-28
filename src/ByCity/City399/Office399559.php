@@ -27,13 +27,13 @@ final class Office399559 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 399559;
-    private $OPSName = 'ТЕРБУНЫ';
-    private $OPSType = 'ПЕРЕДВИЖНОЕ ОС';
+    private $OPSName = 'Тербуны';
+    private $OPSType = 'Передвижное Ос';
     private $OPSSubm = 399569;
-    private $Region = 'ЛИПЕЦКАЯ ОБЛАСТЬ';
+    private $Region = 'Липецкая область';
     private $Autonom = '';
-    private $Area = 'ТЕРБУНСКИЙ РАЙОН';
-    private $City = 'ТЕРБУНЫ';
+    private $Area = 'Тербунский район';
+    private $City = 'Тербуны';
     private $City1 = '';
     private $ActDate = '20150529';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office442488 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 442488;
-    private $OPSName = 'СТАРАЯ АНДРЕЕВКА';
+    private $OPSName = 'Старая Андреевка';
     private $OPSType = 'О';
     private $OPSSubm = 442549;
-    private $Region = 'ПЕНЗЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Пензенская область';
     private $Autonom = '';
-    private $Area = 'НЕВЕРКИНСКИЙ РАЙОН';
-    private $City = 'СТАРАЯ АНДРЕЕВКА';
+    private $Area = 'Неверкинский район';
+    private $City = 'Старая Андреевка';
     private $City1 = '';
     private $ActDate = '20060626';
     private $IndexOld = '';

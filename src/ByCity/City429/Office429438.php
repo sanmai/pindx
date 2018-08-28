@@ -27,13 +27,13 @@ final class Office429438 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 429438;
-    private $OPSName = 'ЕМЕТКИНО';
+    private $OPSName = 'Еметкино';
     private $OPSType = 'О';
     private $OPSSubm = 429429;
-    private $Region = 'ЧУВАШИЯ РЕСПУБЛИКА';
+    private $Region = 'Чувашия Республика';
     private $Autonom = '';
-    private $Area = 'КОЗЛОВСКИЙ РАЙОН';
-    private $City = 'ЕМЕТКИНО';
+    private $Area = 'Козловский район';
+    private $City = 'Еметкино';
     private $City1 = '';
     private $ActDate = '20061002';
     private $IndexOld = '';

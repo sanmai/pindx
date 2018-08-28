@@ -27,13 +27,13 @@ final class Office346066 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 346066;
-    private $OPSName = 'ШАРПАЕВКА';
+    private $OPSName = 'Шарпаевка';
     private $OPSType = 'О';
     private $OPSSubm = 347819;
-    private $Region = 'РОСТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ростовская область';
     private $Autonom = '';
-    private $Area = 'ТАРАСОВСКИЙ РАЙОН';
-    private $City = 'ШАРПАЕВКА';
+    private $Area = 'Тарасовский район';
+    private $City = 'Шарпаевка';
     private $City1 = '';
     private $ActDate = '20070214';
     private $IndexOld = '';

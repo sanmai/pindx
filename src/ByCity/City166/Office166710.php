@@ -27,13 +27,13 @@ final class Office166710 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 166710;
-    private $OPSName = 'ТЕЛЬВИСКА';
+    private $OPSName = 'Тельвиска';
     private $OPSType = 'О';
     private $OPSSubm = 166100;
     private $Region = '';
-    private $Autonom = 'НЕНЕЦКИЙ АВТОНОМНЫЙ ОКРУГ';
-    private $Area = 'ЗАПОЛЯРНЫЙ РАЙОН';
-    private $City = 'ТЕЛЬВИСКА';
+    private $Autonom = 'Ненецкий автономный округ';
+    private $Area = 'Заполярный район';
+    private $City = 'Тельвиска';
     private $City1 = '';
     private $ActDate = '20180813';
     private $IndexOld = '';

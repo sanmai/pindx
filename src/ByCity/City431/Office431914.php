@@ -27,13 +27,13 @@ final class Office431914 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 431914;
-    private $OPSName = 'НАГАЕВО';
+    private $OPSName = 'Нагаево';
     private $OPSType = 'О';
     private $OPSSubm = 431499;
-    private $Region = 'МОРДОВИЯ РЕСПУБЛИКА';
+    private $Region = 'Мордовия Республика';
     private $Autonom = '';
-    private $Area = 'КАДОШКИНСКИЙ РАЙОН';
-    private $City = 'НАГАЕВО';
+    private $Area = 'Кадошкинский район';
+    private $City = 'Нагаево';
     private $City1 = '';
     private $ActDate = '20110121';
     private $IndexOld = '';

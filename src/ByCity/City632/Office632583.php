@@ -27,13 +27,13 @@ final class Office632583 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 632583;
-    private $OPSName = 'ЗОЛОТАЯ ГРИВА';
+    private $OPSName = 'Золотая Грива';
     private $OPSType = 'О';
     private $OPSSubm = 632550;
-    private $Region = 'НОВОСИБИРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Новосибирская область';
     private $Autonom = '';
-    private $Area = 'ЧУЛЫМСКИЙ РАЙОН';
-    private $City = 'ЗОЛОТАЯ ГРИВА';
+    private $Area = 'Чулымский район';
+    private $City = 'Золотая Грива';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

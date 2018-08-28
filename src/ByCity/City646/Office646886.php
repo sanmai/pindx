@@ -27,13 +27,13 @@ final class Office646886 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 646886;
-    private $OPSName = 'БЕРЕЗОВКА';
+    private $OPSName = 'Березовка';
     private $OPSType = 'О';
     private $OPSSubm = 646749;
-    private $Region = 'ОМСКАЯ ОБЛАСТЬ';
+    private $Region = 'Омская область';
     private $Autonom = '';
-    private $Area = 'АЗОВСКИЙ НЕМЕЦКИЙ НАЦИОНАЛЬНЫЙ РАЙОН';
-    private $City = 'БЕРЕЗОВКА';
+    private $Area = 'Азовский немецкий национальный район';
+    private $City = 'Березовка';
     private $City1 = '';
     private $ActDate = '20070420';
     private $IndexOld = '';

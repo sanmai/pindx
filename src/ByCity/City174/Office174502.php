@@ -27,13 +27,13 @@ final class Office174502 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 174502;
-    private $OPSName = 'СЕМЫТИНО';
+    private $OPSName = 'Семытино';
     private $OPSType = 'О';
     private $OPSSubm = 174400;
-    private $Region = 'НОВГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Новгородская область';
     private $Autonom = '';
-    private $Area = 'ПЕСТОВСКИЙ РАЙОН';
-    private $City = 'СЕМЫТИНО';
+    private $Area = 'Пестовский район';
+    private $City = 'Семытино';
     private $City1 = '';
     private $ActDate = '20110117';
     private $IndexOld = '';

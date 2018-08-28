@@ -27,14 +27,14 @@ final class Office241052 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 241052;
-    private $OPSName = 'БРЯНСК 52 ППС';
-    private $OPSType = 'ППС';
+    private $OPSName = 'Брянск 52 Ппс';
+    private $OPSType = 'Ппс';
     private $OPSSubm = 241000;
-    private $Region = 'БРЯНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Брянская область';
     private $Autonom = '';
-    private $Area = 'БРЯНСКИЙ РАЙОН';
-    private $City = 'ЧЕРНЕЦ';
-    private $City1 = 'СОСНОВЫЙ БОР';
+    private $Area = 'Брянский район';
+    private $City = 'Чернец';
+    private $City1 = 'Сосновый Бор';
     private $ActDate = '20180606';
     private $IndexOld = '';
 }

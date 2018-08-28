@@ -27,13 +27,13 @@ final class Office360861 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 360861;
-    private $OPSName = 'НАЛЬЧИК ПОЧТАМТ УЧ.-1';
+    private $OPSName = 'Нальчик Почтамт Уч.-1';
     private $OPSType = 'Участок';
     private $OPSSubm = 360000;
-    private $Region = 'КАБАРДИНО-БАЛКАРСКАЯ РЕСПУБЛИКА';
+    private $Region = 'Кабардино-Балкарская Республика';
     private $Autonom = '';
-    private $Area = 'ЧЕРЕКСКИЙ РАЙОН';
-    private $City = 'КАШХАТАУ';
+    private $Area = 'Черекский район';
+    private $City = 'Кашхатау';
     private $City1 = '';
     private $ActDate = '20100507';
     private $IndexOld = '';

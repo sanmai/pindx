@@ -27,13 +27,13 @@ final class Office152086 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 152086;
-    private $OPSName = 'РЫЖИКОВО';
-    private $OPSType = 'ПЕРЕДВИЖНОЕ ОС';
+    private $OPSName = 'Рыжиково';
+    private $OPSType = 'Передвижное Ос';
     private $OPSSubm = 152099;
-    private $Region = 'ЯРОСЛАВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ярославская область';
     private $Autonom = '';
-    private $Area = 'ДАНИЛОВСКИЙ РАЙОН';
-    private $City = 'РЫЖИКОВО';
+    private $Area = 'Даниловский район';
+    private $City = 'Рыжиково';
     private $City1 = '';
     private $ActDate = '20140411';
     private $IndexOld = '';

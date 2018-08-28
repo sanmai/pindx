@@ -27,13 +27,13 @@ final class Office363017 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 363017;
-    private $OPSName = 'ЗАМАНКУЛ';
+    private $OPSName = 'Заманкул';
     private $OPSType = 'О';
     private $OPSSubm = 363020;
-    private $Region = 'СЕВЕРНАЯ ОСЕТИЯ - АЛАНИЯ РЕСПУБЛИКА';
+    private $Region = 'Северная Осетия - Алания Республика';
     private $Autonom = '';
-    private $Area = 'ПРАВОБЕРЕЖНЫЙ РАЙОН';
-    private $City = 'ЗАМАНКУЛ';
+    private $Area = 'Правобережный район';
+    private $City = 'Заманкул';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

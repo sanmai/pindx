@@ -27,13 +27,13 @@ final class Office606329 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 606329;
-    private $OPSName = 'ДАЛЬНЕЕ КОНСТАНТИНОВО ПОЧТАМТ';
+    private $OPSName = 'Дальнее Константиново Почтамт';
     private $OPSType = 'П';
     private $OPSSubm = 603700;
-    private $Region = 'НИЖЕГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Нижегородская область';
     private $Autonom = '';
-    private $Area = 'ДАЛЬНЕКОНСТАНТИНОВСКИЙ РАЙОН';
-    private $City = 'ДАЛЬНЕЕ КОНСТАНТИНОВО';
+    private $Area = 'Дальнеконстантиновский район';
+    private $City = 'Дальнее Константиново';
     private $City1 = '';
     private $ActDate = '20080222';
     private $IndexOld = '';

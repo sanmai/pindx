@@ -27,13 +27,13 @@ final class Office363724 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 363724;
-    private $OPSName = 'ТЕЛЬМАНА';
+    private $OPSName = 'Тельмана';
     private $OPSType = 'О';
     private $OPSSubm = 363750;
-    private $Region = 'СЕВЕРНАЯ ОСЕТИЯ - АЛАНИЯ РЕСПУБЛИКА';
+    private $Region = 'Северная Осетия - Алания Республика';
     private $Autonom = '';
-    private $Area = 'МОЗДОКСКИЙ РАЙОН';
-    private $City = 'ТЕЛЬМАНА';
+    private $Area = 'Моздокский район';
+    private $City = 'Тельмана';
     private $City1 = '';
     private $ActDate = '20180813';
     private $IndexOld = '';

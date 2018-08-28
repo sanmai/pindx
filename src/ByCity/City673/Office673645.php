@@ -27,13 +27,13 @@ final class Office673645 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 673645;
-    private $OPSName = 'ТРУБАЧЕВО';
+    private $OPSName = 'Трубачево';
     private $OPSType = 'О';
     private $OPSSubm = 673429;
-    private $Region = 'ЗАБАЙКАЛЬСКИЙ КРАЙ';
+    private $Region = 'Забайкальский край';
     private $Autonom = '';
-    private $Area = 'ГАЗИМУРО-ЗАВОДСКИЙ РАЙОН';
-    private $City = 'ТРУБАЧЕВО';
+    private $Area = 'Газимуро-Заводский район';
+    private $City = 'Трубачево';
     private $City1 = '';
     private $ActDate = '20051117';
     private $IndexOld = '';

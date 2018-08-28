@@ -27,13 +27,13 @@ final class Office462121 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 462121;
-    private $OPSName = 'КУЛЬЧУМОВО';
+    private $OPSName = 'Кульчумово';
     private $OPSType = 'О';
     private $OPSSubm = 462159;
-    private $Region = 'ОРЕНБУРГСКАЯ ОБЛАСТЬ';
+    private $Region = 'Оренбургская область';
     private $Autonom = '';
-    private $Area = 'САРАКТАШСКИЙ РАЙОН';
-    private $City = 'КУЛЬЧУМОВО';
+    private $Area = 'Саракташский район';
+    private $City = 'Кульчумово';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

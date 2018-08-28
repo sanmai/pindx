@@ -27,13 +27,13 @@ final class Office692015 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 692015;
-    private $OPSName = 'ВЕРХНИЙ ПЕРЕВАЛ';
+    private $OPSName = 'Верхний Перевал';
     private $OPSType = 'О';
     private $OPSSubm = 692130;
-    private $Region = 'ПРИМОРСКИЙ КРАЙ';
+    private $Region = 'Приморский край';
     private $Autonom = '';
-    private $Area = 'ПОЖАРСКИЙ РАЙОН';
-    private $City = 'ВЕРХНИЙ ПЕРЕВАЛ';
+    private $Area = 'Пожарский район';
+    private $City = 'Верхний Перевал';
     private $City1 = '';
     private $ActDate = '20050920';
     private $IndexOld = '';

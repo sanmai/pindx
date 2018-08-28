@@ -27,13 +27,13 @@ final class Office347127 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 347127;
-    private $OPSName = 'СВЕТОЧ';
+    private $OPSName = 'Светоч';
     private $OPSType = 'О';
     private $OPSSubm = 347239;
-    private $Region = 'РОСТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ростовская область';
     private $Autonom = '';
-    private $Area = 'МИЛЮТИНСКИЙ РАЙОН';
-    private $City = 'СВЕТОЧ';
+    private $Area = 'Милютинский район';
+    private $City = 'Светоч';
     private $City1 = '';
     private $ActDate = '20070214';
     private $IndexOld = '';

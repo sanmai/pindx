@@ -27,13 +27,13 @@ final class Office423046 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 423046;
-    private $OPSName = 'НУРЛАТ КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Нурлат Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 423049;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'НУРЛАТСКИЙ РАЙОН';
-    private $City = 'НУРЛАТ';
+    private $Area = 'Нурлатский район';
+    private $City = 'Нурлат';
     private $City1 = '';
     private $ActDate = '20170823';
     private $IndexOld = '';

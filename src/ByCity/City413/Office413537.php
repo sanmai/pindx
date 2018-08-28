@@ -27,13 +27,13 @@ final class Office413537 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 413537;
-    private $OPSName = 'СЕМЕНО-ПОЛТАВКА';
+    private $OPSName = 'Семено-Полтавка';
     private $OPSType = 'О';
     private $OPSSubm = 413500;
-    private $Region = 'САРАТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Саратовская область';
     private $Autonom = '';
-    private $Area = 'ЕРШОВСКИЙ РАЙОН';
-    private $City = 'СЕМЕНО-ПОЛТАВКА';
+    private $Area = 'Ершовский район';
+    private $City = 'Семено-Полтавка';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

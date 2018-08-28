@@ -27,13 +27,13 @@ final class Office602240 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 602240;
-    private $OPSName = 'МУРОМСКИЙ';
+    private $OPSName = 'Муромский';
     private $OPSType = 'О';
     private $OPSSubm = 602250;
-    private $Region = 'ВЛАДИМИРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Владимирская область';
     private $Autonom = '';
-    private $Area = 'МУРОМСКИЙ РАЙОН';
-    private $City = 'МУРОМСКИЙ';
+    private $Area = 'Муромский район';
+    private $City = 'Муромский';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

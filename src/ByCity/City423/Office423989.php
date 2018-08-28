@@ -27,13 +27,13 @@ final class Office423989 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 423989;
-    private $OPSName = 'СЕМЯКОВО';
+    private $OPSName = 'Семяково';
     private $OPSType = 'О';
     private $OPSSubm = 423349;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'МУСЛЮМОВСКИЙ РАЙОН';
-    private $City = 'СЕМЯКОВО';
+    private $Area = 'Муслюмовский район';
+    private $City = 'Семяково';
     private $City1 = '';
     private $ActDate = '20111223';
     private $IndexOld = '';

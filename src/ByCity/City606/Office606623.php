@@ -27,13 +27,13 @@ final class Office606623 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 606623;
-    private $OPSName = 'ФУНДРИКОВО';
+    private $OPSName = 'Фундриково';
     private $OPSType = 'О';
     private $OPSSubm = 606669;
-    private $Region = 'НИЖЕГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Нижегородская область';
     private $Autonom = '';
-    private $Area = 'СЕМЕНОВСКИЙ РАЙОН';
-    private $City = 'ФУНДРИКОВО';
+    private $Area = 'Семеновский район';
+    private $City = 'Фундриково';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

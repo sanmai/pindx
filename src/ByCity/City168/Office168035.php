@@ -27,13 +27,13 @@ final class Office168035 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 168035;
-    private $OPSName = 'НАМСК';
+    private $OPSName = 'Намск';
     private $OPSType = 'О';
     private $OPSSubm = 168099;
-    private $Region = 'КОМИ РЕСПУБЛИКА';
+    private $Region = 'Коми Республика';
     private $Autonom = '';
-    private $Area = 'КОРТКЕРОССКИЙ РАЙОН';
-    private $City = 'НАМСК';
+    private $Area = 'Корткеросский район';
+    private $City = 'Намск';
     private $City1 = '';
     private $ActDate = '20051114';
     private $IndexOld = '';

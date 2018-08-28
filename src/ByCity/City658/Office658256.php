@@ -27,13 +27,13 @@ final class Office658256 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 658256;
-    private $OPSName = 'ЗЕЛЕНАЯ ДУБРАВА';
+    private $OPSName = 'Зеленая Дубрава';
     private $OPSType = 'О';
     private $OPSSubm = 658229;
-    private $Region = 'АЛТАЙСКИЙ КРАЙ';
+    private $Region = 'Алтайский край';
     private $Autonom = '';
-    private $Area = 'РУБЦОВСКИЙ РАЙОН';
-    private $City = 'ЗЕЛЕНАЯ ДУБРАВА';
+    private $Area = 'Рубцовский район';
+    private $City = 'Зеленая Дубрава';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

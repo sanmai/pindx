@@ -27,13 +27,13 @@ final class Office633450 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 633450;
-    private $OPSName = 'ТОГУЧИН ПОЧТАМТ';
+    private $OPSName = 'Тогучин Почтамт';
     private $OPSType = 'П';
     private $OPSSubm = 630700;
-    private $Region = 'НОВОСИБИРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Новосибирская область';
     private $Autonom = '';
-    private $Area = 'ТОГУЧИНСКИЙ РАЙОН';
-    private $City = 'ТОГУЧИН';
+    private $Area = 'Тогучинский район';
+    private $City = 'Тогучин';
     private $City1 = '';
     private $ActDate = '20121113';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office627035 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 627035;
-    private $OPSName = 'СИНГУЛЬ-ТАТАРСКИЙ';
+    private $OPSName = 'Сингуль-Татарский';
     private $OPSType = 'О';
     private $OPSSubm = 627059;
-    private $Region = 'ТЮМЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тюменская область';
     private $Autonom = '';
-    private $Area = 'ЯЛУТОРОВСКИЙ РАЙОН';
-    private $City = 'СИНГУЛЬ ТАТАРСКИЙ';
+    private $Area = 'Ялуторовский район';
+    private $City = 'Сингуль Татарский';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

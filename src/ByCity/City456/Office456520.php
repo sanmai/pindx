@@ -27,13 +27,13 @@ final class Office456520 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 456520;
-    private $OPSName = 'ПОЛЕТАЕВО';
+    private $OPSName = 'Полетаево';
     private $OPSType = 'О';
     private $OPSSubm = 454999;
-    private $Region = 'ЧЕЛЯБИНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Челябинская область';
     private $Autonom = '';
-    private $Area = 'СОСНОВСКИЙ РАЙОН';
-    private $City = 'ПОЛЕТАЕВО';
+    private $Area = 'Сосновский район';
+    private $City = 'Полетаево';
     private $City1 = '';
     private $ActDate = '20061101';
     private $IndexOld = '';

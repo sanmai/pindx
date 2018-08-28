@@ -27,14 +27,14 @@ final class Office357561 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 357561;
-    private $OPSName = 'ГОРЯЧЕВОДСКИЙ 1';
+    private $OPSName = 'Горячеводский 1';
     private $OPSType = 'О';
     private $OPSSubm = 357500;
-    private $Region = 'СТАВРОПОЛЬСКИЙ КРАЙ';
+    private $Region = 'Ставропольский край';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'ПЯТИГОРСК';
-    private $City1 = 'ГОРЯЧЕВОДСКИЙ';
+    private $City = 'Пятигорск';
+    private $City1 = 'Горячеводский';
     private $ActDate = '20001030';
     private $IndexOld = '';
 }

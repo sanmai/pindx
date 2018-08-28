@@ -27,13 +27,13 @@ final class Office404014 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 404014;
-    private $OPSName = 'ГОРНАЯ ПРОЛЕЙКА';
+    private $OPSName = 'Горная Пролейка';
     private $OPSType = 'О';
     private $OPSSubm = 404029;
-    private $Region = 'ВОЛГОГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Волгоградская область';
     private $Autonom = '';
-    private $Area = 'ДУБОВСКИЙ РАЙОН';
-    private $City = 'ГОРНАЯ ПРОЛЕЙКА';
+    private $Area = 'Дубовский район';
+    private $City = 'Горная Пролейка';
     private $City1 = '';
     private $ActDate = '20120613';
     private $IndexOld = '';

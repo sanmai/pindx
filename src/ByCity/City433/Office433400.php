@@ -27,13 +27,13 @@ final class Office433400 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 433400;
-    private $OPSName = 'ЧЕРДАКЛЫ';
+    private $OPSName = 'Чердаклы';
     private $OPSType = 'О';
     private $OPSSubm = 433439;
-    private $Region = 'УЛЬЯНОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ульяновская область';
     private $Autonom = '';
-    private $Area = 'ЧЕРДАКЛИНСКИЙ РАЙОН';
-    private $City = 'ЧЕРДАКЛЫ';
+    private $Area = 'Чердаклинский район';
+    private $City = 'Чердаклы';
     private $City1 = '';
     private $ActDate = '20081106';
     private $IndexOld = '';

@@ -27,14 +27,14 @@ final class Office456799 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 456799;
-    private $OPSName = 'МЕТЛИНО';
+    private $OPSName = 'Метлино';
     private $OPSType = 'О';
     private $OPSSubm = 456879;
-    private $Region = 'ЧЕЛЯБИНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Челябинская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'ОЗЕРСК';
-    private $City1 = 'МЕТЛИНО';
+    private $City = 'Озерск';
+    private $City1 = 'Метлино';
     private $ActDate = '20070208';
     private $IndexOld = '';
 }

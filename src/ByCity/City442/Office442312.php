@@ -27,13 +27,13 @@ final class Office442312 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 442312;
-    private $OPSName = 'МОРДОВСКИЙ ИШИМ';
+    private $OPSName = 'Мордовский Ишим';
     private $OPSType = 'О';
     private $OPSSubm = 442699;
-    private $Region = 'ПЕНЗЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Пензенская область';
     private $Autonom = '';
-    private $Area = 'ГОРОДИЩЕНСКИЙ РАЙОН';
-    private $City = 'МОРДОВСКИЙ ИШИМ';
+    private $Area = 'Городищенский район';
+    private $City = 'Мордовский Ишим';
     private $City1 = '';
     private $ActDate = '20060626';
     private $IndexOld = '';

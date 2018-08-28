@@ -27,13 +27,13 @@ final class Office360011 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 360011;
-    private $OPSName = 'НАЛЬЧИК 11 ППС';
-    private $OPSType = 'ППС';
+    private $OPSName = 'Нальчик 11 Ппс';
+    private $OPSType = 'Ппс';
     private $OPSSubm = 360000;
-    private $Region = 'КАБАРДИНО-БАЛКАРСКАЯ РЕСПУБЛИКА';
+    private $Region = 'Кабардино-Балкарская Республика';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'НАЛЬЧИК';
+    private $City = 'Нальчик';
     private $City1 = '';
     private $ActDate = '20170623';
     private $IndexOld = '';

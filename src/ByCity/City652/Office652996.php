@@ -27,13 +27,13 @@ final class Office652996 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 652996;
-    private $OPSName = 'ТАШТАГОЛ КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Таштагол Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 652999;
-    private $Region = 'КЕМЕРОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Кемеровская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'ТАШТАГОЛ';
+    private $City = 'Таштагол';
     private $City1 = '';
     private $ActDate = '20170915';
     private $IndexOld = '';

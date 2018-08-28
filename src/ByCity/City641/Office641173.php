@@ -27,13 +27,13 @@ final class Office641173 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 641173;
-    private $OPSName = 'КОСТЫГИН ЛОГ';
+    private $OPSName = 'Костыгин Лог';
     private $OPSType = 'О';
     private $OPSSubm = 641109;
-    private $Region = 'КУРГАНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Курганская область';
     private $Autonom = '';
-    private $Area = 'ЦЕЛИННЫЙ РАЙОН';
-    private $City = 'КОСТЫГИН ЛОГ';
+    private $Area = 'Целинный район';
+    private $City = 'Костыгин Лог';
     private $City1 = '';
     private $ActDate = '20051116';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office446352 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 446352;
-    private $OPSName = 'КИНЕЛЬ-ЧЕРКАССЫ 2 ППС';
-    private $OPSType = 'ППС';
+    private $OPSName = 'Кинель-Черкассы 2 Ппс';
+    private $OPSType = 'Ппс';
     private $OPSSubm = 446319;
-    private $Region = 'САМАРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Самарская область';
     private $Autonom = '';
-    private $Area = 'КИНЕЛЬ-ЧЕРКАССКИЙ РАЙОН';
-    private $City = 'КИНЕЛЬ-ЧЕРКАССЫ';
+    private $Area = 'Кинель-Черкасский район';
+    private $City = 'Кинель-Черкассы';
     private $City1 = '';
     private $ActDate = '20170623';
     private $IndexOld = '';

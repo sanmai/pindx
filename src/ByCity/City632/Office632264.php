@@ -27,13 +27,13 @@ final class Office632264 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 632264;
-    private $OPSName = 'СИБИРЦЕВО-ВТОРОЕ';
+    private $OPSName = 'Сибирцево-Второе';
     private $OPSType = 'О';
     private $OPSSubm = 632200;
-    private $Region = 'НОВОСИБИРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Новосибирская область';
     private $Autonom = '';
-    private $Area = 'ВЕНГЕРОВСКИЙ РАЙОН';
-    private $City = 'СИБИРЦЕВО 2-Е';
+    private $Area = 'Венгеровский район';
+    private $City = 'Сибирцево 2-Е';
     private $City1 = '';
     private $ActDate = '20060705';
     private $IndexOld = '';

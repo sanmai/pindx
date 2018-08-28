@@ -27,13 +27,13 @@ final class Office249141 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 249141;
-    private $OPSName = 'КОЗЕЛЬСК 41';
-    private $OPSType = 'ПЕРЕДВИЖНОЕ ОС';
+    private $OPSName = 'Козельск 41';
+    private $OPSType = 'Передвижное Ос';
     private $OPSSubm = 249739;
-    private $Region = 'КАЛУЖСКАЯ ОБЛАСТЬ';
+    private $Region = 'Калужская область';
     private $Autonom = '';
-    private $Area = 'КОЗЕЛЬСКИЙ РАЙОН';
-    private $City = 'КОЗЕЛЬСК';
+    private $Area = 'Козельский район';
+    private $City = 'Козельск';
     private $City1 = '';
     private $ActDate = '20150716';
     private $IndexOld = '';

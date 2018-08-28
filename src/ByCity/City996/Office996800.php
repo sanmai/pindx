@@ -27,13 +27,13 @@ final class Office996800 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 996800;
-    private $OPSName = 'ХАБАРОВСК-ПОЧТОМАТ (АПС)';
+    private $OPSName = 'Хабаровск-Почтомат (Апс)';
     private $OPSType = 'Почтомат';
     private $OPSSubm = 680031;
-    private $Region = 'ХАБАРОВСКИЙ КРАЙ';
+    private $Region = 'Хабаровский край';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'ХАБАРОВСК';
+    private $City = 'Хабаровск';
     private $City1 = '';
     private $ActDate = '20170717';
     private $IndexOld = '';

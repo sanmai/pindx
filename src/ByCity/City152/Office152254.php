@@ -27,13 +27,13 @@ final class Office152254 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 152254;
-    private $OPSName = 'ИЛЬИНСКОЕ-УРУСОВО';
+    private $OPSName = 'Ильинское-Урусово';
     private $OPSType = 'О';
     private $OPSSubm = 150599;
-    private $Region = 'ЯРОСЛАВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ярославская область';
     private $Autonom = '';
-    private $Area = 'ГАВРИЛОВ-ЯМСКИЙ РАЙОН';
-    private $City = 'ИЛЬИНСКОЕ УРУСОВО';
+    private $Area = 'Гаврилов-Ямский район';
+    private $City = 'Ильинское Урусово';
     private $City1 = '';
     private $ActDate = '20150330';
     private $IndexOld = '';

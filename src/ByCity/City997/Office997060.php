@@ -27,13 +27,13 @@ final class Office997060 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 997060;
-    private $OPSName = 'ЧЕРКЕССК-ПОЧТОМАТ (АПС)';
+    private $OPSName = 'Черкесск-Почтомат (Апс)';
     private $OPSType = 'Почтомат';
     private $OPSSubm = 369000;
-    private $Region = 'КАРАЧАЕВО-ЧЕРКЕССКАЯ РЕСПУБЛИКА';
+    private $Region = 'Карачаево-Черкесская Республика';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'ЧЕРКЕССК';
+    private $City = 'Черкесск';
     private $City1 = '';
     private $ActDate = '20180606';
     private $IndexOld = '';

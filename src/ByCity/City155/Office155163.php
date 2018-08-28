@@ -27,13 +27,13 @@ final class Office155163 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 155163;
-    private $OPSName = 'СВЕТИКОВО';
+    private $OPSName = 'Светиково';
     private $OPSType = 'О';
     private $OPSSubm = 155059;
-    private $Region = 'ИВАНОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ивановская область';
     private $Autonom = '';
-    private $Area = 'КОМСОМОЛЬСКИЙ РАЙОН';
-    private $City = 'СВЕТИКОВО';
+    private $Area = 'Комсомольский район';
+    private $City = 'Светиково';
     private $City1 = '';
     private $ActDate = '20060721';
     private $IndexOld = '';

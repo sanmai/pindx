@@ -27,13 +27,13 @@ final class Office346011 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 346011;
-    private $OPSName = 'МАЛАЯ ЛОЗОВКА';
+    private $OPSName = 'Малая Лозовка';
     private $OPSType = 'О';
     private $OPSSubm = 346139;
-    private $Region = 'РОСТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ростовская область';
     private $Autonom = '';
-    private $Area = 'ЧЕРТКОВСКИЙ РАЙОН';
-    private $City = 'МАЛАЯ ЛАЗОВКА';
+    private $Area = 'Чертковский район';
+    private $City = 'Малая Лазовка';
     private $City1 = '';
     private $ActDate = '20070214';
     private $IndexOld = '';

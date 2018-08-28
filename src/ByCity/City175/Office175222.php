@@ -27,13 +27,13 @@ final class Office175222 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 175222;
-    private $OPSName = 'ЧЕРЕНЧИЦЫ';
+    private $OPSName = 'Черенчицы';
     private $OPSType = 'О';
     private $OPSSubm = 175200;
-    private $Region = 'НОВГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Новгородская область';
     private $Autonom = '';
-    private $Area = 'СТАРОРУССКИЙ РАЙОН';
-    private $City = 'ЧЕРЕНЧИЦЫ';
+    private $Area = 'Старорусский район';
+    private $City = 'Черенчицы';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

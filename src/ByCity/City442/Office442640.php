@@ -27,13 +27,13 @@ final class Office442640 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 442640;
-    private $OPSName = 'БОЛЬШАЯ КАВЕНДРА';
+    private $OPSName = 'Большая Кавендра';
     private $OPSType = 'О';
     private $OPSSubm = 442169;
-    private $Region = 'ПЕНЗЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Пензенская область';
     private $Autonom = '';
-    private $Area = 'НАРОВЧАТСКИЙ РАЙОН';
-    private $City = 'БОЛЬШАЯ КАВЕНДРА';
+    private $Area = 'Наровчатский район';
+    private $City = 'Большая Кавендра';
     private $City1 = '';
     private $ActDate = '20060901';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office686242 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 686242;
-    private $OPSName = 'БУРХАЛА';
+    private $OPSName = 'Бурхала';
     private $OPSType = 'О';
     private $OPSSubm = 685700;
-    private $Region = 'МАГАДАНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Магаданская область';
     private $Autonom = '';
-    private $Area = 'ЯГОДНИНСКИЙ РАЙОН';
-    private $City = 'БУРХАЛА';
+    private $Area = 'Ягоднинский район';
+    private $City = 'Бурхала';
     private $City1 = '';
     private $ActDate = '20110217';
     private $IndexOld = '';

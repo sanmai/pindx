@@ -27,13 +27,13 @@ final class Office633528 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 633528;
-    private $OPSName = 'ЧЕРЕПАНОВО УОП';
+    private $OPSName = 'Черепаново Уоп';
     private $OPSType = 'Участок';
     private $OPSSubm = 633529;
-    private $Region = 'НОВОСИБИРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Новосибирская область';
     private $Autonom = '';
-    private $Area = 'ЧЕРЕПАНОВСКИЙ РАЙОН';
-    private $City = 'ЧЕРЕПАНОВО';
+    private $Area = 'Черепановский район';
+    private $City = 'Черепаново';
     private $City1 = '';
     private $ActDate = '20180206';
     private $IndexOld = '';

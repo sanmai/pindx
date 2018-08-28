@@ -27,13 +27,13 @@ final class Office429174 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 429174;
-    private $OPSName = 'МАЛОЕ БУЯНОВО';
+    private $OPSName = 'Малое Буяново';
     private $OPSType = 'О';
     private $OPSSubm = 429399;
-    private $Region = 'ЧУВАШИЯ РЕСПУБЛИКА';
+    private $Region = 'Чувашия Республика';
     private $Autonom = '';
-    private $Area = 'ШЕМУРШИНСКИЙ РАЙОН';
-    private $City = 'МАЛОЕ БУЯНОВО';
+    private $Area = 'Шемуршинский район';
+    private $City = 'Малое Буяново';
     private $City1 = '';
     private $ActDate = '20080407';
     private $IndexOld = '';

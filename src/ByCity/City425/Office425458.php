@@ -27,13 +27,13 @@ final class Office425458 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 425458;
-    private $OPSName = 'ЛОСКУТОВО';
+    private $OPSName = 'Лоскутово';
     private $OPSType = 'О';
     private $OPSSubm = 425479;
-    private $Region = 'МАРИЙ ЭЛ РЕСПУБЛИКА';
+    private $Region = 'Марий Эл Республика';
     private $Autonom = '';
-    private $Area = 'СЕРНУРСКИЙ РАЙОН';
-    private $City = 'ЛОСКУТОВО';
+    private $Area = 'Сернурский район';
+    private $City = 'Лоскутово';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

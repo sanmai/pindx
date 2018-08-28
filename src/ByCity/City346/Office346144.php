@@ -27,13 +27,13 @@ final class Office346144 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 346144;
-    private $OPSName = 'МАЛЬЧЕВСКО-ПОЛНЕНСКАЯ';
+    private $OPSName = 'Мальчевско-Полненская';
     private $OPSType = 'О';
     private $OPSSubm = 346139;
-    private $Region = 'РОСТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ростовская область';
     private $Autonom = '';
-    private $Area = 'МИЛЛЕРОВСКИЙ РАЙОН';
-    private $City = 'МАЛЬЧЕВСКО-ПОЛНЕНСКАЯ';
+    private $Area = 'Миллеровский район';
+    private $City = 'Мальчевско-Полненская';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

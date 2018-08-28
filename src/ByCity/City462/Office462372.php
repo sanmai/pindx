@@ -27,14 +27,14 @@ final class Office462372 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 462372;
-    private $OPSName = 'ХАБАРНОЕ';
+    private $OPSName = 'Хабарное';
     private $OPSType = 'О';
     private $OPSSubm = 462400;
-    private $Region = 'ОРЕНБУРГСКАЯ ОБЛАСТЬ';
+    private $Region = 'Оренбургская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'НОВОТРОИЦК';
-    private $City1 = 'ХАБАРНОЕ';
+    private $City = 'Новотроицк';
+    private $City1 = 'Хабарное';
     private $ActDate = '20040924';
     private $IndexOld = '';
 }

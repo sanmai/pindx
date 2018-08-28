@@ -27,13 +27,13 @@ final class Office142272 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 142272;
-    private $OPSName = 'ФЕНИНО';
+    private $OPSName = 'Фенино';
     private $OPSType = 'О';
     private $OPSSubm = 142169;
-    private $Region = 'МОСКОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Московская область';
     private $Autonom = '';
-    private $Area = 'СЕРПУХОВСКИЙ РАЙОН';
-    private $City = 'ФЕНИНО';
+    private $Area = 'Серпуховский район';
+    private $City = 'Фенино';
     private $City1 = '';
     private $ActDate = '20070427';
     private $IndexOld = '';

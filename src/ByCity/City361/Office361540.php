@@ -27,13 +27,13 @@ final class Office361540 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 361540;
-    private $OPSName = 'БАКСАН 10 ППС';
-    private $OPSType = 'ППС';
+    private $OPSName = 'Баксан 10 Ппс';
+    private $OPSType = 'Ппс';
     private $OPSSubm = 361530;
-    private $Region = 'КАБАРДИНО-БАЛКАРСКАЯ РЕСПУБЛИКА';
+    private $Region = 'Кабардино-Балкарская Республика';
     private $Autonom = '';
-    private $Area = 'БАКСАНСКИЙ РАЙОН';
-    private $City = 'БАКСАН';
+    private $Area = 'Баксанский район';
+    private $City = 'Баксан';
     private $City1 = '';
     private $ActDate = '20170713';
     private $IndexOld = '';

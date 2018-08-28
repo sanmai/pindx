@@ -27,13 +27,13 @@ final class Office353404 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 353404;
-    private $OPSName = 'НИЖНЯЯ ГОСТАГАЙКА';
+    private $OPSName = 'Нижняя Гостагайка';
     private $OPSType = 'О';
     private $OPSSubm = 353459;
-    private $Region = 'КРАСНОДАРСКИЙ КРАЙ';
+    private $Region = 'Краснодарский край';
     private $Autonom = '';
-    private $Area = 'АНАПСКИЙ РАЙОН';
-    private $City = 'НИЖНЯЯ ГОСТАГАЙКА';
+    private $Area = 'Анапский район';
+    private $City = 'Нижняя Гостагайка';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

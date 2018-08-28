@@ -27,13 +27,13 @@ final class Office422344 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 422344;
-    private $OPSName = 'СРЕДНЕЕ БАЛТАЕВО';
+    private $OPSName = 'Среднее Балтаево';
     private $OPSType = 'О';
     private $OPSSubm = 422459;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'АПАСТОВСКИЙ РАЙОН';
-    private $City = 'СРЕДНЕЕ БАЛТАЕВО';
+    private $Area = 'Апастовский район';
+    private $City = 'Среднее Балтаево';
     private $City1 = '';
     private $ActDate = '20020927';
     private $IndexOld = '';

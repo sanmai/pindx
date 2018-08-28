@@ -27,13 +27,13 @@ final class Office249800 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 249800;
-    private $OPSName = 'ФЕРЗИКОВО';
+    private $OPSName = 'Ферзиково';
     private $OPSType = 'О';
     private $OPSSubm = 248099;
-    private $Region = 'КАЛУЖСКАЯ ОБЛАСТЬ';
+    private $Region = 'Калужская область';
     private $Autonom = '';
-    private $Area = 'ФЕРЗИКОВСКИЙ РАЙОН';
-    private $City = 'ФЕРЗИКОВО';
+    private $Area = 'Ферзиковский район';
+    private $City = 'Ферзиково';
     private $City1 = '';
     private $ActDate = '20040826';
     private $IndexOld = '';

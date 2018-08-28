@@ -27,13 +27,13 @@ final class Office682359 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 682359;
-    private $OPSName = 'ДУБОВЫЙ МЫС';
+    private $OPSName = 'Дубовый Мыс';
     private $OPSType = 'О';
     private $OPSSubm = 682640;
-    private $Region = 'ХАБАРОВСКИЙ КРАЙ';
+    private $Region = 'Хабаровский край';
     private $Autonom = '';
-    private $Area = 'НАНАЙСКИЙ РАЙОН';
-    private $City = 'ДУБОВЫЙ МЫС';
+    private $Area = 'Нанайский район';
+    private $City = 'Дубовый Мыс';
     private $City1 = '';
     private $ActDate = '20060620';
     private $IndexOld = '';

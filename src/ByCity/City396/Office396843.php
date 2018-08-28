@@ -27,13 +27,13 @@ final class Office396843 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 396843;
-    private $OPSName = 'ЕМАНЧА-ПЕРВАЯ';
+    private $OPSName = 'Еманча-Первая';
     private $OPSType = 'О';
     private $OPSSubm = 396959;
-    private $Region = 'ВОРОНЕЖСКАЯ ОБЛАСТЬ';
+    private $Region = 'Воронежская область';
     private $Autonom = '';
-    private $Area = 'ХОХОЛЬСКИЙ РАЙОН';
-    private $City = 'ЕМАНЧА 1-Я';
+    private $Area = 'Хохольский район';
+    private $City = 'Еманча 1-Я';
     private $City1 = '';
     private $ActDate = '20171031';
     private $IndexOld = '';

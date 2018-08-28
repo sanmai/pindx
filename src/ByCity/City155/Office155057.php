@@ -27,13 +27,13 @@ final class Office155057 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 155057;
-    private $OPSName = 'НОВОЕ ГОРЯНОВО';
+    private $OPSName = 'Новое Горяново';
     private $OPSType = 'О';
     private $OPSSubm = 155059;
-    private $Region = 'ИВАНОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ивановская область';
     private $Autonom = '';
-    private $Area = 'ТЕЙКОВСКИЙ РАЙОН';
-    private $City = 'НОВОЕ ГОРЯНОВО';
+    private $Area = 'Тейковский район';
+    private $City = 'Новое Горяново';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

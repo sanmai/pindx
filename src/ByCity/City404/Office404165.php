@@ -27,13 +27,13 @@ final class Office404165 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 404165;
-    private $OPSName = 'ИМ. МАКСИМА ГОРЬКОГО';
+    private $OPSName = 'Им. Максима Горького';
     private $OPSType = 'О';
     private $OPSSubm = 404100;
-    private $Region = 'ВОЛГОГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Волгоградская область';
     private $Autonom = '';
-    private $Area = 'СРЕДНЕАХТУБИНСКИЙ РАЙОН';
-    private $City = 'ИМЕНИ МАКСИМА ГОРЬКОГО';
+    private $Area = 'Среднеахтубинский район';
+    private $City = 'Имени Максима Горького';
     private $City1 = '';
     private $ActDate = '20070411';
     private $IndexOld = '';

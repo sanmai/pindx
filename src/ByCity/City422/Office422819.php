@@ -27,13 +27,13 @@ final class Office422819 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 422819;
-    private $OPSName = 'КАМСКОЕ УСТЬЕ ПОЧТАМТ';
+    private $OPSName = 'Камское Устье Почтамт';
     private $OPSType = 'П';
     private $OPSSubm = 421700;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'КАМСКО-УСТЬИНСКИЙ РАЙОН';
-    private $City = 'КАМСКОЕ УСТЬЕ';
+    private $Area = 'Камско-Устьинский район';
+    private $City = 'Камское Устье';
     private $City1 = '';
     private $ActDate = '20110927';
     private $IndexOld = '';

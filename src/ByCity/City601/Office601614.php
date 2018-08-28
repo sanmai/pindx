@@ -27,13 +27,13 @@ final class Office601614 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 601614;
-    private $OPSName = 'ГОДУНОВО';
+    private $OPSName = 'Годуново';
     private $OPSType = 'О';
     private $OPSSubm = 601659;
-    private $Region = 'ВЛАДИМИРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Владимирская область';
     private $Autonom = '';
-    private $Area = 'АЛЕКСАНДРОВСКИЙ РАЙОН';
-    private $City = 'ГОДУНОВО';
+    private $Area = 'Александровский район';
+    private $City = 'Годуново';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

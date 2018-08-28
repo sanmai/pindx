@@ -27,13 +27,13 @@ final class Office369389 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 369389;
-    private $OPSName = 'РИМГОРСКОЕ';
+    private $OPSName = 'Римгорское';
     private $OPSType = 'О';
     private $OPSSubm = 369329;
-    private $Region = 'КАРАЧАЕВО-ЧЕРКЕССКАЯ РЕСПУБЛИКА';
+    private $Region = 'Карачаево-Черкесская Республика';
     private $Autonom = '';
-    private $Area = 'МАЛОКАРАЧАЕВСКИЙ РАЙОН';
-    private $City = 'РИМГОРСКОЕ';
+    private $Area = 'Малокарачаевский район';
+    private $City = 'Римгорское';
     private $City1 = '';
     private $ActDate = '20060315';
     private $IndexOld = '';

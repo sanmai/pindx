@@ -27,13 +27,13 @@ final class Office186187 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 186187;
-    private $OPSName = 'ТАМБИЧОЗЕРО';
+    private $OPSName = 'Тамбичозеро';
     private $OPSType = 'О';
     private $OPSSubm = 186359;
-    private $Region = 'КАРЕЛИЯ РЕСПУБЛИКА';
+    private $Region = 'Карелия Республика';
     private $Autonom = '';
-    private $Area = 'ПУДОЖСКИЙ РАЙОН';
-    private $City = 'ТАМБИЧОЗЕРО';
+    private $Area = 'Пудожский район';
+    private $City = 'Тамбичозеро';
     private $City1 = '';
     private $ActDate = '20050729';
     private $IndexOld = '';

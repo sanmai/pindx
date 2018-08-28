@@ -27,13 +27,13 @@ final class Office242314 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 242314;
-    private $OPSName = 'ХОЛМЕЧЬ';
-    private $OPSType = 'ПЕРЕДВИЖНОЕ ОС';
+    private $OPSName = 'Холмечь';
+    private $OPSType = 'Передвижное Ос';
     private $OPSSubm = 242339;
-    private $Region = 'БРЯНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Брянская область';
     private $Autonom = '';
-    private $Area = 'БРАСОВСКИЙ РАЙОН';
-    private $City = 'ХОЛМЕЧЬ';
+    private $Area = 'Брасовский район';
+    private $City = 'Холмечь';
     private $City1 = '';
     private $ActDate = '20140411';
     private $IndexOld = '';

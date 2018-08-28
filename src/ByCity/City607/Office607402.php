@@ -27,13 +27,13 @@ final class Office607402 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 607402;
-    private $OPSName = 'ТАНАЙКОВО';
+    private $OPSName = 'Танайково';
     private $OPSType = 'О';
     private $OPSSubm = 606329;
-    private $Region = 'НИЖЕГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Нижегородская область';
     private $Autonom = '';
-    private $Area = 'ПЕРЕВОЗСКИЙ РАЙОН';
-    private $City = 'ТАНАЙКОВО';
+    private $Area = 'Перевозский район';
+    private $City = 'Танайково';
     private $City1 = '';
     private $ActDate = '20061107';
     private $IndexOld = '';

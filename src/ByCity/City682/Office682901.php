@@ -27,13 +27,13 @@ final class Office682901 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 682901;
-    private $OPSName = 'КРУГЛИКОВО';
+    private $OPSName = 'Кругликово';
     private $OPSType = 'О';
     private $OPSSubm = 682938;
-    private $Region = 'ХАБАРОВСКИЙ КРАЙ';
+    private $Region = 'Хабаровский край';
     private $Autonom = '';
-    private $Area = 'ИМЕНИ ЛАЗО РАЙОН';
-    private $City = 'КРУГЛИКОВО';
+    private $Area = 'Имени Лазо район';
+    private $City = 'Кругликово';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

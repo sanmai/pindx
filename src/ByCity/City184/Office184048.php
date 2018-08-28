@@ -27,13 +27,13 @@ final class Office184048 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 184048;
-    private $OPSName = 'КАНДАЛАКША 8';
+    private $OPSName = 'Кандалакша 8';
     private $OPSType = 'О';
     private $OPSSubm = 184200;
-    private $Region = 'МУРМАНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Мурманская область';
     private $Autonom = '';
-    private $Area = 'КАНДАЛАКШСКИЙ РАЙОН';
-    private $City = 'КАНДАЛАКША';
+    private $Area = 'Кандалакшский район';
+    private $City = 'Кандалакша';
     private $City1 = '';
     private $ActDate = '20061121';
     private $IndexOld = '';

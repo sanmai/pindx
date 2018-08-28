@@ -27,13 +27,13 @@ final class Office429040 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 429040;
-    private $OPSName = 'КРАСНЫЕ ЧЕТАИ';
+    private $OPSName = 'Красные Четаи';
     private $OPSType = 'О';
     private $OPSSubm = 429139;
-    private $Region = 'ЧУВАШИЯ РЕСПУБЛИКА';
+    private $Region = 'Чувашия Республика';
     private $Autonom = '';
-    private $Area = 'КРАСНОЧЕТАЙСКИЙ РАЙОН';
-    private $City = 'КРАСНЫЕ ЧЕТАИ';
+    private $Area = 'Красночетайский район';
+    private $City = 'Красные Четаи';
     private $City1 = '';
     private $ActDate = '20070302';
     private $IndexOld = '';

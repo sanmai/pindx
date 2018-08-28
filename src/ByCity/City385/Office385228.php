@@ -27,13 +27,13 @@ final class Office385228 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 385228;
-    private $OPSName = 'ТЛЮСТЕНХАБЛЬ';
+    private $OPSName = 'Тлюстенхабль';
     private $OPSType = 'О';
     private $OPSSubm = 385700;
-    private $Region = 'АДЫГЕЯ РЕСПУБЛИКА';
+    private $Region = 'Адыгея Республика';
     private $Autonom = '';
-    private $Area = 'ТЕУЧЕЖСКИЙ РАЙОН';
-    private $City = 'ТЛЮСТЕНХАБЛЬ';
+    private $Area = 'Теучежский район';
+    private $City = 'Тлюстенхабль';
     private $City1 = '';
     private $ActDate = '20100914';
     private $IndexOld = '';

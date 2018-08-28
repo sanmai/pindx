@@ -27,13 +27,13 @@ final class Office636358 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 636358;
-    private $OPSName = 'МОЛЧАНОВО УООП';
+    private $OPSName = 'Молчаново Уооп';
     private $OPSType = 'Участок';
     private $OPSSubm = 636359;
-    private $Region = 'ТОМСКАЯ ОБЛАСТЬ';
+    private $Region = 'Томская область';
     private $Autonom = '';
-    private $Area = 'МОЛЧАНОВСКИЙ РАЙОН';
-    private $City = 'МОЛЧАНОВО';
+    private $Area = 'Молчановский район';
+    private $City = 'Молчаново';
     private $City1 = '';
     private $ActDate = '20160302';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office422335 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 422335;
-    private $OPSName = 'БОЛЬШОЕ ПОДБЕРЕЗЬЕ';
+    private $OPSName = 'Большое Подберезье';
     private $OPSType = 'О';
     private $OPSSubm = 422559;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'КАЙБИЦКИЙ РАЙОН';
-    private $City = 'БОЛЬШОЕ ПОДБЕРЕЗЬЕ';
+    private $Area = 'Кайбицкий район';
+    private $City = 'Большое Подберезье';
     private $City1 = '';
     private $ActDate = '20031229';
     private $IndexOld = '';

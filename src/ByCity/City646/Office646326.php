@@ -27,13 +27,13 @@ final class Office646326 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 646326;
-    private $OPSName = 'ТЮКАЛИНСК КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Тюкалинск Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 646339;
-    private $Region = 'ОМСКАЯ ОБЛАСТЬ';
+    private $Region = 'Омская область';
     private $Autonom = '';
-    private $Area = 'ТЮКАЛИНСКИЙ РАЙОН';
-    private $City = 'ТЮКАЛИНСК';
+    private $Area = 'Тюкалинский район';
+    private $City = 'Тюкалинск';
     private $City1 = '';
     private $ActDate = '20170609';
     private $IndexOld = '';

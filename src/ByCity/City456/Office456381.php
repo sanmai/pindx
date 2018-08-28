@@ -27,14 +27,14 @@ final class Office456381 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 456381;
-    private $OPSName = 'НИЖНИЙ АТЛЯН';
+    private $OPSName = 'Нижний Атлян';
     private $OPSType = 'О';
     private $OPSSubm = 456329;
-    private $Region = 'ЧЕЛЯБИНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Челябинская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'МИАСС';
-    private $City1 = 'НИЖНИЙ АТЛЯН';
+    private $City = 'Миасс';
+    private $City1 = 'Нижний Атлян';
     private $ActDate = '20001030';
     private $IndexOld = '';
 }

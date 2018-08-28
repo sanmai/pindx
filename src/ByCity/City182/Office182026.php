@@ -27,13 +27,13 @@ final class Office182026 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 182026;
-    private $OPSName = 'БОРОК';
+    private $OPSName = 'Борок';
     private $OPSType = 'О';
     private $OPSSubm = 182100;
-    private $Region = 'ПСКОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Псковская область';
     private $Autonom = '';
-    private $Area = 'КУНЬИНСКИЙ РАЙОН';
-    private $City = 'БОРОК';
+    private $Area = 'Куньинский район';
+    private $City = 'Борок';
     private $City1 = '';
     private $ActDate = '20031022';
     private $IndexOld = '';

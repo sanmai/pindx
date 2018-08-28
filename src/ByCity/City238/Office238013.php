@@ -27,13 +27,13 @@ final class Office238013 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 238013;
-    private $OPSName = 'ФУРМАНОВКА';
+    private $OPSName = 'Фурмановка';
     private $OPSType = 'О';
     private $OPSSubm = 238169;
-    private $Region = 'КАЛИНИНГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Калининградская область';
     private $Autonom = '';
-    private $Area = 'НЕСТЕРОВСКИЙ РАЙОН';
-    private $City = 'ФУРМАНОВКА';
+    private $Area = 'Нестеровский район';
+    private $City = 'Фурмановка';
     private $City1 = '';
     private $ActDate = '20101119';
     private $IndexOld = '';

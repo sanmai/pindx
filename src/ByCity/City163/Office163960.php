@@ -27,13 +27,13 @@ final class Office163960 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 163960;
-    private $OPSName = 'АРХАНГЕЛЬСК МСЦ';
-    private $OPSType = 'МСЦ';
+    private $OPSName = 'Архангельск Мсц';
+    private $OPSType = 'Мсц';
     private $OPSSubm = 163700;
-    private $Region = 'АРХАНГЕЛЬСКАЯ ОБЛАСТЬ';
+    private $Region = 'Архангельская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'АРХАНГЕЛЬСК';
+    private $City = 'Архангельск';
     private $City1 = '';
     private $ActDate = '20160701';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office427883 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 427883;
-    private $OPSName = 'НИЖНЕЕ КОТНЫРЕВО';
+    private $OPSName = 'Нижнее Котнырево';
     private $OPSType = 'О';
     private $OPSSubm = 427749;
-    private $Region = 'УДМУРТСКАЯ РЕСПУБЛИКА';
+    private $Region = 'Удмуртская Республика';
     private $Autonom = '';
-    private $Area = 'АЛНАШСКИЙ РАЙОН';
-    private $City = 'НИЖНЕЕ КОТНЫРЕВО';
+    private $Area = 'Алнашский район';
+    private $City = 'Нижнее Котнырево';
     private $City1 = '';
     private $ActDate = '20060814';
     private $IndexOld = '';

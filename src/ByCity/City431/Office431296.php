@@ -27,13 +27,13 @@ final class Office431296 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 431296;
-    private $OPSName = 'СТАРОЕ СИНДРОВО';
+    private $OPSName = 'Старое Синдрово';
     private $OPSType = 'О';
     private $OPSSubm = 431289;
-    private $Region = 'МОРДОВИЯ РЕСПУБЛИКА';
+    private $Region = 'Мордовия Республика';
     private $Autonom = '';
-    private $Area = 'КРАСНОСЛОБОДСКИЙ РАЙОН';
-    private $City = 'СТАРОЕ СИНДРОВО';
+    private $Area = 'Краснослободский район';
+    private $City = 'Старое Синдрово';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

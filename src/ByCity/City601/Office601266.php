@@ -27,13 +27,13 @@ final class Office601266 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 601266;
-    private $OPSName = 'СПАССКОЕ ГОРОДИЩЕ';
+    private $OPSName = 'Спасское Городище';
     private $OPSType = 'О';
     private $OPSSubm = 600999;
-    private $Region = 'ВЛАДИМИРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Владимирская область';
     private $Autonom = '';
-    private $Area = 'СУЗДАЛЬСКИЙ РАЙОН';
-    private $City = 'СПАССКОЕ ГОРОДИЩЕ';
+    private $Area = 'Суздальский район';
+    private $City = 'Спасское Городище';
     private $City1 = '';
     private $ActDate = '20070214';
     private $IndexOld = '';

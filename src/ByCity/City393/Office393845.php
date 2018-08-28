@@ -27,13 +27,13 @@ final class Office393845 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 393845;
-    private $OPSName = 'САВИНСКИЕ КАРПЕЛИ';
+    private $OPSName = 'Савинские Карпели';
     private $OPSType = 'О';
     private $OPSSubm = 393958;
-    private $Region = 'ТАМБОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тамбовская область';
     private $Autonom = '';
-    private $Area = 'СОСНОВСКИЙ РАЙОН';
-    private $City = 'САВИНСКИЕ КАРПЕЛИ';
+    private $Area = 'Сосновский район';
+    private $City = 'Савинские Карпели';
     private $City1 = '';
     private $ActDate = '20091117';
     private $IndexOld = '';

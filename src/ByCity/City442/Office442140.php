@@ -27,13 +27,13 @@ final class Office442140 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 442140;
-    private $OPSName = 'БОЛЬШИЕ ХУТОРА';
+    private $OPSName = 'Большие Хутора';
     private $OPSType = 'О';
     private $OPSSubm = 442169;
-    private $Region = 'ПЕНЗЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Пензенская область';
     private $Autonom = '';
-    private $Area = 'НИЖНЕЛОМОВСКИЙ РАЙОН';
-    private $City = 'БОЛЬШИЕ ХУТОРА';
+    private $Area = 'Нижнеломовский район';
+    private $City = 'Большие Хутора';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

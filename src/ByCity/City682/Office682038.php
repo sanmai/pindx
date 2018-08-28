@@ -27,13 +27,13 @@ final class Office682038 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 682038;
-    private $OPSName = 'ЧЕГДОМЫН 8';
-    private $OPSType = 'ПЕРЕДВИЖНОЕ ОС';
+    private $OPSName = 'Чегдомын 8';
+    private $OPSType = 'Передвижное Ос';
     private $OPSSubm = 681099;
-    private $Region = 'ХАБАРОВСКИЙ КРАЙ';
+    private $Region = 'Хабаровский край';
     private $Autonom = '';
-    private $Area = 'ВЕРХНЕБУРЕИНСКИЙ РАЙОН';
-    private $City = 'СРЕДНИЙ УРГАЛ';
+    private $Area = 'Верхнебуреинский район';
+    private $City = 'Средний Ургал';
     private $City1 = '';
     private $ActDate = '20171004';
     private $IndexOld = '';

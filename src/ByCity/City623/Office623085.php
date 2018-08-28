@@ -27,13 +27,13 @@ final class Office623085 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 623085;
-    private $OPSName = 'ТЮЛЬГАШ';
+    private $OPSName = 'Тюльгаш';
     private $OPSType = 'О';
     private $OPSSubm = 623309;
-    private $Region = 'СВЕРДЛОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Свердловская область';
     private $Autonom = '';
-    private $Area = 'НИЖНЕСЕРГИНСКИЙ РАЙОН';
-    private $City = 'ТЮЛЬГАШ';
+    private $Area = 'Нижнесергинский район';
+    private $City = 'Тюльгаш';
     private $City1 = '';
     private $ActDate = '20110427';
     private $IndexOld = '';

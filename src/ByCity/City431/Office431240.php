@@ -27,13 +27,13 @@ final class Office431240 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 431240;
-    private $OPSName = 'ПОДГОРНОЕ КАНАКОВО';
+    private $OPSName = 'Подгорное Канаково';
     private $OPSType = 'О';
     private $OPSSubm = 431259;
-    private $Region = 'МОРДОВИЯ РЕСПУБЛИКА';
+    private $Region = 'Мордовия Республика';
     private $Autonom = '';
-    private $Area = 'ТЕМНИКОВСКИЙ РАЙОН';
-    private $City = 'ПОДГОРНОЕ КАНАКОВО';
+    private $Area = 'Темниковский район';
+    private $City = 'Подгорное Канаково';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

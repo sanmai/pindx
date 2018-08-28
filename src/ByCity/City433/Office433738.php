@@ -27,13 +27,13 @@ final class Office433738 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 433738;
-    private $OPSName = 'ЗАГАРИНО';
+    private $OPSName = 'Загарино';
     private $OPSType = 'О';
     private $OPSSubm = 433759;
-    private $Region = 'УЛЬЯНОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ульяновская область';
     private $Autonom = '';
-    private $Area = 'БАРЫШСКИЙ РАЙОН';
-    private $City = 'ЗАГАРИНО';
+    private $Area = 'Барышский район';
+    private $City = 'Загарино';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

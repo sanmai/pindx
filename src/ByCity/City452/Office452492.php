@@ -27,13 +27,13 @@ final class Office452492 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 452492;
-    private $OPSName = 'САНАТОРИЙ ЯНГАНТАУ';
+    private $OPSName = 'Санаторий Янгантау';
     private $OPSType = 'О';
     private $OPSSubm = 452549;
-    private $Region = 'БАШКОРТОСТАН РЕСПУБЛИКА';
+    private $Region = 'Башкортостан Республика';
     private $Autonom = '';
-    private $Area = 'САЛАВАТСКИЙ РАЙОН';
-    private $City = 'ЯНГАНТАУ';
+    private $Area = 'Салаватский район';
+    private $City = 'Янгантау';
     private $City1 = '';
     private $ActDate = '20180813';
     private $IndexOld = '';

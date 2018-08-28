@@ -27,13 +27,13 @@ final class Office143354 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 143354;
-    private $OPSName = 'КАМЕНСКОЕ';
+    private $OPSName = 'Каменское';
     private $OPSType = 'О';
     private $OPSSubm = 143399;
-    private $Region = 'МОСКОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Московская область';
     private $Autonom = '';
-    private $Area = 'НАРО-ФОМИНСКИЙ РАЙОН';
-    private $City = 'КАМЕНСКОЕ';
+    private $Area = 'Наро-Фоминский район';
+    private $City = 'Каменское';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office186804 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 186804;
-    private $OPSName = 'ЛЯСКЕЛЯ';
+    private $OPSName = 'Ляскеля';
     private $OPSType = 'О';
     private $OPSSubm = 186799;
-    private $Region = 'КАРЕЛИЯ РЕСПУБЛИКА';
+    private $Region = 'Карелия Республика';
     private $Autonom = '';
-    private $Area = 'ПИТКЯРАНТСКИЙ РАЙОН';
-    private $City = 'ЛЯСКЕЛЯ';
+    private $Area = 'Питкярантский район';
+    private $City = 'Ляскеля';
     private $City1 = '';
     private $ActDate = '20050602';
     private $IndexOld = '';

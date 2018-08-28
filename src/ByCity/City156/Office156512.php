@@ -27,13 +27,13 @@ final class Office156512 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 156512;
-    private $OPSName = 'СУЩЕВО';
+    private $OPSName = 'Сущево';
     private $OPSType = 'О';
     private $OPSSubm = 156999;
-    private $Region = 'КОСТРОМСКАЯ ОБЛАСТЬ';
+    private $Region = 'Костромская область';
     private $Autonom = '';
-    private $Area = 'КОСТРОМСКОЙ РАЙОН';
-    private $City = 'СУЩЕВО';
+    private $Area = 'Костромской район';
+    private $City = 'Сущево';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

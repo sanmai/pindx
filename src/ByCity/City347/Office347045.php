@@ -27,13 +27,13 @@ final class Office347045 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 347045;
-    private $OPSName = 'БЕЛАЯ КАЛИТВА 5';
+    private $OPSName = 'Белая Калитва 5';
     private $OPSType = 'О';
     private $OPSSubm = 347049;
-    private $Region = 'РОСТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ростовская область';
     private $Autonom = '';
-    private $Area = 'БЕЛОКАЛИТВИНСКИЙ РАЙОН';
-    private $City = 'БЕЛАЯ КАЛИТВА';
+    private $Area = 'Белокалитвинский район';
+    private $City = 'Белая Калитва';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

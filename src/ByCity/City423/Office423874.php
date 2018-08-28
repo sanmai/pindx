@@ -27,13 +27,13 @@ final class Office423874 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 423874;
-    private $OPSName = 'ТЛЯНЧЕ-ТАМАК';
+    private $OPSName = 'Тлянче-Тамак';
     private $OPSType = 'О';
     private $OPSSubm = 423849;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'ТУКАЕВСКИЙ РАЙОН';
-    private $City = 'ТЛЯНЧЕ-ТАМАК';
+    private $Area = 'Тукаевский район';
+    private $City = 'Тлянче-Тамак';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

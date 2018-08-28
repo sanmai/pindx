@@ -27,13 +27,13 @@ final class Office166100 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 166100;
-    private $OPSName = 'УФПС НЕНЕЦКОГО АВТОНОМНОГО ОКРУГА';
-    private $OPSType = 'УФПС';
+    private $OPSName = 'Уфпс Ненецкого Автономного округа';
+    private $OPSType = 'Уфпс';
     private $OPSSubm = 0;
     private $Region = '';
-    private $Autonom = 'НЕНЕЦКИЙ АВТОНОМНЫЙ ОКРУГ';
+    private $Autonom = 'Ненецкий автономный округ';
     private $Area = '';
-    private $City = 'НАРЬЯН-МАР';
+    private $City = 'Нарьян-Мар';
     private $City1 = '';
     private $ActDate = '20060407';
     private $IndexOld = '';

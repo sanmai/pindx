@@ -27,13 +27,13 @@ final class Office425435 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 425435;
-    private $OPSName = 'ЧОБЫКОВО';
+    private $OPSName = 'Чобыково';
     private $OPSType = 'О';
     private $OPSSubm = 425479;
-    private $Region = 'МАРИЙ ЭЛ РЕСПУБЛИКА';
+    private $Region = 'Марий Эл Республика';
     private $Autonom = '';
-    private $Area = 'НОВОТОРЪЯЛЬСКИЙ РАЙОН';
-    private $City = 'ЧОБЫКОВО';
+    private $Area = 'Новоторъяльский район';
+    private $City = 'Чобыково';
     private $City1 = '';
     private $ActDate = '20070301';
     private $IndexOld = '';

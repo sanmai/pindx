@@ -27,13 +27,13 @@ final class Office452583 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 452583;
-    private $OPSName = 'МАЙГАЗА';
+    private $OPSName = 'Майгаза';
     private $OPSType = 'О';
     private $OPSSubm = 452549;
-    private $Region = 'БАШКОРТОСТАН РЕСПУБЛИКА';
+    private $Region = 'Башкортостан Республика';
     private $Autonom = '';
-    private $Area = 'БЕЛОКАТАЙСКИЙ РАЙОН';
-    private $City = 'МАЙГАЗА';
+    private $Area = 'Белокатайский район';
+    private $City = 'Майгаза';
     private $City1 = '';
     private $ActDate = '20070212';
     private $IndexOld = '';

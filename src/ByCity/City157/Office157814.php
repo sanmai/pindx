@@ -27,13 +27,13 @@ final class Office157814 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 157814;
-    private $OPSName = 'ЕМСНА';
+    private $OPSName = 'Емсна';
     private $OPSType = 'О';
     private $OPSSubm = 156999;
-    private $Region = 'КОСТРОМСКАЯ ОБЛАСТЬ';
+    private $Region = 'Костромская область';
     private $Autonom = '';
-    private $Area = 'НЕРЕХТСКИЙ РАЙОН';
-    private $City = 'ЕМСНА';
+    private $Area = 'Нерехтский район';
+    private $City = 'Емсна';
     private $City1 = '';
     private $ActDate = '20060811';
     private $IndexOld = '';

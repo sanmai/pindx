@@ -27,13 +27,13 @@ final class Office646826 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 646826;
-    private $OPSName = 'ТАВРИЧЕСКОЕ КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Таврическое Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 646829;
-    private $Region = 'ОМСКАЯ ОБЛАСТЬ';
+    private $Region = 'Омская область';
     private $Autonom = '';
-    private $Area = 'ТАВРИЧЕСКИЙ РАЙОН';
-    private $City = 'ТАВРИЧЕСКОЕ';
+    private $Area = 'Таврический район';
+    private $City = 'Таврическое';
     private $City1 = '';
     private $ActDate = '20170609';
     private $IndexOld = '';

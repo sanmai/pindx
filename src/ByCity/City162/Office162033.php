@@ -27,13 +27,13 @@ final class Office162033 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 162033;
-    private $OPSName = 'СКОРОДУМКА';
+    private $OPSName = 'Скородумка';
     private $OPSType = 'О';
     private $OPSSubm = 160999;
-    private $Region = 'ВОЛОГОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Вологодская область';
     private $Autonom = '';
-    private $Area = 'ГРЯЗОВЕЦКИЙ РАЙОН';
-    private $City = 'СКОРОДУМКА  ЮРОВСКОЕ';
+    private $Area = 'Грязовецкий район';
+    private $City = 'Скородумка  Юровское';
     private $City1 = '';
     private $ActDate = '20180813';
     private $IndexOld = '';

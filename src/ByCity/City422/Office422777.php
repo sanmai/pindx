@@ -27,13 +27,13 @@ final class Office422777 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 422777;
-    private $OPSName = 'ПЕСТРЕЦЫ 7';
-    private $OPSType = 'ПЕРЕДВИЖНОЕ ОС';
+    private $OPSName = 'Пестрецы 7';
+    private $OPSType = 'Передвижное Ос';
     private $OPSSubm = 420999;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'ПЕСТРЕЧИНСКИЙ РАЙОН';
-    private $City = 'ПЕСТРЕЦЫ';
+    private $Area = 'Пестречинский район';
+    private $City = 'Пестрецы';
     private $City1 = '';
     private $ActDate = '20151113';
     private $IndexOld = '';

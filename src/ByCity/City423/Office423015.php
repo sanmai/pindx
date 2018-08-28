@@ -27,13 +27,13 @@ final class Office423015 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 423015;
-    private $OPSName = 'ЧУЛПАНОВО';
+    private $OPSName = 'Чулпаново';
     private $OPSType = 'О';
     private $OPSSubm = 423049;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'НУРЛАТСКИЙ РАЙОН';
-    private $City = 'ЧУЛПАНОВО';
+    private $Area = 'Нурлатский район';
+    private $City = 'Чулпаново';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

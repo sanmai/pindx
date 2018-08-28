@@ -27,13 +27,13 @@ final class Office446460 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 446460;
-    private $OPSName = 'ПОДБЕЛЬСК';
+    private $OPSName = 'Подбельск';
     private $OPSType = 'О';
     private $OPSSubm = 446499;
-    private $Region = 'САМАРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Самарская область';
     private $Autonom = '';
-    private $Area = 'ПОХВИСТНЕВСКИЙ РАЙОН';
-    private $City = 'ПОДБЕЛЬСК';
+    private $Area = 'Похвистневский район';
+    private $City = 'Подбельск';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

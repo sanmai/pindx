@@ -27,13 +27,13 @@ final class Office215039 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 215039;
-    private $OPSName = 'ЧЕРНОГУБЦЕВО';
+    private $OPSName = 'Черногубцево';
     private $OPSType = 'О';
     private $OPSSubm = 215059;
-    private $Region = 'СМОЛЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Смоленская область';
     private $Autonom = '';
-    private $Area = 'ГАГАРИНСКИЙ РАЙОН';
-    private $City = 'ЧЕРНОГУБЦЕВО';
+    private $Area = 'Гагаринский район';
+    private $City = 'Черногубцево';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

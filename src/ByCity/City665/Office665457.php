@@ -27,14 +27,14 @@ final class Office665457 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 665457;
-    private $OPSName = 'УСОЛЬЕ-СИБИРСКОЕ 7';
+    private $OPSName = 'Усолье-Сибирское 7';
     private $OPSType = 'О';
     private $OPSSubm = 665450;
-    private $Region = 'ИРКУТСКАЯ ОБЛАСТЬ';
+    private $Region = 'Иркутская область';
     private $Autonom = '';
-    private $Area = 'УСОЛЬСКИЙ РАЙОН';
-    private $City = 'УСОЛЬЕ-СИБИРСКОЕ';
-    private $City1 = 'ЦДС';
+    private $Area = 'Усольский район';
+    private $City = 'Усолье-Сибирское';
+    private $City1 = 'Цдс';
     private $ActDate = '20011217';
     private $IndexOld = '';
 }

@@ -27,13 +27,13 @@ final class Office363601 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 363601;
-    private $OPSName = 'ЭЛЬХОТОВО 1 ППС';
-    private $OPSType = 'ППС';
+    private $OPSName = 'Эльхотово 1 Ппс';
+    private $OPSType = 'Ппс';
     private $OPSSubm = 363020;
-    private $Region = 'СЕВЕРНАЯ ОСЕТИЯ - АЛАНИЯ РЕСПУБЛИКА';
+    private $Region = 'Северная Осетия - Алания Республика';
     private $Autonom = '';
-    private $Area = 'КИРОВСКИЙ РАЙОН';
-    private $City = 'ЭЛЬХОТОВО';
+    private $Area = 'Кировский район';
+    private $City = 'Эльхотово';
     private $City1 = '';
     private $ActDate = '20170915';
     private $IndexOld = '';

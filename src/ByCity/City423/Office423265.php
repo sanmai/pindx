@@ -27,13 +27,13 @@ final class Office423265 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 423265;
-    private $OPSName = 'ЛЕНИНОГОРСК 15 ППС';
-    private $OPSType = 'ППС';
+    private $OPSName = 'Лениногорск 15 Ппс';
+    private $OPSType = 'Ппс';
     private $OPSSubm = 423249;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'ЛЕНИНОГОРСКИЙ РАЙОН';
-    private $City = 'ЛЕНИНОГОРСК';
+    private $Area = 'Лениногорский район';
+    private $City = 'Лениногорск';
     private $City1 = '';
     private $ActDate = '20170913';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office403436 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 403436;
-    private $OPSName = 'КРАСНОПОЛОВ';
+    private $OPSName = 'Краснополов';
     private $OPSType = 'О';
     private $OPSSubm = 403400;
-    private $Region = 'ВОЛГОГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Волгоградская область';
     private $Autonom = '';
-    private $Area = 'КУМЫЛЖЕНСКИЙ РАЙОН';
-    private $City = 'КРАСНОПОЛОВ';
+    private $Area = 'Кумылженский район';
+    private $City = 'Краснополов';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

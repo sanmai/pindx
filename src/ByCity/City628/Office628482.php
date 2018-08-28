@@ -27,13 +27,13 @@ final class Office628482 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 628482;
-    private $OPSName = 'КОГАЛЫМ 2';
+    private $OPSName = 'Когалым 2';
     private $OPSType = 'О';
     private $OPSSubm = 628400;
     private $Region = '';
-    private $Autonom = 'ХАНТЫ-МАНСИЙСКИЙ-ЮГРА АВТОНОМНЫЙ ОКРУГ';
+    private $Autonom = 'Ханты-Мансийский-Югра автономный округ';
     private $Area = '';
-    private $City = 'КОГАЛЫМ';
+    private $City = 'Когалым';
     private $City1 = '';
     private $ActDate = '20170906';
     private $IndexOld = '';

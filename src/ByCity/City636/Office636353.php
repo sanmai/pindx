@@ -27,13 +27,13 @@ final class Office636353 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 636353;
-    private $OPSName = 'ТУНГУСОВО';
+    private $OPSName = 'Тунгусово';
     private $OPSType = 'О';
     private $OPSSubm = 636359;
-    private $Region = 'ТОМСКАЯ ОБЛАСТЬ';
+    private $Region = 'Томская область';
     private $Autonom = '';
-    private $Area = 'МОЛЧАНОВСКИЙ РАЙОН';
-    private $City = 'ТУНГУСОВО';
+    private $Area = 'Молчановский район';
+    private $City = 'Тунгусово';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

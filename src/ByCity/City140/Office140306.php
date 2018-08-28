@@ -27,13 +27,13 @@ final class Office140306 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 140306;
-    private $OPSName = 'ЕГОРЬЕВСК 6';
+    private $OPSName = 'Егорьевск 6';
     private $OPSType = 'О';
     private $OPSSubm = 140259;
-    private $Region = 'МОСКОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Московская область';
     private $Autonom = '';
-    private $Area = 'ЕГОРЬЕВСКИЙ РАЙОН';
-    private $City = 'ЕГОРЬЕВСК';
+    private $Area = 'Егорьевский район';
+    private $City = 'Егорьевск';
     private $City1 = '';
     private $ActDate = '20060222';
     private $IndexOld = '';

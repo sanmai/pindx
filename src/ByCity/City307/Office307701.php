@@ -27,13 +27,13 @@ final class Office307701 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 307701;
-    private $OPSName = 'ВЫШНИЕ ДЕРЕВЕНЬКИ';
+    private $OPSName = 'Вышние Деревеньки';
     private $OPSType = 'О';
     private $OPSSubm = 307759;
-    private $Region = 'КУРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Курская область';
     private $Autonom = '';
-    private $Area = 'ЛЬГОВСКИЙ РАЙОН';
-    private $City = 'ВЫШНИЕ ДЕРЕВЕНЬКИ';
+    private $Area = 'Льговский район';
+    private $City = 'Вышние Деревеньки';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

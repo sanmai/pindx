@@ -27,13 +27,13 @@ final class Office404160 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 404160;
-    private $OPSName = 'КРАСНОСЛОБОДСК';
+    private $OPSName = 'Краснослободск';
     private $OPSType = 'О';
     private $OPSSubm = 404100;
-    private $Region = 'ВОЛГОГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Волгоградская область';
     private $Autonom = '';
-    private $Area = 'СРЕДНЕАХТУБИНСКИЙ РАЙОН';
-    private $City = 'КРАСНОСЛОБОДСК';
+    private $Area = 'Среднеахтубинский район';
+    private $City = 'Краснослободск';
     private $City1 = '';
     private $ActDate = '20070411';
     private $IndexOld = '';

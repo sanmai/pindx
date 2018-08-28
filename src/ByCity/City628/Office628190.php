@@ -27,13 +27,13 @@ final class Office628190 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 628190;
-    private $OPSName = 'НЯГАНЬ УКД';
-    private $OPSType = 'УКД';
+    private $OPSName = 'Нягань Укд';
+    private $OPSType = 'Укд';
     private $OPSSubm = 628700;
     private $Region = '';
-    private $Autonom = 'ХАНТЫ-МАНСИЙСКИЙ-ЮГРА АВТОНОМНЫЙ ОКРУГ';
+    private $Autonom = 'Ханты-Мансийский-Югра автономный округ';
     private $Area = '';
-    private $City = 'НЯГАНЬ';
+    private $City = 'Нягань';
     private $City1 = '';
     private $ActDate = '20170906';
     private $IndexOld = '';

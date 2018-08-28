@@ -27,13 +27,13 @@ final class Office689320 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 689320;
-    private $OPSName = 'ЭНУРМИНО';
+    private $OPSName = 'Энурмино';
     private $OPSType = 'О';
     private $OPSSubm = 689700;
     private $Region = '';
-    private $Autonom = 'ЧУКОТСКИЙ АВТОНОМНЫЙ ОКРУГ';
-    private $Area = 'ЧУКОТСКИЙ РАЙОН';
-    private $City = 'ЭНУРМИНО';
+    private $Autonom = 'Чукотский автономный округ';
+    private $Area = 'Чукотский район';
+    private $City = 'Энурмино';
     private $City1 = '';
     private $ActDate = '20170619';
     private $IndexOld = '';

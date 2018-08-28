@@ -27,13 +27,13 @@ final class Office143560 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 143560;
-    private $OPSName = 'РУМЯНЦЕВО';
+    private $OPSName = 'Румянцево';
     private $OPSType = 'О';
     private $OPSSubm = 143449;
-    private $Region = 'МОСКОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Московская область';
     private $Autonom = '';
-    private $Area = 'ИСТРИНСКИЙ РАЙОН';
-    private $City = 'РУМЯНЦЕВО';
+    private $Area = 'Истринский район';
+    private $City = 'Румянцево';
     private $City1 = '';
     private $ActDate = '20180530';
     private $IndexOld = '';

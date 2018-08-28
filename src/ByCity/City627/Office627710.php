@@ -27,13 +27,13 @@ final class Office627710 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 627710;
-    private $OPSName = 'МИЗОНОВО';
+    private $OPSName = 'Мизоново';
     private $OPSType = 'О';
     private $OPSSubm = 627769;
-    private $Region = 'ТЮМЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тюменская область';
     private $Autonom = '';
-    private $Area = 'ИШИМСКИЙ РАЙОН';
-    private $City = 'МИЗОНОВО';
+    private $Area = 'Ишимский район';
+    private $City = 'Мизоново';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

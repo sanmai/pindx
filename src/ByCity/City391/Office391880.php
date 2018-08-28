@@ -27,13 +27,13 @@ final class Office391880 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 391880;
-    private $OPSName = 'РЕМИЗОВО-ВОКЗАЛ';
+    private $OPSName = 'Ремизово-Вокзал';
     private $OPSType = 'О';
     private $OPSSubm = 391899;
-    private $Region = 'РЯЗАНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Рязанская область';
     private $Autonom = '';
-    private $Area = 'САРАЕВСКИЙ РАЙОН';
-    private $City = 'РЕМИЗОВО 1-Е';
+    private $Area = 'Сараевский район';
+    private $City = 'Ремизово 1-Е';
     private $City1 = '';
     private $ActDate = '20021218';
     private $IndexOld = '';

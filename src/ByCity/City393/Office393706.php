@@ -27,13 +27,13 @@ final class Office393706 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 393706;
-    private $OPSName = 'СТАРОКЛЕНСКОЕ';
+    private $OPSName = 'Старокленское';
     private $OPSType = 'О';
     private $OPSSubm = 393724;
-    private $Region = 'ТАМБОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тамбовская область';
     private $Autonom = '';
-    private $Area = 'ПЕРВОМАЙСКИЙ РАЙОН';
-    private $City = 'СТАРОКЛЕНСКОЕ';
+    private $Area = 'Первомайский район';
+    private $City = 'Старокленское';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

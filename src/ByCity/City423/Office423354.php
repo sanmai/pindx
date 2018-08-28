@@ -27,13 +27,13 @@ final class Office423354 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 423354;
-    private $OPSName = 'СТАРЫЙ МЕНЗЕЛЯБАШ';
+    private $OPSName = 'Старый Мензелябаш';
     private $OPSType = 'О';
     private $OPSSubm = 423539;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'САРМАНОВСКИЙ РАЙОН';
-    private $City = 'СТАРЫЙ МЕНЗЕЛЯБАШ';
+    private $Area = 'Сармановский район';
+    private $City = 'Старый Мензелябаш';
     private $City1 = '';
     private $ActDate = '20110630';
     private $IndexOld = '';

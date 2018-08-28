@@ -27,13 +27,13 @@ final class Office399543 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 399543;
-    private $OPSName = 'КУРГАНО-ГОЛОВИНО';
+    private $OPSName = 'Кургано-Головино';
     private $OPSType = 'О';
     private $OPSSubm = 399569;
-    private $Region = 'ЛИПЕЦКАЯ ОБЛАСТЬ';
+    private $Region = 'Липецкая область';
     private $Autonom = '';
-    private $Area = 'ТЕРБУНСКИЙ РАЙОН';
-    private $City = 'КУРГАНО-ГОЛОВИНО';
+    private $Area = 'Тербунский район';
+    private $City = 'Кургано-Головино';
     private $City1 = '';
     private $ActDate = '20050128';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office623248 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 623248;
-    private $OPSName = 'ВЕРХНИЙ ПОТАМ';
+    private $OPSName = 'Верхний Потам';
     private $OPSType = 'О';
     private $OPSSubm = 623309;
-    private $Region = 'СВЕРДЛОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Свердловская область';
     private $Autonom = '';
-    private $Area = 'АЧИТСКИЙ РАЙОН';
-    private $City = 'ВЕРХНИЙ ПОТАМ';
+    private $Area = 'Ачитский район';
+    private $City = 'Верхний Потам';
     private $City1 = '';
     private $ActDate = '20060627';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office675522 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 675522;
-    private $OPSName = 'ГРЯЗНУШКА';
+    private $OPSName = 'Грязнушка';
     private $OPSType = 'О';
     private $OPSSubm = 675000;
-    private $Region = 'АМУРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Амурская область';
     private $Autonom = '';
-    private $Area = 'БЛАГОВЕЩЕНСКИЙ РАЙОН';
-    private $City = 'ГРЯЗНУШКА';
+    private $Area = 'Благовещенский район';
+    private $City = 'Грязнушка';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

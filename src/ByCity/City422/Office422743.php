@@ -27,13 +27,13 @@ final class Office422743 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 422743;
-    private $OPSName = 'НИЖНЯЯ БЕРЕСКЕ';
+    private $OPSName = 'Нижняя Береске';
     private $OPSType = 'О';
     private $OPSSubm = 422049;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'АТНИНСКИЙ РАЙОН';
-    private $City = 'НИЖНЯЯ БЕРЕСКЕ';
+    private $Area = 'Атнинский район';
+    private $City = 'Нижняя Береске';
     private $City1 = '';
     private $ActDate = '20160808';
     private $IndexOld = '';

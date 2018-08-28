@@ -27,13 +27,13 @@ final class Office180547 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 180547;
-    private $OPSName = 'ГОРА-КАМЕНКА';
+    private $OPSName = 'Гора-Каменка';
     private $OPSType = 'О';
     private $OPSSubm = 180099;
-    private $Region = 'ПСКОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Псковская область';
     private $Autonom = '';
-    private $Area = 'ПСКОВСКИЙ РАЙОН';
-    private $City = 'ГОРА КАМЕНКА';
+    private $Area = 'Псковский район';
+    private $City = 'Гора Каменка';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

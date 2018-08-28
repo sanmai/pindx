@@ -27,13 +27,13 @@ final class Office346061 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 346061;
-    private $OPSName = 'КУРНО-ЛИПОВКА';
+    private $OPSName = 'Курно-Липовка';
     private $OPSType = 'О';
     private $OPSSubm = 347819;
-    private $Region = 'РОСТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ростовская область';
     private $Autonom = '';
-    private $Area = 'ТАРАСОВСКИЙ РАЙОН';
-    private $City = 'КУРНО-ЛИПОВКА';
+    private $Area = 'Тарасовский район';
+    private $City = 'Курно-Липовка';
     private $City1 = '';
     private $ActDate = '20070214';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office901237 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 901237;
-    private $OPSName = 'ПВ ИЖЕВСК-РОСТОВ';
-    private $OPSType = 'ТИ';
+    private $OPSName = 'Пв Ижевск-Ростов';
+    private $OPSType = 'Ти';
     private $OPSSubm = 426960;
-    private $Region = 'УДМУРТСКАЯ РЕСПУБЛИКА';
+    private $Region = 'Удмуртская Республика';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'ИЖЕВСК';
+    private $City = 'Ижевск';
     private $City1 = '';
     private $ActDate = '20150917';
     private $IndexOld = '';

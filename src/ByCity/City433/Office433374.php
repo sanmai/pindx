@@ -27,13 +27,13 @@ final class Office433374 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 433374;
-    private $OPSName = 'ЯСАШНАЯ ТАШЛА';
+    private $OPSName = 'Ясашная Ташла';
     private $OPSType = 'О';
     private $OPSSubm = 433399;
-    private $Region = 'УЛЬЯНОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ульяновская область';
     private $Autonom = '';
-    private $Area = 'ТЕРЕНЬГУЛЬСКИЙ РАЙОН';
-    private $City = 'ЯСАШНАЯ ТАШЛА';
+    private $Area = 'Тереньгульский район';
+    private $City = 'Ясашная Ташла';
     private $City1 = '';
     private $ActDate = '20050829';
     private $IndexOld = '';

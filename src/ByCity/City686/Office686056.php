@@ -27,13 +27,13 @@ final class Office686056 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 686056;
-    private $OPSName = 'МАДАУН';
+    private $OPSName = 'Мадаун';
     private $OPSType = 'О';
     private $OPSSubm = 685700;
-    private $Region = 'МАГАДАНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Магаданская область';
     private $Autonom = '';
-    private $Area = 'ТЕНЬКИНСКИЙ РАЙОН';
-    private $City = 'МАДАУН';
+    private $Area = 'Тенькинский район';
+    private $City = 'Мадаун';
     private $City1 = '';
     private $ActDate = '20110217';
     private $IndexOld = '';

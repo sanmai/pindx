@@ -27,13 +27,13 @@ final class Office993000 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 993000;
-    private $OPSName = 'ВОРОНЕЖ-ПОЧТОМАТ (АПС)';
+    private $OPSName = 'Воронеж-Почтомат (Апс)';
     private $OPSType = 'Почтомат';
     private $OPSSubm = 394006;
-    private $Region = 'ВОРОНЕЖСКАЯ ОБЛАСТЬ';
+    private $Region = 'Воронежская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'ВОРОНЕЖ';
+    private $City = 'Воронеж';
     private $City1 = '';
     private $ActDate = '20170717';
     private $IndexOld = '';

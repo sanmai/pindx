@@ -27,13 +27,13 @@ final class Office397622 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 397622;
-    private $OPSName = 'ХРЕЩАТОЕ';
+    private $OPSName = 'Хрещатое';
     private $OPSType = 'О';
     private $OPSSubm = 397659;
-    private $Region = 'ВОРОНЕЖСКАЯ ОБЛАСТЬ';
+    private $Region = 'Воронежская область';
     private $Autonom = '';
-    private $Area = 'КАЛАЧЕЕВСКИЙ РАЙОН';
-    private $City = 'ХРЕЩАТОЕ';
+    private $Area = 'Калачеевский район';
+    private $City = 'Хрещатое';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

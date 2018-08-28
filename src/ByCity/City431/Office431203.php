@@ -27,13 +27,13 @@ final class Office431203 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 431203;
-    private $OPSName = 'СТАНДРОВО';
+    private $OPSName = 'Стандрово';
     private $OPSType = 'О';
     private $OPSSubm = 431259;
-    private $Region = 'МОРДОВИЯ РЕСПУБЛИКА';
+    private $Region = 'Мордовия Республика';
     private $Autonom = '';
-    private $Area = 'ТЕНЬГУШЕВСКИЙ РАЙОН';
-    private $City = 'СТАНДРОВО';
+    private $Area = 'Теньгушевский район';
+    private $City = 'Стандрово';
     private $City1 = '';
     private $ActDate = '20060615';
     private $IndexOld = '';

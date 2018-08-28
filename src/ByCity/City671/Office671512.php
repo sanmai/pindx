@@ -27,13 +27,13 @@ final class Office671512 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 671512;
-    private $OPSName = 'МОНГОЙ ППС';
-    private $OPSType = 'ППС';
+    private $OPSName = 'Монгой Ппс';
+    private $OPSType = 'Ппс';
     private $OPSSubm = 670999;
-    private $Region = 'БУРЯТИЯ РЕСПУБЛИКА';
+    private $Region = 'Бурятия Республика';
     private $Autonom = '';
-    private $Area = 'БАУНТОВСКИЙ ЭВЕНКИЙСКИЙ РАЙОН';
-    private $City = 'МОНГОЙ';
+    private $Area = 'Баунтовский Эвенкийский район';
+    private $City = 'Монгой';
     private $City1 = '';
     private $ActDate = '20170818';
     private $IndexOld = '';

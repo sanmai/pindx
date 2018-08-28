@@ -27,13 +27,13 @@ final class Office422668 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 422668;
-    private $OPSName = 'КОЗЯКОВО-ЧЕЛНЫ';
+    private $OPSName = 'Козяково-Челны';
     private $OPSType = 'О';
     private $OPSSubm = 420999;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'РЫБНО-СЛОБОДСКИЙ РАЙОН';
-    private $City = 'КОЗЯКОВО-ЧЕЛНЫ';
+    private $Area = 'Рыбно-Слободский район';
+    private $City = 'Козяково-Челны';
     private $City1 = '';
     private $ActDate = '20100211';
     private $IndexOld = '';

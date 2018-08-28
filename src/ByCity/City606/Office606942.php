@@ -27,13 +27,13 @@ final class Office606942 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 606942;
-    private $OPSName = 'БОЛЬШАЯ КУВЕРБА ППС';
-    private $OPSType = 'ППС';
+    private $OPSName = 'Большая Куверба Ппс';
+    private $OPSType = 'Ппс';
     private $OPSSubm = 606929;
-    private $Region = 'НИЖЕГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Нижегородская область';
     private $Autonom = '';
-    private $Area = 'ТОНШАЕВСКИЙ РАЙОН';
-    private $City = 'БОЛЬШАЯ КУВЕРБА';
+    private $Area = 'Тоншаевский район';
+    private $City = 'Большая Куверба';
     private $City1 = '';
     private $ActDate = '20170711';
     private $IndexOld = '';

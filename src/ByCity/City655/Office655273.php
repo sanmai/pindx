@@ -27,13 +27,13 @@ final class Office655273 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 655273;
-    private $OPSName = 'ГАЙДАРОВСК';
+    private $OPSName = 'Гайдаровск';
     private $OPSType = 'О';
     private $OPSSubm = 655239;
-    private $Region = 'ХАКАСИЯ РЕСПУБЛИКА';
+    private $Region = 'Хакасия Республика';
     private $Autonom = '';
-    private $Area = 'ОРДЖОНИКИДЗЕВСКИЙ РАЙОН';
-    private $City = 'ГАЙДАРОВСК';
+    private $Area = 'Орджоникидзевский район';
+    private $City = 'Гайдаровск';
     private $City1 = '';
     private $ActDate = '20050624';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office446736 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 446736;
-    private $OPSName = 'КОМАРОВКА';
+    private $OPSName = 'Комаровка';
     private $OPSType = 'О';
     private $OPSSubm = 446000;
-    private $Region = 'САМАРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Самарская область';
     private $Autonom = '';
-    private $Area = 'ШИГОНСКИЙ РАЙОН';
-    private $City = 'КОМАРОВКА';
+    private $Area = 'Шигонский район';
+    private $City = 'Комаровка';
     private $City1 = '';
     private $ActDate = '20050928';
     private $IndexOld = '';

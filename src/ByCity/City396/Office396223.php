@@ -27,13 +27,13 @@ final class Office396223 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 396223;
-    private $OPSName = 'ПУГАЧЕВСКИЙ';
+    private $OPSName = 'Пугачевский';
     private $OPSType = 'О';
     private $OPSSubm = 396259;
-    private $Region = 'ВОРОНЕЖСКАЯ ОБЛАСТЬ';
+    private $Region = 'Воронежская область';
     private $Autonom = '';
-    private $Area = 'АННИНСКИЙ РАЙОН';
-    private $City = 'СВХ ПУГАЧЕВСКИЙ ЦЕНТРАЛЬНАЯ УСАДЬБА';
+    private $Area = 'Аннинский район';
+    private $City = 'Свх Пугачевский Центральная Усадьба';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

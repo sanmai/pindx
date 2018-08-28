@@ -27,13 +27,13 @@ final class Office452226 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 452226;
-    private $OPSName = 'ЧЕКМАГУШ КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Чекмагуш Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 452229;
-    private $Region = 'БАШКОРТОСТАН РЕСПУБЛИКА';
+    private $Region = 'Башкортостан Республика';
     private $Autonom = '';
-    private $Area = 'ЧЕКМАГУШЕВСКИЙ РАЙОН';
-    private $City = 'ЧЕКМАГУШ';
+    private $Area = 'Чекмагушевский район';
+    private $City = 'Чекмагуш';
     private $City1 = '';
     private $ActDate = '20170816';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office624851 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 624851;
-    private $OPSName = 'КОКШАРОВА';
+    private $OPSName = 'Кокшарова';
     private $OPSType = 'О';
     private $OPSSubm = 624869;
-    private $Region = 'СВЕРДЛОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Свердловская область';
     private $Autonom = '';
-    private $Area = 'КАМЫШЛОВСКИЙ РАЙОН';
-    private $City = 'КОКШАРОВА';
+    private $Area = 'Камышловский район';
+    private $City = 'Кокшарова';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

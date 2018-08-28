@@ -27,13 +27,13 @@ final class Office452729 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 452729;
-    private $OPSName = 'ЯКУПОВО';
+    private $OPSName = 'Якупово';
     private $OPSType = 'О';
     private $OPSSubm = 452709;
-    private $Region = 'БАШКОРТОСТАН РЕСПУБЛИКА';
+    private $Region = 'Башкортостан Республика';
     private $Autonom = '';
-    private $Area = 'БУЗДЯКСКИЙ РАЙОН';
-    private $City = 'ЯКУПОВО';
+    private $Area = 'Буздякский район';
+    private $City = 'Якупово';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

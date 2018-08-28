@@ -27,13 +27,13 @@ final class Office653218 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 653218;
-    private $OPSName = 'БОЛЬШОЙ КЕРЛЕГЕШ';
+    private $OPSName = 'Большой Керлегеш';
     private $OPSType = 'О';
     private $OPSSubm = 653099;
-    private $Region = 'КЕМЕРОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Кемеровская область';
     private $Autonom = '';
-    private $Area = 'ПРОКОПЬЕВСКИЙ РАЙОН';
-    private $City = 'БОЛЬШОЙ КЕРЛЕГЕШ';
+    private $Area = 'Прокопьевский район';
+    private $City = 'Большой Керлегеш';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

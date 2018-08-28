@@ -27,13 +27,13 @@ final class Office172081 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 172081;
-    private $OPSName = 'БОЛЬШОЕ СВЯТЦОВО';
+    private $OPSName = 'Большое Святцово';
     private $OPSType = 'О';
     private $OPSSubm = 172000;
-    private $Region = 'ТВЕРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тверская область';
     private $Autonom = '';
-    private $Area = 'ТОРЖОКСКИЙ РАЙОН';
-    private $City = 'БОЛЬШОЕ СВЯТЦОВО';
+    private $Area = 'Торжокский район';
+    private $City = 'Большое Святцово';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

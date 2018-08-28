@@ -27,13 +27,13 @@ final class Office161323 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 161323;
-    private $OPSName = 'ВЕЛИКИЙ ДВОР';
+    private $OPSName = 'Великий Двор';
     private $OPSType = 'О';
     private $OPSSubm = 161339;
-    private $Region = 'ВОЛОГОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Вологодская область';
     private $Autonom = '';
-    private $Area = 'ТОТЕМСКИЙ РАЙОН';
-    private $City = 'ВЕЛИКИЙ ДВОР ВЕЛИКОДВОРСКОЕ ПОСЕЛЕНИЕ';
+    private $Area = 'Тотемский район';
+    private $City = 'Великий Двор Великодворское Поселение';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

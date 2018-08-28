@@ -27,13 +27,13 @@ final class Office433399 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 433399;
-    private $OPSName = 'СЕНГИЛЕЙ ПОЧТАМТ';
+    private $OPSName = 'Сенгилей Почтамт';
     private $OPSType = 'П';
     private $OPSSubm = 432700;
-    private $Region = 'УЛЬЯНОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ульяновская область';
     private $Autonom = '';
-    private $Area = 'СЕНГИЛЕЕВСКИЙ РАЙОН';
-    private $City = 'СЕНГИЛЕЙ';
+    private $Area = 'Сенгилеевский район';
+    private $City = 'Сенгилей';
     private $City1 = '';
     private $ActDate = '20081106';
     private $IndexOld = '';

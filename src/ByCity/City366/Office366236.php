@@ -27,14 +27,14 @@ final class Office366236 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 366236;
-    private $OPSName = 'ЭНГЕНОЙ';
+    private $OPSName = 'Энгеной';
     private $OPSType = 'О';
     private $OPSSubm = 366200;
-    private $Region = 'ЧЕЧЕНСКАЯ РЕСПУБЛИКА';
+    private $Region = 'Чеченская Республика';
     private $Autonom = '';
-    private $Area = 'ГУДЕРМЕССКИЙ РАЙОН';
-    private $City = 'НОЖАЙ-ЮРТОВСКИЙ';
-    private $City1 = 'ЭНГЕНОЙ';
+    private $Area = 'Гудермесский район';
+    private $City = 'Ножай-Юртовский';
+    private $City1 = 'Энгеной';
     private $ActDate = '20101220';
     private $IndexOld = '';
 }

@@ -27,13 +27,13 @@ final class Office347818 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 347818;
-    private $OPSName = 'КАМЕНСК-ШАХТИНСКИЙ КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Каменск-Шахтинский Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 347819;
-    private $Region = 'РОСТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ростовская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'КАМЕНСК-ШАХТИНСКИЙ';
+    private $City = 'Каменск-Шахтинский';
     private $City1 = '';
     private $ActDate = '20171130';
     private $IndexOld = '';

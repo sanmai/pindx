@@ -27,14 +27,14 @@ final class Office404333 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 404333;
-    private $OPSName = 'НОВОРОМАШКИН';
+    private $OPSName = 'Новоромашкин';
     private $OPSType = 'О';
     private $OPSSubm = 404350;
-    private $Region = 'ВОЛГОГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Волгоградская область';
     private $Autonom = '';
-    private $Area = 'ОКТЯБРЬСКИЙ РАЙОН';
-    private $City = 'НОВОАКСАЙСКИЙ';
-    private $City1 = 'НОВОРОМАШКИН';
+    private $Area = 'Октябрьский район';
+    private $City = 'Новоаксайский';
+    private $City1 = 'Новоромашкин';
     private $ActDate = '20180813';
     private $IndexOld = '';
 }

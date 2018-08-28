@@ -27,13 +27,13 @@ final class Office626121 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 626121;
-    private $OPSName = 'ВЕРХНИЕ АРЕМЗЯНЫ';
+    private $OPSName = 'Верхние Аремзяны';
     private $OPSType = 'О';
     private $OPSSubm = 626151;
-    private $Region = 'ТЮМЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тюменская область';
     private $Autonom = '';
-    private $Area = 'ТОБОЛЬСКИЙ РАЙОН';
-    private $City = 'ВЕРХНИЕ АРЕМЗЯНЫ';
+    private $Area = 'Тобольский район';
+    private $City = 'Верхние Аремзяны';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

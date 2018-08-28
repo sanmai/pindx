@@ -27,13 +27,13 @@ final class Office431849 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 431849;
-    private $OPSName = 'АТЯШЕВО ПОЧТАМТ';
+    private $OPSName = 'Атяшево Почтамт';
     private $OPSType = 'П';
     private $OPSSubm = 430700;
-    private $Region = 'МОРДОВИЯ РЕСПУБЛИКА';
+    private $Region = 'Мордовия Республика';
     private $Autonom = '';
-    private $Area = 'АТЯШЕВСКИЙ РАЙОН';
-    private $City = 'АТЯШЕВО';
+    private $Area = 'Атяшевский район';
+    private $City = 'Атяшево';
     private $City1 = '';
     private $ActDate = '20080206';
     private $IndexOld = '';

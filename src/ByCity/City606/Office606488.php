@@ -27,13 +27,13 @@ final class Office606488 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 606488;
-    private $OPSName = 'ПАМЯТЬ ПАРИЖСКОЙ КОММУНЫ';
+    private $OPSName = 'Память Парижской Коммуны';
     private $OPSType = 'О';
     private $OPSSubm = 606449;
-    private $Region = 'НИЖЕГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Нижегородская область';
     private $Autonom = '';
-    private $Area = 'БОРСКИЙ РАЙОН';
-    private $City = 'ПАМЯТЬ ПАРИЖСКОЙ КОММУНЫ';
+    private $Area = 'Борский район';
+    private $City = 'Память Парижской Коммуны';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

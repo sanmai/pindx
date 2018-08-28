@@ -27,13 +27,13 @@ final class Office172316 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 172316;
-    private $OPSName = 'МАЛОЕ КОРОБИНО';
+    private $OPSName = 'Малое Коробино';
     private $OPSType = 'О';
     private $OPSSubm = 172380;
-    private $Region = 'ТВЕРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тверская область';
     private $Autonom = '';
-    private $Area = 'ЗУБЦОВСКИЙ РАЙОН';
-    private $City = 'МАЛОЕ КОРОБИНО';
+    private $Area = 'Зубцовский район';
+    private $City = 'Малое Коробино';
     private $City1 = '';
     private $ActDate = '20050907';
     private $IndexOld = '';

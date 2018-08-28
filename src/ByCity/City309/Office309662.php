@@ -27,13 +27,13 @@ final class Office309662 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 309662;
-    private $OPSName = 'УСПЕНКА';
+    private $OPSName = 'Успенка';
     private $OPSType = 'О';
     private $OPSSubm = 309649;
-    private $Region = 'БЕЛГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Белгородская область';
     private $Autonom = '';
-    private $Area = 'ВОЛОКОНОВСКИЙ РАЙОН';
-    private $City = 'УСПЕНКА';
+    private $Area = 'Волоконовский район';
+    private $City = 'Успенка';
     private $City1 = '';
     private $ActDate = '20110427';
     private $IndexOld = '';

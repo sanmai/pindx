@@ -27,13 +27,13 @@ final class Office442138 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 442138;
-    private $OPSName = 'ПРЯНЗЕРКИ';
+    private $OPSName = 'Прянзерки';
     private $OPSType = 'О';
     private $OPSSubm = 442169;
-    private $Region = 'ПЕНЗЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Пензенская область';
     private $Autonom = '';
-    private $Area = 'НИЖНЕЛОМОВСКИЙ РАЙОН';
-    private $City = 'ПРЯНЗЕРКИ';
+    private $Area = 'Нижнеломовский район';
+    private $City = 'Прянзерки';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

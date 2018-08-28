@@ -27,13 +27,13 @@ final class Office456502 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 456502;
-    private $OPSName = 'БОЛЬШИЕ ХАРЛУШИ';
+    private $OPSName = 'Большие Харлуши';
     private $OPSType = 'О';
     private $OPSSubm = 454999;
-    private $Region = 'ЧЕЛЯБИНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Челябинская область';
     private $Autonom = '';
-    private $Area = 'СОСНОВСКИЙ РАЙОН';
-    private $City = 'БОЛЬШИЕ ХАРЛУШИ';
+    private $Area = 'Сосновский район';
+    private $City = 'Большие Харлуши';
     private $City1 = '';
     private $ActDate = '20061101';
     private $IndexOld = '';

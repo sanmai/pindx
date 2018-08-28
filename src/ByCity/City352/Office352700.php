@@ -27,13 +27,13 @@ final class Office352700 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 352700;
-    private $OPSName = 'ТИМАШЕВСК';
+    private $OPSName = 'Тимашевск';
     private $OPSType = 'О';
     private $OPSSubm = 352749;
-    private $Region = 'КРАСНОДАРСКИЙ КРАЙ';
+    private $Region = 'Краснодарский край';
     private $Autonom = '';
-    private $Area = 'ТИМАШЕВСКИЙ РАЙОН';
-    private $City = 'ТИМАШЕВСК';
+    private $Area = 'Тимашевский район';
+    private $City = 'Тимашевск';
     private $City1 = '';
     private $ActDate = '20080305';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office422899 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 422899;
-    private $OPSName = 'БАЗАРНЫЕ МАТАКИ ЦОПП';
+    private $OPSName = 'Базарные Матаки Цопп';
     private $OPSType = 'Цех';
     private $OPSSubm = 423049;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'АЛЬКЕЕВСКИЙ РАЙОН';
-    private $City = 'БАЗАРНЫЕ МАТАКИ';
+    private $Area = 'Алькеевский район';
+    private $City = 'Базарные Матаки';
     private $City1 = '';
     private $ActDate = '20110915';
     private $IndexOld = '';

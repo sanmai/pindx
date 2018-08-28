@@ -27,13 +27,13 @@ final class Office369328 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 369328;
-    private $OPSName = 'УСТЬ-ДЖЕГУТА КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Усть-Джегута Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 369329;
-    private $Region = 'КАРАЧАЕВО-ЧЕРКЕССКАЯ РЕСПУБЛИКА';
+    private $Region = 'Карачаево-Черкесская Республика';
     private $Autonom = '';
-    private $Area = 'УСТЬ-ДЖЕГУТИНСКИЙ РАЙОН';
-    private $City = 'УСТЬ-ДЖЕГУТА';
+    private $Area = 'Усть-Джегутинский район';
+    private $City = 'Усть-Джегута';
     private $City1 = '';
     private $ActDate = '20171010';
     private $IndexOld = '';

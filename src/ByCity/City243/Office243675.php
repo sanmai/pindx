@@ -27,13 +27,13 @@ final class Office243675 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 243675;
-    private $OPSName = 'ТВОРИШИНО';
+    private $OPSName = 'Творишино';
     private $OPSType = 'О';
     private $OPSSubm = 243149;
-    private $Region = 'БРЯНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Брянская область';
     private $Autonom = '';
-    private $Area = 'ГОРДЕЕВСКИЙ РАЙОН';
-    private $City = 'ТВОРИШИНО';
+    private $Area = 'Гордеевский район';
+    private $City = 'Творишино';
     private $City1 = '';
     private $ActDate = '20050715';
     private $IndexOld = '';

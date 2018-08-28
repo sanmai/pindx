@@ -27,13 +27,13 @@ final class Office641751 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 641751;
-    private $OPSName = 'ПЕСЧАНО-КОЛЕДИНО';
+    private $OPSName = 'Песчано-Коледино';
     private $OPSType = 'О';
     private $OPSSubm = 641889;
-    private $Region = 'КУРГАНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Курганская область';
     private $Autonom = '';
-    private $Area = 'ДАЛМАТОВСКИЙ РАЙОН';
-    private $City = 'ПЕСЧАНО - КОЛЕДИНО';
+    private $Area = 'Далматовский район';
+    private $City = 'Песчано - Коледино';
     private $City1 = '';
     private $ActDate = '20080331';
     private $IndexOld = '';

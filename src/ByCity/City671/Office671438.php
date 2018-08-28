@@ -27,13 +27,13 @@ final class Office671438 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 671438;
-    private $OPSName = 'СОСНОВО-ОЗЕРСКОЕ 8';
-    private $OPSType = 'ПЕРЕДВИЖНОЕ ОС';
+    private $OPSName = 'Сосново-Озерское 8';
+    private $OPSType = 'Передвижное Ос';
     private $OPSSubm = 671429;
-    private $Region = 'БУРЯТИЯ РЕСПУБЛИКА';
+    private $Region = 'Бурятия Республика';
     private $Autonom = '';
-    private $Area = 'ЕРАВНИНСКИЙ РАЙОН';
-    private $City = 'СОСНОВО-ОЗЕРСКОЕ';
+    private $Area = 'Еравнинский район';
+    private $City = 'Сосново-Озерское';
     private $City1 = '';
     private $ActDate = '20151125';
     private $IndexOld = '';

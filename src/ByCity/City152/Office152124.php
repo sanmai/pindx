@@ -27,13 +27,13 @@ final class Office152124 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 152124;
-    private $OPSName = 'ШУРСКОЛ';
+    private $OPSName = 'Шурскол';
     private $OPSType = 'О';
     private $OPSSubm = 152159;
-    private $Region = 'ЯРОСЛАВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ярославская область';
     private $Autonom = '';
-    private $Area = 'РОСТОВСКИЙ РАЙОН';
-    private $City = 'ШУРСКОЛ';
+    private $Area = 'Ростовский район';
+    private $City = 'Шурскол';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

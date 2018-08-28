@@ -27,13 +27,13 @@ final class Office442595 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 442595;
-    private $OPSName = 'ПИЧИЛЕЙКА';
+    private $OPSName = 'Пичилейка';
     private $OPSType = 'О';
     private $OPSSubm = 442699;
-    private $Region = 'ПЕНЗЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Пензенская область';
     private $Autonom = '';
-    private $Area = 'СОСНОВОБОРСКИЙ РАЙОН';
-    private $City = 'ПИЧИЛЕЙКА';
+    private $Area = 'Сосновоборский район';
+    private $City = 'Пичилейка';
     private $City1 = '';
     private $ActDate = '20180813';
     private $IndexOld = '';

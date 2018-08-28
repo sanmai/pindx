@@ -27,13 +27,13 @@ final class Office309964 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 309964;
-    private $OPSName = 'КРАСНАЯ ПОЛЯНА САНАТОРИЙ';
+    private $OPSName = 'Красная Поляна Санаторий';
     private $OPSType = 'О';
     private $OPSSubm = 309990;
-    private $Region = 'БЕЛГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Белгородская область';
     private $Autonom = '';
-    private $Area = 'ВАЛУЙСКИЙ РАЙОН';
-    private $City = 'КРАСНАЯ ПОЛЯНА';
+    private $Area = 'Валуйский район';
+    private $City = 'Красная Поляна';
     private $City1 = '';
     private $ActDate = '20060929';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office404452 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 404452;
-    private $OPSName = 'ВЕРХНЕЧИРСКИЙ';
+    private $OPSName = 'Верхнечирский';
     private $OPSType = 'О';
     private $OPSSubm = 404410;
-    private $Region = 'ВОЛГОГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Волгоградская область';
     private $Autonom = '';
-    private $Area = 'СУРОВИКИНСКИЙ РАЙОН';
-    private $City = 'ВЕРХНЕЧИРСКИЙ';
+    private $Area = 'Суровикинский район';
+    private $City = 'Верхнечирский';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

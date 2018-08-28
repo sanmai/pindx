@@ -27,14 +27,14 @@ final class Office658849 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 658849;
-    private $OPSName = 'МАКСИМОВКА';
+    private $OPSName = 'Максимовка';
     private $OPSType = 'О';
     private $OPSSubm = 658830;
-    private $Region = 'АЛТАЙСКИЙ КРАЙ';
+    private $Region = 'Алтайский край';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'СЛАВГОРОД';
-    private $City1 = 'МАКСИМОВКА';
+    private $City = 'Славгород';
+    private $City1 = 'Максимовка';
     private $ActDate = '20001030';
     private $IndexOld = '';
 }

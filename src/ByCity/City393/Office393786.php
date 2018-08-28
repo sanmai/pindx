@@ -27,13 +27,13 @@ final class Office393786 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 393786;
-    private $OPSName = 'ЖЕЛАНОВКА';
+    private $OPSName = 'Желановка';
     private $OPSType = 'О';
     private $OPSSubm = 393779;
-    private $Region = 'ТАМБОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тамбовская область';
     private $Autonom = '';
-    private $Area = 'МИЧУРИНСКИЙ РАЙОН';
-    private $City = 'ЖЕЛАНОВКА';
+    private $Area = 'Мичуринский район';
+    private $City = 'Желановка';
     private $City1 = '';
     private $ActDate = '20170601';
     private $IndexOld = '';

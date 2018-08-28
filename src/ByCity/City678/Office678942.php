@@ -27,13 +27,13 @@ final class Office678942 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 678942;
-    private $OPSName = 'БОЛЬШОЙ НИМНЫР';
+    private $OPSName = 'Большой Нимныр';
     private $OPSType = 'О';
     private $OPSSubm = 678999;
-    private $Region = 'САХА (ЯКУТИЯ) РЕСПУБЛИКА';
+    private $Region = 'Саха (Якутия) Республика';
     private $Autonom = '';
-    private $Area = 'АЛДАНСКИЙ РАЙОН';
-    private $City = 'БОЛЬШОЙ НИМНЫР';
+    private $Area = 'Алданский район';
+    private $City = 'Большой Нимныр';
     private $City1 = '';
     private $ActDate = '20180702';
     private $IndexOld = '';

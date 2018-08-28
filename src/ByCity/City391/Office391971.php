@@ -27,13 +27,13 @@ final class Office391971 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 391971;
-    private $OPSName = 'НАГОРНОЕ';
+    private $OPSName = 'Нагорное';
     private $OPSType = 'О';
     private $OPSSubm = 391999;
-    private $Region = 'РЯЗАНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Рязанская область';
     private $Autonom = '';
-    private $Area = 'РЯЖСКИЙ РАЙОН';
-    private $City = 'НАГОРНОЕ';
+    private $Area = 'Ряжский район';
+    private $City = 'Нагорное';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

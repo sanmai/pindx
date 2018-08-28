@@ -27,13 +27,13 @@ final class Office241043 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 241043;
-    private $OPSName = 'БЕЛО-БЕРЕЖСКИЙ САНАТОРИЙ, ТУРБАЗА';
+    private $OPSName = 'Бело-Бережский Санаторий, Турбаза';
     private $OPSType = 'О';
     private $OPSSubm = 241000;
-    private $Region = 'БРЯНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Брянская область';
     private $Autonom = '';
-    private $Area = 'БРЯНСКИЙ РАЙОН';
-    private $City = 'БЕЛО-БЕРЕЖСКИЙ САНАТОРИЙ';
+    private $Area = 'Брянский район';
+    private $City = 'Бело-Бережский Санаторий';
     private $City1 = '';
     private $ActDate = '20100730';
     private $IndexOld = '';

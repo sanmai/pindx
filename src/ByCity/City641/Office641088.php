@@ -27,13 +27,13 @@ final class Office641088 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 641088;
-    private $OPSName = 'НАДЕЖДИНКА';
+    private $OPSName = 'Надеждинка';
     private $OPSType = 'О';
     private $OPSSubm = 641109;
-    private $Region = 'КУРГАНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Курганская область';
     private $Autonom = '';
-    private $Area = 'САФАКУЛЕВСКИЙ РАЙОН';
-    private $City = 'НАДЕЖДИНКА';
+    private $Area = 'Сафакулевский район';
+    private $City = 'Надеждинка';
     private $City1 = '';
     private $ActDate = '20110118';
     private $IndexOld = '';

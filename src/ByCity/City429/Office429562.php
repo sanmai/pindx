@@ -27,13 +27,13 @@ final class Office429562 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 429562;
-    private $OPSName = 'ПЕРВОЕ ЧУРАШЕВО';
+    private $OPSName = 'Первое Чурашево';
     private $OPSType = 'О';
     private $OPSSubm = 429929;
-    private $Region = 'ЧУВАШИЯ РЕСПУБЛИКА';
+    private $Region = 'Чувашия Республика';
     private $Autonom = '';
-    private $Area = 'МАРИИНСКО-ПОСАДСКИЙ РАЙОН';
-    private $City = 'ПЕРВОЕ ЧУРАШЕВО';
+    private $Area = 'Мариинско-Посадский район';
+    private $City = 'Первое Чурашево';
     private $City1 = '';
     private $ActDate = '20060609';
     private $IndexOld = '';

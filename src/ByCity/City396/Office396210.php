@@ -27,13 +27,13 @@ final class Office396210 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 396210;
-    private $OPSName = 'ВЕРХНЯЯ ТОЙДА';
+    private $OPSName = 'Верхняя Тойда';
     private $OPSType = 'О';
     private $OPSSubm = 396259;
-    private $Region = 'ВОРОНЕЖСКАЯ ОБЛАСТЬ';
+    private $Region = 'Воронежская область';
     private $Autonom = '';
-    private $Area = 'АННИНСКИЙ РАЙОН';
-    private $City = 'ВЕРХНЯЯ ТОЙДА';
+    private $Area = 'Аннинский район';
+    private $City = 'Верхняя Тойда';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office433935 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 433935;
-    private $OPSName = 'СТАРАЯ ЯНДОВКА';
+    private $OPSName = 'Старая Яндовка';
     private $OPSType = 'О';
     private $OPSSubm = 433849;
-    private $Region = 'УЛЬЯНОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ульяновская область';
     private $Autonom = '';
-    private $Area = 'СТАРОКУЛАТКИНСКИЙ РАЙОН';
-    private $City = 'СТАРАЯ ЯНДОВКА';
+    private $Area = 'Старокулаткинский район';
+    private $City = 'Старая Яндовка';
     private $City1 = '';
     private $ActDate = '20081217';
     private $IndexOld = '';

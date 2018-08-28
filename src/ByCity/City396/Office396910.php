@@ -27,13 +27,13 @@ final class Office396910 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 396910;
-    private $OPSName = 'НИЖНЯЯ ВЕДУГА';
+    private $OPSName = 'Нижняя Ведуга';
     private $OPSType = 'О';
     private $OPSSubm = 396959;
-    private $Region = 'ВОРОНЕЖСКАЯ ОБЛАСТЬ';
+    private $Region = 'Воронежская область';
     private $Autonom = '';
-    private $Area = 'СЕМИЛУКСКИЙ РАЙОН';
-    private $City = 'НИЖНЯЯ ВЕДУГА';
+    private $Area = 'Семилукский район';
+    private $City = 'Нижняя Ведуга';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

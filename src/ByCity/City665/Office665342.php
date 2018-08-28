@@ -27,13 +27,13 @@ final class Office665342 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 665342;
-    private $OPSName = 'БОЛЬШОЙ КАШЕЛАК';
+    private $OPSName = 'Большой Кашелак';
     private $OPSType = 'О';
     private $OPSSubm = 665300;
-    private $Region = 'ИРКУТСКАЯ ОБЛАСТЬ';
+    private $Region = 'Иркутская область';
     private $Autonom = '';
-    private $Area = 'КУЙТУНСКИЙ РАЙОН';
-    private $City = 'БОЛЬШОЙ КАШЕЛАК';
+    private $Area = 'Куйтунский район';
+    private $City = 'Большой Кашелак';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

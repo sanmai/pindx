@@ -27,13 +27,13 @@ final class Office429561 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 429561;
-    private $OPSName = 'БИЧУРИНО';
+    private $OPSName = 'Бичурино';
     private $OPSType = 'О';
     private $OPSSubm = 429929;
-    private $Region = 'ЧУВАШИЯ РЕСПУБЛИКА';
+    private $Region = 'Чувашия Республика';
     private $Autonom = '';
-    private $Area = 'МАРИИНСКО-ПОСАДСКИЙ РАЙОН';
-    private $City = 'БИЧУРИНО';
+    private $Area = 'Мариинско-Посадский район';
+    private $City = 'Бичурино';
     private $City1 = '';
     private $ActDate = '20060609';
     private $IndexOld = '';

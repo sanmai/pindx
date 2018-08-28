@@ -27,13 +27,13 @@ final class Office391622 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 391622;
-    private $OPSName = 'ВЫСОКИЕ ПОЛЯНЫ';
+    private $OPSName = 'Высокие Поляны';
     private $OPSType = 'О';
     private $OPSSubm = 391469;
-    private $Region = 'РЯЗАНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Рязанская область';
     private $Autonom = '';
-    private $Area = 'ПИТЕЛИНСКИЙ РАЙОН';
-    private $City = 'ВЫСОКИЕ ПОЛЯНЫ';
+    private $Area = 'Пителинский район';
+    private $City = 'Высокие Поляны';
     private $City1 = '';
     private $ActDate = '20021114';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office618873 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 618873;
-    private $OPSName = 'СРЕДНЯЯ УСЬВА';
+    private $OPSName = 'Средняя Усьва';
     private $OPSType = 'О';
     private $OPSSubm = 618249;
-    private $Region = 'ПЕРМСКИЙ КРАЙ';
+    private $Region = 'Пермский край';
     private $Autonom = '';
-    private $Area = 'ГОРНОЗАВОДСКИЙ РАЙОН';
-    private $City = 'СРЕДНЯЯ УСЬВА';
+    private $Area = 'Горнозаводский район';
+    private $City = 'Средняя Усьва';
     private $City1 = '';
     private $ActDate = '20060725';
     private $IndexOld = '';

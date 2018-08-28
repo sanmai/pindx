@@ -27,13 +27,13 @@ final class Office141507 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 141507;
-    private $OPSName = 'СОЛНЕЧНОГОРСК 7';
+    private $OPSName = 'Солнечногорск 7';
     private $OPSType = 'О';
     private $OPSSubm = 141400;
-    private $Region = 'МОСКОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Московская область';
     private $Autonom = '';
-    private $Area = 'СОЛНЕЧНОГОРСКИЙ РАЙОН';
-    private $City = 'ТИМОНОВО';
+    private $Area = 'Солнечногорский район';
+    private $City = 'Тимоново';
     private $City1 = '';
     private $ActDate = '20100721';
     private $IndexOld = '';

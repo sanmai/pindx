@@ -27,13 +27,13 @@ final class Office634508 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 634508;
-    private $OPSName = 'КИСЛОВКА';
+    private $OPSName = 'Кисловка';
     private $OPSType = 'О';
     private $OPSSubm = 634000;
-    private $Region = 'ТОМСКАЯ ОБЛАСТЬ';
+    private $Region = 'Томская область';
     private $Autonom = '';
-    private $Area = 'ТОМСКИЙ РАЙОН';
-    private $City = 'КИСЛОВКА';
+    private $Area = 'Томский район';
+    private $City = 'Кисловка';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

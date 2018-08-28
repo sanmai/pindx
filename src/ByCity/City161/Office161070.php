@@ -27,13 +27,13 @@ final class Office161070 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 161070;
-    private $OPSName = 'КОЖУХОВО';
+    private $OPSName = 'Кожухово';
     private $OPSType = 'О';
     private $OPSSubm = 160999;
-    private $Region = 'ВОЛОГОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Вологодская область';
     private $Autonom = '';
-    private $Area = 'МЕЖДУРЕЧЕНСКИЙ РАЙОН';
-    private $City = 'КОЖУХОВО';
+    private $Area = 'Междуреченский район';
+    private $City = 'Кожухово';
     private $City1 = '';
     private $ActDate = '20020521';
     private $IndexOld = '';

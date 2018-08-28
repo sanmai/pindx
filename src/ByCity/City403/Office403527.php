@@ -27,13 +27,13 @@ final class Office403527 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 403527;
-    private $OPSName = 'ВЕРХНИЕ ЛИПКИ';
+    private $OPSName = 'Верхние Липки';
     private $OPSType = 'О';
     private $OPSSubm = 403530;
-    private $Region = 'ВОЛГОГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Волгоградская область';
     private $Autonom = '';
-    private $Area = 'ФРОЛОВСКИЙ РАЙОН';
-    private $City = 'ВЕРХНИЕ ЛИПКИ';
+    private $Area = 'Фроловский район';
+    private $City = 'Верхние Липки';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

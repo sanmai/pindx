@@ -27,13 +27,13 @@ final class Office309255 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 309255;
-    private $OPSName = 'НОВАЯ ТАВОЛЖАНКА';
+    private $OPSName = 'Новая Таволжанка';
     private $OPSType = 'О';
     private $OPSSubm = 309299;
-    private $Region = 'БЕЛГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Белгородская область';
     private $Autonom = '';
-    private $Area = 'ШЕБЕКИНСКИЙ РАЙОН';
-    private $City = 'НОВАЯ ТАВОЛЖАНКА';
+    private $Area = 'Шебекинский район';
+    private $City = 'Новая Таволжанка';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

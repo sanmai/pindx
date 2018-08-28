@@ -27,13 +27,13 @@ final class Office427050 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 427050;
-    private $OPSName = 'БОЛЬШОЙ ЗЕТЫМ';
+    private $OPSName = 'Большой Зетым';
     private $OPSType = 'О';
     private $OPSSubm = 427169;
-    private $Region = 'УДМУРТСКАЯ РЕСПУБЛИКА';
+    private $Region = 'Удмуртская Республика';
     private $Autonom = '';
-    private $Area = 'ДЕБЕССКИЙ РАЙОН';
-    private $City = 'БОЛЬШОЙ ЗЕТЫМ';
+    private $Area = 'Дебесский район';
+    private $City = 'Большой Зетым';
     private $City1 = '';
     private $ActDate = '20041229';
     private $IndexOld = '';

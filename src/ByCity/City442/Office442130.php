@@ -27,13 +27,13 @@ final class Office442130 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 442130;
-    private $OPSName = 'ВЕРХНИЙ ЛОМОВ';
+    private $OPSName = 'Верхний Ломов';
     private $OPSType = 'О';
     private $OPSSubm = 442169;
-    private $Region = 'ПЕНЗЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Пензенская область';
     private $Autonom = '';
-    private $Area = 'НИЖНЕЛОМОВСКИЙ РАЙОН';
-    private $City = 'ВЕРХНИЙ ЛОМОВ';
+    private $Area = 'Нижнеломовский район';
+    private $City = 'Верхний Ломов';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

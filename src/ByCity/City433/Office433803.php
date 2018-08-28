@@ -27,13 +27,13 @@ final class Office433803 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 433803;
-    private $OPSName = 'БОЛЬШОЙ ЧИРКЛЕЙ';
+    private $OPSName = 'Большой Чирклей';
     private $OPSType = 'О';
     private $OPSSubm = 433849;
-    private $Region = 'УЛЬЯНОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ульяновская область';
     private $Autonom = '';
-    private $Area = 'НИКОЛАЕВСКИЙ РАЙОН';
-    private $City = 'БОЛЬШОЙ ЧИРКЛЕЙ';
+    private $Area = 'Николаевский район';
+    private $City = 'Большой Чирклей';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

@@ -27,14 +27,14 @@ final class Office624575 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 624575;
-    private $OPSName = 'БУРМАНТОВО';
+    private $OPSName = 'Бурмантово';
     private $OPSType = 'О';
     private $OPSSubm = 624459;
-    private $Region = 'СВЕРДЛОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Свердловская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'ИВДЕЛЬ';
-    private $City1 = 'БУРМАНТОВО';
+    private $City = 'Ивдель';
+    private $City1 = 'Бурмантово';
     private $ActDate = '20110131';
     private $IndexOld = '';
 }

@@ -27,13 +27,13 @@ final class Office624621 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 624621;
-    private $OPSName = 'МАХНЕВО';
+    private $OPSName = 'Махнево';
     private $OPSType = 'О';
     private $OPSSubm = 624619;
-    private $Region = 'СВЕРДЛОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Свердловская область';
     private $Autonom = '';
-    private $Area = 'АЛАПАЕВСКИЙ РАЙОН';
-    private $City = 'МАХНЕВО';
+    private $Area = 'Алапаевский район';
+    private $City = 'Махнево';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

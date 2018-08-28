@@ -27,13 +27,13 @@ final class Office397131 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 397131;
-    private $OPSName = 'АЛЕШКИ';
+    private $OPSName = 'Алешки';
     private $OPSType = 'О';
     private $OPSSubm = 397039;
-    private $Region = 'ВОРОНЕЖСКАЯ ОБЛАСТЬ';
+    private $Region = 'Воронежская область';
     private $Autonom = '';
-    private $Area = 'ТЕРНОВСКИЙ РАЙОН';
-    private $City = 'АЛЕШКИ';
+    private $Area = 'Терновский район';
+    private $City = 'Алешки';
     private $City1 = '';
     private $ActDate = '20161028';
     private $IndexOld = '';

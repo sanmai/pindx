@@ -27,13 +27,13 @@ final class Office674607 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 674607;
-    private $OPSName = 'ШЕРЛОВАЯ ГОРА';
+    private $OPSName = 'Шерловая Гора';
     private $OPSType = 'О';
     private $OPSSubm = 674609;
-    private $Region = 'ЗАБАЙКАЛЬСКИЙ КРАЙ';
+    private $Region = 'Забайкальский край';
     private $Autonom = '';
-    private $Area = 'БОРЗИНСКИЙ РАЙОН';
-    private $City = 'ШЕРЛОВАЯ ГОРА';
+    private $Area = 'Борзинский район';
+    private $City = 'Шерловая Гора';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

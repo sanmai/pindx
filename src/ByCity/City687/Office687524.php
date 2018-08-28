@@ -27,13 +27,13 @@ final class Office687524 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 687524;
-    private $OPSName = 'ХОЙТО-АГА ППС';
-    private $OPSType = 'ППС';
+    private $OPSName = 'Хойто-Ага Ппс';
+    private $OPSType = 'Ппс';
     private $OPSSubm = 687599;
-    private $Region = 'ЗАБАЙКАЛЬСКИЙ КРАЙ';
+    private $Region = 'Забайкальский край';
     private $Autonom = '';
-    private $Area = 'АГИНСКИЙ РАЙОН';
-    private $City = 'ХОЙТО-АГА';
+    private $Area = 'Агинский район';
+    private $City = 'Хойто-Ага';
     private $City1 = '';
     private $ActDate = '20170814';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office607069 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 607069;
-    private $OPSName = 'ВЫКСА 9';
+    private $OPSName = 'Выкса 9';
     private $OPSType = 'О';
     private $OPSSubm = 607079;
-    private $Region = 'НИЖЕГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Нижегородская область';
     private $Autonom = '';
-    private $Area = 'ВЫКСУНСКИЙ РАЙОН';
-    private $City = 'ВЫКСА';
+    private $Area = 'Выксунский район';
+    private $City = 'Выкса';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

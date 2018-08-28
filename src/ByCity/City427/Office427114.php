@@ -27,13 +27,13 @@ final class Office427114 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 427114;
-    private $OPSName = 'БОЛЬШИЕ ОШВОРЦЫ';
+    private $OPSName = 'Большие Ошворцы';
     private $OPSType = 'О';
     private $OPSSubm = 427169;
-    private $Region = 'УДМУРТСКАЯ РЕСПУБЛИКА';
+    private $Region = 'Удмуртская Республика';
     private $Autonom = '';
-    private $Area = 'ЯКШУР-БОДЬИНСКИЙ РАЙОН';
-    private $City = 'БОЛЬШИЕ ОШВОРЦЫ';
+    private $Area = 'Якшур-Бодьинский район';
+    private $City = 'Большие Ошворцы';
     private $City1 = '';
     private $ActDate = '20060814';
     private $IndexOld = '';

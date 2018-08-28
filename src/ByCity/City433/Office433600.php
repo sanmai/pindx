@@ -27,13 +27,13 @@ final class Office433600 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 433600;
-    private $OPSName = 'ЦИЛЬНА';
+    private $OPSName = 'Цильна';
     private $OPSType = 'О';
     private $OPSSubm = 433639;
-    private $Region = 'УЛЬЯНОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ульяновская область';
     private $Autonom = '';
-    private $Area = 'ЦИЛЬНИНСКИЙ РАЙОН';
-    private $City = 'ЦИЛЬНА';
+    private $Area = 'Цильнинский район';
+    private $City = 'Цильна';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

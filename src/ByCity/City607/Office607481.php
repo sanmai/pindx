@@ -27,13 +27,13 @@ final class Office607481 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 607481;
-    private $OPSName = 'АРЬЕВКА';
+    private $OPSName = 'Арьевка';
     private $OPSType = 'О';
     private $OPSSubm = 607489;
-    private $Region = 'НИЖЕГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Нижегородская область';
     private $Autonom = '';
-    private $Area = 'ПИЛЬНИНСКИЙ РАЙОН';
-    private $City = 'АРЬЕВКА';
+    private $Area = 'Пильнинский район';
+    private $City = 'Арьевка';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

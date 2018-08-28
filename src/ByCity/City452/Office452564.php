@@ -27,13 +27,13 @@ final class Office452564 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 452564;
-    private $OPSName = 'ЛЕМЕЗ-ТАМАК';
+    private $OPSName = 'Лемез-Тамак';
     private $OPSType = 'О';
     private $OPSSubm = 452549;
-    private $Region = 'БАШКОРТОСТАН РЕСПУБЛИКА';
+    private $Region = 'Башкортостан Республика';
     private $Autonom = '';
-    private $Area = 'МЕЧЕТЛИНСКИЙ РАЙОН';
-    private $City = 'ЛЕМЕЗ-ТАМАК';
+    private $Area = 'Мечетлинский район';
+    private $City = 'Лемез-Тамак';
     private $City1 = '';
     private $ActDate = '20070212';
     private $IndexOld = '';

@@ -27,14 +27,14 @@ final class Office366223 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 366223;
-    private $OPSName = 'РОГУН-КАЖА';
+    private $OPSName = 'Рогун-Кажа';
     private $OPSType = 'О';
     private $OPSSubm = 366200;
-    private $Region = 'ЧЕЧЕНСКАЯ РЕСПУБЛИКА';
+    private $Region = 'Чеченская Республика';
     private $Autonom = '';
-    private $Area = 'ГУДЕРМЕССКИЙ РАЙОН';
-    private $City = 'НОЖАЙ-ЮРТОВСКИЙ';
-    private $City1 = 'РОГУН-КАЖА';
+    private $Area = 'Гудермесский район';
+    private $City = 'Ножай-Юртовский';
+    private $City1 = 'Рогун-Кажа';
     private $ActDate = '20101220';
     private $IndexOld = '';
 }

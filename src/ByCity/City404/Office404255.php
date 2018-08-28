@@ -27,13 +27,13 @@ final class Office404255 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 404255;
-    private $OPSName = 'ВЕНГЕЛОВКА';
+    private $OPSName = 'Венгеловка';
     private $OPSType = 'О';
     private $OPSSubm = 404260;
-    private $Region = 'ВОЛГОГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Волгоградская область';
     private $Autonom = '';
-    private $Area = 'ПАЛЛАСОВСКИЙ РАЙОН';
-    private $City = 'ВЕНГЕЛОВКА';
+    private $Area = 'Палласовский район';
+    private $City = 'Венгеловка';
     private $City1 = '';
     private $ActDate = '20030121';
     private $IndexOld = '';

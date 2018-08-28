@@ -27,13 +27,13 @@ final class Office412473 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 412473;
-    private $OPSName = 'СВЕРДЛОВО';
+    private $OPSName = 'Свердлово';
     private $OPSType = 'О';
     private $OPSSubm = 412480;
-    private $Region = 'САРАТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Саратовская область';
     private $Autonom = '';
-    private $Area = 'КАЛИНИНСКИЙ РАЙОН';
-    private $City = 'СВЕРДЛОВО';
+    private $Area = 'Калининский район';
+    private $City = 'Свердлово';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

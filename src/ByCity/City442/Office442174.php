@@ -27,13 +27,13 @@ final class Office442174 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 442174;
-    private $OPSName = 'СЕРГО-ПОЛИВАНОВО';
+    private $OPSName = 'Серго-Поливаново';
     private $OPSType = 'О';
     private $OPSSubm = 442039;
-    private $Region = 'ПЕНЗЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Пензенская область';
     private $Autonom = '';
-    private $Area = 'ВАДИНСКИЙ РАЙОН';
-    private $City = 'СЕРГО-ПОЛИВАНОВО';
+    private $Area = 'Вадинский район';
+    private $City = 'Серго-Поливаново';
     private $City1 = '';
     private $ActDate = '20051024';
     private $IndexOld = '';

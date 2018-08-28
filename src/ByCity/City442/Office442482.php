@@ -27,13 +27,13 @@ final class Office442482 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 442482;
-    private $OPSName = 'БИГЕЕВО';
+    private $OPSName = 'Бигеево';
     private $OPSType = 'О';
     private $OPSSubm = 442549;
-    private $Region = 'ПЕНЗЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Пензенская область';
     private $Autonom = '';
-    private $Area = 'НЕВЕРКИНСКИЙ РАЙОН';
-    private $City = 'БИГЕЕВО';
+    private $Area = 'Неверкинский район';
+    private $City = 'Бигеево';
     private $City1 = '';
     private $ActDate = '20060626';
     private $IndexOld = '';

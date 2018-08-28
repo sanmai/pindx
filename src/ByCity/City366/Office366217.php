@@ -27,13 +27,13 @@ final class Office366217 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 366217;
-    private $OPSName = 'НИЖНИЙ ГЕРЗЕЛЬ';
+    private $OPSName = 'Нижний Герзель';
     private $OPSType = 'О';
     private $OPSSubm = 366200;
-    private $Region = 'ЧЕЧЕНСКАЯ РЕСПУБЛИКА';
+    private $Region = 'Чеченская Республика';
     private $Autonom = '';
-    private $Area = 'ГУДЕРМЕССКИЙ РАЙОН';
-    private $City = 'НИЖНИЙ ГЕРЗЕЛЬ';
+    private $Area = 'Гудермесский район';
+    private $City = 'Нижний Герзель';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

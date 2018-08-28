@@ -27,13 +27,13 @@ final class Office433544 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 433544;
-    private $OPSName = 'СТЕПНАЯ ВАСИЛЬЕВКА';
+    private $OPSName = 'Степная Васильевка';
     private $OPSType = 'О';
     private $OPSSubm = 433500;
-    private $Region = 'УЛЬЯНОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ульяновская область';
     private $Autonom = '';
-    private $Area = 'МЕЛЕКЕССКИЙ РАЙОН';
-    private $City = 'СТЕПНАЯ ВАСИЛЬЕВКА';
+    private $Area = 'Мелекесский район';
+    private $City = 'Степная Васильевка';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

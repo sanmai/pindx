@@ -27,13 +27,13 @@ final class Office423377 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 423377;
-    private $OPSName = 'САРМАНОВО 7';
-    private $OPSType = 'ПЕРЕДВИЖНОЕ ОС';
+    private $OPSName = 'Сарманово 7';
+    private $OPSType = 'Передвижное Ос';
     private $OPSSubm = 423539;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'САРМАНОВСКИЙ РАЙОН';
-    private $City = 'САРМАНОВО';
+    private $Area = 'Сармановский район';
+    private $City = 'Сарманово';
     private $City1 = '';
     private $ActDate = '20151113';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office171114 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 171114;
-    private $OPSName = 'БЕЛЫЙ ОМУТ';
+    private $OPSName = 'Белый Омут';
     private $OPSType = 'О';
     private $OPSSubm = 171150;
-    private $Region = 'ТВЕРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тверская область';
     private $Autonom = '';
-    private $Area = 'ВЫШНЕВОЛОЦКИЙ РАЙОН';
-    private $City = 'БЕЛЫЙ ОМУТ';
+    private $Area = 'Вышневолоцкий район';
+    private $City = 'Белый Омут';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office433783 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 433783;
-    private $OPSName = 'ТОМЫЛОВО';
+    private $OPSName = 'Томылово';
     private $OPSType = 'О';
     private $OPSSubm = 433799;
-    private $Region = 'УЛЬЯНОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ульяновская область';
     private $Autonom = '';
-    private $Area = 'КУЗОВАТОВСКИЙ РАЙОН';
-    private $City = 'ТОМЫЛОВО';
+    private $Area = 'Кузоватовский район';
+    private $City = 'Томылово';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

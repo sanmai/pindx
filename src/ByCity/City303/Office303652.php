@@ -27,13 +27,13 @@ final class Office303652 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 303652;
-    private $OPSName = 'БОЛЬШАЯ ЧЕРНАВА';
+    private $OPSName = 'Большая Чернава';
     private $OPSType = 'О';
     private $OPSSubm = 303739;
-    private $Region = 'ОРЛОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Орловская область';
     private $Autonom = '';
-    private $Area = 'КРАСНОЗОРЕНСКИЙ РАЙОН';
-    private $City = 'БОЛЬШАЯ ЧЕРНАВА';
+    private $Area = 'Краснозоренский район';
+    private $City = 'Большая Чернава';
     private $City1 = '';
     private $ActDate = '20050825';
     private $IndexOld = '';

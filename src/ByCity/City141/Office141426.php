@@ -27,14 +27,14 @@ final class Office141426 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 141426;
-    private $OPSName = 'АЭРОПОРТ ШЕРЕМЕТЬЕВО-1';
+    private $OPSName = 'Аэропорт Шереметьево-1';
     private $OPSType = 'О';
     private $OPSSubm = 141400;
-    private $Region = 'МОСКОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Московская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'ХИМКИ';
-    private $City1 = 'ШЕРЕМЕТЬЕВО - 1';
+    private $City = 'Химки';
+    private $City1 = 'Шереметьево - 1';
     private $ActDate = '20120615';
     private $IndexOld = '';
 }

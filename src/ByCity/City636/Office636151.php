@@ -27,13 +27,13 @@ final class Office636151 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 636151;
-    private $OPSName = 'МАРКЕЛОВО';
+    private $OPSName = 'Маркелово';
     private $OPSType = 'О';
     private $OPSSubm = 636159;
-    private $Region = 'ТОМСКАЯ ОБЛАСТЬ';
+    private $Region = 'Томская область';
     private $Autonom = '';
-    private $Area = 'ШЕГАРСКИЙ РАЙОН';
-    private $City = 'МАРКЕЛОВО';
+    private $Area = 'Шегарский район';
+    private $City = 'Маркелово';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

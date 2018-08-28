@@ -27,13 +27,13 @@ final class Office160524 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 160524;
-    private $OPSName = 'ПОГОРЕЛОВО';
+    private $OPSName = 'Погорелово';
     private $OPSType = 'О';
     private $OPSSubm = 160999;
-    private $Region = 'ВОЛОГОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Вологодская область';
     private $Autonom = '';
-    private $Area = 'ВОЛОГОДСКИЙ РАЙОН';
-    private $City = 'ПОГОРЕЛОВО СОСНОВСКОЕ';
+    private $Area = 'Вологодский район';
+    private $City = 'Погорелово Сосновское';
     private $City1 = '';
     private $ActDate = '20180813';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office442452 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 442452;
-    private $OPSName = 'СТАРЫЙ ЧИРЧИМ';
+    private $OPSName = 'Старый Чирчим';
     private $OPSType = 'О';
     private $OPSSubm = 442549;
-    private $Region = 'ПЕНЗЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Пензенская область';
     private $Autonom = '';
-    private $Area = 'КАМЕШКИРСКИЙ РАЙОН';
-    private $City = 'СТАРЫЙ ЧИРЧИМ';
+    private $Area = 'Камешкирский район';
+    private $City = 'Старый Чирчим';
     private $City1 = '';
     private $ActDate = '20060626';
     private $IndexOld = '';

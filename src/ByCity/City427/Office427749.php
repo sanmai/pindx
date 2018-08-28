@@ -27,13 +27,13 @@ final class Office427749 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 427749;
-    private $OPSName = 'ГРАХОВО ПОЧТАМТ';
+    private $OPSName = 'Грахово Почтамт';
     private $OPSType = 'П';
     private $OPSSubm = 426700;
-    private $Region = 'УДМУРТСКАЯ РЕСПУБЛИКА';
+    private $Region = 'Удмуртская Республика';
     private $Autonom = '';
-    private $Area = 'ГРАХОВСКИЙ РАЙОН';
-    private $City = 'ГРАХОВО';
+    private $Area = 'Граховский район';
+    private $City = 'Грахово';
     private $City1 = '';
     private $ActDate = '20070523';
     private $IndexOld = '';

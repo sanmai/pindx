@@ -27,13 +27,13 @@ final class Office396161 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 396161;
-    private $OPSName = 'БОЛЬШИЕ ЯСЫРКИ';
+    private $OPSName = 'Большие Ясырки';
     private $OPSType = 'О';
     private $OPSSubm = 396259;
-    private $Region = 'ВОРОНЕЖСКАЯ ОБЛАСТЬ';
+    private $Region = 'Воронежская область';
     private $Autonom = '';
-    private $Area = 'ПАНИНСКИЙ РАЙОН';
-    private $City = 'БОЛЬШИЕ ЯСЫРКИ';
+    private $Area = 'Панинский район';
+    private $City = 'Большие Ясырки';
     private $City1 = '';
     private $ActDate = '20040622';
     private $IndexOld = '';

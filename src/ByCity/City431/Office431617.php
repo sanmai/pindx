@@ -27,13 +27,13 @@ final class Office431617 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 431617;
-    private $OPSName = 'СТАРАЯ МИХАЙЛОВКА';
+    private $OPSName = 'Старая Михайловка';
     private $OPSType = 'О';
     private $OPSSubm = 431539;
-    private $Region = 'МОРДОВИЯ РЕСПУБЛИКА';
+    private $Region = 'Мордовия Республика';
     private $Autonom = '';
-    private $Area = 'РОМОДАНОВСКИЙ РАЙОН';
-    private $City = 'СТАРАЯ МИХАЙЛОВКА';
+    private $Area = 'Ромодановский район';
+    private $City = 'Старая Михайловка';
     private $City1 = '';
     private $ActDate = '20061116';
     private $IndexOld = '';

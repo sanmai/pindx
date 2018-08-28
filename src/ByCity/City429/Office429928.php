@@ -27,13 +27,13 @@ final class Office429928 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 429928;
-    private $OPSName = 'ЦИВИЛЬСК КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Цивильск Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 429929;
-    private $Region = 'ЧУВАШИЯ РЕСПУБЛИКА';
+    private $Region = 'Чувашия Республика';
     private $Autonom = '';
-    private $Area = 'ЦИВИЛЬСКИЙ РАЙОН';
-    private $City = 'ЦИВИЛЬСК';
+    private $Area = 'Цивильский район';
+    private $City = 'Цивильск';
     private $City1 = '';
     private $ActDate = '20170926';
     private $IndexOld = '';

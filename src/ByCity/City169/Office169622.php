@@ -27,13 +27,13 @@ final class Office169622 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 169622;
-    private $OPSName = 'КЕДРОВЫЙ ШОР';
+    private $OPSName = 'Кедровый Шор';
     private $OPSType = 'О';
     private $OPSSubm = 169669;
-    private $Region = 'КОМИ РЕСПУБЛИКА';
+    private $Region = 'Коми Республика';
     private $Autonom = '';
-    private $Area = 'ПЕЧОРСКИЙ РАЙОН';
-    private $City = 'КЕДРОВЫЙ ШОР';
+    private $Area = 'Печорский район';
+    private $City = 'Кедровый Шор';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

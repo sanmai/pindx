@@ -27,13 +27,13 @@ final class Office162663 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 162663;
-    private $OPSName = 'АКСЕНОВО';
+    private $OPSName = 'Аксеново';
     private $OPSType = 'О';
     private $OPSSubm = 162600;
-    private $Region = 'ВОЛОГОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Вологодская область';
     private $Autonom = '';
-    private $Area = 'ЧЕРЕПОВЕЦКИЙ РАЙОН';
-    private $City = 'АКСЕНОВО ЮГСКОЕ';
+    private $Area = 'Череповецкий район';
+    private $City = 'Аксеново Югское';
     private $City1 = '';
     private $ActDate = '20180813';
     private $IndexOld = '';

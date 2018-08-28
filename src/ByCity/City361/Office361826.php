@@ -27,13 +27,13 @@ final class Office361826 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 361826;
-    private $OPSName = 'КАШХАТАУ КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Кашхатау Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 360000;
-    private $Region = 'КАБАРДИНО-БАЛКАРСКАЯ РЕСПУБЛИКА';
+    private $Region = 'Кабардино-Балкарская Республика';
     private $Autonom = '';
-    private $Area = 'ЧЕРЕКСКИЙ РАЙОН';
-    private $City = 'КАШХАТАУ';
+    private $Area = 'Черекский район';
+    private $City = 'Кашхатау';
     private $City1 = '';
     private $ActDate = '20170130';
     private $IndexOld = '';

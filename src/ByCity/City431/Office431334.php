@@ -27,13 +27,13 @@ final class Office431334 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 431334;
-    private $OPSName = 'КУРНИНО';
+    private $OPSName = 'Курнино';
     private $OPSType = 'О';
     private $OPSSubm = 431359;
-    private $Region = 'МОРДОВИЯ РЕСПУБЛИКА';
+    private $Region = 'Мордовия Республика';
     private $Autonom = '';
-    private $Area = 'КОВЫЛКИНСКИЙ РАЙОН';
-    private $City = 'КУРНИНО';
+    private $Area = 'Ковылкинский район';
+    private $City = 'Курнино';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

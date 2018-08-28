@@ -27,13 +27,13 @@ final class Office155433 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 155433;
-    private $OPSName = 'ЕСИПЛЕВО';
+    private $OPSName = 'Есиплево';
     private $OPSType = 'О';
     private $OPSSubm = 155819;
-    private $Region = 'ИВАНОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ивановская область';
     private $Autonom = '';
-    private $Area = 'ЗАВОЛЖСКИЙ РАЙОН';
-    private $City = 'ЕСИПЛЕВО';
+    private $Area = 'Заволжский район';
+    private $City = 'Есиплево';
     private $City1 = '';
     private $ActDate = '20060721';
     private $IndexOld = '';

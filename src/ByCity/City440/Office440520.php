@@ -27,13 +27,13 @@ final class Office440520 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 440520;
-    private $OPSName = 'ЛЕОНИДОВКА';
+    private $OPSName = 'Леонидовка';
     private $OPSType = 'О';
     private $OPSSubm = 440999;
-    private $Region = 'ПЕНЗЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Пензенская область';
     private $Autonom = '';
-    private $Area = 'ПЕНЗЕНСКИЙ РАЙОН';
-    private $City = 'ЛЕОНИДОВКА';
+    private $Area = 'Пензенский район';
+    private $City = 'Леонидовка';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

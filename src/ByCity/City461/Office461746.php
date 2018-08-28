@@ -27,13 +27,13 @@ final class Office461746 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 461746;
-    private $OPSName = 'АБДУЛИНО КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Абдулино Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 461740;
-    private $Region = 'ОРЕНБУРГСКАЯ ОБЛАСТЬ';
+    private $Region = 'Оренбургская область';
     private $Autonom = '';
-    private $Area = 'АБДУЛИНСКИЙ РАЙОН';
-    private $City = 'АБДУЛИНО';
+    private $Area = 'Абдулинский район';
+    private $City = 'Абдулино';
     private $City1 = '';
     private $ActDate = '20170815';
     private $IndexOld = '';

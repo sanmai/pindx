@@ -27,13 +27,13 @@ final class Office461888 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 461888;
-    private $OPSName = 'СТАРОАШИРОВО';
+    private $OPSName = 'Староаширово';
     private $OPSType = 'О';
     private $OPSSubm = 461740;
-    private $Region = 'ОРЕНБУРГСКАЯ ОБЛАСТЬ';
+    private $Region = 'Оренбургская область';
     private $Autonom = '';
-    private $Area = 'МАТВЕЕВСКИЙ РАЙОН';
-    private $City = 'СТАРОАШИРОВО';
+    private $Area = 'Матвеевский район';
+    private $City = 'Староаширово';
     private $City1 = '';
     private $ActDate = '20050928';
     private $IndexOld = '';

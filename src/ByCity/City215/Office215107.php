@@ -27,13 +27,13 @@ final class Office215107 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 215107;
-    private $OPSName = 'ВЯЗЬМА-БРЯНСКАЯ';
+    private $OPSName = 'Вязьма-Брянская';
     private $OPSType = 'О';
     private $OPSSubm = 215169;
-    private $Region = 'СМОЛЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Смоленская область';
     private $Autonom = '';
-    private $Area = 'ВЯЗЕМСКИЙ РАЙОН';
-    private $City = 'ВЯЗЬМА-БРЯНСКАЯ';
+    private $Area = 'Вяземский район';
+    private $City = 'Вязьма-Брянская';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

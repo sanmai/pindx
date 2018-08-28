@@ -27,13 +27,13 @@ final class Office385638 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 385638;
-    private $OPSName = 'ТАМБОВСКИЙ';
+    private $OPSName = 'Тамбовский';
     private $OPSType = 'О';
     private $OPSSubm = 385700;
-    private $Region = 'АДЫГЕЯ РЕСПУБЛИКА';
+    private $Region = 'Адыгея Республика';
     private $Autonom = '';
-    private $Area = 'ГИАГИНСКИЙ РАЙОН';
-    private $City = 'ТАМБОВСКИЙ';
+    private $Area = 'Гиагинский район';
+    private $City = 'Тамбовский';
     private $City1 = '';
     private $ActDate = '20100914';
     private $IndexOld = '';

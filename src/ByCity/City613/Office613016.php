@@ -27,13 +27,13 @@ final class Office613016 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 613016;
-    private $OPSName = 'БЫСТРИЦКИЙ ТУБСАНАТОРИЙ';
+    private $OPSName = 'Быстрицкий Тубсанаторий';
     private $OPSType = 'О';
     private $OPSSubm = 610999;
-    private $Region = 'КИРОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Кировская область';
     private $Autonom = '';
-    private $Area = 'КИРОВО-ЧЕПЕЦКИЙ РАЙОН';
-    private $City = 'БЫСТРИЦКИЙ ТУБСАНАТОРИЙ';
+    private $Area = 'Кирово-Чепецкий район';
+    private $City = 'Быстрицкий Тубсанаторий';
     private $City1 = '';
     private $ActDate = '20060123';
     private $IndexOld = '';

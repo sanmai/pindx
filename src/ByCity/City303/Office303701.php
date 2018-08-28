@@ -27,13 +27,13 @@ final class Office303701 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 303701;
-    private $OPSName = 'БОЛЬШОЙ СИНКОВЕЦ';
+    private $OPSName = 'Большой Синковец';
     private $OPSType = 'О';
     private $OPSSubm = 303739;
-    private $Region = 'ОРЛОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Орловская область';
     private $Autonom = '';
-    private $Area = 'ВЕРХОВСКИЙ РАЙОН';
-    private $City = 'БОЛЬШОЙ СИНКОВЕЦ';
+    private $Area = 'Верховский район';
+    private $City = 'Большой Синковец';
     private $City1 = '';
     private $ActDate = '20080603';
     private $IndexOld = '';

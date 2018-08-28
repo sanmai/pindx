@@ -27,13 +27,13 @@ final class Office162516 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 162516;
-    private $OPSName = 'БОЙЛОВО';
+    private $OPSName = 'Бойлово';
     private $OPSType = 'О';
     private $OPSSubm = 162600;
-    private $Region = 'ВОЛОГОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Вологодская область';
     private $Autonom = '';
-    private $Area = 'КАДУЙСКИЙ РАЙОН';
-    private $City = 'БОЙЛОВО';
+    private $Area = 'Кадуйский район';
+    private $City = 'Бойлово';
     private $City1 = '';
     private $ActDate = '20050404';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office186314 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 186314;
-    private $OPSName = 'ВЕЛИКАЯ ГУБА';
+    private $OPSName = 'Великая Губа';
     private $OPSType = 'О';
     private $OPSSubm = 186359;
-    private $Region = 'КАРЕЛИЯ РЕСПУБЛИКА';
+    private $Region = 'Карелия Республика';
     private $Autonom = '';
-    private $Area = 'МЕДВЕЖЬЕГОРСКИЙ РАЙОН';
-    private $City = 'ВЕЛИКАЯ ГУБА';
+    private $Area = 'Медвежьегорский район';
+    private $City = 'Великая Губа';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

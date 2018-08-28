@@ -27,13 +27,13 @@ final class Office679150 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 679150;
-    private $OPSName = 'СМИДОВИЧ';
+    private $OPSName = 'Смидович';
     private $OPSType = 'О';
     private $OPSSubm = 679700;
     private $Region = '';
-    private $Autonom = 'ЕВРЕЙСКАЯ АВТОНОМНАЯ ОБЛАСТЬ';
-    private $Area = 'СМИДОВИЧСКИЙ РАЙОН';
-    private $City = 'СМИДОВИЧ';
+    private $Autonom = 'Еврейская автономная область';
+    private $Area = 'Смидовичский район';
+    private $City = 'Смидович';
     private $City1 = '';
     private $ActDate = '20060517';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office155004 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 155004;
-    private $OPSName = 'НЕПОТЯГОВО';
+    private $OPSName = 'Непотягово';
     private $OPSType = 'О';
     private $OPSSubm = 155059;
-    private $Region = 'ИВАНОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ивановская область';
     private $Autonom = '';
-    private $Area = 'ГАВРИЛОВО-ПОСАДСКИЙ РАЙОН';
-    private $City = 'НЕПОТЯГОВО';
+    private $Area = 'Гаврилово-Посадский район';
+    private $City = 'Непотягово';
     private $City1 = '';
     private $ActDate = '20060420';
     private $IndexOld = '';

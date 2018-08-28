@@ -27,13 +27,13 @@ final class Office606483 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 606483;
-    private $OPSName = 'ЧИСТОЕ-БОРСКОЕ';
+    private $OPSName = 'Чистое-Борское';
     private $OPSType = 'О';
     private $OPSSubm = 606449;
-    private $Region = 'НИЖЕГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Нижегородская область';
     private $Autonom = '';
-    private $Area = 'БОРСКИЙ РАЙОН';
-    private $City = 'ЧИСТОЕ БОРСКОЕ';
+    private $Area = 'Борский район';
+    private $City = 'Чистое Борское';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

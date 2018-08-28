@@ -27,13 +27,13 @@ final class Office456578 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 456578;
-    private $OPSName = 'КОРКИНО 8';
-    private $OPSType = 'ПЕРЕДВИЖНОЕ ОС';
+    private $OPSName = 'Коркино 8';
+    private $OPSType = 'Передвижное Ос';
     private $OPSSubm = 456559;
-    private $Region = 'ЧЕЛЯБИНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Челябинская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'КОРКИНО';
+    private $City = 'Коркино';
     private $City1 = '';
     private $ActDate = '20150803';
     private $IndexOld = '';

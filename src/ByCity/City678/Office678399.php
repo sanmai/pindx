@@ -27,13 +27,13 @@ final class Office678399 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 678399;
-    private $OPSName = 'НАМЦЫ ОП';
-    private $OPSType = 'ОП';
+    private $OPSName = 'Намцы Оп';
+    private $OPSType = 'Оп';
     private $OPSSubm = 677999;
-    private $Region = 'САХА (ЯКУТИЯ) РЕСПУБЛИКА';
+    private $Region = 'Саха (Якутия) Республика';
     private $Autonom = '';
-    private $Area = 'НАМСКИЙ РАЙОН';
-    private $City = 'НАМЦЫ';
+    private $Area = 'Намский район';
+    private $City = 'Намцы';
     private $City1 = '';
     private $ActDate = '20180702';
     private $IndexOld = '';

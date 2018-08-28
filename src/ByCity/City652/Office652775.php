@@ -27,14 +27,14 @@ final class Office652775 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 652775;
-    private $OPSName = 'САЛАИРСКИЙ ДОМ ОТДЫХА';
+    private $OPSName = 'Салаирский Дом Отдыха';
     private $OPSType = 'О';
     private $OPSSubm = 652699;
-    private $Region = 'КЕМЕРОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Кемеровская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'ГУРЬЕВСК';
-    private $City1 = 'САЛАИРСКИЙ ДОМ ОТДЫХА';
+    private $City = 'Гурьевск';
+    private $City1 = 'Салаирский Дом Отдыха';
     private $ActDate = '20050627';
     private $IndexOld = '';
 }

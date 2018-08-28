@@ -27,13 +27,13 @@ final class Office673403 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 673403;
-    private $OPSName = 'НЕРЧИНСК 4';
+    private $OPSName = 'Нерчинск 4';
     private $OPSType = 'О';
     private $OPSSubm = 673429;
-    private $Region = 'ЗАБАЙКАЛЬСКИЙ КРАЙ';
+    private $Region = 'Забайкальский край';
     private $Autonom = '';
-    private $Area = 'НЕРЧИНСКИЙ РАЙОН';
-    private $City = 'НЕРЧИНСК';
+    private $Area = 'Нерчинский район';
+    private $City = 'Нерчинск';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

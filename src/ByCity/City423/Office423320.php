@@ -27,13 +27,13 @@ final class Office423320 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 423320;
-    private $OPSName = 'КАКРЕ-ЕЛГА';
+    private $OPSName = 'Какре-Елга';
     private $OPSType = 'О';
     private $OPSSubm = 423349;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'АЗНАКАЕВСКИЙ РАЙОН';
-    private $City = 'КАКРЕ-ЕЛГА';
+    private $Area = 'Азнакаевский район';
+    private $City = 'Какре-Елга';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office446295 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 446295;
-    private $OPSName = 'НОВЫЙ КАМЕЛИК';
+    private $OPSName = 'Новый Камелик';
     private $OPSType = 'О';
     private $OPSSubm = 446199;
-    private $Region = 'САМАРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Самарская область';
     private $Autonom = '';
-    private $Area = 'БОЛЬШЕЧЕРНИГОВСКИЙ РАЙОН';
-    private $City = 'НОВЫЙ КАМЕЛИК';
+    private $Area = 'Большечерниговский район';
+    private $City = 'Новый Камелик';
     private $City1 = '';
     private $ActDate = '20050928';
     private $IndexOld = '';

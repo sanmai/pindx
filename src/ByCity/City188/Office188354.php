@@ -27,13 +27,13 @@ final class Office188354 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 188354;
-    private $OPSName = 'МАЛОЕ ВЕРЕВО';
+    private $OPSName = 'Малое Верево';
     private $OPSType = 'О';
     private $OPSSubm = 188399;
-    private $Region = 'ЛЕНИНГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ленинградская область';
     private $Autonom = '';
-    private $Area = 'ГАТЧИНСКИЙ РАЙОН';
-    private $City = 'МАЛОЕ ВЕРЕВО';
+    private $Area = 'Гатчинский район';
+    private $City = 'Малое Верево';
     private $City1 = '';
     private $ActDate = '20120207';
     private $IndexOld = '';

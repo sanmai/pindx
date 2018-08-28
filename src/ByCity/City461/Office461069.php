@@ -27,13 +27,13 @@ final class Office461069 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 461069;
-    private $OPSName = 'КАНДАУРОВКА';
+    private $OPSName = 'Кандауровка';
     private $OPSType = 'О';
     private $OPSSubm = 461059;
-    private $Region = 'ОРЕНБУРГСКАЯ ОБЛАСТЬ';
+    private $Region = 'Оренбургская область';
     private $Autonom = '';
-    private $Area = 'КУРМАНАЕВСКИЙ РАЙОН';
-    private $City = 'КАНДАУРОВКА';
+    private $Area = 'Курманаевский район';
+    private $City = 'Кандауровка';
     private $City1 = '';
     private $ActDate = '20061013';
     private $IndexOld = '';

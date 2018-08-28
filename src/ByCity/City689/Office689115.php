@@ -27,13 +27,13 @@ final class Office689115 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 689115;
-    private $OPSName = 'МЕЙНЫПИЛЬГЫНО';
+    private $OPSName = 'Мейныпильгыно';
     private $OPSType = 'О';
     private $OPSSubm = 689700;
     private $Region = '';
-    private $Autonom = 'ЧУКОТСКИЙ АВТОНОМНЫЙ ОКРУГ';
-    private $Area = 'АНАДЫРСКИЙ РАЙОН';
-    private $City = 'МЕЙНЫПИЛЬГЫНО';
+    private $Autonom = 'Чукотский автономный округ';
+    private $Area = 'Анадырский район';
+    private $City = 'Мейныпильгыно';
     private $City1 = '';
     private $ActDate = '20060504';
     private $IndexOld = '';

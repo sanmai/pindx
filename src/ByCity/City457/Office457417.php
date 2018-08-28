@@ -27,13 +27,13 @@ final class Office457417 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 457417;
-    private $OPSName = 'ВЕРХНЕКИЗИЛЬСКОЕ';
+    private $OPSName = 'Верхнекизильское';
     private $OPSType = 'О';
     private $OPSSubm = 455999;
-    private $Region = 'ЧЕЛЯБИНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Челябинская область';
     private $Autonom = '';
-    private $Area = 'АГАПОВСКИЙ РАЙОН';
-    private $City = 'ВЕРХНЕКИЗИЛЬСКОЕ';
+    private $Area = 'Агаповский район';
+    private $City = 'Верхнекизильское';
     private $City1 = '';
     private $ActDate = '20130201';
     private $IndexOld = '';

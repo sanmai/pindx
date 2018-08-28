@@ -27,13 +27,13 @@ final class Office446181 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 446181;
-    private $OPSName = 'БОЛЬШАЯ ГЛУШИЦА 1 ППС';
-    private $OPSType = 'ППС';
+    private $OPSName = 'Большая Глушица 1 Ппс';
+    private $OPSType = 'Ппс';
     private $OPSSubm = 446199;
-    private $Region = 'САМАРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Самарская область';
     private $Autonom = '';
-    private $Area = 'БОЛЬШЕГЛУШИЦКИЙ РАЙОН';
-    private $City = 'БОЛЬШАЯ ГЛУШИЦА';
+    private $Area = 'Большеглушицкий район';
+    private $City = 'Большая Глушица';
     private $City1 = '';
     private $ActDate = '20170623';
     private $IndexOld = '';

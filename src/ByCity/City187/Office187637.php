@@ -27,13 +27,13 @@ final class Office187637 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 187637;
-    private $OPSName = 'КЛИМОВО';
+    private $OPSName = 'Климово';
     private $OPSType = 'О';
     private $OPSSubm = 187550;
-    private $Region = 'ЛЕНИНГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ленинградская область';
     private $Autonom = '';
-    private $Area = 'БОКСИТОГОРСКИЙ РАЙОН';
-    private $City = 'КЛИМОВО';
+    private $Area = 'Бокситогорский район';
+    private $City = 'Климово';
     private $City1 = '';
     private $ActDate = '20071227';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office431251 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 431251;
-    private $OPSName = 'ЛАВРЕНТЬЕВО';
+    private $OPSName = 'Лаврентьево';
     private $OPSType = 'О';
     private $OPSSubm = 431259;
-    private $Region = 'МОРДОВИЯ РЕСПУБЛИКА';
+    private $Region = 'Мордовия Республика';
     private $Autonom = '';
-    private $Area = 'ТЕМНИКОВСКИЙ РАЙОН';
-    private $City = 'ЛАВРЕНТЬЕВО';
+    private $Area = 'Темниковский район';
+    private $City = 'Лаврентьево';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

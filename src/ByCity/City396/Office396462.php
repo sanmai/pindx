@@ -27,13 +27,13 @@ final class Office396462 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 396462;
-    private $OPSName = 'ВЕРХНИЙ МАМОН 2';
+    private $OPSName = 'Верхний Мамон 2';
     private $OPSType = 'О';
     private $OPSSubm = 396459;
-    private $Region = 'ВОРОНЕЖСКАЯ ОБЛАСТЬ';
+    private $Region = 'Воронежская область';
     private $Autonom = '';
-    private $Area = 'ВЕРХНЕМАМОНСКИЙ РАЙОН';
-    private $City = 'ВЕРХНИЙ МАМОН';
+    private $Area = 'Верхнемамонский район';
+    private $City = 'Верхний Мамон';
     private $City1 = '';
     private $ActDate = '20040622';
     private $IndexOld = '';

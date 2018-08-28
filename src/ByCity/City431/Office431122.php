@@ -27,13 +27,13 @@ final class Office431122 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 431122;
-    private $OPSName = 'НОВАЯ ПОТЬМА';
+    private $OPSName = 'Новая Потьма';
     private $OPSType = 'О';
     private $OPSSubm = 431169;
-    private $Region = 'МОРДОВИЯ РЕСПУБЛИКА';
+    private $Region = 'Мордовия Республика';
     private $Autonom = '';
-    private $Area = 'ЗУБОВО-ПОЛЯНСКИЙ РАЙОН';
-    private $City = 'НОВАЯ ПОТЬМА';
+    private $Area = 'Зубово-Полянский район';
+    private $City = 'Новая Потьма';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

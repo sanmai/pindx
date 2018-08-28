@@ -27,13 +27,13 @@ final class Office157164 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 157164;
-    private $OPSName = 'ПАНКРАТОВО';
+    private $OPSName = 'Панкратово';
     private $OPSType = 'О';
     private $OPSSubm = 157229;
-    private $Region = 'КОСТРОМСКАЯ ОБЛАСТЬ';
+    private $Region = 'Костромская область';
     private $Autonom = '';
-    private $Area = 'ЧУХЛОМСКИЙ РАЙОН';
-    private $City = 'ПАНКРАТОВО';
+    private $Area = 'Чухломский район';
+    private $City = 'Панкратово';
     private $City1 = '';
     private $ActDate = '20060811';
     private $IndexOld = '';

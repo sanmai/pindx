@@ -27,13 +27,13 @@ final class Office347017 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 347017;
-    private $OPSName = 'ГОЛУБИНКА';
+    private $OPSName = 'Голубинка';
     private $OPSType = 'О';
     private $OPSSubm = 347049;
-    private $Region = 'РОСТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ростовская область';
     private $Autonom = '';
-    private $Area = 'БЕЛОКАЛИТВИНСКИЙ РАЙОН';
-    private $City = 'ГОЛУБИНКА';
+    private $Area = 'Белокалитвинский район';
+    private $City = 'Голубинка';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

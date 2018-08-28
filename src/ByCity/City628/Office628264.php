@@ -27,13 +27,13 @@ final class Office628264 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 628264;
-    private $OPSName = 'ЮГОРСК 4';
+    private $OPSName = 'Югорск 4';
     private $OPSType = 'О';
     private $OPSSubm = 628249;
     private $Region = '';
-    private $Autonom = 'ХАНТЫ-МАНСИЙСКИЙ-ЮГРА АВТОНОМНЫЙ ОКРУГ';
+    private $Autonom = 'Ханты-Мансийский-Югра автономный округ';
     private $Area = '';
-    private $City = 'ЮГОРСК';
+    private $City = 'Югорск';
     private $City1 = '';
     private $ActDate = '20170906';
     private $IndexOld = '';

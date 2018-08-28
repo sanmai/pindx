@@ -27,13 +27,13 @@ final class Office397600 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 397600;
-    private $OPSName = 'КАЛАЧ';
+    private $OPSName = 'Калач';
     private $OPSType = 'О';
     private $OPSSubm = 397659;
-    private $Region = 'ВОРОНЕЖСКАЯ ОБЛАСТЬ';
+    private $Region = 'Воронежская область';
     private $Autonom = '';
-    private $Area = 'КАЛАЧЕЕВСКИЙ РАЙОН';
-    private $City = 'КАЛАЧ';
+    private $Area = 'Калачеевский район';
+    private $City = 'Калач';
     private $City1 = '';
     private $ActDate = '20080320';
     private $IndexOld = '';

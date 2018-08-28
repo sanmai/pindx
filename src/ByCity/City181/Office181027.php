@@ -27,13 +27,13 @@ final class Office181027 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 181027;
-    private $OPSName = 'ЛЯМЦЕВО';
+    private $OPSName = 'Лямцево';
     private $OPSType = 'О';
     private $OPSSubm = 182629;
-    private $Region = 'ПСКОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Псковская область';
     private $Autonom = '';
-    private $Area = 'ПЛЮССКИЙ РАЙОН';
-    private $City = 'ЛЯМЦЕВО';
+    private $Area = 'Плюсский район';
+    private $City = 'Лямцево';
     private $City1 = '';
     private $ActDate = '20111024';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office442012 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 442012;
-    private $OPSName = 'МАЛАЯ ИЖМОРА';
+    private $OPSName = 'Малая Ижмора';
     private $OPSType = 'О';
     private $OPSSubm = 442039;
-    private $Region = 'ПЕНЗЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Пензенская область';
     private $Autonom = '';
-    private $Area = 'ЗЕМЕТЧИНСКИЙ РАЙОН';
-    private $City = 'МАЛАЯ ИЖМОРА';
+    private $Area = 'Земетчинский район';
+    private $City = 'Малая Ижмора';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

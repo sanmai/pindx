@@ -27,13 +27,13 @@ final class Office646975 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 646975;
-    private $OPSName = 'ВЕСЕЛЫЙ ПРИВАЛ';
+    private $OPSName = 'Веселый Привал';
     private $OPSType = 'О';
     private $OPSSubm = 646909;
-    private $Region = 'ОМСКАЯ ОБЛАСТЬ';
+    private $Region = 'Омская область';
     private $Autonom = '';
-    private $Area = 'КОРМИЛОВСКИЙ РАЙОН';
-    private $City = 'ВЕСЕЛЫЙ ПРИВАЛ';
+    private $Area = 'Кормиловский район';
+    private $City = 'Веселый Привал';
     private $City1 = '';
     private $ActDate = '20101101';
     private $IndexOld = '';

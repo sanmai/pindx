@@ -27,13 +27,13 @@ final class Office216221 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 216221;
-    private $OPSName = 'СПАС-УГЛЫ';
+    private $OPSName = 'Спас-Углы';
     private $OPSType = 'О';
     private $OPSSubm = 215849;
-    private $Region = 'СМОЛЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Смоленская область';
     private $Autonom = '';
-    private $Area = 'ДУХОВЩИНСКИЙ РАЙОН';
-    private $City = 'СПАС-УГЛЫ';
+    private $Area = 'Духовщинский район';
+    private $City = 'Спас-Углы';
     private $City1 = '';
     private $ActDate = '20050621';
     private $IndexOld = '';

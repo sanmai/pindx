@@ -27,13 +27,13 @@ final class Office652081 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 652081;
-    private $OPSName = 'ВЕРХ-ТАЙМЕНКА';
+    private $OPSName = 'Верх-Тайменка';
     private $OPSType = 'О';
     private $OPSSubm = 652069;
-    private $Region = 'КЕМЕРОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Кемеровская область';
     private $Autonom = '';
-    private $Area = 'ЮРГИНСКИЙ РАЙОН';
-    private $City = 'ВЕРХ-ТАЙМЕНКА';
+    private $Area = 'Юргинский район';
+    private $City = 'Верх-Тайменка';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

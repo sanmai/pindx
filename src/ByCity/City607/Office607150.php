@@ -27,13 +27,13 @@ final class Office607150 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 607150;
-    private $OPSName = 'МУХТОЛОВО';
+    private $OPSName = 'Мухтолово';
     private $OPSType = 'О';
     private $OPSSubm = 607180;
-    private $Region = 'НИЖЕГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Нижегородская область';
     private $Autonom = '';
-    private $Area = 'АРДАТОВСКИЙ РАЙОН';
-    private $City = 'МУХТОЛОВО';
+    private $Area = 'Ардатовский район';
+    private $City = 'Мухтолово';
     private $City1 = '';
     private $ActDate = '20061225';
     private $IndexOld = '';

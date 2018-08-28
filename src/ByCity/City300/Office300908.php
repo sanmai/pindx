@@ -27,14 +27,14 @@ final class Office300908 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 300908;
-    private $OPSName = 'ХОМЯКОВО';
+    private $OPSName = 'Хомяково';
     private $OPSType = 'О';
     private $OPSSubm = 300999;
-    private $Region = 'ТУЛЬСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тульская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'ТУЛА';
-    private $City1 = 'ХОМЯКОВО';
+    private $City = 'Тула';
+    private $City1 = 'Хомяково';
     private $ActDate = '20001030';
     private $IndexOld = '';
 }

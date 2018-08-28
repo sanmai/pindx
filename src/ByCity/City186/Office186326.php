@@ -27,13 +27,13 @@ final class Office186326 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 186326;
-    private $OPSName = 'ПОВЕНЕЦ';
+    private $OPSName = 'Повенец';
     private $OPSType = 'О';
     private $OPSSubm = 186359;
-    private $Region = 'КАРЕЛИЯ РЕСПУБЛИКА';
+    private $Region = 'Карелия Республика';
     private $Autonom = '';
-    private $Area = 'МЕДВЕЖЬЕГОРСКИЙ РАЙОН';
-    private $City = 'ПОВЕНЕЦ';
+    private $Area = 'Медвежьегорский район';
+    private $City = 'Повенец';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

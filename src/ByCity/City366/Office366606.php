@@ -27,14 +27,14 @@ final class Office366606 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 366606;
-    private $OPSName = 'ХАМБИ-ИРЗЕ';
+    private $OPSName = 'Хамби-Ирзе';
     private $OPSType = 'О';
     private $OPSSubm = 366500;
-    private $Region = 'ЧЕЧЕНСКАЯ РЕСПУБЛИКА';
+    private $Region = 'Чеченская Республика';
     private $Autonom = '';
-    private $Area = 'УРУС-МАРТАНОВСКИЙ РАЙОН';
-    private $City = 'АЧХОЙ-МАРТАН';
-    private $City1 = 'ХАМБИ-ИРЗИ';
+    private $Area = 'Урус-Мартановский район';
+    private $City = 'Ачхой-Мартан';
+    private $City1 = 'Хамби-Ирзи';
     private $ActDate = '20101220';
     private $IndexOld = '';
 }

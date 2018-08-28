@@ -27,13 +27,13 @@ final class Office403517 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 403517;
-    private $OPSName = 'АРЧЕДИНО-ЧЕРНУШИНСКИЙ';
+    private $OPSName = 'Арчедино-Чернушинский';
     private $OPSType = 'О';
     private $OPSSubm = 403530;
-    private $Region = 'ВОЛГОГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Волгоградская область';
     private $Autonom = '';
-    private $Area = 'ФРОЛОВСКИЙ РАЙОН';
-    private $City = 'АРЧЕДИНО-ЧЕРНУШЕНСКИЙ';
+    private $Area = 'Фроловский район';
+    private $City = 'Арчедино-Чернушенский';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office399268 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 399268;
-    private $OPSName = 'ВЕРХНЯЯ КОЛЫБЕЛЬКА';
+    private $OPSName = 'Верхняя Колыбелька';
     private $OPSType = 'О';
     private $OPSSubm = 399379;
-    private $Region = 'ЛИПЕЦКАЯ ОБЛАСТЬ';
+    private $Region = 'Липецкая область';
     private $Autonom = '';
-    private $Area = 'ХЛЕВЕНСКИЙ РАЙОН';
-    private $City = 'ВЕРХНЯЯ КОЛЫБЕЛЬКА';
+    private $Area = 'Хлевенский район';
+    private $City = 'Верхняя Колыбелька';
     private $City1 = '';
     private $ActDate = '20130301';
     private $IndexOld = '';

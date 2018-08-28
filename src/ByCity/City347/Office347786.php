@@ -27,13 +27,13 @@ final class Office347786 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 347786;
-    private $OPSName = 'МАНЫЧ-БАЛАБИНКА';
+    private $OPSName = 'Маныч-Балабинка';
     private $OPSType = 'О';
     private $OPSSubm = 346739;
-    private $Region = 'РОСТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ростовская область';
     private $Autonom = '';
-    private $Area = 'ВЕСЕЛОВСКИЙ РАЙОН';
-    private $City = 'МАНЫЧ-БАЛАБИНКА';
+    private $Area = 'Веселовский район';
+    private $City = 'Маныч-Балабинка';
     private $City1 = '';
     private $ActDate = '20070213';
     private $IndexOld = '';

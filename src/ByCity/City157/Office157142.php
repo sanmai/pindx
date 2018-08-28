@@ -27,13 +27,13 @@ final class Office157142 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 157142;
-    private $OPSName = 'СЕРЕБРЯНЫЙ БРОД';
+    private $OPSName = 'Серебряный Брод';
     private $OPSType = 'О';
     private $OPSSubm = 157229;
-    private $Region = 'КОСТРОМСКАЯ ОБЛАСТЬ';
+    private $Region = 'Костромская область';
     private $Autonom = '';
-    private $Area = 'ЧУХЛОМСКИЙ РАЙОН';
-    private $City = 'СЕРЕБРЯНЫЙ БРОД';
+    private $Area = 'Чухломский район';
+    private $City = 'Серебряный Брод';
     private $City1 = '';
     private $ActDate = '20060811';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office655135 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 655135;
-    private $OPSName = 'ВЕРШИНО-БИДЖА';
+    private $OPSName = 'Вершино-Биджа';
     private $OPSType = 'О';
     private $OPSSubm = 655000;
-    private $Region = 'ХАКАСИЯ РЕСПУБЛИКА';
+    private $Region = 'Хакасия Республика';
     private $Autonom = '';
-    private $Area = 'УСТЬ-АБАКАНСКИЙ РАЙОН';
-    private $City = 'ВЕРШИНО-БИДЖА';
+    private $Area = 'Усть-Абаканский район';
+    private $City = 'Вершино-Биджа';
     private $City1 = '';
     private $ActDate = '20060215';
     private $IndexOld = '';

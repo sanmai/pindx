@@ -27,14 +27,14 @@ final class Office248911 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 248911;
-    private $OPSName = 'КОЛЮПАНОВО';
+    private $OPSName = 'Колюпаново';
     private $OPSType = 'О';
     private $OPSSubm = 248099;
-    private $Region = 'КАЛУЖСКАЯ ОБЛАСТЬ';
+    private $Region = 'Калужская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'КАЛУГА';
-    private $City1 = 'КОЛЮПАНОВО';
+    private $City = 'Калуга';
+    private $City1 = 'Колюпаново';
     private $ActDate = '20001030';
     private $IndexOld = '';
 }

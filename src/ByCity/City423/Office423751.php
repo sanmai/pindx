@@ -27,13 +27,13 @@ final class Office423751 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 423751;
-    private $OPSName = 'ТАКТАЛАЧУК';
+    private $OPSName = 'Такталачук';
     private $OPSType = 'О';
     private $OPSSubm = 423849;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'АКТАНЫШСКИЙ РАЙОН';
-    private $City = 'ТАКТАЛАЧУК';
+    private $Area = 'Актанышский район';
+    private $City = 'Такталачук';
     private $City1 = '';
     private $ActDate = '20040115';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office601112 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 601112;
-    private $OPSName = 'БОЛЬШАЯ ПЕКША';
+    private $OPSName = 'Большая Пекша';
     private $OPSType = 'О';
     private $OPSSubm = 601140;
-    private $Region = 'ВЛАДИМИРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Владимирская область';
     private $Autonom = '';
-    private $Area = 'ПЕТУШИНСКИЙ РАЙОН';
-    private $City = 'ПЕКША';
+    private $Area = 'Петушинский район';
+    private $City = 'Пекша';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

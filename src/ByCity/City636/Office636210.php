@@ -27,13 +27,13 @@ final class Office636210 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 636210;
-    private $OPSName = 'ПЛОТНИКОВО';
+    private $OPSName = 'Плотниково';
     private $OPSType = 'О';
     private $OPSSubm = 636159;
-    private $Region = 'ТОМСКАЯ ОБЛАСТЬ';
+    private $Region = 'Томская область';
     private $Autonom = '';
-    private $Area = 'БАКЧАРСКИЙ РАЙОН';
-    private $City = 'ПЛОТНИКОВО';
+    private $Area = 'Бакчарский район';
+    private $City = 'Плотниково';
     private $City1 = '';
     private $ActDate = '20070514';
     private $IndexOld = '';

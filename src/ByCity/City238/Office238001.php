@@ -27,13 +27,13 @@ final class Office238001 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 238001;
-    private $OPSName = 'БАБУШКИНО';
+    private $OPSName = 'Бабушкино';
     private $OPSType = 'О';
     private $OPSSubm = 238169;
-    private $Region = 'КАЛИНИНГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Калининградская область';
     private $Autonom = '';
-    private $Area = 'НЕСТЕРОВСКИЙ РАЙОН';
-    private $City = 'БАБУШКИНО';
+    private $Area = 'Нестеровский район';
+    private $City = 'Бабушкино';
     private $City1 = '';
     private $ActDate = '20101119';
     private $IndexOld = '';

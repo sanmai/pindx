@@ -27,13 +27,13 @@ final class Office650536 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 650536;
-    private $OPSName = 'УСТЬ-ХМЕЛЕВКА';
+    private $OPSName = 'Усть-Хмелевка';
     private $OPSType = 'О';
     private $OPSSubm = 650999;
-    private $Region = 'КЕМЕРОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Кемеровская область';
     private $Autonom = '';
-    private $Area = 'КЕМЕРОВСКИЙ РАЙОН';
-    private $City = 'УСТЬ-ХМЕЛЕВКА';
+    private $Area = 'Кемеровский район';
+    private $City = 'Усть-Хмелевка';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

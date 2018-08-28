@@ -27,13 +27,13 @@ final class Office442485 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 442485;
-    private $OPSName = 'КАРНОВАР';
+    private $OPSName = 'Карновар';
     private $OPSType = 'О';
     private $OPSSubm = 442549;
-    private $Region = 'ПЕНЗЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Пензенская область';
     private $Autonom = '';
-    private $Area = 'НЕВЕРКИНСКИЙ РАЙОН';
-    private $City = 'КАРНОВАР';
+    private $Area = 'Неверкинский район';
+    private $City = 'Карновар';
     private $City1 = '';
     private $ActDate = '20060626';
     private $IndexOld = '';

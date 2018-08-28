@@ -27,13 +27,13 @@ final class Office457444 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 457444;
-    private $OPSName = 'ГУМБЕЙСКИЙ';
+    private $OPSName = 'Гумбейский';
     private $OPSType = 'О';
     private $OPSSubm = 455999;
-    private $Region = 'ЧЕЛЯБИНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Челябинская область';
     private $Autonom = '';
-    private $Area = 'АГАПОВСКИЙ РАЙОН';
-    private $City = 'ГУМБЕЙСКОЕ 4 ОТДЕЛЕНИЕ';
+    private $Area = 'Агаповский район';
+    private $City = 'Гумбейское 4 Отделение';
     private $City1 = '';
     private $ActDate = '20130201';
     private $IndexOld = '';

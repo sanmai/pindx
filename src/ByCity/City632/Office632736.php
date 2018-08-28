@@ -27,13 +27,13 @@ final class Office632736 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 632736;
-    private $OPSName = 'КУПИНО КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Купино Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 632730;
-    private $Region = 'НОВОСИБИРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Новосибирская область';
     private $Autonom = '';
-    private $Area = 'КУПИНСКИЙ РАЙОН';
-    private $City = 'КУПИНО';
+    private $Area = 'Купинский район';
+    private $City = 'Купино';
     private $City1 = '';
     private $ActDate = '20170706';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office346575 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 346575;
-    private $OPSName = 'ГРЕКОВО-УЛЬЯНОВКА';
+    private $OPSName = 'Греково-Ульяновка';
     private $OPSType = 'О';
     private $OPSSubm = 346939;
-    private $Region = 'РОСТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ростовская область';
     private $Autonom = '';
-    private $Area = 'РОДИОНОВО-НЕСВЕТАЙСКИЙ РАЙОН';
-    private $City = 'ГРЕКОВО-УЛЬЯНОВКА';
+    private $Area = 'Родионово-Несветайский район';
+    private $City = 'Греково-Ульяновка';
     private $City1 = '';
     private $ActDate = '20070214';
     private $IndexOld = '';

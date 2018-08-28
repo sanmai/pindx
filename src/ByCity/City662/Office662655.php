@@ -27,13 +27,13 @@ final class Office662655 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 662655;
-    private $OPSName = 'ТУБИНСК';
+    private $OPSName = 'Тубинск';
     private $OPSType = 'О';
     private $OPSSubm = 662600;
-    private $Region = 'КРАСНОЯРСКИЙ КРАЙ';
+    private $Region = 'Красноярский край';
     private $Autonom = '';
-    private $Area = 'КРАСНОТУРАНСКИЙ РАЙОН';
-    private $City = 'ТУБИНСК';
+    private $Area = 'Краснотуранский район';
+    private $City = 'Тубинск';
     private $City1 = '';
     private $ActDate = '20031016';
     private $IndexOld = '';

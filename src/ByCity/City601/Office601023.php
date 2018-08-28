@@ -27,13 +27,13 @@ final class Office601023 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 601023;
-    private $OPSName = 'ПЕРШИНО';
+    private $OPSName = 'Першино';
     private $OPSType = 'О';
     private $OPSSubm = 601659;
-    private $Region = 'ВЛАДИМИРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Владимирская область';
     private $Autonom = '';
-    private $Area = 'КИРЖАЧСКИЙ РАЙОН';
-    private $City = 'ПЕРШИНО';
+    private $Area = 'Киржачский район';
+    private $City = 'Першино';
     private $City1 = '';
     private $ActDate = '20130114';
     private $IndexOld = '';

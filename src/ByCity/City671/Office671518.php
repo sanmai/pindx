@@ -27,13 +27,13 @@ final class Office671518 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 671518;
-    private $OPSName = 'БАГДАРИН 8';
-    private $OPSType = 'ПЕРЕДВИЖНОЕ ОС';
+    private $OPSName = 'Багдарин 8';
+    private $OPSType = 'Передвижное Ос';
     private $OPSSubm = 670999;
-    private $Region = 'БУРЯТИЯ РЕСПУБЛИКА';
+    private $Region = 'Бурятия Республика';
     private $Autonom = '';
-    private $Area = 'БАУНТОВСКИЙ ЭВЕНКИЙСКИЙ РАЙОН';
-    private $City = 'БАГДАРИН';
+    private $Area = 'Баунтовский Эвенкийский район';
+    private $City = 'Багдарин';
     private $City1 = '';
     private $ActDate = '20151126';
     private $IndexOld = '';

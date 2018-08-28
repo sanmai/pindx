@@ -27,13 +27,13 @@ final class Office442560 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 442560;
-    private $OPSName = 'СТАРЫЙ ВЕРШАУТ';
+    private $OPSName = 'Старый Вершаут';
     private $OPSType = 'О';
     private $OPSSubm = 442439;
-    private $Region = 'ПЕНЗЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Пензенская область';
     private $Autonom = '';
-    private $Area = 'ЛОПАТИНСКИЙ РАЙОН';
-    private $City = 'СТАРЫЙ ВЕРШАУТ';
+    private $Area = 'Лопатинский район';
+    private $City = 'Старый Вершаут';
     private $City1 = '';
     private $ActDate = '20060703';
     private $IndexOld = '';

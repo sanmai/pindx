@@ -27,13 +27,13 @@ final class Office606369 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 606369;
-    private $OPSName = 'КАРАБАТОВО';
+    private $OPSName = 'Карабатово';
     private $OPSType = 'О';
     private $OPSSubm = 607669;
-    private $Region = 'НИЖЕГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Нижегородская область';
     private $Autonom = '';
-    private $Area = 'БОЛЬШЕМУРАШКИНСКИЙ РАЙОН';
-    private $City = 'КАРАБАТОВО';
+    private $Area = 'Большемурашкинский район';
+    private $City = 'Карабатово';
     private $City1 = '';
     private $ActDate = '20060623';
     private $IndexOld = '';

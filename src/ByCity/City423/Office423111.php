@@ -27,13 +27,13 @@ final class Office423111 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 423111;
-    private $OPSName = 'СТАРОЕ ИЛЬМОВО';
+    private $OPSName = 'Старое Ильмово';
     private $OPSType = 'О';
     private $OPSSubm = 423469;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'ЧЕРЕМШАНСКИЙ РАЙОН';
-    private $City = 'СТАРОЕ ИЛЬМОВО';
+    private $Area = 'Черемшанский район';
+    private $City = 'Старое Ильмово';
     private $City1 = '';
     private $ActDate = '20030123';
     private $IndexOld = '';

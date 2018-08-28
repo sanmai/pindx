@@ -27,13 +27,13 @@ final class Office996700 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 996700;
-    private $OPSName = 'СТАВРОПОЛЬ-ПОЧТОМАТ (АПС)';
+    private $OPSName = 'Ставрополь-Почтомат (Апс)';
     private $OPSType = 'Почтомат';
     private $OPSSubm = 355012;
-    private $Region = 'СТАВРОПОЛЬСКИЙ КРАЙ';
+    private $Region = 'Ставропольский край';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'СТАВРОПОЛЬ';
+    private $City = 'Ставрополь';
     private $City1 = '';
     private $ActDate = '20160811';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office663055 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 663055;
-    private $OPSName = 'НАХВАЛЬСКОЕ';
+    private $OPSName = 'Нахвальское';
     private $OPSType = 'О';
     private $OPSSubm = 662989;
-    private $Region = 'КРАСНОЯРСКИЙ КРАЙ';
+    private $Region = 'Красноярский край';
     private $Autonom = '';
-    private $Area = 'СУХОБУЗИМСКИЙ РАЙОН';
-    private $City = 'НАХВАЛЬСКОЕ';
+    private $Area = 'Сухобузимский район';
+    private $City = 'Нахвальское';
     private $City1 = '';
     private $ActDate = '20070427';
     private $IndexOld = '';

@@ -27,14 +27,14 @@ final class Office662974 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 662974;
-    private $OPSName = 'ДОДОНОВО';
+    private $OPSName = 'Додоново';
     private $OPSType = 'О';
     private $OPSSubm = 662989;
-    private $Region = 'КРАСНОЯРСКИЙ КРАЙ';
+    private $Region = 'Красноярский край';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'ЗАТО ЖЕЛЕЗНОГОРСК';
-    private $City1 = 'ДОДОНОВО';
+    private $City = 'Зато Железногорск';
+    private $City1 = 'Додоново';
     private $ActDate = '20180709';
     private $IndexOld = '';
 }

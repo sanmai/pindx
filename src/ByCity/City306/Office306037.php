@@ -27,13 +27,13 @@ final class Office306037 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 306037;
-    private $OPSName = 'ВЕРЕИТИНОВО-ПЕРВОЕ';
+    private $OPSName = 'Вереитиново-Первое';
     private $OPSType = 'О';
     private $OPSSubm = 307139;
-    private $Region = 'КУРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Курская область';
     private $Autonom = '';
-    private $Area = 'ЗОЛОТУХИНСКИЙ РАЙОН';
-    private $City = 'ВЕРЕИТИНОВО-1';
+    private $Area = 'Золотухинский район';
+    private $City = 'Вереитиново-1';
     private $City1 = '';
     private $ActDate = '20041126';
     private $IndexOld = '';

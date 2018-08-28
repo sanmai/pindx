@@ -27,13 +27,13 @@ final class Office171914 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 171914;
-    private $OPSName = 'БОЛЬШАЯ ВОЗДВИЖЕНКА';
+    private $OPSName = 'Большая Воздвиженка';
     private $OPSType = 'О';
     private $OPSSubm = 171939;
-    private $Region = 'ТВЕРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тверская область';
     private $Autonom = '';
-    private $Area = 'МАКСАТИХИНСКИЙ РАЙОН';
-    private $City = 'БОЛЬШАЯ ВОЗДВИЖЕНКА';
+    private $Area = 'Максатихинский район';
+    private $City = 'Большая Воздвиженка';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

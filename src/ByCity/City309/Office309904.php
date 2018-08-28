@@ -27,13 +27,13 @@ final class Office309904 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 309904;
-    private $OPSName = 'АРНАУТОВО';
+    private $OPSName = 'Арнаутово';
     private $OPSType = 'О';
     private $OPSSubm = 309859;
-    private $Region = 'БЕЛГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Белгородская область';
     private $Autonom = '';
-    private $Area = 'КРАСНОГВАРДЕЙСКИЙ РАЙОН';
-    private $City = 'АРНАУТОВО';
+    private $Area = 'Красногвардейский район';
+    private $City = 'Арнаутово';
     private $City1 = '';
     private $ActDate = '20110802';
     private $IndexOld = '';

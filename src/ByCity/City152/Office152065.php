@@ -27,13 +27,13 @@ final class Office152065 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 152065;
-    private $OPSName = 'ТРОФИМОВО';
+    private $OPSName = 'Трофимово';
     private $OPSType = 'О';
     private $OPSSubm = 152099;
-    private $Region = 'ЯРОСЛАВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ярославская область';
     private $Autonom = '';
-    private $Area = 'ДАНИЛОВСКИЙ РАЙОН';
-    private $City = 'ТРОФИМОВО';
+    private $Area = 'Даниловский район';
+    private $City = 'Трофимово';
     private $City1 = '';
     private $ActDate = '20100302';
     private $IndexOld = '';

@@ -27,14 +27,14 @@ final class Office361501 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 361501;
-    private $OPSName = 'ДЫГУЛЫБГЕЙ 1';
+    private $OPSName = 'Дыгулыбгей 1';
     private $OPSType = 'О';
     private $OPSSubm = 361530;
-    private $Region = 'КАБАРДИНО-БАЛКАРСКАЯ РЕСПУБЛИКА';
+    private $Region = 'Кабардино-Балкарская Республика';
     private $Autonom = '';
-    private $Area = 'БАКСАНСКИЙ РАЙОН';
-    private $City = 'БАКСАН';
-    private $City1 = 'ДЫГУЛЫБГЕЙ';
+    private $Area = 'Баксанский район';
+    private $City = 'Баксан';
+    private $City1 = 'Дыгулыбгей';
     private $ActDate = '20160727';
     private $IndexOld = '';
 }

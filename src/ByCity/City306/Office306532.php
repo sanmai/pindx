@@ -27,13 +27,13 @@ final class Office306532 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 306532;
-    private $OPSName = 'ЩИГРЫ';
+    private $OPSName = 'Щигры';
     private $OPSType = 'О';
     private $OPSSubm = 306509;
-    private $Region = 'КУРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Курская область';
     private $Autonom = '';
-    private $Area = 'ЩИГРОВСКИЙ РАЙОН';
-    private $City = 'ЩИГРЫ';
+    private $Area = 'Щигровский район';
+    private $City = 'Щигры';
     private $City1 = '';
     private $ActDate = '20090319';
     private $IndexOld = '';

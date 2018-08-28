@@ -27,13 +27,13 @@ final class Office646692 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 646692;
-    private $OPSName = 'УЛЕНКУЛЬ';
+    private $OPSName = 'Уленкуль';
     private $OPSType = 'О';
     private $OPSSubm = 646539;
-    private $Region = 'ОМСКАЯ ОБЛАСТЬ';
+    private $Region = 'Омская область';
     private $Autonom = '';
-    private $Area = 'БОЛЬШЕРЕЧЕНСКИЙ РАЙОН';
-    private $City = 'УЛЕНКУЛЬ';
+    private $Area = 'Большереченский район';
+    private $City = 'Уленкуль';
     private $City1 = '';
     private $ActDate = '20070420';
     private $IndexOld = '';

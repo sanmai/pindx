@@ -27,13 +27,13 @@ final class Office242505 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 242505;
-    private $OPSName = 'АЛЫМОВА';
+    private $OPSName = 'Алымова';
     private $OPSType = 'О';
     private $OPSSubm = 241000;
-    private $Region = 'БРЯНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Брянская область';
     private $Autonom = '';
-    private $Area = 'КАРАЧЕВСКИЙ РАЙОН';
-    private $City = 'АЛЫМОВА';
+    private $Area = 'Карачевский район';
+    private $City = 'Алымова';
     private $City1 = '';
     private $ActDate = '20110118';
     private $IndexOld = '';

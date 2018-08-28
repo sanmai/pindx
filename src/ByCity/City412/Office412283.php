@@ -27,13 +27,13 @@ final class Office412283 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 412283;
-    private $OPSName = 'УСТЬ-ЩЕРБЕДИНО';
+    private $OPSName = 'Усть-Щербедино';
     private $OPSType = 'О';
     private $OPSSubm = 412300;
-    private $Region = 'САРАТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Саратовская область';
     private $Autonom = '';
-    private $Area = 'РОМАНОВСКИЙ РАЙОН';
-    private $City = 'УСТЬ-ЩЕРБЕДИНО';
+    private $Area = 'Романовский район';
+    private $City = 'Усть-Щербедино';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

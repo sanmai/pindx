@@ -27,13 +27,13 @@ final class Office182005 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 182005;
-    private $OPSName = 'НАЗИМОВО';
+    private $OPSName = 'Назимово';
     private $OPSType = 'О';
     private $OPSSubm = 182100;
-    private $Region = 'ПСКОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Псковская область';
     private $Autonom = '';
-    private $Area = 'КУНЬИНСКИЙ РАЙОН';
-    private $City = 'НАЗИМОВО';
+    private $Area = 'Куньинский район';
+    private $City = 'Назимово';
     private $City1 = '';
     private $ActDate = '20031022';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office163110 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 163110;
-    private $OPSName = 'БУХТА ТИХАЯ - О. ГУКЕРА ЗЕМЛЯ ФРАНЦА-ИОСИФА';
+    private $OPSName = 'Бухта Тихая - О. Гукера Земля Франца-Иосифа';
     private $OPSType = 'О';
     private $OPSSubm = 163999;
-    private $Region = 'АРХАНГЕЛЬСКАЯ ОБЛАСТЬ';
+    private $Region = 'Архангельская область';
     private $Autonom = '';
-    private $Area = 'ПРИМОРСКИЙ РАЙОН';
-    private $City = 'ТИХАЯ О-В ГУКЕРА АРХИПЕЛАГ ЗЕМЛЯ ФРАНЦА-ИОСИФА';
+    private $Area = 'Приморский район';
+    private $City = 'Тихая О-В Гукера Архипелаг Земля Франца-Иосифа';
     private $City1 = '';
     private $ActDate = '20141003';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office396884 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 396884;
-    private $OPSName = 'КУЧУГУРОВСКИЙ СОВХОЗ';
+    private $OPSName = 'Кучугуровский Совхоз';
     private $OPSType = 'О';
     private $OPSSubm = 396959;
-    private $Region = 'ВОРОНЕЖСКАЯ ОБЛАСТЬ';
+    private $Region = 'Воронежская область';
     private $Autonom = '';
-    private $Area = 'НИЖНЕДЕВИЦКИЙ РАЙОН';
-    private $City = 'СОВХОЗА КУЧУГУРОВСКИЙ';
+    private $Area = 'Нижнедевицкий район';
+    private $City = 'Совхоза Кучугуровский';
     private $City1 = '';
     private $ActDate = '20040622';
     private $IndexOld = '';

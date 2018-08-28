@@ -27,13 +27,13 @@ final class Office457034 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 457034;
-    private $OPSName = 'БОРИСОВКА';
+    private $OPSName = 'Борисовка';
     private $OPSType = 'О';
     private $OPSSubm = 457059;
-    private $Region = 'ЧЕЛЯБИНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Челябинская область';
     private $Autonom = '';
-    private $Area = 'ПЛАСТОВСКИЙ РАЙОН';
-    private $City = 'БОРИСОВКА';
+    private $Area = 'Пластовский район';
+    private $City = 'Борисовка';
     private $City1 = '';
     private $ActDate = '20180813';
     private $IndexOld = '';

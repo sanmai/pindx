@@ -27,13 +27,13 @@ final class Office164000 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 164000;
-    private $OPSName = 'ЕРЦЕВО';
+    private $OPSName = 'Ерцево';
     private $OPSType = 'О';
     private $OPSSubm = 165159;
-    private $Region = 'АРХАНГЕЛЬСКАЯ ОБЛАСТЬ';
+    private $Region = 'Архангельская область';
     private $Autonom = '';
-    private $Area = 'КОНОШСКИЙ РАЙОН';
-    private $City = 'ЕРЦЕВО';
+    private $Area = 'Коношский район';
+    private $City = 'Ерцево';
     private $City1 = '';
     private $ActDate = '20101124';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office298700 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 298700;
-    private $OPSName = 'УФПС КРЫМСКОГО ФЕДЕРАЛЬНОГО ОКРУГА';
-    private $OPSType = 'УФПС';
+    private $OPSName = 'Уфпс Крымского Федерального округа';
+    private $OPSType = 'Уфпс';
     private $OPSSubm = 0;
-    private $Region = 'КРЫМ РЕСПУБЛИКА';
+    private $Region = 'Крым Республика';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'СИМФЕРОПОЛЬ';
+    private $City = 'Симферополь';
     private $City1 = '';
     private $ActDate = '20140423';
     private $IndexOld = '';

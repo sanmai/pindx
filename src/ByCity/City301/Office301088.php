@@ -27,13 +27,13 @@ final class Office301088 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 301088;
-    private $OPSName = 'СИНЕГУБОВО-ПЕРВОЕ';
+    private $OPSName = 'Синегубово-Первое';
     private $OPSType = 'О';
     private $OPSSubm = 301259;
-    private $Region = 'ТУЛЬСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тульская область';
     private $Autonom = '';
-    private $Area = 'ЧЕРНСКИЙ РАЙОН';
-    private $City = 'СИНЕГУБОВО 1';
+    private $Area = 'Чернский район';
+    private $City = 'Синегубово 1';
     private $City1 = '';
     private $ActDate = '20040514';
     private $IndexOld = '';

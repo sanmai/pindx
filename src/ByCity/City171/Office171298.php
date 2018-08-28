@@ -27,13 +27,13 @@ final class Office171298 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 171298;
-    private $OPSName = 'КОНАКОВО КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Конаково Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 171250;
-    private $Region = 'ТВЕРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тверская область';
     private $Autonom = '';
-    private $Area = 'КОНАКОВСКИЙ РАЙОН';
-    private $City = 'КОНАКОВО';
+    private $Area = 'Конаковский район';
+    private $City = 'Конаково';
     private $City1 = '';
     private $ActDate = '20180813';
     private $IndexOld = '';

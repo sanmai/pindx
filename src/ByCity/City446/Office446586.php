@@ -27,13 +27,13 @@ final class Office446586 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 446586;
-    private $OPSName = 'СТАРОЕ ВЕЧКАНОВО';
+    private $OPSName = 'Старое Вечканово';
     private $OPSType = 'О';
     private $OPSSubm = 446569;
-    private $Region = 'САМАРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Самарская область';
     private $Autonom = '';
-    private $Area = 'ИСАКЛИНСКИЙ РАЙОН';
-    private $City = 'СТАРОЕ ВЕЧКАНОВО';
+    private $Area = 'Исаклинский район';
+    private $City = 'Старое Вечканово';
     private $City1 = '';
     private $ActDate = '20101014';
     private $IndexOld = '';

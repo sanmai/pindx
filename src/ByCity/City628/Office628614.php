@@ -27,14 +27,14 @@ final class Office628614 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 628614;
-    private $OPSName = 'НИЖНЕВАРТОВСК 14';
+    private $OPSName = 'Нижневартовск 14';
     private $OPSType = 'О';
     private $OPSSubm = 628600;
     private $Region = '';
-    private $Autonom = 'ХАНТЫ-МАНСИЙСКИЙ-ЮГРА АВТОНОМНЫЙ ОКРУГ';
+    private $Autonom = 'Ханты-Мансийский-Югра автономный округ';
     private $Area = '';
-    private $City = 'НИЖНЕВАРТОВСК';
-    private $City1 = 'СОЛНЕЧНЫЙ';
+    private $City = 'Нижневартовск';
+    private $City1 = 'Солнечный';
     private $ActDate = '20170906';
     private $IndexOld = '';
 }

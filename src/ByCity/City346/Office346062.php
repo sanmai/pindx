@@ -27,13 +27,13 @@ final class Office346062 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 346062;
-    private $OPSName = 'ЕФРЕМОВО-СТЕПАНОВКА';
+    private $OPSName = 'Ефремово-Степановка';
     private $OPSType = 'О';
     private $OPSSubm = 347819;
-    private $Region = 'РОСТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ростовская область';
     private $Autonom = '';
-    private $Area = 'ТАРАСОВСКИЙ РАЙОН';
-    private $City = 'ЕФРЕМОВО-СТЕПАНОВКА';
+    private $Area = 'Тарасовский район';
+    private $City = 'Ефремово-Степановка';
     private $City1 = '';
     private $ActDate = '20070214';
     private $IndexOld = '';

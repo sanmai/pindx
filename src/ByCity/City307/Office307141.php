@@ -27,13 +27,13 @@ final class Office307141 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 307141;
-    private $OPSName = 'НИЖНЕЕ ЖДАНОВО';
+    private $OPSName = 'Нижнее Жданово';
     private $OPSType = 'О';
     private $OPSSubm = 307189;
-    private $Region = 'КУРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Курская область';
     private $Autonom = '';
-    private $Area = 'ЖЕЛЕЗНОГОРСКИЙ РАЙОН';
-    private $City = 'НИЖНЕЕ ЖДАНОВО';
+    private $Area = 'Железногорский район';
+    private $City = 'Нижнее Жданово';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

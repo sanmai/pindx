@@ -27,13 +27,13 @@ final class Office626024 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 626024;
-    private $OPSName = 'БЕРЕЗОВКА';
-    private $OPSType = 'ПЕРЕДВИЖНОЕ ОС';
+    private $OPSName = 'Березовка';
+    private $OPSType = 'Передвижное Ос';
     private $OPSSubm = 625500;
-    private $Region = 'ТЮМЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тюменская область';
     private $Autonom = '';
-    private $Area = 'НИЖНЕТАВДИНСКИЙ РАЙОН';
-    private $City = 'НИЖНЯЯ ТАВДА';
+    private $Area = 'Нижнетавдинский район';
+    private $City = 'Нижняя Тавда';
     private $City1 = '';
     private $ActDate = '20171030';
     private $IndexOld = '';

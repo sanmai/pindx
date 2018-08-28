@@ -27,13 +27,13 @@ final class Office627303 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 627303;
-    private $OPSName = 'ГОЛЫШМАНОВО 3';
+    private $OPSName = 'Голышманово 3';
     private $OPSType = 'О';
     private $OPSSubm = 627329;
-    private $Region = 'ТЮМЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тюменская область';
     private $Autonom = '';
-    private $Area = 'ГОЛЫШМАНОВСКИЙ РАЙОН';
-    private $City = 'ГОЛЫШМАНОВО';
+    private $Area = 'Голышмановский район';
+    private $City = 'Голышманово';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

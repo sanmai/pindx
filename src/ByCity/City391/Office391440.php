@@ -27,13 +27,13 @@ final class Office391440 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 391440;
-    private $OPSName = 'НИЖНЕЕ МАЛЬЦЕВО';
+    private $OPSName = 'Нижнее Мальцево';
     private $OPSType = 'О';
     private $OPSSubm = 391469;
-    private $Region = 'РЯЗАНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Рязанская область';
     private $Autonom = '';
-    private $Area = 'САСОВСКИЙ РАЙОН';
-    private $City = 'НИЖНЕЕ МАЛЬЦЕВО';
+    private $Area = 'Сасовский район';
+    private $City = 'Нижнее Мальцево';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

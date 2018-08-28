@@ -27,13 +27,13 @@ final class Office652588 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 652588;
-    private $OPSName = 'ХУДЯШОВО';
+    private $OPSName = 'Худяшово';
     private $OPSType = 'О';
     private $OPSSubm = 652599;
-    private $Region = 'КЕМЕРОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Кемеровская область';
     private $Autonom = '';
-    private $Area = 'ЛЕНИНСК-КУЗНЕЦКИЙ РАЙОН';
-    private $City = 'ХУДЯШОВО';
+    private $Area = 'Ленинск-Кузнецкий район';
+    private $City = 'Худяшово';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office412935 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 412935;
-    private $OPSName = 'ШИРОКИЙ БУЕРАК';
+    private $OPSName = 'Широкий Буерак';
     private $OPSType = 'О';
     private $OPSSubm = 412900;
-    private $Region = 'САРАТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Саратовская область';
     private $Autonom = '';
-    private $Area = 'ВОЛЬСКИЙ РАЙОН';
-    private $City = 'ШИРОКИЙ БУЕРАК';
+    private $Area = 'Вольский район';
+    private $City = 'Широкий Буерак';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

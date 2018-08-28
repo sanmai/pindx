@@ -27,13 +27,13 @@ final class Office606118 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 606118;
-    private $OPSName = 'ГРУДЦИНО';
+    private $OPSName = 'Грудцино';
     private $OPSType = 'О';
     private $OPSSubm = 606139;
-    private $Region = 'НИЖЕГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Нижегородская область';
     private $Autonom = '';
-    private $Area = 'ПАВЛОВСКИЙ РАЙОН';
-    private $City = 'ГРУДЦИНО';
+    private $Area = 'Павловский район';
+    private $City = 'Грудцино';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

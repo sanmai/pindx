@@ -27,13 +27,13 @@ final class Office422411 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 422411;
-    private $OPSName = 'ЧЕРКИ-ГРИШИНО';
+    private $OPSName = 'Черки-Гришино';
     private $OPSType = 'О';
     private $OPSSubm = 422459;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'БУИНСКИЙ РАЙОН';
-    private $City = 'ЧЕРКИ-ГРИШИНО';
+    private $Area = 'Буинский район';
+    private $City = 'Черки-Гришино';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

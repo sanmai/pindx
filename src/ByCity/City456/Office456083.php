@@ -27,13 +27,13 @@ final class Office456083 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 456083;
-    private $OPSName = 'ТРЕХГОРНЫЙ 3';
+    private $OPSName = 'Трехгорный 3';
     private $OPSType = 'О';
     private $OPSSubm = 456069;
-    private $Region = 'ЧЕЛЯБИНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Челябинская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'ТРЕХГОРНЫЙ';
+    private $City = 'Трехгорный';
     private $City1 = '';
     private $ActDate = '20170817';
     private $IndexOld = '';

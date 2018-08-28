@@ -27,13 +27,13 @@ final class Office361224 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 361224;
-    private $OPSName = 'ВЕРХНИЙ АКБАШ';
+    private $OPSName = 'Верхний Акбаш';
     private $OPSType = 'О';
     private $OPSSubm = 361200;
-    private $Region = 'КАБАРДИНО-БАЛКАРСКАЯ РЕСПУБЛИКА';
+    private $Region = 'Кабардино-Балкарская Республика';
     private $Autonom = '';
-    private $Area = 'ТЕРСКИЙ РАЙОН';
-    private $City = 'ВЕРХНИЙ АКБАШ';
+    private $Area = 'Терский район';
+    private $City = 'Верхний Акбаш';
     private $City1 = '';
     private $ActDate = '20010105';
     private $IndexOld = '';

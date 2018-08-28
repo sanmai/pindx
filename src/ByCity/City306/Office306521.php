@@ -27,13 +27,13 @@ final class Office306521 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 306521;
-    private $OPSName = 'НИЖНИЙ ТЕРЕБУЖ';
+    private $OPSName = 'Нижний Теребуж';
     private $OPSType = 'О';
     private $OPSSubm = 306509;
-    private $Region = 'КУРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Курская область';
     private $Autonom = '';
-    private $Area = 'ЩИГРОВСКИЙ РАЙОН';
-    private $City = 'НИЖНИЙ ТЕРЕБУЖ';
+    private $Area = 'Щигровский район';
+    private $City = 'Нижний Теребуж';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

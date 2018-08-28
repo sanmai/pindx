@@ -27,13 +27,13 @@ final class Office363120 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 363120;
-    private $OPSName = 'АРХОНСКАЯ';
+    private $OPSName = 'Архонская';
     private $OPSType = 'О';
     private $OPSSubm = 362000;
-    private $Region = 'СЕВЕРНАЯ ОСЕТИЯ - АЛАНИЯ РЕСПУБЛИКА';
+    private $Region = 'Северная Осетия - Алания Республика';
     private $Autonom = '';
-    private $Area = 'ПРИГОРОДНЫЙ РАЙОН';
-    private $City = 'АРХОНСКАЯ';
+    private $Area = 'Пригородный район';
+    private $City = 'Архонская';
     private $City1 = '';
     private $ActDate = '20070221';
     private $IndexOld = '';

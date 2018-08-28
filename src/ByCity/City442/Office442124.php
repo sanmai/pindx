@@ -27,13 +27,13 @@ final class Office442124 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 442124;
-    private $OPSName = 'СТАРАЯ ТОЛКОВКА';
+    private $OPSName = 'Старая Толковка';
     private $OPSType = 'О';
     private $OPSSubm = 442169;
-    private $Region = 'ПЕНЗЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Пензенская область';
     private $Autonom = '';
-    private $Area = 'ПАЧЕЛМСКИЙ РАЙОН';
-    private $City = 'СТАРАЯ ТОЛКОВКА';
+    private $Area = 'Пачелмский район';
+    private $City = 'Старая Толковка';
     private $City1 = '';
     private $ActDate = '20060901';
     private $IndexOld = '';

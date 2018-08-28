@@ -27,13 +27,13 @@ final class Office452478 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 452478;
-    private $OPSName = 'КАНДАКОВКА';
+    private $OPSName = 'Кандаковка';
     private $OPSType = 'О';
     private $OPSSubm = 452459;
-    private $Region = 'БАШКОРТОСТАН РЕСПУБЛИКА';
+    private $Region = 'Башкортостан Республика';
     private $Autonom = '';
-    private $Area = 'БИРСКИЙ РАЙОН';
-    private $City = 'КАНДАКОВКА';
+    private $Area = 'Бирский район';
+    private $City = 'Кандаковка';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

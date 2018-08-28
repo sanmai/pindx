@@ -27,13 +27,13 @@ final class Office188535 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 188535;
-    private $OPSName = 'ШЕПЕЛЕВО';
+    private $OPSName = 'Шепелево';
     private $OPSType = 'О';
     private $OPSSubm = 188449;
-    private $Region = 'ЛЕНИНГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ленинградская область';
     private $Autonom = '';
-    private $Area = 'ЛОМОНОСОВСКИЙ РАЙОН';
-    private $City = 'ШЕПЕЛЕВО';
+    private $Area = 'Ломоносовский район';
+    private $City = 'Шепелево';
     private $City1 = '';
     private $ActDate = '20101101';
     private $IndexOld = '';

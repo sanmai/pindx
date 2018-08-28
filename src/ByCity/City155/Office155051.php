@@ -27,13 +27,13 @@ final class Office155051 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 155051;
-    private $OPSName = 'НОВОЕ ЛЕУШИНО';
+    private $OPSName = 'Новое Леушино';
     private $OPSType = 'О';
     private $OPSSubm = 155059;
-    private $Region = 'ИВАНОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ивановская область';
     private $Autonom = '';
-    private $Area = 'ТЕЙКОВСКИЙ РАЙОН';
-    private $City = 'НОВОЕ ЛЕУШИНО';
+    private $Area = 'Тейковский район';
+    private $City = 'Новое Леушино';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

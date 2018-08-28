@@ -27,13 +27,13 @@ final class Office150506 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 150506;
-    private $OPSName = 'БЕКРЕНЕВО';
-    private $OPSType = 'ПЕРЕДВИЖНОЕ ОС';
+    private $OPSName = 'Бекренево';
+    private $OPSType = 'Передвижное Ос';
     private $OPSSubm = 150599;
-    private $Region = 'ЯРОСЛАВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ярославская область';
     private $Autonom = '';
-    private $Area = 'ЯРОСЛАВСКИЙ РАЙОН';
-    private $City = 'БЕКРЕНЕВО';
+    private $Area = 'Ярославский район';
+    private $City = 'Бекренево';
     private $City1 = '';
     private $ActDate = '20150330';
     private $IndexOld = '';

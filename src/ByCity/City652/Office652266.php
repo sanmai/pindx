@@ -27,13 +27,13 @@ final class Office652266 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 652266;
-    private $OPSName = 'ТЯЖИНСКИЙ КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Тяжинский Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 652269;
-    private $Region = 'КЕМЕРОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Кемеровская область';
     private $Autonom = '';
-    private $Area = 'ТЯЖИНСКИЙ РАЙОН';
-    private $City = 'ТЯЖИНСКИЙ';
+    private $Area = 'Тяжинский район';
+    private $City = 'Тяжинский';
     private $City1 = '';
     private $ActDate = '20170915';
     private $IndexOld = '';

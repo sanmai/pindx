@@ -27,13 +27,13 @@ final class Office359408 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 359408;
-    private $OPSName = 'АРШАНЬ-ЗЕЛЬМЕНЬ';
+    private $OPSName = 'Аршань-Зельмень';
     private $OPSType = 'О';
     private $OPSSubm = 359419;
-    private $Region = 'КАЛМЫКИЯ РЕСПУБЛИКА';
+    private $Region = 'Калмыкия Республика';
     private $Autonom = '';
-    private $Area = 'САРПИНСКИЙ РАЙОН';
-    private $City = 'АРШАНЬ ЗЕЛЬМЕНЬ';
+    private $Area = 'Сарпинский район';
+    private $City = 'Аршань Зельмень';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

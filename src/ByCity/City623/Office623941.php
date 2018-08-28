@@ -27,13 +27,13 @@ final class Office623941 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 623941;
-    private $OPSName = 'ХРАМЦОВО';
+    private $OPSName = 'Храмцово';
     private $OPSType = 'О';
     private $OPSSubm = 623869;
-    private $Region = 'СВЕРДЛОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Свердловская область';
     private $Autonom = '';
-    private $Area = 'СЛОБОДО-ТУРИНСКИЙ РАЙОН';
-    private $City = 'ХРАМЦОВО';
+    private $Area = 'Слободо-Туринский район';
+    private $City = 'Храмцово';
     private $City1 = '';
     private $ActDate = '20110131';
     private $IndexOld = '';

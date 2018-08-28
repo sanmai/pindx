@@ -27,13 +27,13 @@ final class Office422974 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 422974;
-    private $OPSName = 'НАРАТ-ЕЛГА ППС';
-    private $OPSType = 'ППС';
+    private $OPSName = 'Нарат-Елга Ппс';
+    private $OPSType = 'Ппс';
     private $OPSSubm = 422999;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'ЧИСТОПОЛЬСКИЙ РАЙОН';
-    private $City = 'НАРАТ-ЕЛГА';
+    private $Area = 'Чистопольский район';
+    private $City = 'Нарат-Елга';
     private $City1 = '';
     private $ActDate = '20170626';
     private $IndexOld = '';

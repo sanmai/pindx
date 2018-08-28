@@ -27,13 +27,13 @@ final class Office391654 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 391654;
-    private $OPSName = 'ГРЕМЯЧИЙ КЛЮЧ';
+    private $OPSName = 'Гремячий Ключ';
     private $OPSType = 'О';
     private $OPSSubm = 391469;
-    private $Region = 'РЯЗАНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Рязанская область';
     private $Autonom = '';
-    private $Area = 'ЕРМИШИНСКИЙ РАЙОН';
-    private $City = 'ГРЕМЯЧИЙ КЛЮЧ';
+    private $Area = 'Ермишинский район';
+    private $City = 'Гремячий Ключ';
     private $City1 = '';
     private $ActDate = '20060606';
     private $IndexOld = '';

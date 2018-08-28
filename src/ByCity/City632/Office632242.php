@@ -27,13 +27,13 @@ final class Office632242 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 632242;
-    private $OPSName = 'ТУРУНОВКА';
+    private $OPSName = 'Туруновка';
     private $OPSType = 'О';
     private $OPSSubm = 632200;
-    private $Region = 'НОВОСИБИРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Новосибирская область';
     private $Autonom = '';
-    private $Area = 'ВЕНГЕРОВСКИЙ РАЙОН';
-    private $City = 'ТУРУНОВКА';
+    private $Area = 'Венгеровский район';
+    private $City = 'Туруновка';
     private $City1 = '';
     private $ActDate = '20060705';
     private $IndexOld = '';

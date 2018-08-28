@@ -27,13 +27,13 @@ final class Office632550 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 632550;
-    private $OPSName = 'ЧУЛЫМ ПОЧТАМТ';
+    private $OPSName = 'Чулым Почтамт';
     private $OPSType = 'П';
     private $OPSSubm = 630700;
-    private $Region = 'НОВОСИБИРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Новосибирская область';
     private $Autonom = '';
-    private $Area = 'ЧУЛЫМСКИЙ РАЙОН';
-    private $City = 'ЧУЛЫМ';
+    private $Area = 'Чулымский район';
+    private $City = 'Чулым';
     private $City1 = '';
     private $ActDate = '20121113';
     private $IndexOld = '';

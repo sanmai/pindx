@@ -27,13 +27,13 @@ final class Office423358 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 423358;
-    private $OPSName = 'МУРТЫШ-ТАМАК';
+    private $OPSName = 'Муртыш-Тамак';
     private $OPSType = 'О';
     private $OPSSubm = 423539;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'САРМАНОВСКИЙ РАЙОН';
-    private $City = 'МУРТЫШ-ТАМАК';
+    private $Area = 'Сармановский район';
+    private $City = 'Муртыш-Тамак';
     private $City1 = '';
     private $ActDate = '20110630';
     private $IndexOld = '';

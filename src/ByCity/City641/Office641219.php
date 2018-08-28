@@ -27,13 +27,13 @@ final class Office641219 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 641219;
-    private $OPSName = 'КРАСНЫЙ УРАЛЕЦ';
+    private $OPSName = 'Красный Уралец';
     private $OPSType = 'О';
     private $OPSSubm = 641069;
-    private $Region = 'КУРГАНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Курганская область';
     private $Autonom = '';
-    private $Area = 'ЮРГАМЫШСКИЙ РАЙОН';
-    private $City = 'КРАСНЫЙ УРАЛЕЦ';
+    private $Area = 'Юргамышский район';
+    private $City = 'Красный Уралец';
     private $City1 = '';
     private $ActDate = '20051116';
     private $IndexOld = '';

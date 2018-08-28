@@ -27,13 +27,13 @@ final class Office249349 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 249349;
-    private $OPSName = 'ВЕРХНЯЯ АКИМОВКА';
+    private $OPSName = 'Верхняя Акимовка';
     private $OPSType = 'О';
     private $OPSSubm = 249400;
-    private $Region = 'КАЛУЖСКАЯ ОБЛАСТЬ';
+    private $Region = 'Калужская область';
     private $Autonom = '';
-    private $Area = 'ЖИЗДРИНСКИЙ РАЙОН';
-    private $City = 'ВЕРХНЯЯ АКИМОВКА';
+    private $Area = 'Жиздринский район';
+    private $City = 'Верхняя Акимовка';
     private $City1 = '';
     private $ActDate = '20041025';
     private $IndexOld = '';

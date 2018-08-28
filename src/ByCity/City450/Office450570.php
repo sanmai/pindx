@@ -27,13 +27,13 @@ final class Office450570 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 450570;
-    private $OPSName = 'ЖУКОВО';
+    private $OPSName = 'Жуково';
     private $OPSType = 'О';
     private $OPSSubm = 450999;
-    private $Region = 'БАШКОРТОСТАН РЕСПУБЛИКА';
+    private $Region = 'Башкортостан Республика';
     private $Autonom = '';
-    private $Area = 'УФИМСКИЙ РАЙОН';
-    private $City = 'ЖУКОВО';
+    private $Area = 'Уфимский район';
+    private $City = 'Жуково';
     private $City1 = '';
     private $ActDate = '20040519';
     private $IndexOld = '';

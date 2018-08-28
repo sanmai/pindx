@@ -27,13 +27,13 @@ final class Office431539 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 431539;
-    private $OPSName = 'ЛЯМБИРЬ ПОЧТАМТ';
+    private $OPSName = 'Лямбирь Почтамт';
     private $OPSType = 'П';
     private $OPSSubm = 430700;
-    private $Region = 'МОРДОВИЯ РЕСПУБЛИКА';
+    private $Region = 'Мордовия Республика';
     private $Autonom = '';
-    private $Area = 'ЛЯМБИРСКИЙ РАЙОН';
-    private $City = 'ЛЯМБИРЬ';
+    private $Area = 'Лямбирский район';
+    private $City = 'Лямбирь';
     private $City1 = '';
     private $ActDate = '20080206';
     private $IndexOld = '';

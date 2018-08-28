@@ -27,13 +27,13 @@ final class Office617716 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 617716;
-    private $OPSName = 'НИЖНИЙ ТЫМБАЙ';
+    private $OPSName = 'Нижний Тымбай';
     private $OPSType = 'О';
     private $OPSSubm = 617769;
-    private $Region = 'ПЕРМСКИЙ КРАЙ';
+    private $Region = 'Пермский край';
     private $Autonom = '';
-    private $Area = 'КУЕДИНСКИЙ РАЙОН';
-    private $City = 'НИЖНИЙ ТЫМБАЙ';
+    private $Area = 'Куединский район';
+    private $City = 'Нижний Тымбай';
     private $City1 = '';
     private $ActDate = '20070214';
     private $IndexOld = '';

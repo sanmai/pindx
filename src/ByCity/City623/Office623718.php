@@ -27,14 +27,14 @@ final class Office623718 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 623718;
-    private $OPSName = 'СТАРОПЫШМИНСК';
+    private $OPSName = 'Старопышминск';
     private $OPSType = 'О';
     private $OPSSubm = 620999;
-    private $Region = 'СВЕРДЛОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Свердловская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'БЕРЕЗОВСКИЙ';
-    private $City1 = 'СТАРОПЫШМИНСК';
+    private $City = 'Березовский';
+    private $City1 = 'Старопышминск';
     private $ActDate = '20050822';
     private $IndexOld = '';
 }

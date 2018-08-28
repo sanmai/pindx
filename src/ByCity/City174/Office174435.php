@@ -27,13 +27,13 @@ final class Office174435 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 174435;
-    private $OPSName = 'КОНЧАНСКОЕ-СУВОРОВСКОЕ';
+    private $OPSName = 'Кончанское-Суворовское';
     private $OPSType = 'О';
     private $OPSSubm = 174400;
-    private $Region = 'НОВГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Новгородская область';
     private $Autonom = '';
-    private $Area = 'БОРОВИЧСКИЙ РАЙОН';
-    private $City = 'КОНЧАНСКО-СУВОРОВСКОЕ';
+    private $Area = 'Боровичский район';
+    private $City = 'Кончанско-Суворовское';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

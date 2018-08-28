@@ -27,13 +27,13 @@ final class Office452082 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 452082;
-    private $OPSName = 'МЕНЕУЗТАМАК';
+    private $OPSName = 'Менеузтамак';
     private $OPSType = 'О';
     private $OPSSubm = 452139;
-    private $Region = 'БАШКОРТОСТАН РЕСПУБЛИКА';
+    private $Region = 'Башкортостан Республика';
     private $Autonom = '';
-    private $Area = 'МИЯКИНСКИЙ РАЙОН';
-    private $City = 'МЕНЕУЗТАМАК';
+    private $Area = 'Миякинский район';
+    private $City = 'Менеузтамак';
     private $City1 = '';
     private $ActDate = '20070212';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office403324 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 403324;
-    private $OPSName = 'МИХАЙЛОВКА 24';
-    private $OPSType = 'ПЕРЕДВИЖНОЕ ОС';
+    private $OPSName = 'Михайловка 24';
+    private $OPSType = 'Передвижное Ос';
     private $OPSSubm = 403340;
-    private $Region = 'ВОЛГОГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Волгоградская область';
     private $Autonom = '';
-    private $Area = 'МИХАЙЛОВСКИЙ РАЙОН';
-    private $City = 'МИХАЙЛОВКА';
+    private $Area = 'Михайловский район';
+    private $City = 'Михайловка';
     private $City1 = '';
     private $ActDate = '20150529';
     private $IndexOld = '';

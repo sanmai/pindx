@@ -27,14 +27,14 @@ final class Office298532 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 298532;
-    private $OPSName = 'НИЖНЯЯ КУТУЗОВКА';
+    private $OPSName = 'Нижняя Кутузовка';
     private $OPSType = 'О';
     private $OPSSubm = 298699;
-    private $Region = 'КРЫМ РЕСПУБЛИКА';
+    private $Region = 'Крым Республика';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'АЛУШТА';
-    private $City1 = 'НИЖНЯЯ КУТУЗОВКА';
+    private $City = 'Алушта';
+    private $City1 = 'Нижняя Кутузовка';
     private $ActDate = '20140321';
     private $IndexOld = '';
 }

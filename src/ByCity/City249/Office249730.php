@@ -27,13 +27,13 @@ final class Office249730 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 249730;
-    private $OPSName = 'БЕРЕЗИЧСКИЙ СТЕКЛОЗАВОД';
+    private $OPSName = 'Березичский Стеклозавод';
     private $OPSType = 'О';
     private $OPSSubm = 249739;
-    private $Region = 'КАЛУЖСКАЯ ОБЛАСТЬ';
+    private $Region = 'Калужская область';
     private $Autonom = '';
-    private $Area = 'КОЗЕЛЬСКИЙ РАЙОН';
-    private $City = 'БЕРЕЗИЧСКИЙ СТЕКЛОЗАВОД';
+    private $Area = 'Козельский район';
+    private $City = 'Березичский Стеклозавод';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

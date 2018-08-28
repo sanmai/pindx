@@ -27,13 +27,13 @@ final class Office404150 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 404150;
-    private $OPSName = 'ЛЕБЯЖЬЯ ПОЛЯНА';
+    private $OPSName = 'Лебяжья Поляна';
     private $OPSType = 'О';
     private $OPSSubm = 404100;
-    private $Region = 'ВОЛГОГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Волгоградская область';
     private $Autonom = '';
-    private $Area = 'СРЕДНЕАХТУБИНСКИЙ РАЙОН';
-    private $City = 'ЛЕБЯЖЬЯ ПОЛЯНА';
+    private $Area = 'Среднеахтубинский район';
+    private $City = 'Лебяжья Поляна';
     private $City1 = '';
     private $ActDate = '20070411';
     private $IndexOld = '';

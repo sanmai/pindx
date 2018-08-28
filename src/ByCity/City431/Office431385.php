@@ -27,13 +27,13 @@ final class Office431385 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 431385;
-    private $OPSName = 'НОВОУСАДСКИЕ ВЫСЕЛКИ';
+    private $OPSName = 'Новоусадские Выселки';
     private $OPSType = 'О';
     private $OPSSubm = 431289;
-    private $Region = 'МОРДОВИЯ РЕСПУБЛИКА';
+    private $Region = 'Мордовия Республика';
     private $Autonom = '';
-    private $Area = 'ЕЛЬНИКОВСКИЙ РАЙОН';
-    private $City = 'НОВОУСАДСКИЕ';
+    private $Area = 'Ельниковский район';
+    private $City = 'Новоусадские';
     private $City1 = '';
     private $ActDate = '20180813';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office452198 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 452198;
-    private $OPSName = 'СЕМЕНО-МАКАРОВО';
+    private $OPSName = 'Семено-Макарово';
     private $OPSType = 'О';
     private $OPSSubm = 452039;
-    private $Region = 'БАШКОРТОСТАН РЕСПУБЛИКА';
+    private $Region = 'Башкортостан Республика';
     private $Autonom = '';
-    private $Area = 'ЕРМЕКЕЕВСКИЙ РАЙОН';
-    private $City = 'СЕМЕНО - МАКАРОВО';
+    private $Area = 'Ермекеевский район';
+    private $City = 'Семено - Макарово';
     private $City1 = '';
     private $ActDate = '20060913';
     private $IndexOld = '';

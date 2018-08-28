@@ -27,13 +27,13 @@ final class Office678773 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 678773;
-    private $OPSName = 'НЕЛЕМНОЕ';
+    private $OPSName = 'Нелемное';
     private $OPSType = 'О';
     private $OPSSubm = 677099;
-    private $Region = 'САХА (ЯКУТИЯ) РЕСПУБЛИКА';
+    private $Region = 'Саха (Якутия) Республика';
     private $Autonom = '';
-    private $Area = 'ВЕРХНЕКОЛЫМСКИЙ РАЙОН';
-    private $City = 'НЕЛЕМНОЕ';
+    private $Area = 'Верхнеколымский район';
+    private $City = 'Нелемное';
     private $City1 = '';
     private $ActDate = '20180702';
     private $IndexOld = '';

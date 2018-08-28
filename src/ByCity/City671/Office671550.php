@@ -27,13 +27,13 @@ final class Office671550 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 671550;
-    private $OPSName = 'ВАРВАРИНСКИЙ';
+    private $OPSName = 'Варваринский';
     private $OPSType = 'О';
     private $OPSSubm = 670999;
-    private $Region = 'БУРЯТИЯ РЕСПУБЛИКА';
+    private $Region = 'Бурятия Республика';
     private $Autonom = '';
-    private $Area = 'БАУНТОВСКИЙ ЭВЕНКИЙСКИЙ РАЙОН';
-    private $City = 'ВАРВАРИНСКИЙ';
+    private $Area = 'Баунтовский Эвенкийский район';
+    private $City = 'Варваринский';
     private $City1 = '';
     private $ActDate = '20071224';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office649116 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 649116;
-    private $OPSName = 'МАЙМА УООП';
+    private $OPSName = 'Майма Уооп';
     private $OPSType = 'Участок';
     private $OPSSubm = 649119;
-    private $Region = 'АЛТАЙ РЕСПУБЛИКА';
+    private $Region = 'Алтай Республика';
     private $Autonom = '';
-    private $Area = 'МАЙМИНСКИЙ РАЙОН';
-    private $City = 'МАЙМА';
+    private $Area = 'Майминский район';
+    private $City = 'Майма';
     private $City1 = '';
     private $ActDate = '20180406';
     private $IndexOld = '';

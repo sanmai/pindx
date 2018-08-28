@@ -27,13 +27,13 @@ final class Office172459 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 172459;
-    private $OPSName = 'КРИВАЯ ЛУКА';
+    private $OPSName = 'Кривая Лука';
     private $OPSType = 'О';
     private $OPSSubm = 172649;
-    private $Region = 'ТВЕРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тверская область';
     private $Autonom = '';
-    private $Area = 'ЖАРКОВСКИЙ РАЙОН';
-    private $City = 'КРИВАЯ ЛУКА';
+    private $Area = 'Жарковский район';
+    private $City = 'Кривая Лука';
     private $City1 = '';
     private $ActDate = '20050907';
     private $IndexOld = '';

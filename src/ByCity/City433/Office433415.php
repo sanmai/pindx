@@ -27,13 +27,13 @@ final class Office433415 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 433415;
-    private $OPSName = 'СТАНЦИЯ БРЯНДИНО';
+    private $OPSName = 'Станция Бряндино';
     private $OPSType = 'О';
     private $OPSSubm = 433439;
-    private $Region = 'УЛЬЯНОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ульяновская область';
     private $Autonom = '';
-    private $Area = 'ЧЕРДАКЛИНСКИЙ РАЙОН';
-    private $City = 'БРЯНДИНО';
+    private $Area = 'Чердаклинский район';
+    private $City = 'Бряндино';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

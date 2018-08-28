@@ -27,13 +27,13 @@ final class Office174432 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 174432;
-    private $OPSName = 'СУШИЛОВО';
+    private $OPSName = 'Сушилово';
     private $OPSType = 'О';
     private $OPSSubm = 174400;
-    private $Region = 'НОВГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Новгородская область';
     private $Autonom = '';
-    private $Area = 'БОРОВИЧСКИЙ РАЙОН';
-    private $City = 'СУШИЛОВО СУШИЛОВСКОЕ С. П.';
+    private $Area = 'Боровичский район';
+    private $City = 'Сушилово Сушиловское С. П.';
     private $City1 = '';
     private $ActDate = '20180813';
     private $IndexOld = '';

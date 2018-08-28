@@ -27,13 +27,13 @@ final class Office442148 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 442148;
-    private $OPSName = 'БОЛЬШОЙ МИЧКАС';
+    private $OPSName = 'Большой Мичкас';
     private $OPSType = 'О';
     private $OPSSubm = 442169;
-    private $Region = 'ПЕНЗЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Пензенская область';
     private $Autonom = '';
-    private $Area = 'НИЖНЕЛОМОВСКИЙ РАЙОН';
-    private $City = 'БОЛЬШОЙ МИЧКАС';
+    private $Area = 'Нижнеломовский район';
+    private $City = 'Большой Мичкас';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

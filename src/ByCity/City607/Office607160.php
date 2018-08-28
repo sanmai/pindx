@@ -27,13 +27,13 @@ final class Office607160 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 607160;
-    private $OPSName = 'АТЕМАСОВО';
+    private $OPSName = 'Атемасово';
     private $OPSType = 'О';
     private $OPSSubm = 607180;
-    private $Region = 'НИЖЕГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Нижегородская область';
     private $Autonom = '';
-    private $Area = 'АРДАТОВСКИЙ РАЙОН';
-    private $City = 'АТЕМАСОВО';
+    private $Area = 'Ардатовский район';
+    private $City = 'Атемасово';
     private $City1 = '';
     private $ActDate = '20061225';
     private $IndexOld = '';

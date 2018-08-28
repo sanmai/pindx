@@ -27,13 +27,13 @@ final class Office655232 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 655232;
-    private $OPSName = 'ФЫРКАЛ';
+    private $OPSName = 'Фыркал';
     private $OPSType = 'О';
     private $OPSSubm = 655239;
-    private $Region = 'ХАКАСИЯ РЕСПУБЛИКА';
+    private $Region = 'Хакасия Республика';
     private $Autonom = '';
-    private $Area = 'ШИРИНСКИЙ РАЙОН';
-    private $City = 'ФЫРКАЛ';
+    private $Area = 'Ширинский район';
+    private $City = 'Фыркал';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

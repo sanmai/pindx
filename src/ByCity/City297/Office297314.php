@@ -27,13 +27,13 @@ final class Office297314 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 297314;
-    private $OPSName = 'ФЕОДОСИЯ ПОЧТАМТ УЧ. НОВОФЕДОРОВКА';
+    private $OPSName = 'Феодосия Почтамт Уч. Новофедоровка';
     private $OPSType = 'Участок';
     private $OPSSubm = 298199;
-    private $Region = 'КРЫМ РЕСПУБЛИКА';
+    private $Region = 'Крым Республика';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'ФЕОДОСИЯ';
+    private $City = 'Феодосия';
     private $City1 = '';
     private $ActDate = '20140721';
     private $IndexOld = '';

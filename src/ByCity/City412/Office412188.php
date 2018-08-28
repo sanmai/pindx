@@ -27,13 +27,13 @@ final class Office412188 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 412188;
-    private $OPSName = 'БОЛЬШАЯ КАМЕНКА';
+    private $OPSName = 'Большая Каменка';
     private $OPSType = 'О';
     private $OPSSubm = 410999;
-    private $Region = 'САРАТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Саратовская область';
     private $Autonom = '';
-    private $Area = 'ТАТИЩЕВСКИЙ РАЙОН';
-    private $City = 'БОЛЬШАЯ КАМЕНКА';
+    private $Area = 'Татищевский район';
+    private $City = 'Большая Каменка';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

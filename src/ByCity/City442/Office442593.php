@@ -27,13 +27,13 @@ final class Office442593 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 442593;
-    private $OPSName = 'НИЖНИЙ МЫВАЛ';
+    private $OPSName = 'Нижний Мывал';
     private $OPSType = 'О';
     private $OPSSubm = 442699;
-    private $Region = 'ПЕНЗЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Пензенская область';
     private $Autonom = '';
-    private $Area = 'СОСНОВОБОРСКИЙ РАЙОН';
-    private $City = 'НИЖНИЙ МЫВАЛ';
+    private $Area = 'Сосновоборский район';
+    private $City = 'Нижний Мывал';
     private $City1 = '';
     private $ActDate = '20060626';
     private $IndexOld = '';

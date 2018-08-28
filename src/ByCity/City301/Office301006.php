@@ -27,13 +27,13 @@ final class Office301006 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 301006;
-    private $OPSName = 'СИМОНОВО';
+    private $OPSName = 'Симоново';
     private $OPSType = 'О';
     private $OPSSubm = 301379;
-    private $Region = 'ТУЛЬСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тульская область';
     private $Autonom = '';
-    private $Area = 'ЗАОКСКИЙ РАЙОН';
-    private $City = 'СИМОНОВО';
+    private $Area = 'Заокский район';
+    private $City = 'Симоново';
     private $City1 = '';
     private $ActDate = '20020701';
     private $IndexOld = '';

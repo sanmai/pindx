@@ -27,13 +27,13 @@ final class Office309274 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 309274;
-    private $OPSName = 'ПЕРВОЕ ЦЕПЛЯЕВО';
+    private $OPSName = 'Первое Цепляево';
     private $OPSType = 'О';
     private $OPSSubm = 309299;
-    private $Region = 'БЕЛГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Белгородская область';
     private $Autonom = '';
-    private $Area = 'ШЕБЕКИНСКИЙ РАЙОН';
-    private $City = 'ПЕРВОЕ ЦЕПЛЯЕВО';
+    private $Area = 'Шебекинский район';
+    private $City = 'Первое Цепляево';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

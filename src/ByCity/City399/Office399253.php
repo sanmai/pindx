@@ -27,13 +27,13 @@ final class Office399253 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 399253;
-    private $OPSName = 'ФОМИНА НЕГАЧЕВКА';
+    private $OPSName = 'Фомина Негачевка';
     private $OPSType = 'О';
     private $OPSSubm = 399379;
-    private $Region = 'ЛИПЕЦКАЯ ОБЛАСТЬ';
+    private $Region = 'Липецкая область';
     private $Autonom = '';
-    private $Area = 'ХЛЕВЕНСКИЙ РАЙОН';
-    private $City = 'ФОМИНО-НЕГАЧЕВКА';
+    private $Area = 'Хлевенский район';
+    private $City = 'Фомино-Негачевка';
     private $City1 = '';
     private $ActDate = '20130301';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office442582 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 442582;
-    private $OPSName = 'КРЯЖИМСКОЕ';
+    private $OPSName = 'Кряжимское';
     private $OPSType = 'О';
     private $OPSSubm = 442699;
-    private $Region = 'ПЕНЗЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Пензенская область';
     private $Autonom = '';
-    private $Area = 'СОСНОВОБОРСКИЙ РАЙОН';
-    private $City = 'КРЯЖИМСКОЕ';
+    private $Area = 'Сосновоборский район';
+    private $City = 'Кряжимское';
     private $City1 = '';
     private $ActDate = '20060626';
     private $IndexOld = '';

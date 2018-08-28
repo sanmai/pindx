@@ -27,13 +27,13 @@ final class Office391049 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 391049;
-    private $OPSName = 'СПАС-КЛЕПИКИ УООП';
+    private $OPSName = 'Спас-Клепики Уооп';
     private $OPSType = 'Участок';
     private $OPSSubm = 391379;
-    private $Region = 'РЯЗАНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Рязанская область';
     private $Autonom = '';
-    private $Area = 'КЛЕПИКОВСКИЙ РАЙОН';
-    private $City = 'СПАС-КЛЕПИКИ';
+    private $Area = 'Клепиковский район';
+    private $City = 'Спас-Клепики';
     private $City1 = '';
     private $ActDate = '20170606';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office346060 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 346060;
-    private $OPSName = 'ЕГОРО-КАЛИТВЕНСКИЙ';
+    private $OPSName = 'Егоро-Калитвенский';
     private $OPSType = 'О';
     private $OPSSubm = 347819;
-    private $Region = 'РОСТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ростовская область';
     private $Autonom = '';
-    private $Area = 'ТАРАСОВСКИЙ РАЙОН';
-    private $City = 'ЕГОРО-КАЛИТВЕНСКИЙ';
+    private $Area = 'Тарасовский район';
+    private $City = 'Егоро-Калитвенский';
     private $City1 = '';
     private $ActDate = '20070214';
     private $IndexOld = '';

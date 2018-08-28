@@ -27,13 +27,13 @@ final class Office446878 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 446878;
-    private $OPSName = 'МУЛЛОВКА';
+    private $OPSName = 'Мулловка';
     private $OPSType = 'О';
     private $OPSSubm = 446829;
-    private $Region = 'САМАРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Самарская область';
     private $Autonom = '';
-    private $Area = 'ЕЛХОВСКИЙ РАЙОН';
-    private $City = 'МУЛЛОВКА';
+    private $Area = 'Елховский район';
+    private $City = 'Мулловка';
     private $City1 = '';
     private $ActDate = '20021128';
     private $IndexOld = '';

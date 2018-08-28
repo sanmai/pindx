@@ -27,13 +27,13 @@ final class Office456539 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 456539;
-    private $OPSName = 'БУТАКИ';
+    private $OPSName = 'Бутаки';
     private $OPSType = 'О';
     private $OPSSubm = 454999;
-    private $Region = 'ЧЕЛЯБИНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Челябинская область';
     private $Autonom = '';
-    private $Area = 'СОСНОВСКИЙ РАЙОН';
-    private $City = 'БУТАКИ';
+    private $Area = 'Сосновский район';
+    private $City = 'Бутаки';
     private $City1 = '';
     private $ActDate = '20061101';
     private $IndexOld = '';

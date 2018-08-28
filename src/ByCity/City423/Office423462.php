@@ -27,13 +27,13 @@ final class Office423462 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 423462;
-    private $OPSName = 'АЛЬМЕТЬЕВСК 12';
+    private $OPSName = 'Альметьевск 12';
     private $OPSType = 'О';
     private $OPSSubm = 423469;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'АЛЬМЕТЬЕВСКИЙ РАЙОН';
-    private $City = 'АЛЬМЕТЬЕВСК';
+    private $Area = 'Альметьевский район';
+    private $City = 'Альметьевск';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

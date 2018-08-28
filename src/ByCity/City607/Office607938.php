@@ -27,13 +27,13 @@ final class Office607938 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 607938;
-    private $OPSName = 'ПОЧИНКИ КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Починки Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 607939;
-    private $Region = 'НИЖЕГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Нижегородская область';
     private $Autonom = '';
-    private $Area = 'ПОЧИНКОВСКИЙ РАЙОН';
-    private $City = 'ПОЧИНКИ';
+    private $Area = 'Починковский район';
+    private $City = 'Починки';
     private $City1 = '';
     private $ActDate = '20170929';
     private $IndexOld = '';

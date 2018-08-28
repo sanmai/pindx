@@ -27,13 +27,13 @@ final class Office445164 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 445164;
-    private $OPSName = 'СОСНОВЫЙ СОЛОНЕЦ';
+    private $OPSName = 'Сосновый Солонец';
     private $OPSType = 'О';
     private $OPSSubm = 445000;
-    private $Region = 'САМАРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Самарская область';
     private $Autonom = '';
-    private $Area = 'СТАВРОПОЛЬСКИЙ РАЙОН';
-    private $City = 'СОСНОВЫЙ СОЛОНЕЦ';
+    private $Area = 'Ставропольский район';
+    private $City = 'Сосновый Солонец';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

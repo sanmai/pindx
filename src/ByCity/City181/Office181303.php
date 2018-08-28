@@ -27,13 +27,13 @@ final class Office181303 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 181303;
-    private $OPSName = 'МАЛАЯ ГУБА';
+    private $OPSName = 'Малая Губа';
     private $OPSType = 'О';
     private $OPSSubm = 181359;
-    private $Region = 'ПСКОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Псковская область';
     private $Autonom = '';
-    private $Area = 'ОСТРОВСКИЙ РАЙОН';
-    private $City = 'МАЛАЯ ГУБА';
+    private $Area = 'Островский район';
+    private $City = 'Малая Губа';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

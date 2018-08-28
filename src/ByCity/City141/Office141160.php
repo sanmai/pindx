@@ -27,13 +27,13 @@ final class Office141160 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 141160;
-    private $OPSName = 'ЗВЕЗДНЫЙ ГОРОДОК';
+    private $OPSName = 'Звездный Городок';
     private $OPSType = 'О';
     private $OPSSubm = 141000;
-    private $Region = 'МОСКОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Московская область';
     private $Autonom = '';
-    private $Area = 'ЩЕЛКОВСКИЙ РАЙОН';
-    private $City = 'ЗВЕЗДНЫЙ ГОРОДОК';
+    private $Area = 'Щелковский район';
+    private $City = 'Звездный Городок';
     private $City1 = '';
     private $ActDate = '20100721';
     private $IndexOld = '';

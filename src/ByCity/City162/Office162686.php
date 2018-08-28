@@ -27,13 +27,13 @@ final class Office162686 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 162686;
-    private $OPSName = 'ПОПОВКА';
+    private $OPSName = 'Поповка';
     private $OPSType = 'О';
     private $OPSSubm = 162600;
-    private $Region = 'ВОЛОГОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Вологодская область';
     private $Autonom = '';
-    private $Area = 'ЧЕРЕПОВЕЦКИЙ РАЙОН';
-    private $City = 'ПОПОВКА ВОСКРЕСЕНСКОЕ';
+    private $Area = 'Череповецкий район';
+    private $City = 'Поповка Воскресенское';
     private $City1 = '';
     private $ActDate = '20180813';
     private $IndexOld = '';

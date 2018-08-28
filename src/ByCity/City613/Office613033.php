@@ -27,13 +27,13 @@ final class Office613033 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 613033;
-    private $OPSName = 'МАЛЫЙ КОНЫП';
+    private $OPSName = 'Малый Конып';
     private $OPSType = 'О';
     private $OPSSubm = 613059;
-    private $Region = 'КИРОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Кировская область';
     private $Autonom = '';
-    private $Area = 'КИРОВО-ЧЕПЕЦКИЙ РАЙОН';
-    private $City = 'МАЛЫЙ КОНЫП';
+    private $Area = 'Кирово-Чепецкий район';
+    private $City = 'Малый Конып';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

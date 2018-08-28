@@ -27,14 +27,14 @@ final class Office624286 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 624286;
-    private $OPSName = 'МАЛЫШЕВА';
+    private $OPSName = 'Малышева';
     private $OPSType = 'О';
     private $OPSSubm = 624260;
-    private $Region = 'СВЕРДЛОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Свердловская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'АСБЕСТ';
-    private $City1 = 'МАЛЫШЕВА';
+    private $City = 'Асбест';
+    private $City1 = 'Малышева';
     private $ActDate = '20001030';
     private $IndexOld = '';
 }

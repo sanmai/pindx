@@ -27,13 +27,13 @@ final class Office393993 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 393993;
-    private $OPSName = 'БАДИН УГОЛ';
+    private $OPSName = 'Бадин Угол';
     private $OPSType = 'О';
     private $OPSSubm = 393958;
-    private $Region = 'ТАМБОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тамбовская область';
     private $Autonom = '';
-    private $Area = 'ПИЧАЕВСКИЙ РАЙОН';
-    private $City = 'БАДИН УГОЛ';
+    private $Area = 'Пичаевский район';
+    private $City = 'Бадин Угол';
     private $City1 = '';
     private $ActDate = '20060320';
     private $IndexOld = '';

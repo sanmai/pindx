@@ -27,13 +27,13 @@ final class Office182914 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 182914;
-    private $OPSName = 'ВЕЛИКИЕ ЛУКИ 114';
-    private $OPSType = 'ПЕРЕДВИЖНОЕ ОС';
+    private $OPSName = 'Великие Луки 114';
+    private $OPSType = 'Передвижное Ос';
     private $OPSSubm = 182100;
-    private $Region = 'ПСКОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Псковская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'ВЕЛИКИЕ ЛУКИ';
+    private $City = 'Великие Луки';
     private $City1 = '';
     private $ActDate = '20150708';
     private $IndexOld = '';

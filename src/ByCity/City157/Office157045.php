@@ -27,13 +27,13 @@ final class Office157045 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 157045;
-    private $OPSName = 'КОНТЕЕВО';
+    private $OPSName = 'Контеево';
     private $OPSType = 'О';
     private $OPSSubm = 157069;
-    private $Region = 'КОСТРОМСКАЯ ОБЛАСТЬ';
+    private $Region = 'Костромская область';
     private $Autonom = '';
-    private $Area = 'БУЙСКИЙ РАЙОН';
-    private $City = 'КОНТЕЕВО';
+    private $Area = 'Буйский район';
+    private $City = 'Контеево';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

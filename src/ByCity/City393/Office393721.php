@@ -27,13 +27,13 @@ final class Office393721 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 393721;
-    private $OPSName = 'СТЕПАНИЩЕВО';
+    private $OPSName = 'Степанищево';
     private $OPSType = 'О';
     private $OPSSubm = 393724;
-    private $Region = 'ТАМБОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тамбовская область';
     private $Autonom = '';
-    private $Area = 'ПЕРВОМАЙСКИЙ РАЙОН';
-    private $City = 'СТЕПАНИЩЕВО';
+    private $Area = 'Первомайский район';
+    private $City = 'Степанищево';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

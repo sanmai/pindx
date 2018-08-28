@@ -27,13 +27,13 @@ final class Office309606 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 309606;
-    private $OPSName = 'НИНОВКА';
+    private $OPSName = 'Ниновка';
     private $OPSType = 'О';
     private $OPSSubm = 309649;
-    private $Region = 'БЕЛГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Белгородская область';
     private $Autonom = '';
-    private $Area = 'НОВООСКОЛЬСКИЙ РАЙОН';
-    private $City = 'НИНОВКА';
+    private $Area = 'Новооскольский район';
+    private $City = 'Ниновка';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

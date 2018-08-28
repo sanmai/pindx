@@ -27,13 +27,13 @@ final class Office617098 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 617098;
-    private $OPSName = 'БЕРДЫШЕВО';
+    private $OPSName = 'Бердышево';
     private $OPSType = 'О';
     private $OPSSubm = 617119;
-    private $Region = 'ПЕРМСКИЙ КРАЙ';
+    private $Region = 'Пермский край';
     private $Autonom = '';
-    private $Area = 'БОЛЬШЕСОСНОВСКИЙ РАЙОН';
-    private $City = 'БЕРДЫШЕВО';
+    private $Area = 'Большесосновский район';
+    private $City = 'Бердышево';
     private $City1 = '';
     private $ActDate = '20020701';
     private $IndexOld = '';

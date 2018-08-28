@@ -27,13 +27,13 @@ final class Office425258 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 425258;
-    private $OPSName = 'ОРШАНКА-ПОПС 1';
-    private $OPSType = 'ПЕРЕДВИЖНОЕ ОС';
+    private $OPSName = 'Оршанка-Попс 1';
+    private $OPSType = 'Передвижное Ос';
     private $OPSSubm = 424999;
-    private $Region = 'МАРИЙ ЭЛ РЕСПУБЛИКА';
+    private $Region = 'Марий Эл Республика';
     private $Autonom = '';
-    private $Area = 'ОРШАНСКИЙ РАЙОН';
-    private $City = 'ОРШАНКА';
+    private $Area = 'Оршанский район';
+    private $City = 'Оршанка';
     private $City1 = '';
     private $ActDate = '20061102';
     private $IndexOld = '';

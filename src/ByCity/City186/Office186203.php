@@ -27,13 +27,13 @@ final class Office186203 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 186203;
-    private $OPSName = 'СПАССКАЯ ГУБА';
+    private $OPSName = 'Спасская Губа';
     private $OPSType = 'О';
     private $OPSSubm = 185000;
-    private $Region = 'КАРЕЛИЯ РЕСПУБЛИКА';
+    private $Region = 'Карелия Республика';
     private $Autonom = '';
-    private $Area = 'КОНДОПОЖСКИЙ РАЙОН';
-    private $City = 'СПАССКАЯ ГУБА';
+    private $Area = 'Кондопожский район';
+    private $City = 'Спасская Губа';
     private $City1 = '';
     private $ActDate = '20060329';
     private $IndexOld = '';

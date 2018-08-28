@@ -27,13 +27,13 @@ final class Office456113 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 456113;
-    private $OPSName = 'КАТАВ-ИВАНОВСК 3';
+    private $OPSName = 'Катав-Ивановск 3';
     private $OPSType = 'О';
     private $OPSSubm = 456069;
-    private $Region = 'ЧЕЛЯБИНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Челябинская область';
     private $Autonom = '';
-    private $Area = 'КАТАВ-ИВАНОВСКИЙ РАЙОН';
-    private $City = 'КАТАВ-ИВАНОВСК';
+    private $Area = 'Катав-Ивановский район';
+    private $City = 'Катав-Ивановск';
     private $City1 = '';
     private $ActDate = '20180813';
     private $IndexOld = '';

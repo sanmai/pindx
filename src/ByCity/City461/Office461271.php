@@ -27,13 +27,13 @@ final class Office461271 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 461271;
-    private $OPSName = 'МАМАЛАЕВКА';
+    private $OPSName = 'Мамалаевка';
     private $OPSType = 'О';
     private $OPSSubm = 461249;
-    private $Region = 'ОРЕНБУРГСКАЯ ОБЛАСТЬ';
+    private $Region = 'Оренбургская область';
     private $Autonom = '';
-    private $Area = 'ПЕРЕВОЛОЦКИЙ РАЙОН';
-    private $City = 'МАМАЛАЕВКА';
+    private $Area = 'Переволоцкий район';
+    private $City = 'Мамалаевка';
     private $City1 = '';
     private $ActDate = '20131219';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office431416 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 431416;
-    private $OPSName = 'МОРДОВСКАЯ ПАЕВКА';
+    private $OPSName = 'Мордовская Паевка';
     private $OPSType = 'О';
     private $OPSSubm = 431499;
-    private $Region = 'МОРДОВИЯ РЕСПУБЛИКА';
+    private $Region = 'Мордовия Республика';
     private $Autonom = '';
-    private $Area = 'ИНСАРСКИЙ РАЙОН';
-    private $City = 'МОРДОВСКАЯ ПАЕВКА';
+    private $Area = 'Инсарский район';
+    private $City = 'Мордовская Паевка';
     private $City1 = '';
     private $ActDate = '20110121';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office397524 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 397524;
-    private $OPSName = 'КЛЕПОВКА';
+    private $OPSName = 'Клеповка';
     private $OPSType = 'О';
     private $OPSSubm = 397549;
-    private $Region = 'ВОРОНЕЖСКАЯ ОБЛАСТЬ';
+    private $Region = 'Воронежская область';
     private $Autonom = '';
-    private $Area = 'БУТУРЛИНОВСКИЙ РАЙОН';
-    private $City = 'КЛЕПОВКА';
+    private $Area = 'Бутурлиновский район';
+    private $City = 'Клеповка';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

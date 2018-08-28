@@ -27,13 +27,13 @@ final class Office155022 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 155022;
-    private $OPSName = 'ЗАГОРЬЕ';
+    private $OPSName = 'Загорье';
     private $OPSType = 'О';
     private $OPSSubm = 155059;
-    private $Region = 'ИВАНОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ивановская область';
     private $Autonom = '';
-    private $Area = 'ГАВРИЛОВО-ПОСАДСКИЙ РАЙОН';
-    private $City = 'ЗАГОРЬЕ';
+    private $Area = 'Гаврилово-Посадский район';
+    private $City = 'Загорье';
     private $City1 = '';
     private $ActDate = '20060420';
     private $IndexOld = '';

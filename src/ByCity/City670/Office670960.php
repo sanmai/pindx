@@ -27,13 +27,13 @@ final class Office670960 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 670960;
-    private $OPSName = 'УЛАН-УДЭ МСЦ';
-    private $OPSType = 'МСЦ';
+    private $OPSName = 'Улан-Удэ Мсц';
+    private $OPSType = 'Мсц';
     private $OPSSubm = 670700;
-    private $Region = 'БУРЯТИЯ РЕСПУБЛИКА';
+    private $Region = 'Бурятия Республика';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'УЛАН-УДЭ';
+    private $City = 'Улан-Удэ';
     private $City1 = '';
     private $ActDate = '20160701';
     private $IndexOld = '';

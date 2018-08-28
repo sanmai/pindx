@@ -27,13 +27,13 @@ final class Office606290 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 606290;
-    private $OPSName = 'ТАТАРСКОЕ МАКЛАКОВО';
+    private $OPSName = 'Татарское Маклаково';
     private $OPSType = 'О';
     private $OPSSubm = 606279;
-    private $Region = 'НИЖЕГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Нижегородская область';
     private $Autonom = '';
-    private $Area = 'СПАССКИЙ РАЙОН';
-    private $City = 'ТАТАРСКОЕ МАКЛАКОВО';
+    private $Area = 'Спасский район';
+    private $City = 'Татарское Маклаково';
     private $City1 = '';
     private $ActDate = '20061017';
     private $IndexOld = '';

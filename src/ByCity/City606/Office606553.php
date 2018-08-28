@@ -27,13 +27,13 @@ final class Office606553 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 606553;
-    private $OPSName = 'ВЕРШИЛОВО';
+    private $OPSName = 'Вершилово';
     private $OPSType = 'О';
     private $OPSSubm = 606429;
-    private $Region = 'НИЖЕГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Нижегородская область';
     private $Autonom = '';
-    private $Area = 'ЧКАЛОВСКИЙ РАЙОН';
-    private $City = 'ВЕРШИЛОВО';
+    private $Area = 'Чкаловский район';
+    private $City = 'Вершилово';
     private $City1 = '';
     private $ActDate = '20060914';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office446953 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 446953;
-    private $OPSName = 'СТАРЫЙ БАЙТЕРМИШ';
+    private $OPSName = 'Старый Байтермиш';
     private $OPSType = 'О';
     private $OPSSubm = 446499;
-    private $Region = 'САМАРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Самарская область';
     private $Autonom = '';
-    private $Area = 'КЛЯВЛИНСКИЙ РАЙОН';
-    private $City = 'СТАРЫЙ БАЙТЕРМИШ';
+    private $Area = 'Клявлинский район';
+    private $City = 'Старый Байтермиш';
     private $City1 = '';
     private $ActDate = '20101014';
     private $IndexOld = '';

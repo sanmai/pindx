@@ -27,13 +27,13 @@ final class Office641666 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 641666;
-    private $OPSName = 'НОВОГЕОРГИЕВКА-ВТОРАЯ';
+    private $OPSName = 'Новогеоргиевка-Вторая';
     private $OPSType = 'О';
     private $OPSSubm = 641639;
-    private $Region = 'КУРГАНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Курганская область';
     private $Autonom = '';
-    private $Area = 'ПЕТУХОВСКИЙ РАЙОН';
-    private $City = 'НОВОГЕОРГИЕВКА  2-Я';
+    private $Area = 'Петуховский район';
+    private $City = 'Новогеоргиевка  2-Я';
     private $City1 = '';
     private $ActDate = '20180813';
     private $IndexOld = '';

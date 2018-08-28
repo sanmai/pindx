@@ -27,14 +27,14 @@ final class Office143423 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 143423;
-    private $OPSName = 'СТЕПАНОВСКОЕ';
+    private $OPSName = 'Степановское';
     private $OPSType = 'О';
     private $OPSSubm = 143449;
-    private $Region = 'МОСКОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Московская область';
     private $Autonom = '';
-    private $Area = 'ИСТРИНСКИЙ РАЙОН';
-    private $City = 'ИСТРА';
-    private $City1 = 'КРАСНАЯ ГОРКА';
+    private $Area = 'Истринский район';
+    private $City = 'Истра';
+    private $City1 = 'Красная Горка';
     private $ActDate = '20100721';
     private $IndexOld = '';
 }

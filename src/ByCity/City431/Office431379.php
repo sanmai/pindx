@@ -27,13 +27,13 @@ final class Office431379 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 431379;
-    private $OPSName = 'БОЛЬШОЙ УРКАТ';
+    private $OPSName = 'Большой Уркат';
     private $OPSType = 'О';
     private $OPSSubm = 431289;
-    private $Region = 'МОРДОВИЯ РЕСПУБЛИКА';
+    private $Region = 'Мордовия Республика';
     private $Autonom = '';
-    private $Area = 'ЕЛЬНИКОВСКИЙ РАЙОН';
-    private $City = 'БОЛЬШОЙ УРКАТ';
+    private $Area = 'Ельниковский район';
+    private $City = 'Большой Уркат';
     private $City1 = '';
     private $ActDate = '20110121';
     private $IndexOld = '';

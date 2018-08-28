@@ -27,13 +27,13 @@ final class Office301535 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 301535;
-    private $OPSName = 'ИВАНОВО';
+    private $OPSName = 'Иваново';
     private $OPSType = 'О';
     private $OPSSubm = 301439;
-    private $Region = 'ТУЛЬСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тульская область';
     private $Autonom = '';
-    private $Area = 'БЕЛЕВСКИЙ РАЙОН';
-    private $City = 'ИВАНОВО';
+    private $Area = 'Белевский район';
+    private $City = 'Иваново';
     private $City1 = '';
     private $ActDate = '20031230';
     private $IndexOld = '';

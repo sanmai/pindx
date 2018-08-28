@@ -27,13 +27,13 @@ final class Office612191 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 612191;
-    private $OPSName = 'АРБАЖ 11';
-    private $OPSType = 'ПЕРЕДВИЖНОЕ ОС';
+    private $OPSName = 'Арбаж 11';
+    private $OPSType = 'Передвижное Ос';
     private $OPSSubm = 612669;
-    private $Region = 'КИРОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Кировская область';
     private $Autonom = '';
-    private $Area = 'АРБАЖСКИЙ РАЙОН';
-    private $City = 'АРБАЖ';
+    private $Area = 'Арбажский район';
+    private $City = 'Арбаж';
     private $City1 = '';
     private $ActDate = '20150729';
     private $IndexOld = '';

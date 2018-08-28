@@ -27,13 +27,13 @@ final class Office433389 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 433389;
-    private $OPSName = 'РУССКАЯ БЕКТЯШКА';
+    private $OPSName = 'Русская Бектяшка';
     private $OPSType = 'О';
     private $OPSSubm = 433399;
-    private $Region = 'УЛЬЯНОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ульяновская область';
     private $Autonom = '';
-    private $Area = 'СЕНГИЛЕЕВСКИЙ РАЙОН';
-    private $City = 'РУССКАЯ БЕКТЯШКА';
+    private $Area = 'Сенгилеевский район';
+    private $City = 'Русская Бектяшка';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

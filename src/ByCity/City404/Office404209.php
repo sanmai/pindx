@@ -27,13 +27,13 @@ final class Office404209 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 404209;
-    private $OPSName = 'НОВАЯ КВАСНИКОВКА';
+    private $OPSName = 'Новая Квасниковка';
     private $OPSType = 'О';
     private $OPSSubm = 404260;
-    private $Region = 'ВОЛГОГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Волгоградская область';
     private $Autonom = '';
-    private $Area = 'СТАРОПОЛТАВСКИЙ РАЙОН';
-    private $City = 'НОВАЯ КВАСНИКОВКА';
+    private $Area = 'Старополтавский район';
+    private $City = 'Новая Квасниковка';
     private $City1 = '';
     private $ActDate = '20070411';
     private $IndexOld = '';

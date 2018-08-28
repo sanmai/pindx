@@ -27,13 +27,13 @@ final class Office677098 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 677098;
-    private $OPSName = 'АРКТИЧЕСКИЙ ПОЧТАМТ КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Арктический Почтамт Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 677099;
-    private $Region = 'САХА (ЯКУТИЯ) РЕСПУБЛИКА';
+    private $Region = 'Саха (Якутия) Республика';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'ЯКУТСК';
+    private $City = 'Якутск';
     private $City1 = '';
     private $ActDate = '20180530';
     private $IndexOld = '';

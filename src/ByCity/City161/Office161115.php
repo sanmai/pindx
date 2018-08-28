@@ -27,13 +27,13 @@ final class Office161115 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 161115;
-    private $OPSName = 'БУРАКОВО';
+    private $OPSName = 'Бураково';
     private $OPSType = 'О';
     private $OPSSubm = 161139;
-    private $Region = 'ВОЛОГОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Вологодская область';
     private $Autonom = '';
-    private $Area = 'КИРИЛЛОВСКИЙ РАЙОН';
-    private $City = 'БУРАКОВО';
+    private $Area = 'Кирилловский район';
+    private $City = 'Бураково';
     private $City1 = '';
     private $ActDate = '20111116';
     private $IndexOld = '';

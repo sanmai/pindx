@@ -27,13 +27,13 @@ final class Office427681 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 427681;
-    private $OPSName = 'ЮКАМЕНСКОЕ 1 ППС';
-    private $OPSType = 'ППС';
+    private $OPSName = 'Юкаменское 1 Ппс';
+    private $OPSType = 'Ппс';
     private $OPSSubm = 427669;
-    private $Region = 'УДМУРТСКАЯ РЕСПУБЛИКА';
+    private $Region = 'Удмуртская Республика';
     private $Autonom = '';
-    private $Area = 'ЮКАМЕНСКИЙ РАЙОН';
-    private $City = 'ЮКАМЕНСКОЕ';
+    private $Area = 'Юкаменский район';
+    private $City = 'Юкаменское';
     private $City1 = '';
     private $ActDate = '20171023';
     private $IndexOld = '';

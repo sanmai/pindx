@@ -27,14 +27,14 @@ final class Office456803 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 456803;
-    private $OPSName = 'ВЕРХНИЙ УФАЛЕЙ 3';
+    private $OPSName = 'Верхний Уфалей 3';
     private $OPSType = 'О';
     private $OPSSubm = 456819;
-    private $Region = 'ЧЕЛЯБИНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Челябинская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'ВЕРХНИЙ УФАЛЕЙ';
-    private $City1 = 'ПРИГОРОДНЫЙ';
+    private $City = 'Верхний Уфалей';
+    private $City1 = 'Пригородный';
     private $ActDate = '20001030';
     private $IndexOld = '';
 }

@@ -27,13 +27,13 @@ final class Office461176 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 461176;
-    private $OPSName = 'КАМЕННОИМАНГУЛОВО';
+    private $OPSName = 'Каменноимангулово';
     private $OPSType = 'О';
     private $OPSSubm = 461369;
-    private $Region = 'ОРЕНБУРГСКАЯ ОБЛАСТЬ';
+    private $Region = 'Оренбургская область';
     private $Autonom = '';
-    private $Area = 'ТАШЛИНСКИЙ РАЙОН';
-    private $City = 'КАМЕННОИМАНГУЛОВО';
+    private $Area = 'Ташлинский район';
+    private $City = 'Каменноимангулово';
     private $City1 = '';
     private $ActDate = '20071015';
     private $IndexOld = '';

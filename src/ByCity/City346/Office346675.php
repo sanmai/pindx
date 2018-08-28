@@ -27,13 +27,13 @@ final class Office346675 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 346675;
-    private $OPSName = 'САЛЬСКИЙ КАГАЛЬНИК';
+    private $OPSName = 'Сальский Кагальник';
     private $OPSType = 'О';
     private $OPSSubm = 347399;
-    private $Region = 'РОСТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ростовская область';
     private $Autonom = '';
-    private $Area = 'МАРТЫНОВСКИЙ РАЙОН';
-    private $City = 'САЛЬСКИЙ КАГАЛЬНИК';
+    private $Area = 'Мартыновский район';
+    private $City = 'Сальский Кагальник';
     private $City1 = '';
     private $ActDate = '20070213';
     private $IndexOld = '';

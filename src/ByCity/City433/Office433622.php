@@ -27,13 +27,13 @@ final class Office433622 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 433622;
-    private $OPSName = 'КРЕСТНИКОВО';
+    private $OPSName = 'Крестниково';
     private $OPSType = 'О';
     private $OPSSubm = 433639;
-    private $Region = 'УЛЬЯНОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ульяновская область';
     private $Autonom = '';
-    private $Area = 'ЦИЛЬНИНСКИЙ РАЙОН';
-    private $City = 'КРЕСТНИКОВО';
+    private $Area = 'Цильнинский район';
+    private $City = 'Крестниково';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

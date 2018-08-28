@@ -27,13 +27,13 @@ final class Office346094 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 346094;
-    private $OPSName = 'ЗЕЛЕНОВКА';
+    private $OPSName = 'Зеленовка';
     private $OPSType = 'О';
     private $OPSSubm = 347819;
-    private $Region = 'РОСТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ростовская область';
     private $Autonom = '';
-    private $Area = 'ТАРАСОВСКИЙ РАЙОН';
-    private $City = 'ЗЕЛЕНОВКА';
+    private $Area = 'Тарасовский район';
+    private $City = 'Зеленовка';
     private $City1 = '';
     private $ActDate = '20070214';
     private $IndexOld = '';

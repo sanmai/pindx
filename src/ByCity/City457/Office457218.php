@@ -27,13 +27,13 @@ final class Office457218 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 457218;
-    private $OPSName = 'ВАРНА-ПОС';
-    private $OPSType = 'ПЕРЕДВИЖНОЕ ОС';
+    private $OPSName = 'Варна-Пос';
+    private $OPSType = 'Передвижное Ос';
     private $OPSSubm = 457350;
-    private $Region = 'ЧЕЛЯБИНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Челябинская область';
     private $Autonom = '';
-    private $Area = 'ВАРНЕНСКИЙ РАЙОН';
-    private $City = 'ВАРНА';
+    private $Area = 'Варненский район';
+    private $City = 'Варна';
     private $City1 = '';
     private $ActDate = '20061101';
     private $IndexOld = '';

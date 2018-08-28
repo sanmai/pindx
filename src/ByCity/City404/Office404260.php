@@ -27,13 +27,13 @@ final class Office404260 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 404260;
-    private $OPSName = 'ПАЛЛАСОВКА ПОЧТАМТ';
+    private $OPSName = 'Палласовка Почтамт';
     private $OPSType = 'П';
     private $OPSSubm = 400700;
-    private $Region = 'ВОЛГОГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Волгоградская область';
     private $Autonom = '';
-    private $Area = 'ПАЛЛАСОВСКИЙ РАЙОН';
-    private $City = 'ПАЛЛАСОВКА';
+    private $Area = 'Палласовский район';
+    private $City = 'Палласовка';
     private $City1 = '';
     private $ActDate = '20120613';
     private $IndexOld = '';

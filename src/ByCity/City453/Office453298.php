@@ -27,13 +27,13 @@ final class Office453298 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 453298;
-    private $OPSName = 'КЛЮЧЕВКА ППС';
-    private $OPSType = 'ППС';
+    private $OPSName = 'Ключевка Ппс';
+    private $OPSType = 'Ппс';
     private $OPSSubm = 453169;
-    private $Region = 'БАШКОРТОСТАН РЕСПУБЛИКА';
+    private $Region = 'Башкортостан Республика';
     private $Autonom = '';
-    private $Area = 'ФЕДОРОВСКИЙ РАЙОН';
-    private $City = 'КЛЮЧЕВКА';
+    private $Area = 'Федоровский район';
+    private $City = 'Ключевка';
     private $City1 = '';
     private $ActDate = '20171220';
     private $IndexOld = '';

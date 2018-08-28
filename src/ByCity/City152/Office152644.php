@@ -27,13 +27,13 @@ final class Office152644 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 152644;
-    private $OPSName = 'ПЛАТУНОВО';
+    private $OPSName = 'Платуново';
     private $OPSType = 'О';
     private $OPSSubm = 152619;
-    private $Region = 'ЯРОСЛАВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ярославская область';
     private $Autonom = '';
-    private $Area = 'УГЛИЧСКИЙ РАЙОН';
-    private $City = 'ПЛАТУНОВО';
+    private $Area = 'Угличский район';
+    private $City = 'Платуново';
     private $City1 = '';
     private $ActDate = '20180813';
     private $IndexOld = '';

@@ -27,14 +27,14 @@ final class Office300024 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 300024;
-    private $OPSName = 'ТУЛА 24';
+    private $OPSName = 'Тула 24';
     private $OPSType = 'О';
     private $OPSSubm = 300999;
-    private $Region = 'ТУЛЬСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тульская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'ТУЛА';
-    private $City1 = 'ЛИХВИНКА';
+    private $City = 'Тула';
+    private $City1 = 'Лихвинка';
     private $ActDate = '20001030';
     private $IndexOld = '';
 }

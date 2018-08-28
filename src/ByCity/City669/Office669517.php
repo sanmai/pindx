@@ -27,13 +27,13 @@ final class Office669517 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 669517;
-    private $OPSName = 'СВЕРДЛОВО';
+    private $OPSName = 'Свердлово';
     private $OPSType = 'О';
     private $OPSSubm = 669000;
-    private $Region = 'ИРКУТСКАЯ ОБЛАСТЬ';
+    private $Region = 'Иркутская область';
     private $Autonom = '';
-    private $Area = 'ЭХИРИТ-БУЛАГАТСКИЙ РАЙОН';
-    private $City = 'СВЕРДЛОВО';
+    private $Area = 'Эхирит-Булагатский район';
+    private $City = 'Свердлово';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office624691 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 624691;
-    private $OPSName = 'ВЕРХНЯЯ СИНЯЧИХА 1';
+    private $OPSName = 'Верхняя Синячиха 1';
     private $OPSType = 'О';
     private $OPSSubm = 624619;
-    private $Region = 'СВЕРДЛОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Свердловская область';
     private $Autonom = '';
-    private $Area = 'АЛАПАЕВСКИЙ РАЙОН';
-    private $City = 'ВЕРХНЯЯ СИНЯЧИХА';
+    private $Area = 'Алапаевский район';
+    private $City = 'Верхняя Синячиха';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

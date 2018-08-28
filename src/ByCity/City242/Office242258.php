@@ -27,13 +27,13 @@ final class Office242258 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 242258;
-    private $OPSName = 'ТРУБЧЕВСК КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Трубчевск Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 242259;
-    private $Region = 'БРЯНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Брянская область';
     private $Autonom = '';
-    private $Area = 'ТРУБЧЕВСКИЙ РАЙОН';
-    private $City = 'ТРУБЧЕВСК';
+    private $Area = 'Трубчевский район';
+    private $City = 'Трубчевск';
     private $City1 = '';
     private $ActDate = '20170928';
     private $IndexOld = '';

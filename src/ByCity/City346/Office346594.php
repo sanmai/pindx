@@ -27,13 +27,13 @@ final class Office346594 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 346594;
-    private $OPSName = 'БАРИЛО-КРЕПИНСКАЯ';
+    private $OPSName = 'Барило-Крепинская';
     private $OPSType = 'О';
     private $OPSSubm = 346939;
-    private $Region = 'РОСТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ростовская область';
     private $Autonom = '';
-    private $Area = 'РОДИОНОВО-НЕСВЕТАЙСКИЙ РАЙОН';
-    private $City = 'БАРИЛО-КРЕПИНСКАЯ';
+    private $Area = 'Родионово-Несветайский район';
+    private $City = 'Барило-Крепинская';
     private $City1 = '';
     private $ActDate = '20070214';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office403078 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 403078;
-    private $OPSName = 'ИЛОВЛЯ КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Иловля Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 403070;
-    private $Region = 'ВОЛГОГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Волгоградская область';
     private $Autonom = '';
-    private $Area = 'ИЛОВЛИНСКИЙ РАЙОН';
-    private $City = 'ИЛОВЛЯ';
+    private $Area = 'Иловлинский район';
+    private $City = 'Иловля';
     private $City1 = '';
     private $ActDate = '20171129';
     private $IndexOld = '';

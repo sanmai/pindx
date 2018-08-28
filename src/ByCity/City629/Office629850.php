@@ -27,13 +27,13 @@ final class Office629850 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 629850;
-    private $OPSName = 'ТАРКО-САЛЕ';
+    private $OPSName = 'Тарко-Сале';
     private $OPSType = 'О';
     private $OPSSubm = 629800;
     private $Region = '';
-    private $Autonom = 'ЯМАЛО-НЕНЕЦКИЙ АВТОНОМНЫЙ ОКРУГ';
-    private $Area = 'ПУРОВСКИЙ РАЙОН';
-    private $City = 'ТАРКО-САЛЕ';
+    private $Autonom = 'Ямало-Ненецкий автономный округ';
+    private $Area = 'Пуровский район';
+    private $City = 'Тарко-Сале';
     private $City1 = '';
     private $ActDate = '20170906';
     private $IndexOld = '';

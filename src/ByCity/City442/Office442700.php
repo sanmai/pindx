@@ -27,13 +27,13 @@ final class Office442700 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 442700;
-    private $OPSName = 'БУЛЫЧЕВО';
+    private $OPSName = 'Булычево';
     private $OPSType = 'О';
     private $OPSSubm = 442749;
-    private $Region = 'ПЕНЗЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Пензенская область';
     private $Autonom = '';
-    private $Area = 'ИССИНСКИЙ РАЙОН';
-    private $City = 'БУЛЫЧЕВО';
+    private $Area = 'Иссинский район';
+    private $City = 'Булычево';
     private $City1 = '';
     private $ActDate = '20050216';
     private $IndexOld = '';

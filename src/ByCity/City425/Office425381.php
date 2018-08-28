@@ -27,13 +27,13 @@ final class Office425381 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 425381;
-    private $OPSName = 'ГОРНЫЙ ШУМЕЦ';
+    private $OPSName = 'Горный Шумец';
     private $OPSType = 'О';
     private $OPSSubm = 425239;
-    private $Region = 'МАРИЙ ЭЛ РЕСПУБЛИКА';
+    private $Region = 'Марий Эл Республика';
     private $Autonom = '';
-    private $Area = 'ЮРИНСКИЙ РАЙОН';
-    private $City = 'ГОРНЫЙ ШУМЕЦ';
+    private $Area = 'Юринский район';
+    private $City = 'Горный Шумец';
     private $City1 = '';
     private $ActDate = '20070301';
     private $IndexOld = '';

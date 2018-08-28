@@ -27,13 +27,13 @@ final class Office423370 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 423370;
-    private $OPSName = 'ЯНУРУСОВО';
+    private $OPSName = 'Янурусово';
     private $OPSType = 'О';
     private $OPSSubm = 423539;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'САРМАНОВСКИЙ РАЙОН';
-    private $City = 'ЯНУРУСОВО';
+    private $Area = 'Сармановский район';
+    private $City = 'Янурусово';
     private $City1 = '';
     private $ActDate = '20110630';
     private $IndexOld = '';

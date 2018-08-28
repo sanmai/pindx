@@ -27,13 +27,13 @@ final class Office452014 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 452014;
-    private $OPSName = 'СОВХОЗ ИМ. МАКСИМА ГОРЬКОГО';
+    private $OPSName = 'Совхоз Им. Максима Горького';
     private $OPSType = 'О';
     private $OPSSubm = 452039;
-    private $Region = 'БАШКОРТОСТАН РЕСПУБЛИКА';
+    private $Region = 'Башкортостан Республика';
     private $Autonom = '';
-    private $Area = 'БЕЛЕБЕЕВСКИЙ РАЙОН';
-    private $City = 'ЦЕНТРАЛЬНОЙ УСАДЬБЫ  ПЛЕМЗАВОДА ИМЕНИ МАКСИМА ГОРЬКОГО';
+    private $Area = 'Белебеевский район';
+    private $City = 'Центральной Усадьбы  Племзавода Имени Максима Горького';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

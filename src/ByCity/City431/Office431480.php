@@ -27,13 +27,13 @@ final class Office431480 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 431480;
-    private $OPSName = 'ТАТАРСКАЯ ПИШЛЯ';
+    private $OPSName = 'Татарская Пишля';
     private $OPSType = 'О';
     private $OPSSubm = 431499;
-    private $Region = 'МОРДОВИЯ РЕСПУБЛИКА';
+    private $Region = 'Мордовия Республика';
     private $Autonom = '';
-    private $Area = 'РУЗАЕВСКИЙ РАЙОН';
-    private $City = 'ТАТАРСКАЯ ПИШЛЯ';
+    private $Area = 'Рузаевский район';
+    private $City = 'Татарская Пишля';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

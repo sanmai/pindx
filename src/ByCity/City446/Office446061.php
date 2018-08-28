@@ -27,13 +27,13 @@ final class Office446061 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 446061;
-    private $OPSName = 'ЖЕМКОВКА';
+    private $OPSName = 'Жемковка';
     private $OPSType = 'О';
     private $OPSSubm = 446000;
-    private $Region = 'САМАРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Самарская область';
     private $Autonom = '';
-    private $Area = 'СЫЗРАНСКИЙ РАЙОН';
-    private $City = 'ЖЕМКОВКА';
+    private $Area = 'Сызранский район';
+    private $City = 'Жемковка';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office140700 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 140700;
-    private $OPSName = 'ШАТУРА';
+    private $OPSName = 'Шатура';
     private $OPSType = 'О';
     private $OPSSubm = 142679;
-    private $Region = 'МОСКОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Московская область';
     private $Autonom = '';
-    private $Area = 'ШАТУРСКИЙ РАЙОН';
-    private $City = 'ШАТУРА';
+    private $Area = 'Шатурский район';
+    private $City = 'Шатура';
     private $City1 = '';
     private $ActDate = '20100721';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office249453 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 249453;
-    private $OPSName = 'САНАТОРИЙ НАГОРНОЕ';
+    private $OPSName = 'Санаторий Нагорное';
     private $OPSType = 'О';
     private $OPSSubm = 249449;
-    private $Region = 'КАЛУЖСКАЯ ОБЛАСТЬ';
+    private $Region = 'Калужская область';
     private $Autonom = '';
-    private $Area = 'КИРОВСКИЙ РАЙОН';
-    private $City = 'САНАТОРИЯ НАГОРНОЕ';
+    private $Area = 'Кировский район';
+    private $City = 'Санатория Нагорное';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

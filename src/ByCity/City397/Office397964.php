@@ -27,13 +27,13 @@ final class Office397964 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 397964;
-    private $OPSName = 'САНАТОРИЙ ИМ. ЦЮРУПЫ';
+    private $OPSName = 'Санаторий Им. Цюрупы';
     private $OPSType = 'О';
     private $OPSSubm = 397979;
-    private $Region = 'ВОРОНЕЖСКАЯ ОБЛАСТЬ';
+    private $Region = 'Воронежская область';
     private $Autonom = '';
-    private $Area = 'ЛИСКИНСКИЙ РАЙОН';
-    private $City = 'САНАТОРИЙ ИМ. ЦЮРУПЫ';
+    private $Area = 'Лискинский район';
+    private $City = 'Санаторий Им. Цюрупы';
     private $City1 = '';
     private $ActDate = '20180813';
     private $IndexOld = '';

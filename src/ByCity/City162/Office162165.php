@@ -27,13 +27,13 @@ final class Office162165 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 162165;
-    private $OPSName = 'ПОЗДЕЕВСКАЯ';
+    private $OPSName = 'Поздеевская';
     private $OPSType = 'О';
     private $OPSSubm = 162129;
-    private $Region = 'ВОЛОГОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Вологодская область';
     private $Autonom = '';
-    private $Area = 'ВОЖЕГОДСКИЙ РАЙОН';
-    private $City = 'ПОЗДЕЕВСКАЯ';
+    private $Area = 'Вожегодский район';
+    private $City = 'Поздеевская';
     private $City1 = '';
     private $ActDate = '20101119';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office152618 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 152618;
-    private $OPSName = 'УГЛИЧ КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Углич Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 152619;
-    private $Region = 'ЯРОСЛАВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ярославская область';
     private $Autonom = '';
-    private $Area = 'УГЛИЧСКИЙ РАЙОН';
-    private $City = 'УГЛИЧ';
+    private $Area = 'Угличский район';
+    private $City = 'Углич';
     private $City1 = '';
     private $ActDate = '20171205';
     private $IndexOld = '';

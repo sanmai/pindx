@@ -27,13 +27,13 @@ final class Office416472 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 416472;
-    private $OPSName = 'ФУНТОВО-ПЕРВОЕ';
+    private $OPSName = 'Фунтово-Первое';
     private $OPSType = 'О';
     private $OPSSubm = 414999;
-    private $Region = 'АСТРАХАНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Астраханская область';
     private $Autonom = '';
-    private $Area = 'ПРИВОЛЖСКИЙ РАЙОН';
-    private $City = 'ФУНТОВО-1';
+    private $Area = 'Приволжский район';
+    private $City = 'Фунтово-1';
     private $City1 = '';
     private $ActDate = '20020902';
     private $IndexOld = '';

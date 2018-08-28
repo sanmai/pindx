@@ -27,13 +27,13 @@ final class Office249432 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 249432;
-    private $OPSName = 'БОЛЬШИЕ ЖЕЛТОУХИ';
+    private $OPSName = 'Большие Желтоухи';
     private $OPSType = 'О';
     private $OPSSubm = 249449;
-    private $Region = 'КАЛУЖСКАЯ ОБЛАСТЬ';
+    private $Region = 'Калужская область';
     private $Autonom = '';
-    private $Area = 'КИРОВСКИЙ РАЙОН';
-    private $City = 'БОЛЬШИЕ ЖЕЛТОУХИ';
+    private $Area = 'Кировский район';
+    private $City = 'Большие Желтоухи';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

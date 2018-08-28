@@ -27,14 +27,14 @@ final class Office142152 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 142152;
-    private $OPSName = 'ФЕДЮКОВО';
+    private $OPSName = 'Федюково';
     private $OPSType = 'О';
     private $OPSSubm = 142169;
-    private $Region = 'МОСКОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Московская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'ПОДОЛЬСК';
-    private $City1 = 'ФЕДЮКОВО';
+    private $City = 'Подольск';
+    private $City1 = 'Федюково';
     private $ActDate = '20001030';
     private $IndexOld = '';
 }

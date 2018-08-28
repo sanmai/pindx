@@ -27,13 +27,13 @@ final class Office356886 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 356886;
-    private $OPSName = 'НЕФТЕКУМСК КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Нефтекумск Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 356889;
-    private $Region = 'СТАВРОПОЛЬСКИЙ КРАЙ';
+    private $Region = 'Ставропольский край';
     private $Autonom = '';
-    private $Area = 'НЕФТЕКУМСКИЙ РАЙОН';
-    private $City = 'НЕФТЕКУМСК';
+    private $Area = 'Нефтекумский район';
+    private $City = 'Нефтекумск';
     private $City1 = '';
     private $ActDate = '20170623';
     private $IndexOld = '';

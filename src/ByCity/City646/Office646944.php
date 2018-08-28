@@ -27,13 +27,13 @@ final class Office646944 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 646944;
-    private $OPSName = 'ЛЮБИМОВКА';
+    private $OPSName = 'Любимовка';
     private $OPSType = 'О';
     private $OPSSubm = 646909;
-    private $Region = 'ОМСКАЯ ОБЛАСТЬ';
+    private $Region = 'Омская область';
     private $Autonom = '';
-    private $Area = 'ОКОНЕШНИКОВСКИЙ РАЙОН';
-    private $City = 'ЛЮБИМОВКА';
+    private $Area = 'Оконешниковский район';
+    private $City = 'Любимовка';
     private $City1 = '';
     private $ActDate = '20070420';
     private $IndexOld = '';

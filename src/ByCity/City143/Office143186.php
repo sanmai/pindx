@@ -27,13 +27,13 @@ final class Office143186 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 143186;
-    private $OPSName = 'ЗВЕНИГОРОД КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Звенигород Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 143000;
-    private $Region = 'МОСКОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Московская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'ЗВЕНИГОРОД';
+    private $City = 'Звенигород';
     private $City1 = '';
     private $ActDate = '20170814';
     private $IndexOld = '';

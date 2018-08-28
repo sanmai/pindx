@@ -27,13 +27,13 @@ final class Office652048 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 652048;
-    private $OPSName = 'ЯШКИНО КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Яшкино Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 652049;
-    private $Region = 'КЕМЕРОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Кемеровская область';
     private $Autonom = '';
-    private $Area = 'ЯШКИНСКИЙ РАЙОН';
-    private $City = 'ЯШКИНО';
+    private $Area = 'Яшкинский район';
+    private $City = 'Яшкино';
     private $City1 = '';
     private $ActDate = '20170915';
     private $IndexOld = '';

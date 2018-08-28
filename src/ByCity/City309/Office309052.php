@@ -27,13 +27,13 @@ final class Office309052 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 309052;
-    private $OPSName = 'КРИВЦОВО';
+    private $OPSName = 'Кривцово';
     private $OPSType = 'О';
     private $OPSSubm = 309099;
-    private $Region = 'БЕЛГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Белгородская область';
     private $Autonom = '';
-    private $Area = 'ЯКОВЛЕВСКИЙ РАЙОН';
-    private $City = 'КРИВЦОВО';
+    private $Area = 'Яковлевский район';
+    private $City = 'Кривцово';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

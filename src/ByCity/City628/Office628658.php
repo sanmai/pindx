@@ -27,13 +27,13 @@ final class Office628658 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 628658;
-    private $OPSName = 'ЧЕХЛОМЕЙ';
+    private $OPSName = 'Чехломей';
     private $OPSType = 'О';
     private $OPSSubm = 628600;
     private $Region = '';
-    private $Autonom = 'ХАНТЫ-МАНСИЙСКИЙ-ЮГРА АВТОНОМНЫЙ ОКРУГ';
-    private $Area = 'НИЖНЕВАРТОВСКИЙ РАЙОН';
-    private $City = 'ЧЕХЛОМЕЙ';
+    private $Autonom = 'Ханты-Мансийский-Югра автономный округ';
+    private $Area = 'Нижневартовский район';
+    private $City = 'Чехломей';
     private $City1 = '';
     private $ActDate = '20170906';
     private $IndexOld = '';

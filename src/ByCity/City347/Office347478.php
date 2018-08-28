@@ -27,13 +27,13 @@ final class Office347478 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 347478;
-    private $OPSName = 'ЗИМОВНИКИ КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Зимовники Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 347479;
-    private $Region = 'РОСТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ростовская область';
     private $Autonom = '';
-    private $Area = 'ЗИМОВНИКОВСКИЙ РАЙОН';
-    private $City = 'ЗИМОВНИКИ';
+    private $Area = 'Зимовниковский район';
+    private $City = 'Зимовники';
     private $City1 = '';
     private $ActDate = '20171130';
     private $IndexOld = '';

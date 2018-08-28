@@ -27,13 +27,13 @@ final class Office423871 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 423871;
-    private $OPSName = 'КУПЕРЛЕ ППС';
-    private $OPSType = 'ППС';
+    private $OPSName = 'Куперле Ппс';
+    private $OPSType = 'Ппс';
     private $OPSSubm = 423849;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'ТУКАЕВСКИЙ РАЙОН';
-    private $City = 'КУПЕРЛЕ';
+    private $Area = 'Тукаевский район';
+    private $City = 'Куперле';
     private $City1 = '';
     private $ActDate = '20170626';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office361502 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 361502;
-    private $OPSName = 'КИШПЕК';
+    private $OPSName = 'Кишпек';
     private $OPSType = 'О';
     private $OPSSubm = 361530;
-    private $Region = 'КАБАРДИНО-БАЛКАРСКАЯ РЕСПУБЛИКА';
+    private $Region = 'Кабардино-Балкарская Республика';
     private $Autonom = '';
-    private $Area = 'БАКСАНСКИЙ РАЙОН';
-    private $City = 'КИШПЕК';
+    private $Area = 'Баксанский район';
+    private $City = 'Кишпек';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

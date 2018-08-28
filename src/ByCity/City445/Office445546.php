@@ -27,13 +27,13 @@ final class Office445546 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 445546;
-    private $OPSName = 'БЕСТУЖЕВКА';
+    private $OPSName = 'Бестужевка';
     private $OPSType = 'О';
     private $OPSSubm = 446259;
-    private $Region = 'САМАРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Самарская область';
     private $Autonom = '';
-    private $Area = 'ПРИВОЛЖСКИЙ РАЙОН';
-    private $City = 'БЕСТУЖЕВКА';
+    private $Area = 'Приволжский район';
+    private $City = 'Бестужевка';
     private $City1 = '';
     private $ActDate = '20121001';
     private $IndexOld = '';

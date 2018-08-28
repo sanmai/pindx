@@ -27,13 +27,13 @@ final class Office363128 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 363128;
-    private $OPSName = 'ДАРГАВС';
+    private $OPSName = 'Даргавс';
     private $OPSType = 'О';
     private $OPSSubm = 363240;
-    private $Region = 'СЕВЕРНАЯ ОСЕТИЯ - АЛАНИЯ РЕСПУБЛИКА';
+    private $Region = 'Северная Осетия - Алания Республика';
     private $Autonom = '';
-    private $Area = 'ПРИГОРОДНЫЙ РАЙОН';
-    private $City = 'ДАРГАВС';
+    private $Area = 'Пригородный район';
+    private $City = 'Даргавс';
     private $City1 = '';
     private $ActDate = '20070221';
     private $IndexOld = '';

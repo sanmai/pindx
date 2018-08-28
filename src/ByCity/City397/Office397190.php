@@ -27,13 +27,13 @@ final class Office397190 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 397190;
-    private $OPSName = 'БОРИСОГЛЕБСК УКД';
-    private $OPSType = 'УКД';
+    private $OPSName = 'Борисоглебск Укд';
+    private $OPSType = 'Укд';
     private $OPSSubm = 394700;
-    private $Region = 'ВОРОНЕЖСКАЯ ОБЛАСТЬ';
+    private $Region = 'Воронежская область';
     private $Autonom = '';
-    private $Area = 'БОРИСОГЛЕБСКИЙ РАЙОН';
-    private $City = 'БОРИСОГЛЕБСК';
+    private $Area = 'Борисоглебский район';
+    private $City = 'Борисоглебск';
     private $City1 = '';
     private $ActDate = '20170630';
     private $IndexOld = '';

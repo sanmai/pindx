@@ -27,13 +27,13 @@ final class Office188287 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 188287;
-    private $OPSName = 'ПОДДУБЬЕ';
+    private $OPSName = 'Поддубье';
     private $OPSType = 'О';
     private $OPSSubm = 188299;
-    private $Region = 'ЛЕНИНГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ленинградская область';
     private $Autonom = '';
-    private $Area = 'ЛУЖСКИЙ РАЙОН';
-    private $City = 'ПОДДУБЬЕ РЕТЮНЬСКОЕ СП';
+    private $Area = 'Лужский район';
+    private $City = 'Поддубье Ретюньское Сп';
     private $City1 = '';
     private $ActDate = '20180813';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office243343 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 243343;
-    private $OPSName = 'МАЛФА';
+    private $OPSName = 'Малфа';
     private $OPSType = 'О';
     private $OPSSubm = 242039;
-    private $Region = 'БРЯНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Брянская область';
     private $Autonom = '';
-    private $Area = 'ВЫГОНИЧСКИЙ РАЙОН';
-    private $City = 'МАЛФА';
+    private $Area = 'Выгоничский район';
+    private $City = 'Малфа';
     private $City1 = '';
     private $ActDate = '20071004';
     private $IndexOld = '';

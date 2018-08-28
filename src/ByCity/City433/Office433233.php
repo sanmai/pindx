@@ -27,13 +27,13 @@ final class Office433233 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 433233;
-    private $OPSName = 'БОЛЬШАЯ КАНДАРАТЬ';
+    private $OPSName = 'Большая Кандарать';
     private $OPSType = 'О';
     private $OPSSubm = 433239;
-    private $Region = 'УЛЬЯНОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ульяновская область';
     private $Autonom = '';
-    private $Area = 'КАРСУНСКИЙ РАЙОН';
-    private $City = 'БОЛЬШАЯ КАНДАРАТЬ';
+    private $Area = 'Карсунский район';
+    private $City = 'Большая Кандарать';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

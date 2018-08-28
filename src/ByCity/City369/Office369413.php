@@ -27,13 +27,13 @@ final class Office369413 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 369413;
-    private $OPSName = 'ПСАУЧЬЕ-ДАХЕ';
+    private $OPSName = 'Псаучье-Дахе';
     private $OPSType = 'О';
     private $OPSSubm = 369999;
-    private $Region = 'КАРАЧАЕВО-ЧЕРКЕССКАЯ РЕСПУБЛИКА';
+    private $Region = 'Карачаево-Черкесская Республика';
     private $Autonom = '';
-    private $Area = 'ХАБЕЗСКИЙ РАЙОН';
-    private $City = 'ПСАУЧЬЕ-ДАХЕ';
+    private $Area = 'Хабезский район';
+    private $City = 'Псаучье-Дахе';
     private $City1 = '';
     private $ActDate = '20130607';
     private $IndexOld = '';

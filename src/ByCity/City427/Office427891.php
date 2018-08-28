@@ -27,13 +27,13 @@ final class Office427891 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 427891;
-    private $OPSName = 'УДМУРТСКИЙ ТОЙМОБАШ';
+    private $OPSName = 'Удмуртский Тоймобаш';
     private $OPSType = 'О';
     private $OPSSubm = 427749;
-    private $Region = 'УДМУРТСКАЯ РЕСПУБЛИКА';
+    private $Region = 'Удмуртская Республика';
     private $Autonom = '';
-    private $Area = 'АЛНАШСКИЙ РАЙОН';
-    private $City = 'УДМУРТСКИЙ ТОЙМОБАШ';
+    private $Area = 'Алнашский район';
+    private $City = 'Удмуртский Тоймобаш';
     private $City1 = '';
     private $ActDate = '20060814';
     private $IndexOld = '';

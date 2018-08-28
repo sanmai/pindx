@@ -27,14 +27,14 @@ final class Office456863 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 456863;
-    private $OPSName = 'БОЛЬШИЕ ЕГУСТЫ';
+    private $OPSName = 'Большие Егусты';
     private $OPSType = 'О';
     private $OPSSubm = 456879;
-    private $Region = 'ЧЕЛЯБИНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Челябинская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'КЫШТЫМ';
-    private $City1 = 'БОЛЬШИЕ ЕГУСТЫ';
+    private $City = 'Кыштым';
+    private $City1 = 'Большие Егусты';
     private $ActDate = '20001030';
     private $IndexOld = '';
 }

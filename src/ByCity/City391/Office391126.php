@@ -27,13 +27,13 @@ final class Office391126 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 391126;
-    private $OPSName = 'БОЛЬШОЕ ЖОКОВО';
+    private $OPSName = 'Большое Жоково';
     private $OPSType = 'О';
     private $OPSSubm = 390099;
-    private $Region = 'РЯЗАНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Рязанская область';
     private $Autonom = '';
-    private $Area = 'РЫБНОВСКИЙ РАЙОН';
-    private $City = 'БОЛЬШОЕ ЖОКОВО';
+    private $Area = 'Рыбновский район';
+    private $City = 'Большое Жоково';
     private $City1 = '';
     private $ActDate = '20061225';
     private $IndexOld = '';

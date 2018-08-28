@@ -27,13 +27,13 @@ final class Office692053 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 692053;
-    private $OPSName = 'ПАНТЕЛЕЙМОНОВКА';
+    private $OPSName = 'Пантелеймоновка';
     private $OPSType = 'О';
     private $OPSSubm = 692230;
-    private $Region = 'ПРИМОРСКИЙ КРАЙ';
+    private $Region = 'Приморский край';
     private $Autonom = '';
-    private $Area = 'ЛЕСОЗАВОДСК РАЙОН';
-    private $City = 'ПАНТЕЛЕЙМОНОВКА';
+    private $Area = 'Лесозаводск район';
+    private $City = 'Пантелеймоновка';
     private $City1 = '';
     private $ActDate = '20060622';
     private $IndexOld = '';

@@ -27,14 +27,14 @@ final class Office456051 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 456051;
-    private $OPSName = 'МИНКА';
+    private $OPSName = 'Минка';
     private $OPSType = 'О';
     private $OPSSubm = 456069;
-    private $Region = 'ЧЕЛЯБИНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Челябинская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'УСТЬ-КАТАВ';
-    private $City1 = 'МИНКА';
+    private $City = 'Усть-Катав';
+    private $City1 = 'Минка';
     private $ActDate = '20001030';
     private $IndexOld = '';
 }

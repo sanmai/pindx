@@ -27,13 +27,13 @@ final class Office392509 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 392509;
-    private $OPSName = 'ВЕРХНЯЯ МАЗОВКА';
+    private $OPSName = 'Верхняя Мазовка';
     private $OPSType = 'О';
     private $OPSSubm = 392999;
-    private $Region = 'ТАМБОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тамбовская область';
     private $Autonom = '';
-    private $Area = 'ТАМБОВСКИЙ РАЙОН';
-    private $City = 'ВЕРХНЯЯ МАЗОВКА';
+    private $Area = 'Тамбовский район';
+    private $City = 'Верхняя Мазовка';
     private $City1 = '';
     private $ActDate = '20041125';
     private $IndexOld = '';

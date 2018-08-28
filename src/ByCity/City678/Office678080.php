@@ -27,13 +27,13 @@ final class Office678080 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 678080;
-    private $OPSName = 'НИЖНИЙ БЕСТЯХ';
+    private $OPSName = 'Нижний Бестях';
     private $OPSType = 'О';
     private $OPSSubm = 678099;
-    private $Region = 'САХА (ЯКУТИЯ) РЕСПУБЛИКА';
+    private $Region = 'Саха (Якутия) Республика';
     private $Autonom = '';
-    private $Area = 'МЕГИНО-КАНГАЛАССКИЙ РАЙОН';
-    private $City = 'НИЖНИЙ БЕСТЯХ';
+    private $Area = 'Мегино-Кангаласский район';
+    private $City = 'Нижний Бестях';
     private $City1 = '';
     private $ActDate = '20180702';
     private $IndexOld = '';

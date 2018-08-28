@@ -27,13 +27,13 @@ final class Office613232 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 613232;
-    private $OPSName = 'ЗАЕВО';
+    private $OPSName = 'Заево';
     private $OPSType = 'О';
     private $OPSSubm = 613159;
-    private $Region = 'КИРОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Кировская область';
     private $Autonom = '';
-    private $Area = 'НАГОРСКИЙ РАЙОН';
-    private $City = 'ЗАЕВО';
+    private $Area = 'Нагорский район';
+    private $City = 'Заево';
     private $City1 = '';
     private $ActDate = '20040514';
     private $IndexOld = '';

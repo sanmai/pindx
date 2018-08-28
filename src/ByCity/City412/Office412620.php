@@ -27,13 +27,13 @@ final class Office412620 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 412620;
-    private $OPSName = 'ХВАТОВКА';
+    private $OPSName = 'Хватовка';
     private $OPSType = 'О';
     private $OPSSubm = 412619;
-    private $Region = 'САРАТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Саратовская область';
     private $Autonom = '';
-    private $Area = 'БАЗАРНО-КАРАБУЛАКСКИЙ РАЙОН';
-    private $City = 'ХВАТОВКА';
+    private $Area = 'Базарно-Карабулакский район';
+    private $City = 'Хватовка';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

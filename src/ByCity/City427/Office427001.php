@@ -27,13 +27,13 @@ final class Office427001 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 427001;
-    private $OPSName = 'ЗАВЬЯЛОВО 1 ППС';
-    private $OPSType = 'ППС';
+    private $OPSName = 'Завьялово 1 Ппс';
+    private $OPSType = 'Ппс';
     private $OPSSubm = 426999;
-    private $Region = 'УДМУРТСКАЯ РЕСПУБЛИКА';
+    private $Region = 'Удмуртская Республика';
     private $Autonom = '';
-    private $Area = 'ЗАВЬЯЛОВСКИЙ РАЙОН';
-    private $City = 'ЗАВЬЯЛОВО';
+    private $Area = 'Завьяловский район';
+    private $City = 'Завьялово';
     private $City1 = '';
     private $ActDate = '20171023';
     private $IndexOld = '';

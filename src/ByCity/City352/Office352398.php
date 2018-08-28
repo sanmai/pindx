@@ -27,13 +27,13 @@ final class Office352398 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 352398;
-    private $OPSName = 'КРОПОТКИН КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Кропоткин Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 352399;
-    private $Region = 'КРАСНОДАРСКИЙ КРАЙ';
+    private $Region = 'Краснодарский край';
     private $Autonom = '';
-    private $Area = 'КАВКАЗСКИЙ РАЙОН';
-    private $City = 'КРОПОТКИН';
+    private $Area = 'Кавказский район';
+    private $City = 'Кропоткин';
     private $City1 = '';
     private $ActDate = '20171129';
     private $IndexOld = '';

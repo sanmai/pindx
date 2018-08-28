@@ -27,13 +27,13 @@ final class Office238433 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 238433;
-    private $OPSName = 'ВЛАДИМИРОВО';
+    private $OPSName = 'Владимирово';
     private $OPSType = 'О';
     private $OPSSubm = 236999;
-    private $Region = 'КАЛИНИНГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Калининградская область';
     private $Autonom = '';
-    private $Area = 'БАГРАТИОНОВСКИЙ РАЙОН';
-    private $City = 'ВЛАДИМИРОВО';
+    private $Area = 'Багратионовский район';
+    private $City = 'Владимирово';
     private $City1 = '';
     private $ActDate = '20101119';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office682365 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 682365;
-    private $OPSName = 'ВЕРХНИЙ НЕРГЕН';
+    private $OPSName = 'Верхний Нерген';
     private $OPSType = 'О';
     private $OPSSubm = 682640;
-    private $Region = 'ХАБАРОВСКИЙ КРАЙ';
+    private $Region = 'Хабаровский край';
     private $Autonom = '';
-    private $Area = 'НАНАЙСКИЙ РАЙОН';
-    private $City = 'ВЕРХНИЙ НЕРГЕН';
+    private $Area = 'Нанайский район';
+    private $City = 'Верхний Нерген';
     private $City1 = '';
     private $ActDate = '20060620';
     private $IndexOld = '';

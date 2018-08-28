@@ -27,13 +27,13 @@ final class Office346003 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 346003;
-    private $OPSName = 'АННО-РЕБРИКОВСКАЯ';
+    private $OPSName = 'Анно-Ребриковская';
     private $OPSType = 'О';
     private $OPSSubm = 346139;
-    private $Region = 'РОСТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ростовская область';
     private $Autonom = '';
-    private $Area = 'ЧЕРТКОВСКИЙ РАЙОН';
-    private $City = 'АННО-РЕБРИКОВСКАЯ';
+    private $Area = 'Чертковский район';
+    private $City = 'Анно-Ребриковская';
     private $City1 = '';
     private $ActDate = '20070214';
     private $IndexOld = '';

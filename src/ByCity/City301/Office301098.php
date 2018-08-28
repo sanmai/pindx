@@ -27,13 +27,13 @@ final class Office301098 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 301098;
-    private $OPSName = 'ЛИПИЦЫ';
+    private $OPSName = 'Липицы';
     private $OPSType = 'О';
     private $OPSSubm = 301259;
-    private $Region = 'ТУЛЬСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тульская область';
     private $Autonom = '';
-    private $Area = 'ЧЕРНСКИЙ РАЙОН';
-    private $City = 'ЛИПИЦЫ';
+    private $Area = 'Чернский район';
+    private $City = 'Липицы';
     private $City1 = '';
     private $ActDate = '20040514';
     private $IndexOld = '';

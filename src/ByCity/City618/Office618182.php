@@ -27,13 +27,13 @@ final class Office618182 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 618182;
-    private $OPSName = 'БРЮХОВО';
+    private $OPSName = 'Брюхово';
     private $OPSType = 'О';
     private $OPSSubm = 618149;
-    private $Region = 'ПЕРМСКИЙ КРАЙ';
+    private $Region = 'Пермский край';
     private $Autonom = '';
-    private $Area = 'ЕЛОВСКИЙ РАЙОН';
-    private $City = 'БРЮХОВО';
+    private $Area = 'Еловский район';
+    private $City = 'Брюхово';
     private $City1 = '';
     private $ActDate = '20010531';
     private $IndexOld = '';

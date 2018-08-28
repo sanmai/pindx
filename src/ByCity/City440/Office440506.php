@@ -27,13 +27,13 @@ final class Office440506 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 440506;
-    private $OPSName = 'НАДЕЖДИНО';
+    private $OPSName = 'Надеждино';
     private $OPSType = 'О';
     private $OPSSubm = 440999;
-    private $Region = 'ПЕНЗЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Пензенская область';
     private $Autonom = '';
-    private $Area = 'ПЕНЗЕНСКИЙ РАЙОН';
-    private $City = 'НАДЕЖДИНО';
+    private $Area = 'Пензенский район';
+    private $City = 'Надеждино';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

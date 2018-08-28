@@ -27,13 +27,13 @@ final class Office617733 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 617733;
-    private $OPSName = 'ЦЕНТРАЛЬНАЯ УСАДЬБА 3-ГО ГОСКОНЕЗАВОДА';
+    private $OPSName = 'Центральная Усадьба 3-Го Госконезавода';
     private $OPSType = 'О';
     private $OPSSubm = 617769;
-    private $Region = 'ПЕРМСКИЙ КРАЙ';
+    private $Region = 'Пермский край';
     private $Autonom = '';
-    private $Area = 'КУЕДИНСКИЙ РАЙОН';
-    private $City = 'ЦЕНТРАЛЬНАЯ УСАДЬБА 3-ГО ГОСКОНЕЗАВОДА';
+    private $Area = 'Куединский район';
+    private $City = 'Центральная Усадьба 3-Го Госконезавода';
     private $City1 = '';
     private $ActDate = '20080702';
     private $IndexOld = '';

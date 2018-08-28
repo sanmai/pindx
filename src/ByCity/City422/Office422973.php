@@ -27,13 +27,13 @@ final class Office422973 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 422973;
-    private $OPSName = 'НИЖНЯЯ КОНДРАТА';
+    private $OPSName = 'Нижняя Кондрата';
     private $OPSType = 'О';
     private $OPSSubm = 422999;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'ЧИСТОПОЛЬСКИЙ РАЙОН';
-    private $City = 'НИЖНЯЯ КОНДРАТА';
+    private $Area = 'Чистопольский район';
+    private $City = 'Нижняя Кондрата';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

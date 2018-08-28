@@ -27,13 +27,13 @@ final class Office361504 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 361504;
-    private $OPSName = 'КРЕМЕНЧУГ-КОНСТАНТИНОВСКОЕ';
+    private $OPSName = 'Кременчуг-Константиновское';
     private $OPSType = 'О';
     private $OPSSubm = 361530;
-    private $Region = 'КАБАРДИНО-БАЛКАРСКАЯ РЕСПУБЛИКА';
+    private $Region = 'Кабардино-Балкарская Республика';
     private $Autonom = '';
-    private $Area = 'БАКСАНСКИЙ РАЙОН';
-    private $City = 'КРЕМЕНЧУГ-КОНСТАНТИНОВСКОЕ';
+    private $Area = 'Баксанский район';
+    private $City = 'Кременчуг-Константиновское';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

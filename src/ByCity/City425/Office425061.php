@@ -27,13 +27,13 @@ final class Office425061 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 425061;
-    private $OPSName = 'ЗВЕНИГОВО 1';
+    private $OPSName = 'Звенигово 1';
     private $OPSType = 'О';
     private $OPSSubm = 425049;
-    private $Region = 'МАРИЙ ЭЛ РЕСПУБЛИКА';
+    private $Region = 'Марий Эл Республика';
     private $Autonom = '';
-    private $Area = 'ЗВЕНИГОВСКИЙ РАЙОН';
-    private $City = 'ЗВЕНИГОВО';
+    private $Area = 'Звениговский район';
+    private $City = 'Звенигово';
     private $City1 = '';
     private $ActDate = '20070301';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office163544 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 163544;
-    private $OPSName = 'НИЖНЯЯ ЗОЛОТИЦА';
+    private $OPSName = 'Нижняя Золотица';
     private $OPSType = 'О';
     private $OPSSubm = 163999;
-    private $Region = 'АРХАНГЕЛЬСКАЯ ОБЛАСТЬ';
+    private $Region = 'Архангельская область';
     private $Autonom = '';
-    private $Area = 'ПРИМОРСКИЙ РАЙОН';
-    private $City = 'НИЖНЯЯ ЗОЛОТИЦА';
+    private $Area = 'Приморский район';
+    private $City = 'Нижняя Золотица';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

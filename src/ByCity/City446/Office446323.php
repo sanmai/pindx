@@ -27,13 +27,13 @@ final class Office446323 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 446323;
-    private $OPSName = 'ПУСТОВАЛОВО';
+    private $OPSName = 'Пустовалово';
     private $OPSType = 'О';
     private $OPSSubm = 446319;
-    private $Region = 'САМАРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Самарская область';
     private $Autonom = '';
-    private $Area = 'КИНЕЛЬ-ЧЕРКАССКИЙ РАЙОН';
-    private $City = 'ПУСТОВАЛОВО';
+    private $Area = 'Кинель-Черкасский район';
+    private $City = 'Пустовалово';
     private $City1 = '';
     private $ActDate = '20050928';
     private $IndexOld = '';

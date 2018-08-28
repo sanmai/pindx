@@ -27,13 +27,13 @@ final class Office646152 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 646152;
-    private $OPSName = 'ЗАМЕЛЕТЕНОВКА';
+    private $OPSName = 'Замелетеновка';
     private $OPSType = 'О';
     private $OPSSubm = 646159;
-    private $Region = 'ОМСКАЯ ОБЛАСТЬ';
+    private $Region = 'Омская область';
     private $Autonom = '';
-    private $Area = 'ЛЮБИНСКИЙ РАЙОН';
-    private $City = 'ЗАМЕЛЕТЕНОВКА';
+    private $Area = 'Любинский район';
+    private $City = 'Замелетеновка';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

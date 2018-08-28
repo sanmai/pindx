@@ -27,13 +27,13 @@ final class Office626136 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 626136;
-    private $OPSName = 'НИЖНИЕ АРЕМЗЯНЫ';
+    private $OPSName = 'Нижние Аремзяны';
     private $OPSType = 'О';
     private $OPSSubm = 626151;
-    private $Region = 'ТЮМЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тюменская область';
     private $Autonom = '';
-    private $Area = 'ТОБОЛЬСКИЙ РАЙОН';
-    private $City = 'НИЖНИЕ АРЕМЗЯНЫ';
+    private $Area = 'Тобольский район';
+    private $City = 'Нижние Аремзяны';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

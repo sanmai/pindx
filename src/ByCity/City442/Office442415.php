@@ -27,13 +27,13 @@ final class Office442415 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 442415;
-    private $OPSName = 'КОНДОЛЬ 5';
-    private $OPSType = 'ПЕРЕДВИЖНОЕ ОС';
+    private $OPSName = 'Кондоль 5';
+    private $OPSType = 'Передвижное Ос';
     private $OPSSubm = 440999;
-    private $Region = 'ПЕНЗЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Пензенская область';
     private $Autonom = '';
-    private $Area = 'КОНДОЛЬСКИЙ РАЙОН';
-    private $City = 'КОНДОЛЬ';
+    private $Area = 'Кондольский район';
+    private $City = 'Кондоль';
     private $City1 = '';
     private $ActDate = '20180813';
     private $IndexOld = '';

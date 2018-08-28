@@ -27,14 +27,14 @@ final class Office623376 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 623376;
-    private $OPSName = 'КУРГАНОВО';
+    private $OPSName = 'Курганово';
     private $OPSType = 'О';
     private $OPSSubm = 624260;
-    private $Region = 'СВЕРДЛОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Свердловская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'ПОЛЕВСКОЙ';
-    private $City1 = 'КУРГАНОВО';
+    private $City = 'Полевской';
+    private $City1 = 'Курганово';
     private $ActDate = '20110427';
     private $IndexOld = '';
 }

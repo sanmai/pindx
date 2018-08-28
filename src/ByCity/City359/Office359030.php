@@ -27,13 +27,13 @@ final class Office359030 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 359030;
-    private $OPSName = 'ПРИЮТНОЕ';
+    private $OPSName = 'Приютное';
     private $OPSType = 'О';
     private $OPSSubm = 358099;
-    private $Region = 'КАЛМЫКИЯ РЕСПУБЛИКА';
+    private $Region = 'Калмыкия Республика';
     private $Autonom = '';
-    private $Area = 'ПРИЮТНЕНСКИЙ РАЙОН';
-    private $City = 'ПРИЮТНОЕ';
+    private $Area = 'Приютненский район';
+    private $City = 'Приютное';
     private $City1 = '';
     private $ActDate = '20060220';
     private $IndexOld = '';

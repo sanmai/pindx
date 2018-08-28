@@ -27,13 +27,13 @@ final class Office446868 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 446868;
-    private $OPSName = 'ЧЕЛНО-ВЕРШИНЫ КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Челно-Вершины Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 446869;
-    private $Region = 'САМАРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Самарская область';
     private $Autonom = '';
-    private $Area = 'ЧЕЛНО-ВЕРШИНСКИЙ РАЙОН';
-    private $City = 'ЧЕЛНО-ВЕРШИНЫ';
+    private $Area = 'Челно-Вершинский район';
+    private $City = 'Челно-Вершины';
     private $City1 = '';
     private $ActDate = '20170814';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office446650 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 446650;
-    private $OPSName = 'ЛЕТНИКОВО';
+    private $OPSName = 'Летниково';
     private $OPSType = 'О';
     private $OPSSubm = 446619;
-    private $Region = 'САМАРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Самарская область';
     private $Autonom = '';
-    private $Area = 'АЛЕКСЕЕВСКИЙ РАЙОН';
-    private $City = 'ЛЕТНИКОВО';
+    private $Area = 'Алексеевский район';
+    private $City = 'Летниково';
     private $City1 = '';
     private $ActDate = '20050928';
     private $IndexOld = '';

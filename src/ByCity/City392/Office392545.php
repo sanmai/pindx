@@ -27,13 +27,13 @@ final class Office392545 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 392545;
-    private $OPSName = 'ЛЫСЫЕ ГОРЫ';
+    private $OPSName = 'Лысые Горы';
     private $OPSType = 'О';
     private $OPSSubm = 392999;
-    private $Region = 'ТАМБОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тамбовская область';
     private $Autonom = '';
-    private $Area = 'ТАМБОВСКИЙ РАЙОН';
-    private $City = 'ЛЫСЫЕ ГОРЫ';
+    private $Area = 'Тамбовский район';
+    private $City = 'Лысые Горы';
     private $City1 = '';
     private $ActDate = '20041125';
     private $IndexOld = '';

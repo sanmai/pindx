@@ -27,13 +27,13 @@ final class Office990502 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 990502;
-    private $OPSName = 'МОСКВА-ПОЧТОМАТ (АПС)';
+    private $OPSName = 'Москва-Почтомат (Апс)';
     private $OPSType = 'Почтомат';
     private $OPSSubm = 124460;
-    private $Region = 'МОСКВА';
+    private $Region = 'Москва';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'ЗЕЛЕНОГРАД';
+    private $City = 'Зеленоград';
     private $City1 = '';
     private $ActDate = '20170201';
     private $IndexOld = '';

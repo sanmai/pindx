@@ -27,13 +27,13 @@ final class Office607339 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 607339;
-    private $OPSName = 'СТУКЛОВО';
+    private $OPSName = 'Стуклово';
     private $OPSType = 'О';
     private $OPSSubm = 607180;
-    private $Region = 'НИЖЕГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Нижегородская область';
     private $Autonom = '';
-    private $Area = 'ДИВЕЕВСКИЙ РАЙОН';
-    private $City = 'СТУКЛОВО';
+    private $Area = 'Дивеевский район';
+    private $City = 'Стуклово';
     private $City1 = '';
     private $ActDate = '20060808';
     private $IndexOld = '';

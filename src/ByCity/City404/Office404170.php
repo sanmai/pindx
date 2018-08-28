@@ -27,13 +27,13 @@ final class Office404170 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 404170;
-    private $OPSName = 'СВЕТЛЫЙ ЯР ПОЧТАМТ';
+    private $OPSName = 'Светлый Яр Почтамт';
     private $OPSType = 'П';
     private $OPSSubm = 400700;
-    private $Region = 'ВОЛГОГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Волгоградская область';
     private $Autonom = '';
-    private $Area = 'СВЕТЛОЯРСКИЙ РАЙОН';
-    private $City = 'СВЕТЛЫЙ ЯР';
+    private $Area = 'Светлоярский район';
+    private $City = 'Светлый Яр';
     private $City1 = '';
     private $ActDate = '20120613';
     private $IndexOld = '';

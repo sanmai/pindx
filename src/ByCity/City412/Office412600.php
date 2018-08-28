@@ -27,13 +27,13 @@ final class Office412600 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 412600;
-    private $OPSName = 'БАЗАРНЫЙ КАРАБУЛАК';
+    private $OPSName = 'Базарный Карабулак';
     private $OPSType = 'О';
     private $OPSSubm = 412619;
-    private $Region = 'САРАТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Саратовская область';
     private $Autonom = '';
-    private $Area = 'БАЗАРНО-КАРАБУЛАКСКИЙ РАЙОН';
-    private $City = 'БАЗАРНЫЙ КАРАБУЛАК 2';
+    private $Area = 'Базарно-Карабулакский район';
+    private $City = 'Базарный Карабулак 2';
     private $City1 = '';
     private $ActDate = '20051227';
     private $IndexOld = '';

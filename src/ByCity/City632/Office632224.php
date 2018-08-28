@@ -27,13 +27,13 @@ final class Office632224 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 632224;
-    private $OPSName = 'КУРОРТ ОЗЕРО-КАРАЧИ';
+    private $OPSName = 'Курорт Озеро-Карачи';
     private $OPSType = 'О';
     private $OPSSubm = 632200;
-    private $Region = 'НОВОСИБИРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Новосибирская область';
     private $Autonom = '';
-    private $Area = 'ЧАНОВСКИЙ РАЙОН';
-    private $City = 'КУРОРТ ОЗЕРО КАРАЧИ';
+    private $Area = 'Чановский район';
+    private $City = 'Курорт Озеро Карачи';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

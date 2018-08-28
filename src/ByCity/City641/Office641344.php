@@ -27,13 +27,13 @@ final class Office641344 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 641344;
-    private $OPSName = 'ПЬЯНКОВО';
+    private $OPSName = 'Пьянково';
     private $OPSType = 'О';
     private $OPSSubm = 640000;
-    private $Region = 'КУРГАНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Курганская область';
     private $Autonom = '';
-    private $Area = 'БЕЛОЗЕРСКИЙ РАЙОН';
-    private $City = 'ПЬЯНКОВО';
+    private $Area = 'Белозерский район';
+    private $City = 'Пьянково';
     private $City1 = '';
     private $ActDate = '20051116';
     private $IndexOld = '';

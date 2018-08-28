@@ -27,13 +27,13 @@ final class Office301631 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 301631;
-    private $OPSName = 'КАМЕНЕЦКИЙ';
+    private $OPSName = 'Каменецкий';
     private $OPSType = 'О';
     private $OPSSubm = 301679;
-    private $Region = 'ТУЛЬСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тульская область';
     private $Autonom = '';
-    private $Area = 'УЗЛОВСКИЙ РАЙОН';
-    private $City = 'КАМЕНЕЦКИЙ';
+    private $Area = 'Узловский район';
+    private $City = 'Каменецкий';
     private $City1 = '';
     private $ActDate = '20110128';
     private $IndexOld = '';

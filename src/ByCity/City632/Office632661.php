@@ -27,13 +27,13 @@ final class Office632661 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 632661;
-    private $OPSName = 'КАТКОВО';
+    private $OPSName = 'Катково';
     private $OPSType = 'О';
     private $OPSSubm = 630500;
-    private $Region = 'НОВОСИБИРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Новосибирская область';
     private $Autonom = '';
-    private $Area = 'КОЧЕНЕВСКИЙ РАЙОН';
-    private $City = 'КАТКОВО';
+    private $Area = 'Коченевский район';
+    private $City = 'Катково';
     private $City1 = '';
     private $ActDate = '20110701';
     private $IndexOld = '';

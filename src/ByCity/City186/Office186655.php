@@ -27,13 +27,13 @@ final class Office186655 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 186655;
-    private $OPSName = 'ЭНГОЗЕРО';
+    private $OPSName = 'Энгозеро';
     private $OPSType = 'О';
     private $OPSSubm = 186629;
-    private $Region = 'КАРЕЛИЯ РЕСПУБЛИКА';
+    private $Region = 'Карелия Республика';
     private $Autonom = '';
-    private $Area = 'ЛОУХСКИЙ РАЙОН';
-    private $City = 'ЭНГОЗЕРО';
+    private $Area = 'Лоухский район';
+    private $City = 'Энгозеро';
     private $City1 = '';
     private $ActDate = '20060329';
     private $IndexOld = '';

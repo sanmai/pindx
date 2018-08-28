@@ -27,13 +27,13 @@ final class Office303145 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 303145;
-    private $OPSName = 'ФАТНЕВО';
+    private $OPSName = 'Фатнево';
     private $OPSType = 'О';
     private $OPSSubm = 303039;
-    private $Region = 'ОРЛОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Орловская область';
     private $Autonom = '';
-    private $Area = 'БОЛХОВСКИЙ РАЙОН';
-    private $City = 'ФАТНЕВО';
+    private $Area = 'Болховский район';
+    private $City = 'Фатнево';
     private $City1 = '';
     private $ActDate = '20050825';
     private $IndexOld = '';

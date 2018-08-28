@@ -27,14 +27,14 @@ final class Office184664 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 184664;
-    private $OPSName = 'БЕЛОКАМЕНКА';
+    private $OPSName = 'Белокаменка';
     private $OPSType = 'О';
     private $OPSSubm = 184380;
-    private $Region = 'МУРМАНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Мурманская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'ПОЛЯРНЫЙ';
-    private $City1 = 'БЕЛОКАМЕНКА';
+    private $City = 'Полярный';
+    private $City1 = 'Белокаменка';
     private $ActDate = '20060412';
     private $IndexOld = '';
 }

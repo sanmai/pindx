@@ -27,14 +27,14 @@ final class Office685960 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 685960;
-    private $OPSName = 'МАГАДАН МСЦ';
-    private $OPSType = 'МСЦ';
+    private $OPSName = 'Магадан Мсц';
+    private $OPSType = 'Мсц';
     private $OPSSubm = 685700;
-    private $Region = 'МАГАДАНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Магаданская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'МАГАДАН';
-    private $City1 = 'СОКОЛ';
+    private $City = 'Магадан';
+    private $City1 = 'Сокол';
     private $ActDate = '20160701';
     private $IndexOld = '';
 }

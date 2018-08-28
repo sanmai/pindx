@@ -27,14 +27,14 @@ final class Office652729 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 652729;
-    private $OPSName = 'КАРАГАЙЛИНСКИЙ';
+    private $OPSName = 'Карагайлинский';
     private $OPSType = 'О';
     private $OPSSubm = 653099;
-    private $Region = 'КЕМЕРОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Кемеровская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'КИСЕЛЕВСК';
-    private $City1 = 'КАРАГАЙЛИНСКИЙ';
+    private $City = 'Киселевск';
+    private $City1 = 'Карагайлинский';
     private $ActDate = '20130913';
     private $IndexOld = '';
 }

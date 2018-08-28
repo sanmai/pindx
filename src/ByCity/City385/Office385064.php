@@ -27,14 +27,14 @@ final class Office385064 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 385064;
-    private $OPSName = 'ПОДГОРНЫЙ';
+    private $OPSName = 'Подгорный';
     private $OPSType = 'О';
     private $OPSSubm = 385700;
-    private $Region = 'АДЫГЕЯ РЕСПУБЛИКА';
+    private $Region = 'Адыгея Республика';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'МАЙКОП';
-    private $City1 = 'ПОДГОРНЫЙ';
+    private $City = 'Майкоп';
+    private $City1 = 'Подгорный';
     private $ActDate = '20100914';
     private $IndexOld = '';
 }

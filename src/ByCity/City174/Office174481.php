@@ -27,13 +27,13 @@ final class Office174481 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 174481;
-    private $OPSName = 'ЧУВАШЕВА ГОРА';
+    private $OPSName = 'Чувашева Гора';
     private $OPSType = 'О';
     private $OPSSubm = 174400;
-    private $Region = 'НОВГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Новгородская область';
     private $Autonom = '';
-    private $Area = 'МОШЕНСКОЙ РАЙОН';
-    private $City = 'ЧУВАШЕВА ГОРА';
+    private $Area = 'Мошенской район';
+    private $City = 'Чувашева Гора';
     private $City1 = '';
     private $ActDate = '20050914';
     private $IndexOld = '';

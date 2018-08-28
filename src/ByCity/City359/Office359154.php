@@ -27,13 +27,13 @@ final class Office359154 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 359154;
-    private $OPSName = 'УЛАН-ЭРГЕ';
+    private $OPSName = 'Улан-Эрге';
     private $OPSType = 'О';
     private $OPSSubm = 359169;
-    private $Region = 'КАЛМЫКИЯ РЕСПУБЛИКА';
+    private $Region = 'Калмыкия Республика';
     private $Autonom = '';
-    private $Area = 'ЯШКУЛЬСКИЙ РАЙОН';
-    private $City = 'УЛАН-ЭРГЕ';
+    private $Area = 'Яшкульский район';
+    private $City = 'Улан-Эрге';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

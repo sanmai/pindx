@@ -27,13 +27,13 @@ final class Office442606 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 442606;
-    private $OPSName = 'РУССКИЙ ПИМБУР';
+    private $OPSName = 'Русский Пимбур';
     private $OPSType = 'О';
     private $OPSSubm = 442169;
-    private $Region = 'ПЕНЗЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Пензенская область';
     private $Autonom = '';
-    private $Area = 'СПАССКИЙ РАЙОН';
-    private $City = 'РУССКИЙ ПИМБУР';
+    private $Area = 'Спасский район';
+    private $City = 'Русский Пимбур';
     private $City1 = '';
     private $ActDate = '20041004';
     private $IndexOld = '';

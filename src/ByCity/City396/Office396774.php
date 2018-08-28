@@ -27,13 +27,13 @@ final class Office396774 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 396774;
-    private $OPSName = 'БЕЛАЯ ГОРКА-ПЕРВАЯ';
+    private $OPSName = 'Белая Горка-Первая';
     private $OPSType = 'О';
     private $OPSSubm = 396799;
-    private $Region = 'ВОРОНЕЖСКАЯ ОБЛАСТЬ';
+    private $Region = 'Воронежская область';
     private $Autonom = '';
-    private $Area = 'БОГУЧАРСКИЙ РАЙОН';
-    private $City = 'БЕЛАЯ ГОРКА 1-Я';
+    private $Area = 'Богучарский район';
+    private $City = 'Белая Горка 1-Я';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office347329 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 347329;
-    private $OPSName = 'НОВОЦИМЛЯНСКАЯ';
+    private $OPSName = 'Новоцимлянская';
     private $OPSType = 'О';
     private $OPSSubm = 347399;
-    private $Region = 'РОСТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ростовская область';
     private $Autonom = '';
-    private $Area = 'ЦИМЛЯНСКИЙ РАЙОН';
-    private $City = 'НОВОЦИМЛЯНСКАЯ';
+    private $Area = 'Цимлянский район';
+    private $City = 'Новоцимлянская';
     private $City1 = '';
     private $ActDate = '20070213';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office606760 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 606760;
-    private $OPSName = 'ВАРНАВИНО';
+    private $OPSName = 'Варнавино';
     private $OPSType = 'О';
     private $OPSSubm = 606879;
-    private $Region = 'НИЖЕГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Нижегородская область';
     private $Autonom = '';
-    private $Area = 'ВАРНАВИНСКИЙ РАЙОН';
-    private $City = 'ВАРНАВИНО';
+    private $Area = 'Варнавинский район';
+    private $City = 'Варнавино';
     private $City1 = '';
     private $ActDate = '20061109';
     private $IndexOld = '';

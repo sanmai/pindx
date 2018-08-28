@@ -27,13 +27,13 @@ final class Office665226 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 665226;
-    private $OPSName = 'НИЖНИЙ БУРБУК';
+    private $OPSName = 'Нижний Бурбук';
     private $OPSType = 'О';
     private $OPSSubm = 665250;
-    private $Region = 'ИРКУТСКАЯ ОБЛАСТЬ';
+    private $Region = 'Иркутская область';
     private $Autonom = '';
-    private $Area = 'ТУЛУНСКИЙ РАЙОН';
-    private $City = 'НИЖНИЙ БУРБУК';
+    private $Area = 'Тулунский район';
+    private $City = 'Нижний Бурбук';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

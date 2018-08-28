@@ -27,13 +27,13 @@ final class Office676616 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 676616;
-    private $OPSName = 'ВЕРХНЕБЕЛОЕ';
+    private $OPSName = 'Верхнебелое';
     private $OPSType = 'О';
     private $OPSSubm = 676869;
-    private $Region = 'АМУРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Амурская область';
     private $Autonom = '';
-    private $Area = 'РОМНЕНСКИЙ РАЙОН';
-    private $City = 'ВЕРХНЕБЕЛОЕ';
+    private $Area = 'Ромненский район';
+    private $City = 'Верхнебелое';
     private $City1 = '';
     private $ActDate = '20031121';
     private $IndexOld = '';

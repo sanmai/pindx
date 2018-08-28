@@ -27,13 +27,13 @@ final class Office607525 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 607525;
-    private $OPSName = 'ЛОПАТИНО ППС';
-    private $OPSType = 'ППС';
+    private $OPSName = 'Лопатино Ппс';
+    private $OPSType = 'Ппс';
     private $OPSSubm = 607527;
-    private $Region = 'НИЖЕГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Нижегородская область';
     private $Autonom = '';
-    private $Area = 'СЕРГАЧСКИЙ РАЙОН';
-    private $City = 'ЛОПАТИНО';
+    private $Area = 'Сергачский район';
+    private $City = 'Лопатино';
     private $City1 = '';
     private $ActDate = '20170711';
     private $IndexOld = '';

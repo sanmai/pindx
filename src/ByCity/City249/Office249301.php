@@ -27,13 +27,13 @@ final class Office249301 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 249301;
-    private $OPSName = 'ДУМИНИЧИ-ВОКЗАЛ';
+    private $OPSName = 'Думиничи-Вокзал';
     private $OPSType = 'О';
     private $OPSSubm = 249270;
-    private $Region = 'КАЛУЖСКАЯ ОБЛАСТЬ';
+    private $Region = 'Калужская область';
     private $Autonom = '';
-    private $Area = 'ДУМИНИЧСКИЙ РАЙОН';
-    private $City = 'ДУМИНИЧИ';
+    private $Area = 'Думиничский район';
+    private $City = 'Думиничи';
     private $City1 = '';
     private $ActDate = '20051110';
     private $IndexOld = '';

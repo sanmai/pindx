@@ -27,13 +27,13 @@ final class Office607711 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 607711;
-    private $OPSName = 'ПОНЕТАЕВКА';
+    private $OPSName = 'Понетаевка';
     private $OPSType = 'О';
     private $OPSSubm = 607849;
-    private $Region = 'НИЖЕГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Нижегородская область';
     private $Autonom = '';
-    private $Area = 'ШАТКОВСКИЙ РАЙОН';
-    private $City = 'ПОНЕТАЕВКА';
+    private $Area = 'Шатковский район';
+    private $City = 'Понетаевка';
     private $City1 = '';
     private $ActDate = '20061109';
     private $IndexOld = '';

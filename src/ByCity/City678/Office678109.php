@@ -27,13 +27,13 @@ final class Office678109 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 678109;
-    private $OPSName = 'АБАГА-ЦЕНТРАЛЬНАЯ';
+    private $OPSName = 'Абага-Центральная';
     private $OPSType = 'О';
     private $OPSSubm = 677999;
-    private $Region = 'САХА (ЯКУТИЯ) РЕСПУБЛИКА';
+    private $Region = 'Саха (Якутия) Республика';
     private $Autonom = '';
-    private $Area = 'ОЛЕКМИНСКИЙ РАЙОН';
-    private $City = 'АБАГА ЦЕНТРАЛЬНАЯ';
+    private $Area = 'Олекминский район';
+    private $City = 'Абага Центральная';
     private $City1 = '';
     private $ActDate = '20180702';
     private $IndexOld = '';

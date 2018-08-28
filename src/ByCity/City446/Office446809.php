@@ -27,13 +27,13 @@ final class Office446809 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 446809;
-    private $OPSName = 'НОВОЕ ТЕНЕЕВО';
+    private $OPSName = 'Новое Тенеево';
     private $OPSType = 'О';
     private $OPSSubm = 446829;
-    private $Region = 'САМАРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Самарская область';
     private $Autonom = '';
-    private $Area = 'КОШКИНСКИЙ РАЙОН';
-    private $City = 'НОВОЕ ТЕНЕЕВО';
+    private $Area = 'Кошкинский район';
+    private $City = 'Новое Тенеево';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office461909 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 461909;
-    private $OPSName = 'СОРОЧИНСК КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Сорочинск Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 461949;
-    private $Region = 'ОРЕНБУРГСКАЯ ОБЛАСТЬ';
+    private $Region = 'Оренбургская область';
     private $Autonom = '';
-    private $Area = 'СОРОЧИНСКИЙ РАЙОН';
-    private $City = 'СОРОЧИНСК';
+    private $Area = 'Сорочинский район';
+    private $City = 'Сорочинск';
     private $City1 = '';
     private $ActDate = '20170815';
     private $IndexOld = '';

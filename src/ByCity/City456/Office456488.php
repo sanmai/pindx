@@ -27,13 +27,13 @@ final class Office456488 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 456488;
-    private $OPSName = 'УЙСКОЕ 18';
-    private $OPSType = 'ПЕРЕДВИЖНОЕ ОС';
+    private $OPSName = 'Уйское 18';
+    private $OPSType = 'Передвижное Ос';
     private $OPSSubm = 456439;
-    private $Region = 'ЧЕЛЯБИНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Челябинская область';
     private $Autonom = '';
-    private $Area = 'УЙСКИЙ РАЙОН';
-    private $City = 'УЙСКОЕ';
+    private $Area = 'Уйский район';
+    private $City = 'Уйское';
     private $City1 = '';
     private $ActDate = '20150730';
     private $IndexOld = '';

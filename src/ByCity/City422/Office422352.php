@@ -27,13 +27,13 @@ final class Office422352 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 422352;
-    private $OPSName = 'ЧУРУ-БАРЫШЕВО';
+    private $OPSName = 'Чуру-Барышево';
     private $OPSType = 'О';
     private $OPSSubm = 422459;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'АПАСТОВСКИЙ РАЙОН';
-    private $City = 'ЧУРУ БАРЫШЕВО';
+    private $Area = 'Апастовский район';
+    private $City = 'Чуру Барышево';
     private $City1 = '';
     private $ActDate = '20020927';
     private $IndexOld = '';

@@ -27,14 +27,14 @@ final class Office357565 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 357565;
-    private $OPSName = 'КОНСТАНТИНОВСКАЯ';
+    private $OPSName = 'Константиновская';
     private $OPSType = 'О';
     private $OPSSubm = 357500;
-    private $Region = 'СТАВРОПОЛЬСКИЙ КРАЙ';
+    private $Region = 'Ставропольский край';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'ПЯТИГОРСК';
-    private $City1 = 'КОНСТАНТИНОВСКАЯ';
+    private $City = 'Пятигорск';
+    private $City1 = 'Константиновская';
     private $ActDate = '20001030';
     private $IndexOld = '';
 }

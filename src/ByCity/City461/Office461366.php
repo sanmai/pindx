@@ -27,13 +27,13 @@ final class Office461366 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 461366;
-    private $OPSName = 'ИЛЕК КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Илек Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 461369;
-    private $Region = 'ОРЕНБУРГСКАЯ ОБЛАСТЬ';
+    private $Region = 'Оренбургская область';
     private $Autonom = '';
-    private $Area = 'ИЛЕКСКИЙ РАЙОН';
-    private $City = 'ИЛЕК';
+    private $Area = 'Илекский район';
+    private $City = 'Илек';
     private $City1 = '';
     private $ActDate = '20170815';
     private $IndexOld = '';

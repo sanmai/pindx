@@ -27,13 +27,13 @@ final class Office678479 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 678479;
-    private $OPSName = 'НЮРБА ОП';
-    private $OPSType = 'ОП';
+    private $OPSName = 'Нюрба Оп';
+    private $OPSType = 'Оп';
     private $OPSSubm = 678219;
-    private $Region = 'САХА (ЯКУТИЯ) РЕСПУБЛИКА';
+    private $Region = 'Саха (Якутия) Республика';
     private $Autonom = '';
-    private $Area = 'НЮРБИНСКИЙ РАЙОН';
-    private $City = 'НЮРБА';
+    private $Area = 'Нюрбинский район';
+    private $City = 'Нюрба';
     private $City1 = '';
     private $ActDate = '20180702';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office238016 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 238016;
-    private $OPSName = 'НЕСТЕРОВ ППС';
-    private $OPSType = 'ППС';
+    private $OPSName = 'Нестеров Ппс';
+    private $OPSType = 'Ппс';
     private $OPSSubm = 238169;
-    private $Region = 'КАЛИНИНГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Калининградская область';
     private $Autonom = '';
-    private $Area = 'НЕСТЕРОВСКИЙ РАЙОН';
-    private $City = 'НЕСТЕРОВ';
+    private $Area = 'Нестеровский район';
+    private $City = 'Нестеров';
     private $City1 = '';
     private $ActDate = '20170621';
     private $IndexOld = '';

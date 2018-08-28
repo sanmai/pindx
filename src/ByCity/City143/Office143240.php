@@ -27,13 +27,13 @@ final class Office143240 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 143240;
-    private $OPSName = 'БОРОДИНО';
+    private $OPSName = 'Бородино';
     private $OPSType = 'О';
     private $OPSSubm = 143399;
-    private $Region = 'МОСКОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Московская область';
     private $Autonom = '';
-    private $Area = 'МОЖАЙСКИЙ РАЙОН';
-    private $City = 'БОРОДИНО';
+    private $Area = 'Можайский район';
+    private $City = 'Бородино';
     private $City1 = '';
     private $ActDate = '20020516';
     private $IndexOld = '';

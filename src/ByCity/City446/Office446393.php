@@ -27,13 +27,13 @@ final class Office446393 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 446393;
-    private $OPSName = 'СТАРАЯ БИНАРАДКА';
+    private $OPSName = 'Старая Бинарадка';
     private $OPSType = 'О';
     private $OPSSubm = 446449;
-    private $Region = 'САМАРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Самарская область';
     private $Autonom = '';
-    private $Area = 'КРАСНОЯРСКИЙ РАЙОН';
-    private $City = 'СТАРАЯ БИНАРАДКА';
+    private $Area = 'Красноярский район';
+    private $City = 'Старая Бинарадка';
     private $City1 = '';
     private $ActDate = '20100730';
     private $IndexOld = '';

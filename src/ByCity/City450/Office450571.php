@@ -27,13 +27,13 @@ final class Office450571 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 450571;
-    private $OPSName = 'САНАТОРИЙ ЮМАТОВО';
+    private $OPSName = 'Санаторий Юматово';
     private $OPSType = 'О';
     private $OPSSubm = 450999;
-    private $Region = 'БАШКОРТОСТАН РЕСПУБЛИКА';
+    private $Region = 'Башкортостан Республика';
     private $Autonom = '';
-    private $Area = 'УФИМСКИЙ РАЙОН';
-    private $City = 'САНАТОРИЯ ЮМАТОВО ИМЕНИ 15-ЛЕТИЯ БАССР';
+    private $Area = 'Уфимский район';
+    private $City = 'Санатория Юматово Имени 15-Летия Басср';
     private $City1 = '';
     private $ActDate = '20040519';
     private $IndexOld = '';

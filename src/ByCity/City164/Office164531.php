@@ -27,13 +27,13 @@ final class Office164531 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 164531;
-    private $OPSName = 'СЕВЕРОДВИНСК 31 ППС';
-    private $OPSType = 'ППС';
+    private $OPSName = 'Северодвинск 31 Ппс';
+    private $OPSType = 'Ппс';
     private $OPSSubm = 164529;
-    private $Region = 'АРХАНГЕЛЬСКАЯ ОБЛАСТЬ';
+    private $Region = 'Архангельская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'СЕВЕРОДВИНСК';
+    private $City = 'Северодвинск';
     private $City1 = '';
     private $ActDate = '20170626';
     private $IndexOld = '';

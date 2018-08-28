@@ -27,13 +27,13 @@ final class Office301450 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 301450;
-    private $OPSName = 'ЖЕМЧУЖНИКОВО';
+    private $OPSName = 'Жемчужниково';
     private $OPSType = 'О';
     private $OPSSubm = 301439;
-    private $Region = 'ТУЛЬСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тульская область';
     private $Autonom = '';
-    private $Area = 'ОДОЕВСКИЙ РАЙОН';
-    private $City = 'ЖЕМЧУЖНИКОВО';
+    private $Area = 'Одоевский район';
+    private $City = 'Жемчужниково';
     private $City1 = '';
     private $ActDate = '20031230';
     private $IndexOld = '';

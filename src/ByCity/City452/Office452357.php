@@ -27,13 +27,13 @@ final class Office452357 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 452357;
-    private $OPSName = 'ЯНАГУШЕВО';
+    private $OPSName = 'Янагушево';
     private $OPSType = 'О';
     private $OPSSubm = 452459;
-    private $Region = 'БАШКОРТОСТАН РЕСПУБЛИКА';
+    private $Region = 'Башкортостан Республика';
     private $Autonom = '';
-    private $Area = 'МИШКИНСКИЙ РАЙОН';
-    private $City = 'ЯНАГУШЕВО';
+    private $Area = 'Мишкинский район';
+    private $City = 'Янагушево';
     private $City1 = '';
     private $ActDate = '20060913';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office996900 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 996900;
-    private $OPSName = 'ТВЕРЬ-ПОЧТОМАТ (АПС)';
+    private $OPSName = 'Тверь-Почтомат (Апс)';
     private $OPSType = 'Почтомат';
     private $OPSSubm = 170027;
-    private $Region = 'ТВЕРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тверская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'ТВЕРЬ';
+    private $City = 'Тверь';
     private $City1 = '';
     private $ActDate = '20161213';
     private $IndexOld = '';

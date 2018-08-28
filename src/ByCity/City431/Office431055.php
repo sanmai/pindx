@@ -27,13 +27,13 @@ final class Office431055 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 431055;
-    private $OPSName = 'БОЛЬШОЙ ШУСТРУЙ';
+    private $OPSName = 'Большой Шуструй';
     private $OPSType = 'О';
     private $OPSSubm = 431029;
-    private $Region = 'МОРДОВИЯ РЕСПУБЛИКА';
+    private $Region = 'Мордовия Республика';
     private $Autonom = '';
-    private $Area = 'АТЮРЬЕВСКИЙ РАЙОН';
-    private $City = 'БОЛЬШОЙ ШУСТРУЙ';
+    private $Area = 'Атюрьевский район';
+    private $City = 'Большой Шуструй';
     private $City1 = '';
     private $ActDate = '20051212';
     private $IndexOld = '';

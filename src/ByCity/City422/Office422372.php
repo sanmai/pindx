@@ -27,13 +27,13 @@ final class Office422372 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 422372;
-    private $OPSName = 'БОЛЬШАЯ ТУРМА ППС';
-    private $OPSType = 'ППС';
+    private $OPSName = 'Большая Турма Ппс';
+    private $OPSType = 'Ппс';
     private $OPSSubm = 422819;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'ТЕТЮШСКИЙ РАЙОН';
-    private $City = 'БОЛЬШАЯ ТУРМА';
+    private $Area = 'Тетюшский район';
+    private $City = 'Большая Турма';
     private $City1 = '';
     private $ActDate = '20170626';
     private $IndexOld = '';

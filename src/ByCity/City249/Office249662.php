@@ -27,13 +27,13 @@ final class Office249662 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 249662;
-    private $OPSName = 'КРИСАНОВО-ПЯТНИЦА';
+    private $OPSName = 'Крисаново-Пятница';
     private $OPSType = 'О';
     private $OPSSubm = 249449;
-    private $Region = 'КАЛУЖСКАЯ ОБЛАСТЬ';
+    private $Region = 'Калужская область';
     private $Autonom = '';
-    private $Area = 'БАРЯТИНСКИЙ РАЙОН';
-    private $City = 'КРИСАНОВО-ПЯТНИЦА';
+    private $Area = 'Барятинский район';
+    private $City = 'Крисаново-Пятница';
     private $City1 = '';
     private $ActDate = '20041025';
     private $IndexOld = '';

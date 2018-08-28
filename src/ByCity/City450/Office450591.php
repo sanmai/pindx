@@ -27,13 +27,13 @@ final class Office450591 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 450591;
-    private $OPSName = 'ЧЕСНОКОВКА';
+    private $OPSName = 'Чесноковка';
     private $OPSType = 'О';
     private $OPSSubm = 450999;
-    private $Region = 'БАШКОРТОСТАН РЕСПУБЛИКА';
+    private $Region = 'Башкортостан Республика';
     private $Autonom = '';
-    private $Area = 'УФИМСКИЙ РАЙОН';
-    private $City = 'ЧЕСНОКОВКА';
+    private $Area = 'Уфимский район';
+    private $City = 'Чесноковка';
     private $City1 = '';
     private $ActDate = '20040519';
     private $IndexOld = '';

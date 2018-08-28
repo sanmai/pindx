@@ -27,13 +27,13 @@ final class Office306051 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 306051;
-    private $OPSName = 'КОНЕВО-ПЕРВОЕ';
+    private $OPSName = 'Конево-Первое';
     private $OPSType = 'О';
     private $OPSSubm = 307139;
-    private $Region = 'КУРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Курская область';
     private $Autonom = '';
-    private $Area = 'ЗОЛОТУХИНСКИЙ РАЙОН';
-    private $City = '1-Е КОНЕВО';
+    private $Area = 'Золотухинский район';
+    private $City = '1-Е Конево';
     private $City1 = '';
     private $ActDate = '20041126';
     private $IndexOld = '';

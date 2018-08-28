@@ -27,13 +27,13 @@ final class Office453747 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 453747;
-    private $OPSName = 'НАУРУЗОВО';
+    private $OPSName = 'Наурузово';
     private $OPSType = 'О';
     private $OPSSubm = 453709;
-    private $Region = 'БАШКОРТОСТАН РЕСПУБЛИКА';
+    private $Region = 'Башкортостан Республика';
     private $Autonom = '';
-    private $Area = 'УЧАЛИНСКИЙ РАЙОН';
-    private $City = 'НАУРУЗОВО';
+    private $Area = 'Учалинский район';
+    private $City = 'Наурузово';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

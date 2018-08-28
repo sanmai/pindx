@@ -27,13 +27,13 @@ final class Office668336 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 668336;
-    private $OPSName = 'ЭЛЕГЕСТ';
+    private $OPSName = 'Элегест';
     private $OPSType = 'О';
     private $OPSSubm = 668310;
-    private $Region = 'ТЫВА РЕСПУБЛИКА';
+    private $Region = 'Тыва Республика';
     private $Autonom = '';
-    private $Area = 'ЧЕДИ-ХОЛЬСКИЙ РАЙОН';
-    private $City = 'ЭЛЕГЕСТ';
+    private $Area = 'Чеди-Хольский район';
+    private $City = 'Элегест';
     private $City1 = '';
     private $ActDate = '20060322';
     private $IndexOld = '';

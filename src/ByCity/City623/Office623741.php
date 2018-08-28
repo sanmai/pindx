@@ -27,13 +27,13 @@ final class Office623741 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 623741;
-    private $OPSName = 'ГОЛЕНДУХИНО';
+    private $OPSName = 'Голендухино';
     private $OPSType = 'О';
     private $OPSSubm = 624619;
-    private $Region = 'СВЕРДЛОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Свердловская область';
     private $Autonom = '';
-    private $Area = 'РЕЖЕВСКИЙ РАЙОН';
-    private $City = 'ГОЛЕНДУХИНО';
+    private $Area = 'Режевский район';
+    private $City = 'Голендухино';
     private $City1 = '';
     private $ActDate = '20030321';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office423043 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 423043;
-    private $OPSName = 'НУРЛАТ ППС';
-    private $OPSType = 'ППС';
+    private $OPSName = 'Нурлат Ппс';
+    private $OPSType = 'Ппс';
     private $OPSSubm = 423049;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'НУРЛАТСКИЙ РАЙОН';
-    private $City = 'НУРЛАТ';
+    private $Area = 'Нурлатский район';
+    private $City = 'Нурлат';
     private $City1 = '';
     private $ActDate = '20170913';
     private $IndexOld = '';

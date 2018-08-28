@@ -27,13 +27,13 @@ final class Office363225 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 363225;
-    private $OPSName = 'ЦЕЙ';
+    private $OPSName = 'Цей';
     private $OPSType = 'О';
     private $OPSSubm = 363240;
-    private $Region = 'СЕВЕРНАЯ ОСЕТИЯ - АЛАНИЯ РЕСПУБЛИКА';
+    private $Region = 'Северная Осетия - Алания Республика';
     private $Autonom = '';
-    private $Area = 'АЛАГИРСКИЙ РАЙОН';
-    private $City = 'НИЖНИЙ ЦЕЙ';
+    private $Area = 'Алагирский район';
+    private $City = 'Нижний Цей';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office433708 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 433708;
-    private $OPSName = 'ПАТРИКЕЕВО';
+    private $OPSName = 'Патрикеево';
     private $OPSType = 'О';
     private $OPSSubm = 433059;
-    private $Region = 'УЛЬЯНОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ульяновская область';
     private $Autonom = '';
-    private $Area = 'БАЗАРНОСЫЗГАНСКИЙ РАЙОН';
-    private $City = 'ПАТРИКЕЕВО';
+    private $Area = 'Базарносызганский район';
+    private $City = 'Патрикеево';
     private $City1 = '';
     private $ActDate = '20040607';
     private $IndexOld = '';

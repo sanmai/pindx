@@ -27,13 +27,13 @@ final class Office671444 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 671444;
-    private $OPSName = 'ТЕЛЕМБА';
+    private $OPSName = 'Телемба';
     private $OPSType = 'О';
     private $OPSSubm = 671429;
-    private $Region = 'БУРЯТИЯ РЕСПУБЛИКА';
+    private $Region = 'Бурятия Республика';
     private $Autonom = '';
-    private $Area = 'ЕРАВНИНСКИЙ РАЙОН';
-    private $City = 'ТЕЛЕМБА';
+    private $Area = 'Еравнинский район';
+    private $City = 'Телемба';
     private $City1 = '';
     private $ActDate = '20060830';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office429322 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 429322;
-    private $OPSName = 'ТОБУРДАНОВО';
+    private $OPSName = 'Тобурданово';
     private $OPSType = 'О';
     private $OPSSubm = 429349;
-    private $Region = 'ЧУВАШИЯ РЕСПУБЛИКА';
+    private $Region = 'Чувашия Республика';
     private $Autonom = '';
-    private $Area = 'КАНАШСКИЙ РАЙОН';
-    private $City = 'ТОБУРДАНОВО';
+    private $Area = 'Канашский район';
+    private $City = 'Тобурданово';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

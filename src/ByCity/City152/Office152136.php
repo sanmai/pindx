@@ -27,13 +27,13 @@ final class Office152136 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 152136;
-    private $OPSName = 'ФАТЬЯНОВО';
+    private $OPSName = 'Фатьяново';
     private $OPSType = 'О';
     private $OPSSubm = 152159;
-    private $Region = 'ЯРОСЛАВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ярославская область';
     private $Autonom = '';
-    private $Area = 'РОСТОВСКИЙ РАЙОН';
-    private $City = 'ФАТЬЯНОВО';
+    private $Area = 'Ростовский район';
+    private $City = 'Фатьяново';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

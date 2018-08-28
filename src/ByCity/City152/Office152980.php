@@ -27,13 +27,13 @@ final class Office152980 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 152980;
-    private $OPSName = 'ТИХМЕНЕВО';
+    private $OPSName = 'Тихменево';
     private $OPSType = 'О';
     private $OPSSubm = 152939;
-    private $Region = 'ЯРОСЛАВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ярославская область';
     private $Autonom = '';
-    private $Area = 'РЫБИНСКИЙ РАЙОН';
-    private $City = 'ТИХМЕНЕВО';
+    private $Area = 'Рыбинский район';
+    private $City = 'Тихменево';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

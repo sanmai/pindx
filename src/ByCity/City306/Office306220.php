@@ -27,13 +27,13 @@ final class Office306220 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 306220;
-    private $OPSName = 'БОБРЫШЕВО';
+    private $OPSName = 'Бобрышево';
     private $OPSType = 'О';
     private $OPSSubm = 306201;
-    private $Region = 'КУРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Курская область';
     private $Autonom = '';
-    private $Area = 'ПРИСТЕНСКИЙ РАЙОН';
-    private $City = 'БОБРЫШЕВО';
+    private $Area = 'Пристенский район';
+    private $City = 'Бобрышево';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

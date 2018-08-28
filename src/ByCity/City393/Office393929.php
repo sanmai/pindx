@@ -27,14 +27,14 @@ final class Office393929 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 393929;
-    private $OPSName = 'ПРИГОРОДНЫЙ';
+    private $OPSName = 'Пригородный';
     private $OPSType = 'О';
     private $OPSSubm = 393958;
-    private $Region = 'ТАМБОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тамбовская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'МОРШАНСК';
-    private $City1 = 'ПРИГОРОДНЫЙ';
+    private $City = 'Моршанск';
+    private $City1 = 'Пригородный';
     private $ActDate = '20001030';
     private $IndexOld = '';
 }

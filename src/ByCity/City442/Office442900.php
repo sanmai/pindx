@@ -27,13 +27,13 @@ final class Office442900 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 442900;
-    private $OPSName = 'ТАМАЛА';
+    private $OPSName = 'Тамала';
     private $OPSType = 'О';
     private $OPSSubm = 442899;
-    private $Region = 'ПЕНЗЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Пензенская область';
     private $Autonom = '';
-    private $Area = 'ТАМАЛИНСКИЙ РАЙОН';
-    private $City = 'ТАМАЛА';
+    private $Area = 'Тамалинский район';
+    private $City = 'Тамала';
     private $City1 = '';
     private $ActDate = '20060626';
     private $IndexOld = '';

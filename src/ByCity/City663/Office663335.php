@@ -27,14 +27,14 @@ final class Office663335 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 663335;
-    private $OPSName = 'СНЕЖНОГОРСК';
+    private $OPSName = 'Снежногорск';
     private $OPSType = 'О';
     private $OPSSubm = 663300;
-    private $Region = 'КРАСНОЯРСКИЙ КРАЙ';
+    private $Region = 'Красноярский край';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'НОРИЛЬСК';
-    private $City1 = 'СНЕЖНОГОРСК';
+    private $City = 'Норильск';
+    private $City1 = 'Снежногорск';
     private $ActDate = '20001030';
     private $IndexOld = '';
 }

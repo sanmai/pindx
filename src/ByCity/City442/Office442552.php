@@ -27,13 +27,13 @@ final class Office442552 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 442552;
-    private $OPSName = 'БУЗОВЛЕВО';
+    private $OPSName = 'Бузовлево';
     private $OPSType = 'О';
     private $OPSSubm = 442439;
-    private $Region = 'ПЕНЗЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Пензенская область';
     private $Autonom = '';
-    private $Area = 'ЛОПАТИНСКИЙ РАЙОН';
-    private $City = 'БУЗОВЛЕВО';
+    private $Area = 'Лопатинский район';
+    private $City = 'Бузовлево';
     private $City1 = '';
     private $ActDate = '20060703';
     private $IndexOld = '';

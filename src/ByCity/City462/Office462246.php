@@ -27,13 +27,13 @@ final class Office462246 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 462246;
-    private $OPSName = 'КУВАНДЫК КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Кувандык Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 462240;
-    private $Region = 'ОРЕНБУРГСКАЯ ОБЛАСТЬ';
+    private $Region = 'Оренбургская область';
     private $Autonom = '';
-    private $Area = 'КУВАНДЫКСКИЙ РАЙОН';
-    private $City = 'КУВАНДЫК';
+    private $Area = 'Кувандыкский район';
+    private $City = 'Кувандык';
     private $City1 = '';
     private $ActDate = '20170815';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office140165 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 140165;
-    private $OPSName = 'ПОСЕЛОК ГЖЕЛЬСКОГО КИРПИЧНОГО ЗАВОДА';
+    private $OPSName = 'Поселок Гжельского Кирпичного Завода';
     private $OPSType = 'О';
     private $OPSSubm = 140079;
-    private $Region = 'МОСКОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Московская область';
     private $Autonom = '';
-    private $Area = 'РАМЕНСКИЙ РАЙОН';
-    private $City = 'ГЖЕЛЬСКИЙ КИРПИЧНЫЙ ЗАВОД';
+    private $Area = 'Раменский район';
+    private $City = 'Гжельский Кирпичный Завод';
     private $City1 = '';
     private $ActDate = '20100721';
     private $IndexOld = '';

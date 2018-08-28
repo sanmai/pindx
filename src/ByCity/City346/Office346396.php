@@ -27,13 +27,13 @@ final class Office346396 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 346396;
-    private $OPSName = 'ЧЕРНЕЦОВ';
+    private $OPSName = 'Чернецов';
     private $OPSType = 'О';
     private $OPSSubm = 346369;
-    private $Region = 'РОСТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ростовская область';
     private $Autonom = '';
-    private $Area = 'КРАСНОСУЛИНСКИЙ РАЙОН';
-    private $City = 'ЧЕРНЕЦОВ';
+    private $Area = 'Красносулинский район';
+    private $City = 'Чернецов';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

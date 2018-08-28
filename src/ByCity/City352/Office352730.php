@@ -27,13 +27,13 @@ final class Office352730 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 352730;
-    private $OPSName = 'ДНЕПРОВСКАЯ';
+    private $OPSName = 'Днепровская';
     private $OPSType = 'О';
     private $OPSSubm = 352749;
-    private $Region = 'КРАСНОДАРСКИЙ КРАЙ';
+    private $Region = 'Краснодарский край';
     private $Autonom = '';
-    private $Area = 'ТИМАШЕВСКИЙ РАЙОН';
-    private $City = 'ДНЕПРОВСКАЯ';
+    private $Area = 'Тимашевский район';
+    private $City = 'Днепровская';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

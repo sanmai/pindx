@@ -27,13 +27,13 @@ final class Office452786 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 452786;
-    private $OPSName = 'КАРАМАЛЫ-ГУБЕЕВО';
+    private $OPSName = 'Карамалы-Губеево';
     private $OPSType = 'О';
     private $OPSSubm = 452799;
-    private $Region = 'БАШКОРТОСТАН РЕСПУБЛИКА';
+    private $Region = 'Башкортостан Республика';
     private $Autonom = '';
-    private $Area = 'ТУЙМАЗИНСКИЙ РАЙОН';
-    private $City = 'КАРАМАЛЫ-ГУБЕЕВО';
+    private $Area = 'Туймазинский район';
+    private $City = 'Карамалы-Губеево';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

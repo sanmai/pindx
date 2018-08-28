@@ -27,13 +27,13 @@ final class Office296342 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 296342;
-    private $OPSName = 'КРАСНОГВАРДЕЙСК ПОЧТАМТ УЧ. ЕЛЕНОВКА';
+    private $OPSName = 'Красногвардейск Почтамт Уч. Еленовка';
     private $OPSType = 'Участок';
     private $OPSSubm = 297069;
-    private $Region = 'КРЫМ РЕСПУБЛИКА';
+    private $Region = 'Крым Республика';
     private $Autonom = '';
-    private $Area = 'КРАСНОГВАРДЕЙСКИЙ РАЙОН';
-    private $City = 'КРАСНОГВАРДЕЙСКОЕ';
+    private $Area = 'Красногвардейский район';
+    private $City = 'Красногвардейское';
     private $City1 = '';
     private $ActDate = '20170529';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office164154 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 164154;
-    private $OPSName = 'КРЕЧЕТОВО';
+    private $OPSName = 'Кречетово';
     private $OPSType = 'О';
     private $OPSSubm = 164260;
-    private $Region = 'АРХАНГЕЛЬСКАЯ ОБЛАСТЬ';
+    private $Region = 'Архангельская область';
     private $Autonom = '';
-    private $Area = 'КАРГОПОЛЬСКИЙ РАЙОН';
-    private $City = 'КРЕЧЕТОВО';
+    private $Area = 'Каргопольский район';
+    private $City = 'Кречетово';
     private $City1 = '';
     private $ActDate = '20101124';
     private $IndexOld = '';

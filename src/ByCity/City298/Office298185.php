@@ -27,14 +27,14 @@ final class Office298185 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 298185;
-    private $OPSName = 'ФЕОДОСИЯ ПОЧТАМТ УЧ. НАНИКОВО';
+    private $OPSName = 'Феодосия Почтамт Уч. Наниково';
     private $OPSType = 'Участок';
     private $OPSSubm = 298199;
-    private $Region = 'КРЫМ РЕСПУБЛИКА';
+    private $Region = 'Крым Республика';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'ФЕОДОСИЯ';
-    private $City1 = 'НАНИКОВО';
+    private $City = 'Феодосия';
+    private $City1 = 'Наниково';
     private $ActDate = '20140716';
     private $IndexOld = '';
 }

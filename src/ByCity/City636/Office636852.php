@@ -27,13 +27,13 @@ final class Office636852 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 636852;
-    private $OPSName = 'ДУБРОВКА';
+    private $OPSName = 'Дубровка';
     private $OPSType = 'О';
     private $OPSSubm = 636849;
-    private $Region = 'ТОМСКАЯ ОБЛАСТЬ';
+    private $Region = 'Томская область';
     private $Autonom = '';
-    private $Area = 'ЗЫРЯНСКИЙ РАЙОН';
-    private $City = 'ДУБРОВКА';
+    private $Area = 'Зырянский район';
+    private $City = 'Дубровка';
     private $City1 = '';
     private $ActDate = '20030611';
     private $IndexOld = '';

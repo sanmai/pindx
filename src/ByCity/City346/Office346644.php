@@ -27,13 +27,13 @@ final class Office346644 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 346644;
-    private $OPSName = 'ТОПИЛИН';
+    private $OPSName = 'Топилин';
     private $OPSType = 'О';
     private $OPSSubm = 347289;
-    private $Region = 'РОСТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ростовская область';
     private $Autonom = '';
-    private $Area = 'СЕМИКАРАКОРСКИЙ РАЙОН';
-    private $City = 'ТОПИЛИН';
+    private $Area = 'Семикаракорский район';
+    private $City = 'Топилин';
     private $City1 = '';
     private $ActDate = '20070214';
     private $IndexOld = '';

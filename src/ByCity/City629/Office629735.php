@@ -27,13 +27,13 @@ final class Office629735 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 629735;
-    private $OPSName = 'НАДЫМ 5';
+    private $OPSName = 'Надым 5';
     private $OPSType = 'О';
     private $OPSSubm = 629329;
     private $Region = '';
-    private $Autonom = 'ЯМАЛО-НЕНЕЦКИЙ АВТОНОМНЫЙ ОКРУГ';
-    private $Area = 'НАДЫМСКИЙ РАЙОН';
-    private $City = 'НАДЫМ';
+    private $Autonom = 'Ямало-Ненецкий автономный округ';
+    private $Area = 'Надымский район';
+    private $City = 'Надым';
     private $City1 = '';
     private $ActDate = '20170906';
     private $IndexOld = '';

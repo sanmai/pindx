@@ -27,13 +27,13 @@ final class Office431670 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 431670;
-    private $OPSName = 'БОЛЬШОЕ ИГНАТОВО';
+    private $OPSName = 'Большое Игнатово';
     private $OPSType = 'О';
     private $OPSSubm = 431669;
-    private $Region = 'МОРДОВИЯ РЕСПУБЛИКА';
+    private $Region = 'Мордовия Республика';
     private $Autonom = '';
-    private $Area = 'БОЛЬШЕИГНАТОВСКИЙ РАЙОН';
-    private $City = 'БОЛЬШОЕ ИГНАТОВО';
+    private $Area = 'Большеигнатовский район';
+    private $City = 'Большое Игнатово';
     private $City1 = '';
     private $ActDate = '20060615';
     private $IndexOld = '';

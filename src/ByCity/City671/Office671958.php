@@ -27,13 +27,13 @@ final class Office671958 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 671958;
-    private $OPSName = 'ЗАКАМЕНСК 8';
-    private $OPSType = 'ПЕРЕДВИЖНОЕ ОС';
+    private $OPSName = 'Закаменск 8';
+    private $OPSType = 'Передвижное Ос';
     private $OPSSubm = 671959;
-    private $Region = 'БУРЯТИЯ РЕСПУБЛИКА';
+    private $Region = 'Бурятия Республика';
     private $Autonom = '';
-    private $Area = 'ЗАКАМЕНСКИЙ РАЙОН';
-    private $City = 'ЗАКАМЕНСК';
+    private $Area = 'Закаменский район';
+    private $City = 'Закаменск';
     private $City1 = '';
     private $ActDate = '20151125';
     private $IndexOld = '';

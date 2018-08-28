@@ -27,13 +27,13 @@ final class Office161275 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 161275;
-    private $OPSName = 'ПИКСИМОВО';
+    private $OPSName = 'Пиксимово';
     private $OPSType = 'О';
     private $OPSSubm = 162969;
-    private $Region = 'ВОЛОГОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Вологодская область';
     private $Autonom = '';
-    private $Area = 'ВАШКИНСКИЙ РАЙОН';
-    private $City = 'ПИКСИМОВО';
+    private $Area = 'Вашкинский район';
+    private $City = 'Пиксимово';
     private $City1 = '';
     private $ActDate = '20101119';
     private $IndexOld = '';

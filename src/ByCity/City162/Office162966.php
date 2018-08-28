@@ -27,13 +27,13 @@ final class Office162966 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 162966;
-    private $OPSName = 'ВЫТЕГРА КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Вытегра Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 162969;
-    private $Region = 'ВОЛОГОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Вологодская область';
     private $Autonom = '';
-    private $Area = 'ВЫТЕГОРСКИЙ РАЙОН';
-    private $City = 'ВЫТЕГРА';
+    private $Area = 'Вытегорский район';
+    private $City = 'Вытегра';
     private $City1 = '';
     private $ActDate = '20170118';
     private $IndexOld = '';

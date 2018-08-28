@@ -27,14 +27,14 @@ final class Office102979 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 102979;
-    private $OPSName = 'МР ЛЦ ВНУКОВО ММПО УЧ. МЖД ТАРЫ';
+    private $OPSName = 'Мр Лц Внуково Ммпо Уч. Мжд Тары';
     private $OPSType = 'Участок';
     private $OPSSubm = 102975;
-    private $Region = 'МОСКВА';
+    private $Region = 'Москва';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'МАРУШКИНСКОЕ';
-    private $City1 = 'ШАРАПОВО';
+    private $City = 'Марушкинское';
+    private $City1 = 'Шарапово';
     private $ActDate = '20180131';
     private $IndexOld = '';
 }

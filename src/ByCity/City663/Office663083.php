@@ -27,14 +27,14 @@ final class Office663083 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 663083;
-    private $OPSName = 'СЛИЗНЕВО';
+    private $OPSName = 'Слизнево';
     private $OPSType = 'О';
     private $OPSSubm = 660999;
-    private $Region = 'КРАСНОЯРСКИЙ КРАЙ';
+    private $Region = 'Красноярский край';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'ДИВНОГОРСК';
-    private $City1 = 'СЛИЗНЕВО';
+    private $City = 'Дивногорск';
+    private $City1 = 'Слизнево';
     private $ActDate = '20061010';
     private $IndexOld = '';
 }

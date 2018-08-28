@@ -27,13 +27,13 @@ final class Office682406 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 682406;
-    private $OPSName = 'АННИНСКИЕ МИНЕРАЛЬНЫЕ ВОДЫ';
+    private $OPSName = 'Аннинские Минеральные Воды';
     private $OPSType = 'О';
     private $OPSSubm = 682459;
-    private $Region = 'ХАБАРОВСКИЙ КРАЙ';
+    private $Region = 'Хабаровский край';
     private $Autonom = '';
-    private $Area = 'УЛЬЧСКИЙ РАЙОН';
-    private $City = 'АННИНСКИЕ МИНЕРАЛЬНЫЕ ВОДЫ';
+    private $Area = 'Ульчский район';
+    private $City = 'Аннинские Минеральные Воды';
     private $City1 = '';
     private $ActDate = '20060620';
     private $IndexOld = '';

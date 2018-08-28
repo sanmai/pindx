@@ -27,13 +27,13 @@ final class Office404334 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 404334;
-    private $OPSName = 'ИЛЬМЕНЬ-СУВОРОВСКИЙ';
+    private $OPSName = 'Ильмень-Суворовский';
     private $OPSType = 'О';
     private $OPSSubm = 404350;
-    private $Region = 'ВОЛГОГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Волгоградская область';
     private $Autonom = '';
-    private $Area = 'ОКТЯБРЬСКИЙ РАЙОН';
-    private $City = 'ИЛЬМЕНЬ-СУВОРОВСКИЙ';
+    private $Area = 'Октябрьский район';
+    private $City = 'Ильмень-Суворовский';
     private $City1 = '';
     private $ActDate = '20070411';
     private $IndexOld = '';

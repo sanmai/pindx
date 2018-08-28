@@ -27,13 +27,13 @@ final class Office601025 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 601025;
-    private $OPSName = 'КИПРЕВО';
+    private $OPSName = 'Кипрево';
     private $OPSType = 'О';
     private $OPSSubm = 601659;
-    private $Region = 'ВЛАДИМИРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Владимирская область';
     private $Autonom = '';
-    private $Area = 'КИРЖАЧСКИЙ РАЙОН';
-    private $City = 'КИПРЕВО';
+    private $Area = 'Киржачский район';
+    private $City = 'Кипрево';
     private $City1 = '';
     private $ActDate = '20130114';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office307109 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 307109;
-    private $OPSName = 'БАНИНО-ПЕРВОЕ';
+    private $OPSName = 'Банино-Первое';
     private $OPSType = 'О';
     private $OPSSubm = 307139;
-    private $Region = 'КУРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Курская область';
     private $Autonom = '';
-    private $Area = 'ФАТЕЖСКИЙ РАЙОН';
-    private $City = 'БАНИНО 1-Е';
+    private $Area = 'Фатежский район';
+    private $City = 'Банино 1-Е';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

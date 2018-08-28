@@ -27,13 +27,13 @@ final class Office429810 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 429810;
-    private $OPSName = 'ЧУВАРЛЕИ';
+    private $OPSName = 'Чуварлеи';
     private $OPSType = 'О';
     private $OPSSubm = 429859;
-    private $Region = 'ЧУВАШИЯ РЕСПУБЛИКА';
+    private $Region = 'Чувашия Республика';
     private $Autonom = '';
-    private $Area = 'АЛАТЫРСКИЙ РАЙОН';
-    private $City = 'ЧУВАРЛЕИ';
+    private $Area = 'Алатырский район';
+    private $City = 'Чуварлеи';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

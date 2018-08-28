@@ -27,13 +27,13 @@ final class Office352021 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 352021;
-    private $OPSName = 'КИСЛЯКОВКА';
+    private $OPSName = 'Кисляковка';
     private $OPSType = 'О';
     private $OPSSubm = 353699;
-    private $Region = 'КРАСНОДАРСКИЙ КРАЙ';
+    private $Region = 'Краснодарский край';
     private $Autonom = '';
-    private $Area = 'КУЩЕВСКИЙ РАЙОН';
-    private $City = 'КИСЛЯКОВКА';
+    private $Area = 'Кущевский район';
+    private $City = 'Кисляковка';
     private $City1 = '';
     private $ActDate = '20140214';
     private $IndexOld = '';

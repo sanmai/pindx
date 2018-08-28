@@ -27,13 +27,13 @@ final class Office442580 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 442580;
-    private $OPSName = 'СЮЗЮМСКОЕ';
+    private $OPSName = 'Сюзюмское';
     private $OPSType = 'О';
     private $OPSSubm = 442699;
-    private $Region = 'ПЕНЗЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Пензенская область';
     private $Autonom = '';
-    private $Area = 'СОСНОВОБОРСКИЙ РАЙОН';
-    private $City = 'СЮЗЮМСКОЕ';
+    private $Area = 'Сосновоборский район';
+    private $City = 'Сюзюмское';
     private $City1 = '';
     private $ActDate = '20060626';
     private $IndexOld = '';

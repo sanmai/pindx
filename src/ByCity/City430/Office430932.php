@@ -27,13 +27,13 @@ final class Office430932 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 430932;
-    private $OPSName = 'РУЗАЕВКА-ДТИ';
-    private $OPSType = 'ДТИ';
+    private $OPSName = 'Рузаевка-Дти';
+    private $OPSType = 'Дти';
     private $OPSSubm = 431440;
-    private $Region = 'МОРДОВИЯ РЕСПУБЛИКА';
+    private $Region = 'Мордовия Республика';
     private $Autonom = '';
-    private $Area = 'РУЗАЕВСКИЙ РАЙОН';
-    private $City = 'РУЗАЕВКА';
+    private $Area = 'Рузаевский район';
+    private $City = 'Рузаевка';
     private $City1 = '';
     private $ActDate = '20180723';
     private $IndexOld = '';

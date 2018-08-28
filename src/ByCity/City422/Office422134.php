@@ -27,13 +27,13 @@ final class Office422134 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 422134;
-    private $OPSName = 'ВЕРХНИЙ АРБАШ';
+    private $OPSName = 'Верхний Арбаш';
     private $OPSType = 'О';
     private $OPSSubm = 422139;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'КУКМОРСКИЙ РАЙОН';
-    private $City = 'ВЕРХНИЙ АРБАШ';
+    private $Area = 'Кукморский район';
+    private $City = 'Верхний Арбаш';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

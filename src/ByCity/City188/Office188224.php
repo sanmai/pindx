@@ -27,13 +27,13 @@ final class Office188224 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 188224;
-    private $OPSName = 'ТЕСОВО-ЧЕТВЕРТОЕ';
+    private $OPSName = 'Тесово-Четвертое';
     private $OPSType = 'О';
     private $OPSSubm = 188299;
-    private $Region = 'ЛЕНИНГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ленинградская область';
     private $Autonom = '';
-    private $Area = 'ЛУЖСКИЙ РАЙОН';
-    private $City = 'ТЕСОВО-4';
+    private $Area = 'Лужский район';
+    private $City = 'Тесово-4';
     private $City1 = '';
     private $ActDate = '20031105';
     private $IndexOld = '';

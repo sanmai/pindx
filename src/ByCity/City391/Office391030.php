@@ -27,13 +27,13 @@ final class Office391030 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 391030;
-    private $OPSName = 'СПАС-КЛЕПИКИ';
+    private $OPSName = 'Спас-Клепики';
     private $OPSType = 'О';
     private $OPSSubm = 391379;
-    private $Region = 'РЯЗАНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Рязанская область';
     private $Autonom = '';
-    private $Area = 'КЛЕПИКОВСКИЙ РАЙОН';
-    private $City = 'СПАС-КЛЕПИКИ';
+    private $Area = 'Клепиковский район';
+    private $City = 'Спас-Клепики';
     private $City1 = '';
     private $ActDate = '20150330';
     private $IndexOld = '';

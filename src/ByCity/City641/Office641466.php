@@ -27,13 +27,13 @@ final class Office641466 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 641466;
-    private $OPSName = 'ПЕРЕВАЛОВО';
+    private $OPSName = 'Перевалово';
     private $OPSType = 'О';
     private $OPSSubm = 641069;
-    private $Region = 'КУРГАНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Курганская область';
     private $Autonom = '';
-    private $Area = 'КУРТАМЫШСКИЙ РАЙОН';
-    private $City = 'ПЕРЕВАЛОВО';
+    private $Area = 'Куртамышский район';
+    private $City = 'Перевалово';
     private $City1 = '';
     private $ActDate = '20090203';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office303213 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 303213;
-    private $OPSName = 'АРБУЗОВО';
+    private $OPSName = 'Арбузово';
     private $OPSType = 'О';
     private $OPSSubm = 303229;
-    private $Region = 'ОРЛОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Орловская область';
     private $Autonom = '';
-    private $Area = 'КРОМСКОЙ РАЙОН';
-    private $City = 'АРБУЗОВО';
+    private $Area = 'Кромской район';
+    private $City = 'Арбузово';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

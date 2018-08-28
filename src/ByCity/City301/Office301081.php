@@ -27,13 +27,13 @@ final class Office301081 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 301081;
-    private $OPSName = 'ЕРЖИНО';
+    private $OPSName = 'Ержино';
     private $OPSType = 'О';
     private $OPSSubm = 301259;
-    private $Region = 'ТУЛЬСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тульская область';
     private $Autonom = '';
-    private $Area = 'ЧЕРНСКИЙ РАЙОН';
-    private $City = 'ЕРЖИНО';
+    private $Area = 'Чернский район';
+    private $City = 'Ержино';
     private $City1 = '';
     private $ActDate = '20040514';
     private $IndexOld = '';

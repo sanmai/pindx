@@ -27,13 +27,13 @@ final class Office155532 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 155532;
-    private $OPSName = 'ХРОМЦОВО';
+    private $OPSName = 'Хромцово';
     private $OPSType = 'О';
     private $OPSSubm = 155539;
-    private $Region = 'ИВАНОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ивановская область';
     private $Autonom = '';
-    private $Area = 'ФУРМАНОВСКИЙ РАЙОН';
-    private $City = 'ХРОМЦОВО';
+    private $Area = 'Фурмановский район';
+    private $City = 'Хромцово';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

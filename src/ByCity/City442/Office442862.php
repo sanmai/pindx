@@ -27,13 +27,13 @@ final class Office442862 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 442862;
-    private $OPSName = 'НОВАЯ СТУДЕНОВКА';
+    private $OPSName = 'Новая Студеновка';
     private $OPSType = 'О';
     private $OPSSubm = 442899;
-    private $Region = 'ПЕНЗЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Пензенская область';
     private $Autonom = '';
-    private $Area = 'СЕРДОБСКИЙ РАЙОН';
-    private $City = 'НОВАЯ СТУДЕНОВКА';
+    private $Area = 'Сердобский район';
+    private $City = 'Новая Студеновка';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

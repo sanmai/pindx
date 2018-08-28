@@ -27,13 +27,13 @@ final class Office646020 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 646020;
-    private $OPSName = 'ИСИЛЬКУЛЬ ПОЧТАМТ';
+    private $OPSName = 'Исилькуль Почтамт';
     private $OPSType = 'П';
     private $OPSSubm = 644700;
-    private $Region = 'ОМСКАЯ ОБЛАСТЬ';
+    private $Region = 'Омская область';
     private $Autonom = '';
-    private $Area = 'ИСИЛЬКУЛЬСКИЙ РАЙОН';
-    private $City = 'ИСИЛЬКУЛЬ';
+    private $Area = 'Исилькульский район';
+    private $City = 'Исилькуль';
     private $City1 = '';
     private $ActDate = '20121128';
     private $IndexOld = '';

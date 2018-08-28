@@ -27,13 +27,13 @@ final class Office155056 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 155056;
-    private $OPSName = 'КРАПИВНОВО';
+    private $OPSName = 'Крапивново';
     private $OPSType = 'О';
     private $OPSSubm = 155059;
-    private $Region = 'ИВАНОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ивановская область';
     private $Autonom = '';
-    private $Area = 'ТЕЙКОВСКИЙ РАЙОН';
-    private $City = 'КРАПИВНОВО';
+    private $Area = 'Тейковский район';
+    private $City = 'Крапивново';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

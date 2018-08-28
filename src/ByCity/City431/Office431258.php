@@ -27,13 +27,13 @@ final class Office431258 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 431258;
-    private $OPSName = 'ТЕМНИКОВ КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Темников Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 431259;
-    private $Region = 'МОРДОВИЯ РЕСПУБЛИКА';
+    private $Region = 'Мордовия Республика';
     private $Autonom = '';
-    private $Area = 'ТЕМНИКОВСКИЙ РАЙОН';
-    private $City = 'ТЕМНИКОВ';
+    private $Area = 'Темниковский район';
+    private $City = 'Темников';
     private $City1 = '';
     private $ActDate = '20170929';
     private $IndexOld = '';

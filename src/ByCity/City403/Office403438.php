@@ -27,13 +27,13 @@ final class Office403438 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 403438;
-    private $OPSName = 'КУМЫЛЖЕНСКАЯ КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Кумылженская Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 403400;
-    private $Region = 'ВОЛГОГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Волгоградская область';
     private $Autonom = '';
-    private $Area = 'КУМЫЛЖЕНСКИЙ РАЙОН';
-    private $City = 'КУМЫЛЖЕНСКАЯ';
+    private $Area = 'Кумылженский район';
+    private $City = 'Кумылженская';
     private $City1 = '';
     private $ActDate = '20171129';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office901078 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 901078;
-    private $OPSName = 'ПВ РОСТОВ-НА-ДОНУ-НОВОСИБИРСК';
-    private $OPSType = 'ТИ';
+    private $OPSName = 'Пв Ростов-На-Дону-Новосибирск';
+    private $OPSType = 'Ти';
     private $OPSSubm = 630960;
-    private $Region = 'НОВОСИБИРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Новосибирская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'НОВОСИБИРСК';
+    private $City = 'Новосибирск';
     private $City1 = '';
     private $ActDate = '20140213';
     private $IndexOld = '';

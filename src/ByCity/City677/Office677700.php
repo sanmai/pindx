@@ -27,13 +27,13 @@ final class Office677700 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 677700;
-    private $OPSName = 'УФПС РЕСПУБЛИКИ САХА (ЯКУТИЯ)';
-    private $OPSType = 'УФПС';
+    private $OPSName = 'Уфпс Республики Саха (Якутия)';
+    private $OPSType = 'Уфпс';
     private $OPSSubm = 0;
-    private $Region = 'САХА (ЯКУТИЯ) РЕСПУБЛИКА';
+    private $Region = 'Саха (Якутия) Республика';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'ЯКУТСК';
+    private $City = 'Якутск';
     private $City1 = '';
     private $ActDate = '20060222';
     private $IndexOld = '';

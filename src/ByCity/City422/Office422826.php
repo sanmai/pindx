@@ -27,13 +27,13 @@ final class Office422826 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 422826;
-    private $OPSName = 'КУЙБЫШЕВСКИЙ ЗАТОН';
+    private $OPSName = 'Куйбышевский Затон';
     private $OPSType = 'О';
     private $OPSSubm = 422819;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'КАМСКО-УСТЬИНСКИЙ РАЙОН';
-    private $City = 'КУЙБЫШЕВСКИЙ ЗАТОН';
+    private $Area = 'Камско-Устьинский район';
+    private $City = 'Куйбышевский Затон';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

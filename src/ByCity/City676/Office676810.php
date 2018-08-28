@@ -27,13 +27,13 @@ final class Office676810 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 676810;
-    private $OPSName = 'ВОЗЖАЕВКА';
+    private $OPSName = 'Возжаевка';
     private $OPSType = 'О';
     private $OPSSubm = 676869;
-    private $Region = 'АМУРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Амурская область';
     private $Autonom = '';
-    private $Area = 'БЕЛОГОРСКИЙ РАЙОН';
-    private $City = 'ВОЗЖАЕВКА';
+    private $Area = 'Белогорский район';
+    private $City = 'Возжаевка';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

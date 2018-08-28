@@ -27,13 +27,13 @@ final class Office634516 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 634516;
-    private $OPSName = 'МОРЯКОВСКИЙ ЗАТОН';
+    private $OPSName = 'Моряковский Затон';
     private $OPSType = 'О';
     private $OPSSubm = 634000;
-    private $Region = 'ТОМСКАЯ ОБЛАСТЬ';
+    private $Region = 'Томская область';
     private $Autonom = '';
-    private $Area = 'ТОМСКИЙ РАЙОН';
-    private $City = 'МОРЯКОВСКИЙ ЗАТОН';
+    private $Area = 'Томский район';
+    private $City = 'Моряковский Затон';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

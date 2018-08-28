@@ -27,13 +27,13 @@ final class Office442454 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 442454;
-    private $OPSName = 'МОРДОВСКИЙ КАМЕШКИР';
+    private $OPSName = 'Мордовский Камешкир';
     private $OPSType = 'О';
     private $OPSSubm = 442549;
-    private $Region = 'ПЕНЗЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Пензенская область';
     private $Autonom = '';
-    private $Area = 'КАМЕШКИРСКИЙ РАЙОН';
-    private $City = 'МОРДОВСКИЙ КАМЕШКИР';
+    private $Area = 'Камешкирский район';
+    private $City = 'Мордовский Камешкир';
     private $City1 = '';
     private $ActDate = '20170609';
     private $IndexOld = '';

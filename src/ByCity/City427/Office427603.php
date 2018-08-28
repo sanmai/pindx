@@ -27,13 +27,13 @@ final class Office427603 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 427603;
-    private $OPSName = 'ЧАЖАЙСКИЙ ЛЕСОУЧАСТОК';
+    private $OPSName = 'Чажайский Лесоучасток';
     private $OPSType = 'О';
     private $OPSSubm = 427649;
-    private $Region = 'УДМУРТСКАЯ РЕСПУБЛИКА';
+    private $Region = 'Удмуртская Республика';
     private $Autonom = '';
-    private $Area = 'ГЛАЗОВСКИЙ РАЙОН';
-    private $City = 'ЧАЖАЙСКИЙ ЛЕСОУЧАСТОК';
+    private $Area = 'Глазовский район';
+    private $City = 'Чажайский Лесоучасток';
     private $City1 = '';
     private $ActDate = '20110809';
     private $IndexOld = '';

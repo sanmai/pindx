@@ -27,13 +27,13 @@ final class Office346638 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 346638;
-    private $OPSName = 'ЗАДОНО-КАГАЛЬНИЦКАЯ';
+    private $OPSName = 'Задоно-Кагальницкая';
     private $OPSType = 'О';
     private $OPSSubm = 347289;
-    private $Region = 'РОСТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ростовская область';
     private $Autonom = '';
-    private $Area = 'СЕМИКАРАКОРСКИЙ РАЙОН';
-    private $City = 'ЗАДОНО-КАГАЛЬНИЦКАЯ';
+    private $Area = 'Семикаракорский район';
+    private $City = 'Задоно-Кагальницкая';
     private $City1 = '';
     private $ActDate = '20070214';
     private $IndexOld = '';

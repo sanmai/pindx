@@ -27,13 +27,13 @@ final class Office141146 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 141146;
-    private $OPSName = 'ФРЯНОВО';
+    private $OPSName = 'Фряново';
     private $OPSType = 'О';
     private $OPSSubm = 141000;
-    private $Region = 'МОСКОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Московская область';
     private $Autonom = '';
-    private $Area = 'ЩЕЛКОВСКИЙ РАЙОН';
-    private $City = 'ФРЯНОВО';
+    private $Area = 'Щелковский район';
+    private $City = 'Фряново';
     private $City1 = '';
     private $ActDate = '20100721';
     private $IndexOld = '';

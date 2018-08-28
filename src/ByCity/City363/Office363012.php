@@ -27,13 +27,13 @@ final class Office363012 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 363012;
-    private $OPSName = 'ХУМАЛАГ';
+    private $OPSName = 'Хумалаг';
     private $OPSType = 'О';
     private $OPSSubm = 363020;
-    private $Region = 'СЕВЕРНАЯ ОСЕТИЯ - АЛАНИЯ РЕСПУБЛИКА';
+    private $Region = 'Северная Осетия - Алания Республика';
     private $Autonom = '';
-    private $Area = 'ПРАВОБЕРЕЖНЫЙ РАЙОН';
-    private $City = 'ХУМАЛАГ';
+    private $Area = 'Правобережный район';
+    private $City = 'Хумалаг';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

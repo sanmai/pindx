@@ -27,13 +27,13 @@ final class Office452396 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 452396;
-    private $OPSName = 'КАРАИДЕЛЬ КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Караидель Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 452399;
-    private $Region = 'БАШКОРТОСТАН РЕСПУБЛИКА';
+    private $Region = 'Башкортостан Республика';
     private $Autonom = '';
-    private $Area = 'КАРАИДЕЛЬСКИЙ РАЙОН';
-    private $City = 'КАРАИДЕЛЬ';
+    private $Area = 'Караидельский район';
+    private $City = 'Караидель';
     private $City1 = '';
     private $ActDate = '20170816';
     private $IndexOld = '';

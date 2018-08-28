@@ -27,13 +27,13 @@ final class Office301813 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 301813;
-    private $OPSName = 'НОВОПОКРОВСКОЕ';
+    private $OPSName = 'Новопокровское';
     private $OPSType = 'О';
     private $OPSSubm = 301839;
-    private $Region = 'ТУЛЬСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тульская область';
     private $Autonom = '';
-    private $Area = 'БОГОРОДИЦКИЙ РАЙОН';
-    private $City = 'НОВОПОКРОВСКОЕ';
+    private $Area = 'Богородицкий район';
+    private $City = 'Новопокровское';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

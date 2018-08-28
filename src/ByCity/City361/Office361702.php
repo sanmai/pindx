@@ -27,13 +27,13 @@ final class Office361702 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 361702;
-    private $OPSName = 'ЗОЛЬСКОЕ';
+    private $OPSName = 'Зольское';
     private $OPSType = 'О';
     private $OPSSubm = 361700;
-    private $Region = 'КАБАРДИНО-БАЛКАРСКАЯ РЕСПУБЛИКА';
+    private $Region = 'Кабардино-Балкарская Республика';
     private $Autonom = '';
-    private $Area = 'ЗОЛЬСКИЙ РАЙОН';
-    private $City = 'ЗОЛЬСКОЕ';
+    private $Area = 'Зольский район';
+    private $City = 'Зольское';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

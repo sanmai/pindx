@@ -27,13 +27,13 @@ final class Office446583 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 446583;
-    private $OPSName = 'СТАРАЯ ЧЕСНОКОВКА';
+    private $OPSName = 'Старая Чесноковка';
     private $OPSType = 'О';
     private $OPSSubm = 446569;
-    private $Region = 'САМАРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Самарская область';
     private $Autonom = '';
-    private $Area = 'ИСАКЛИНСКИЙ РАЙОН';
-    private $City = 'СТАРАЯ ЧЕСНОКОВКА';
+    private $Area = 'Исаклинский район';
+    private $City = 'Старая Чесноковка';
     private $City1 = '';
     private $ActDate = '20101014';
     private $IndexOld = '';

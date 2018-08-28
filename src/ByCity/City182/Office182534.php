@@ -27,13 +27,13 @@ final class Office182534 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 182534;
-    private $OPSName = 'СЫРОКВАШИНО';
-    private $OPSType = 'ПЕРЕДВИЖНОЕ ОС';
+    private $OPSName = 'Сыроквашино';
+    private $OPSType = 'Передвижное Ос';
     private $OPSSubm = 182549;
-    private $Region = 'ПСКОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Псковская область';
     private $Autonom = '';
-    private $Area = 'НЕВЕЛЬСКИЙ РАЙОН';
-    private $City = 'СЫРОКВАШИНО';
+    private $Area = 'Невельский район';
+    private $City = 'Сыроквашино';
     private $City1 = '';
     private $ActDate = '20140411';
     private $IndexOld = '';

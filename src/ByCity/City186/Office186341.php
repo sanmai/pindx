@@ -27,13 +27,13 @@ final class Office186341 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 186341;
-    private $OPSName = 'НОВАЯ ГАБСЕЛЬГА';
+    private $OPSName = 'Новая Габсельга';
     private $OPSType = 'О';
     private $OPSSubm = 186359;
-    private $Region = 'КАРЕЛИЯ РЕСПУБЛИКА';
+    private $Region = 'Карелия Республика';
     private $Autonom = '';
-    private $Area = 'МЕДВЕЖЬЕГОРСКИЙ РАЙОН';
-    private $City = 'НОВАЯ ГАБСЕЛЬГА';
+    private $Area = 'Медвежьегорский район';
+    private $City = 'Новая Габсельга';
     private $City1 = '';
     private $ActDate = '20041228';
     private $IndexOld = '';

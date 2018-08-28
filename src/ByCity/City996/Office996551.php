@@ -27,13 +27,13 @@ final class Office996551 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 996551;
-    private $OPSName = 'ДАВЛЕКАНОВО-ПОЧТОМАТ (АПС)';
+    private $OPSName = 'Давлеканово-Почтомат (Апс)';
     private $OPSType = 'Почтомат';
     private $OPSSubm = 453400;
-    private $Region = 'БАШКОРТОСТАН РЕСПУБЛИКА';
+    private $Region = 'Башкортостан Республика';
     private $Autonom = '';
-    private $Area = 'ДАВЛЕКАНОВСКИЙ РАЙОН';
-    private $City = 'ДАВЛЕКАНОВО';
+    private $Area = 'Давлекановский район';
+    private $City = 'Давлеканово';
     private $City1 = '';
     private $ActDate = '20180315';
     private $IndexOld = '';

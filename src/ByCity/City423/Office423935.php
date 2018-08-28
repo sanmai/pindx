@@ -27,13 +27,13 @@ final class Office423935 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 423935;
-    private $OPSName = 'ПОТАПОВО-ТУМБАРЛА';
+    private $OPSName = 'Потапово-Тумбарла';
     private $OPSType = 'О';
     private $OPSSubm = 423249;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'БАВЛИНСКИЙ РАЙОН';
-    private $City = 'ПОТАПОВО-ТУМБАРЛА';
+    private $Area = 'Бавлинский район';
+    private $City = 'Потапово-Тумбарла';
     private $City1 = '';
     private $ActDate = '20100212';
     private $IndexOld = '';

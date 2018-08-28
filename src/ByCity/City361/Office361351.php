@@ -27,13 +27,13 @@ final class Office361351 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 361351;
-    private $OPSName = 'АНЗОРЕЙ ППС';
-    private $OPSType = 'ППС';
+    private $OPSName = 'Анзорей Ппс';
+    private $OPSType = 'Ппс';
     private $OPSSubm = 361330;
-    private $Region = 'КАБАРДИНО-БАЛКАРСКАЯ РЕСПУБЛИКА';
+    private $Region = 'Кабардино-Балкарская Республика';
     private $Autonom = '';
-    private $Area = 'ЛЕСКЕНСКИЙ РАЙОН';
-    private $City = 'АНЗОРЕЙ';
+    private $Area = 'Лескенский район';
+    private $City = 'Анзорей';
     private $City1 = '';
     private $ActDate = '20170713';
     private $IndexOld = '';

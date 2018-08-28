@@ -27,13 +27,13 @@ final class Office347738 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 347738;
-    private $OPSName = 'ВЕРХНИЕ ХОРОЛИ';
+    private $OPSName = 'Верхние Хороли';
     private $OPSType = 'О';
     private $OPSSubm = 347749;
-    private $Region = 'РОСТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ростовская область';
     private $Autonom = '';
-    private $Area = 'ЗЕРНОГРАДСКИЙ РАЙОН';
-    private $City = 'ВЕРХНИЕ ХОРОЛИ';
+    private $Area = 'Зерноградский район';
+    private $City = 'Верхние Хороли';
     private $City1 = '';
     private $ActDate = '20150707';
     private $IndexOld = '';

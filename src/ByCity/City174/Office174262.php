@@ -27,13 +27,13 @@ final class Office174262 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 174262;
-    private $OPSName = 'МАЛАЯ ВИШЕРА 2';
+    private $OPSName = 'Малая Вишера 2';
     private $OPSType = 'О';
     private $OPSSubm = 173999;
-    private $Region = 'НОВГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Новгородская область';
     private $Autonom = '';
-    private $Area = 'МАЛОВИШЕРСКИЙ РАЙОН';
-    private $City = 'МАЛАЯ ВИШЕРА';
+    private $Area = 'Маловишерский район';
+    private $City = 'Малая Вишера';
     private $City1 = '';
     private $ActDate = '20051214';
     private $IndexOld = '';

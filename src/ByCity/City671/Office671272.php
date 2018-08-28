@@ -27,13 +27,13 @@ final class Office671272 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 671272;
-    private $OPSName = 'ГРЕМЯЧИНСК';
+    private $OPSName = 'Гремячинск';
     private $OPSType = 'О';
     private $OPSSubm = 671289;
-    private $Region = 'БУРЯТИЯ РЕСПУБЛИКА';
+    private $Region = 'Бурятия Республика';
     private $Autonom = '';
-    private $Area = 'ПРИБАЙКАЛЬСКИЙ РАЙОН';
-    private $City = 'ГРЕМЯЧИНСК';
+    private $Area = 'Прибайкальский район';
+    private $City = 'Гремячинск';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office307536 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 307536;
-    private $OPSName = 'ГЕНЕРАЛЬШИНО';
+    private $OPSName = 'Генеральшино';
     private $OPSType = 'О';
     private $OPSSubm = 307189;
-    private $Region = 'КУРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Курская область';
     private $Autonom = '';
-    private $Area = 'ДМИТРИЕВСКИЙ РАЙОН';
-    private $City = 'ГЕНЕРАЛЬШИНО';
+    private $Area = 'Дмитриевский район';
+    private $City = 'Генеральшино';
     private $City1 = '';
     private $ActDate = '20041202';
     private $IndexOld = '';

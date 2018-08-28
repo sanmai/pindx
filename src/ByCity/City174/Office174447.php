@@ -27,13 +27,13 @@ final class Office174447 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 174447;
-    private $OPSName = 'ПЛАВКОВО';
+    private $OPSName = 'Плавково';
     private $OPSType = 'О';
     private $OPSSubm = 174400;
-    private $Region = 'НОВГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Новгородская область';
     private $Autonom = '';
-    private $Area = 'БОРОВИЧСКИЙ РАЙОН';
-    private $City = 'ПЛАВКОВО';
+    private $Area = 'Боровичский район';
+    private $City = 'Плавково';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office157992 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 157992;
-    private $OPSName = 'НОВЫЙ БЕРЕЗОВЕЦ';
+    private $OPSName = 'Новый Березовец';
     private $OPSType = 'О';
     private $OPSSubm = 157329;
-    private $Region = 'КОСТРОМСКАЯ ОБЛАСТЬ';
+    private $Region = 'Костромская область';
     private $Autonom = '';
-    private $Area = 'КАДЫЙСКИЙ РАЙОН';
-    private $City = 'НОВЫЙ БЕРЕЗОВЕЦ';
+    private $Area = 'Кадыйский район';
+    private $City = 'Новый Березовец';
     private $City1 = '';
     private $ActDate = '20110128';
     private $IndexOld = '';

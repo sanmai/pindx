@@ -27,13 +27,13 @@ final class Office901043 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 901043;
-    private $OPSName = 'ПВ ТАМБОВ-МОСКВА';
-    private $OPSType = 'ТИ';
+    private $OPSName = 'Пв Тамбов-Москва';
+    private $OPSType = 'Ти';
     private $OPSSubm = 392960;
-    private $Region = 'ТАМБОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тамбовская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'ТАМБОВ';
+    private $City = 'Тамбов';
     private $City1 = '';
     private $ActDate = '20130415';
     private $IndexOld = '';

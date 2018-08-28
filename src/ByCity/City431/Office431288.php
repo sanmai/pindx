@@ -27,13 +27,13 @@ final class Office431288 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 431288;
-    private $OPSName = 'КРАСНОСЛОБОДСК КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Краснослободск Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 431289;
-    private $Region = 'МОРДОВИЯ РЕСПУБЛИКА';
+    private $Region = 'Мордовия Республика';
     private $Autonom = '';
-    private $Area = 'КРАСНОСЛОБОДСКИЙ РАЙОН';
-    private $City = 'КРАСНОСЛОБОДСК';
+    private $Area = 'Краснослободский район';
+    private $City = 'Краснослободск';
     private $City1 = '';
     private $ActDate = '20170929';
     private $IndexOld = '';

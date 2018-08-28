@@ -27,13 +27,13 @@ final class Office607138 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 607138;
-    private $OPSName = 'ХРИПУНОВО';
+    private $OPSName = 'Хрипуново';
     private $OPSType = 'О';
     private $OPSSubm = 607180;
-    private $Region = 'НИЖЕГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Нижегородская область';
     private $Autonom = '';
-    private $Area = 'АРДАТОВСКИЙ РАЙОН';
-    private $City = 'ХРИПУНОВО';
+    private $Area = 'Ардатовский район';
+    private $City = 'Хрипуново';
     private $City1 = '';
     private $ActDate = '20061225';
     private $IndexOld = '';

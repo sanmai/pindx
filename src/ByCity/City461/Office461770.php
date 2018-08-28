@@ -27,13 +27,13 @@ final class Office461770 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 461770;
-    private $OPSName = 'АРТЕМЬЕВКА';
+    private $OPSName = 'Артемьевка';
     private $OPSType = 'О';
     private $OPSSubm = 461740;
-    private $Region = 'ОРЕНБУРГСКАЯ ОБЛАСТЬ';
+    private $Region = 'Оренбургская область';
     private $Autonom = '';
-    private $Area = 'АБДУЛИНСКИЙ РАЙОН';
-    private $City = 'АРТЕМЬЕВКА';
+    private $Area = 'Абдулинский район';
+    private $City = 'Артемьевка';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

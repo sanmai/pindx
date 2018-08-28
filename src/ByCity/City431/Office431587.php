@@ -27,13 +27,13 @@ final class Office431587 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 431587;
-    private $OPSName = 'МОРДОВСКОЕ ДАВЫДОВО';
+    private $OPSName = 'Мордовское Давыдово';
     private $OPSType = 'О';
     private $OPSSubm = 430000;
-    private $Region = 'МОРДОВИЯ РЕСПУБЛИКА';
+    private $Region = 'Мордовия Республика';
     private $Autonom = '';
-    private $Area = 'КОЧКУРОВСКИЙ РАЙОН';
-    private $City = 'МОРДОВСКОЕ ДАВЫДОВО';
+    private $Area = 'Кочкуровский район';
+    private $City = 'Мордовское Давыдово';
     private $City1 = '';
     private $ActDate = '20051212';
     private $IndexOld = '';

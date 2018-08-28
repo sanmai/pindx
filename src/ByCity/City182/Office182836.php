@@ -27,13 +27,13 @@ final class Office182836 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 182836;
-    private $OPSName = 'БЕЖАНИЦЫ КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Бежаницы Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 182839;
-    private $Region = 'ПСКОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Псковская область';
     private $Autonom = '';
-    private $Area = 'БЕЖАНИЦКИЙ РАЙОН';
-    private $City = 'БЕЖАНИЦЫ';
+    private $Area = 'Бежаницкий район';
+    private $City = 'Бежаницы';
     private $City1 = '';
     private $ActDate = '20161124';
     private $IndexOld = '';

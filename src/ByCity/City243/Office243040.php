@@ -27,13 +27,13 @@ final class Office243040 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 243040;
-    private $OPSName = 'КЛИМОВО';
+    private $OPSName = 'Климово';
     private $OPSType = 'О';
     private $OPSSubm = 243289;
-    private $Region = 'БРЯНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Брянская область';
     private $Autonom = '';
-    private $Area = 'КЛИМОВСКИЙ РАЙОН';
-    private $City = 'КЛИМОВО';
+    private $Area = 'Климовский район';
+    private $City = 'Климово';
     private $City1 = '';
     private $ActDate = '20060413';
     private $IndexOld = '';

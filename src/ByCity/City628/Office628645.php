@@ -27,13 +27,13 @@ final class Office628645 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 628645;
-    private $OPSName = 'ЗАЙЦЕВА РЕЧКА';
+    private $OPSName = 'Зайцева Речка';
     private $OPSType = 'О';
     private $OPSSubm = 628600;
     private $Region = '';
-    private $Autonom = 'ХАНТЫ-МАНСИЙСКИЙ-ЮГРА АВТОНОМНЫЙ ОКРУГ';
-    private $Area = 'НИЖНЕВАРТОВСКИЙ РАЙОН';
-    private $City = 'ЗАЙЦЕВА РЕЧКА';
+    private $Autonom = 'Ханты-Мансийский-Югра автономный округ';
+    private $Area = 'Нижневартовский район';
+    private $City = 'Зайцева Речка';
     private $City1 = '';
     private $ActDate = '20170906';
     private $IndexOld = '';

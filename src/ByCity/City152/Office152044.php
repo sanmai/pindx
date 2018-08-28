@@ -27,13 +27,13 @@ final class Office152044 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 152044;
-    private $OPSName = 'БОЛЬШАЯ БРЕМБОЛА';
+    private $OPSName = 'Большая Брембола';
     private $OPSType = 'О';
     private $OPSSubm = 152159;
-    private $Region = 'ЯРОСЛАВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ярославская область';
     private $Autonom = '';
-    private $Area = 'ПЕРЕСЛАВСКИЙ РАЙОН';
-    private $City = 'БОЛЬШАЯ БРЕМБОЛА';
+    private $Area = 'Переславский район';
+    private $City = 'Большая Брембола';
     private $City1 = '';
     private $ActDate = '20101116';
     private $IndexOld = '';

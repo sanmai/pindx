@@ -27,13 +27,13 @@ final class Office169204 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 169204;
-    private $OPSName = 'ЕМВА 4 ППС';
-    private $OPSType = 'ППС';
+    private $OPSName = 'Емва 4 Ппс';
+    private $OPSType = 'Ппс';
     private $OPSSubm = 169069;
-    private $Region = 'КОМИ РЕСПУБЛИКА';
+    private $Region = 'Коми Республика';
     private $Autonom = '';
-    private $Area = 'КНЯЖПОГОСТСКИЙ РАЙОН';
-    private $City = 'ЕМВА';
+    private $Area = 'Княжпогостский район';
+    private $City = 'Емва';
     private $City1 = '';
     private $ActDate = '20180615';
     private $IndexOld = '';

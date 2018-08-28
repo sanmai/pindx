@@ -27,13 +27,13 @@ final class Office453053 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 453053;
-    private $OPSName = 'УТЯКОВО';
+    private $OPSName = 'Утяково';
     private $OPSType = 'О';
     private $OPSSubm = 453479;
-    private $Region = 'БАШКОРТОСТАН РЕСПУБЛИКА';
+    private $Region = 'Башкортостан Республика';
     private $Autonom = '';
-    private $Area = 'ГАФУРИЙСКИЙ РАЙОН';
-    private $City = 'УТЯКОВО';
+    private $Area = 'Гафурийский район';
+    private $City = 'Утяково';
     private $City1 = '';
     private $ActDate = '20070212';
     private $IndexOld = '';

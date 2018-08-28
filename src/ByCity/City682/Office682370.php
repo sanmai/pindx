@@ -27,13 +27,13 @@ final class Office682370 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 682370;
-    private $OPSName = 'ВЕРХНЯЯ МАНОМА';
+    private $OPSName = 'Верхняя Манома';
     private $OPSType = 'О';
     private $OPSSubm = 682640;
-    private $Region = 'ХАБАРОВСКИЙ КРАЙ';
+    private $Region = 'Хабаровский край';
     private $Autonom = '';
-    private $Area = 'НАНАЙСКИЙ РАЙОН';
-    private $City = 'ВЕРХНЯЯ МАНОМА';
+    private $Area = 'Нанайский район';
+    private $City = 'Верхняя Манома';
     private $City1 = '';
     private $ActDate = '20060620';
     private $IndexOld = '';

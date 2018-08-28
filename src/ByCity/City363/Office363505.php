@@ -27,13 +27,13 @@ final class Office363505 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 363505;
-    private $OPSName = 'ХАЗНИДОН';
+    private $OPSName = 'Хазнидон';
     private $OPSType = 'О';
     private $OPSSubm = 363330;
-    private $Region = 'СЕВЕРНАЯ ОСЕТИЯ - АЛАНИЯ РЕСПУБЛИКА';
+    private $Region = 'Северная Осетия - Алания Республика';
     private $Autonom = '';
-    private $Area = 'ИРАФСКИЙ РАЙОН';
-    private $City = 'ХАЗНИДОН';
+    private $Area = 'Ирафский район';
+    private $City = 'Хазнидон';
     private $City1 = '';
     private $ActDate = '20041110';
     private $IndexOld = '';

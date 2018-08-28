@@ -27,13 +27,13 @@ final class Office671360 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 671360;
-    private $OPSName = 'БИЧУРА';
+    private $OPSName = 'Бичура';
     private $OPSType = 'О';
     private $OPSSubm = 671389;
-    private $Region = 'БУРЯТИЯ РЕСПУБЛИКА';
+    private $Region = 'Бурятия Республика';
     private $Autonom = '';
-    private $Area = 'БИЧУРСКИЙ РАЙОН';
-    private $City = 'БИЧУРА';
+    private $Area = 'Бичурский район';
+    private $City = 'Бичура';
     private $City1 = '';
     private $ActDate = '20071224';
     private $IndexOld = '';

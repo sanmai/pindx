@@ -27,13 +27,13 @@ final class Office452055 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 452055;
-    private $OPSName = 'КЕНГЕР-МЕНЕУЗ';
+    private $OPSName = 'Кенгер-Менеуз';
     private $OPSType = 'О';
     private $OPSSubm = 452039;
-    private $Region = 'БАШКОРТОСТАН РЕСПУБЛИКА';
+    private $Region = 'Башкортостан Республика';
     private $Autonom = '';
-    private $Area = 'БИЖБУЛЯКСКИЙ РАЙОН';
-    private $City = 'КЕНГЕР-МЕНЕУЗ';
+    private $Area = 'Бижбулякский район';
+    private $City = 'Кенгер-Менеуз';
     private $City1 = '';
     private $ActDate = '20060913';
     private $IndexOld = '';

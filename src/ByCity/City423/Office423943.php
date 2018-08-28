@@ -27,13 +27,13 @@ final class Office423943 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 423943;
-    private $OPSName = 'НОВОЗАРЕЧЕНСК';
+    private $OPSName = 'Новозареченск';
     private $OPSType = 'О';
     private $OPSSubm = 423249;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'БАВЛИНСКИЙ РАЙОН';
-    private $City = 'НОВОЗАРЕЧЕНСК';
+    private $Area = 'Бавлинский район';
+    private $City = 'Новозареченск';
     private $City1 = '';
     private $ActDate = '20100212';
     private $IndexOld = '';

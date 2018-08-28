@@ -27,13 +27,13 @@ final class Office607690 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 607690;
-    private $OPSName = 'ЗАПРУДНОЕ';
+    private $OPSName = 'Запрудное';
     private $OPSType = 'О';
     private $OPSSubm = 607669;
-    private $Region = 'НИЖЕГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Нижегородская область';
     private $Autonom = '';
-    private $Area = 'КСТОВСКИЙ РАЙОН';
-    private $City = 'ЗАПРУДНОЕ';
+    private $Area = 'Кстовский район';
+    private $City = 'Запрудное';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

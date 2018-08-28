@@ -27,13 +27,13 @@ final class Office423196 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 423196;
-    private $OPSName = 'СЛОБОДА-ЕКАТЕРИНИНСКАЯ';
+    private $OPSName = 'Слобода-Екатерининская';
     private $OPSType = 'О';
     private $OPSSubm = 422999;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'НОВОШЕШМИНСКИЙ РАЙОН';
-    private $City = 'СЛОБОДА ЕКАТЕРИНИНСКАЯ';
+    private $Area = 'Новошешминский район';
+    private $City = 'Слобода Екатерининская';
     private $City1 = '';
     private $ActDate = '20020927';
     private $IndexOld = '';

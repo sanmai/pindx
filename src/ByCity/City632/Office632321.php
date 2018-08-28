@@ -27,13 +27,13 @@ final class Office632321 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 632321;
-    private $OPSName = 'УСТЬЯНЦЕВО';
+    private $OPSName = 'Устьянцево';
     private $OPSType = 'О';
     private $OPSSubm = 632330;
-    private $Region = 'НОВОСИБИРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Новосибирская область';
     private $Autonom = '';
-    private $Area = 'БАРАБИНСКИЙ РАЙОН';
-    private $City = 'УСТЬЯНЦЕВО';
+    private $Area = 'Барабинский район';
+    private $City = 'Устьянцево';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

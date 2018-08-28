@@ -27,13 +27,13 @@ final class Office689209 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 689209;
-    private $OPSName = 'ЭГВЕКИНОТ УООП';
+    private $OPSName = 'Эгвекинот Уооп';
     private $OPSType = 'Участок';
     private $OPSSubm = 689700;
     private $Region = '';
-    private $Autonom = 'ЧУКОТСКИЙ АВТОНОМНЫЙ ОКРУГ';
-    private $Area = 'ИУЛЬТИНСКИЙ РАЙОН';
-    private $City = 'ЭГВЕКИНОТ 1';
+    private $Autonom = 'Чукотский автономный округ';
+    private $Area = 'Иультинский район';
+    private $City = 'Эгвекинот 1';
     private $City1 = '';
     private $ActDate = '20180813';
     private $IndexOld = '';

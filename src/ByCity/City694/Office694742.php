@@ -27,13 +27,13 @@ final class Office694742 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 694742;
-    private $OPSName = 'НЕВЕЛЬСК 2';
+    private $OPSName = 'Невельск 2';
     private $OPSType = 'О';
     private $OPSSubm = 694689;
-    private $Region = 'САХАЛИНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Сахалинская область';
     private $Autonom = '';
-    private $Area = 'НЕВЕЛЬСКИЙ РАЙОН';
-    private $City = 'НЕВЕЛЬСК';
+    private $Area = 'Невельский район';
+    private $City = 'Невельск';
     private $City1 = '';
     private $ActDate = '20050919';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office399220 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 399220;
-    private $OPSName = 'ВЕРХНЕЕ КАЗАЧЬЕ';
+    private $OPSName = 'Верхнее Казачье';
     private $OPSType = 'О';
     private $OPSSubm = 399379;
-    private $Region = 'ЛИПЕЦКАЯ ОБЛАСТЬ';
+    private $Region = 'Липецкая область';
     private $Autonom = '';
-    private $Area = 'ЗАДОНСКИЙ РАЙОН';
-    private $City = 'ВЕРХНЕЕ КАЗАЧЬЕ';
+    private $Area = 'Задонский район';
+    private $City = 'Верхнее Казачье';
     private $City1 = '';
     private $ActDate = '20130301';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office623999 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 623999;
-    private $OPSName = 'НОВОСЕЛОВО';
+    private $OPSName = 'Новоселово';
     private $OPSType = 'О';
     private $OPSSubm = 623869;
-    private $Region = 'СВЕРДЛОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Свердловская область';
     private $Autonom = '';
-    private $Area = 'ТАБОРИНСКИЙ РАЙОН';
-    private $City = 'НОВОСЕЛОВО';
+    private $Area = 'Таборинский район';
+    private $City = 'Новоселово';
     private $City1 = '';
     private $ActDate = '20110131';
     private $IndexOld = '';

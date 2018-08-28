@@ -27,13 +27,13 @@ final class Office347873 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 347873;
-    private $OPSName = 'ГУКОВО 3';
+    private $OPSName = 'Гуково 3';
     private $OPSType = 'О';
     private $OPSSubm = 346369;
-    private $Region = 'РОСТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ростовская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'ГУКОВО';
+    private $City = 'Гуково';
     private $City1 = '';
     private $ActDate = '20070214';
     private $IndexOld = '';

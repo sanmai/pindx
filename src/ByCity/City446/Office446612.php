@@ -27,13 +27,13 @@ final class Office446612 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 446612;
-    private $OPSName = 'ВЕРХНЯЯ ДОМАШКА';
+    private $OPSName = 'Верхняя Домашка';
     private $OPSType = 'О';
     private $OPSSubm = 446619;
-    private $Region = 'САМАРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Самарская область';
     private $Autonom = '';
-    private $Area = 'НЕФТЕГОРСКИЙ РАЙОН';
-    private $City = 'ВЕРХНЯЯ ДОМАШКА';
+    private $Area = 'Нефтегорский район';
+    private $City = 'Верхняя Домашка';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office347469 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 347469;
-    private $OPSName = 'ВЕРХНЕСЕРЕБРЯКОВКА';
+    private $OPSName = 'Верхнесеребряковка';
     private $OPSType = 'О';
     private $OPSSubm = 347479;
-    private $Region = 'РОСТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ростовская область';
     private $Autonom = '';
-    private $Area = 'ЗИМОВНИКОВСКИЙ РАЙОН';
-    private $City = 'ВЕРХНЕСЕРЕБРЯКОВКА';
+    private $Area = 'Зимовниковский район';
+    private $City = 'Верхнесеребряковка';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

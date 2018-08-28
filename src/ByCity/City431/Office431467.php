@@ -27,13 +27,13 @@ final class Office431467 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 431467;
-    private $OPSName = 'ТАТАРСКИЙ ШЕБДАС';
+    private $OPSName = 'Татарский Шебдас';
     private $OPSType = 'О';
     private $OPSSubm = 431499;
-    private $Region = 'МОРДОВИЯ РЕСПУБЛИКА';
+    private $Region = 'Мордовия Республика';
     private $Autonom = '';
-    private $Area = 'РУЗАЕВСКИЙ РАЙОН';
-    private $City = 'ТАТАРСКИЙ ШЕБДАС';
+    private $Area = 'Рузаевский район';
+    private $City = 'Татарский Шебдас';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

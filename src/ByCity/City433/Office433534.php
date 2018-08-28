@@ -27,13 +27,13 @@ final class Office433534 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 433534;
-    private $OPSName = 'НИКОЛЬСКОЕ-НА-ЧЕРЕМШАНЕ';
+    private $OPSName = 'Никольское-На-Черемшане';
     private $OPSType = 'О';
     private $OPSSubm = 433500;
-    private $Region = 'УЛЬЯНОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ульяновская область';
     private $Autonom = '';
-    private $Area = 'МЕЛЕКЕССКИЙ РАЙОН';
-    private $City = 'НИКОЛЬСКОЕ-НА-ЧЕРЕМШАНЕ';
+    private $Area = 'Мелекесский район';
+    private $City = 'Никольское-На-Черемшане';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

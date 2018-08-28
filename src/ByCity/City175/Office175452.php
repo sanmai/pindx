@@ -27,13 +27,13 @@ final class Office175452 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 175452;
-    private $OPSName = 'КРЕСТЦЫ';
-    private $OPSType = 'ПЕРЕДВИЖНОЕ ОС';
+    private $OPSName = 'Крестцы';
+    private $OPSType = 'Передвижное Ос';
     private $OPSSubm = 175449;
-    private $Region = 'НОВГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Новгородская область';
     private $Autonom = '';
-    private $Area = 'КРЕСТЕЦКИЙ РАЙОН';
-    private $City = 'КРЕСТЦЫ';
+    private $Area = 'Крестецкий район';
+    private $City = 'Крестцы';
     private $City1 = '';
     private $ActDate = '20150602';
     private $IndexOld = '';

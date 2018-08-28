@@ -27,13 +27,13 @@ final class Office623968 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 623968;
-    private $OPSName = 'ГЕРАСИМОВКА';
+    private $OPSName = 'Герасимовка';
     private $OPSType = 'О';
     private $OPSSubm = 623869;
-    private $Region = 'СВЕРДЛОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Свердловская область';
     private $Autonom = '';
-    private $Area = 'ТАВДИНСКИЙ РАЙОН';
-    private $City = 'ГЕРАСИМОВКА';
+    private $Area = 'Тавдинский район';
+    private $City = 'Герасимовка';
     private $City1 = '';
     private $ActDate = '20110131';
     private $IndexOld = '';

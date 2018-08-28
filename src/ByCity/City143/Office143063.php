@@ -27,13 +27,13 @@ final class Office143063 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 143063;
-    private $OPSName = 'ГАРЬ-ПОКРОВСКОЕ';
+    private $OPSName = 'Гарь-Покровское';
     private $OPSType = 'О';
     private $OPSSubm = 143000;
-    private $Region = 'МОСКОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Московская область';
     private $Autonom = '';
-    private $Area = 'ОДИНЦОВСКИЙ РАЙОН';
-    private $City = 'ГАРЬ-ПОКРОВСКОЕ';
+    private $Area = 'Одинцовский район';
+    private $City = 'Гарь-Покровское';
     private $City1 = '';
     private $ActDate = '20020130';
     private $IndexOld = '';

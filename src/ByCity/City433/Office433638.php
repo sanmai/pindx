@@ -27,13 +27,13 @@ final class Office433638 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 433638;
-    private $OPSName = 'БОЛЬШОЕ НАГАТКИНО УООП';
+    private $OPSName = 'Большое Нагаткино Уооп';
     private $OPSType = 'Участок';
     private $OPSSubm = 433639;
-    private $Region = 'УЛЬЯНОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ульяновская область';
     private $Autonom = '';
-    private $Area = 'ЦИЛЬНИНСКИЙ РАЙОН';
-    private $City = 'БОЛЬШОЕ НАГАТКИНО';
+    private $Area = 'Цильнинский район';
+    private $City = 'Большое Нагаткино';
     private $City1 = '';
     private $ActDate = '20160331';
     private $IndexOld = '';

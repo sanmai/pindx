@@ -27,13 +27,13 @@ final class Office623936 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 623936;
-    private $OPSName = 'ТИМОФЕЕВО';
+    private $OPSName = 'Тимофеево';
     private $OPSType = 'О';
     private $OPSSubm = 623869;
-    private $Region = 'СВЕРДЛОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Свердловская область';
     private $Autonom = '';
-    private $Area = 'СЛОБОДО-ТУРИНСКИЙ РАЙОН';
-    private $City = 'ТИМОФЕЕВО';
+    private $Area = 'Слободо-Туринский район';
+    private $City = 'Тимофеево';
     private $City1 = '';
     private $ActDate = '20110131';
     private $IndexOld = '';

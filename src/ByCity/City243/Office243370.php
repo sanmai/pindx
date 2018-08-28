@@ -27,13 +27,13 @@ final class Office243370 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 243370;
-    private $OPSName = 'ХУТОР-БОР';
+    private $OPSName = 'Хутор-Бор';
     private $OPSType = 'О';
     private $OPSSubm = 242039;
-    private $Region = 'БРЯНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Брянская область';
     private $Autonom = '';
-    private $Area = 'ВЫГОНИЧСКИЙ РАЙОН';
-    private $City = 'ХУТОР БОР';
+    private $Area = 'Выгоничский район';
+    private $City = 'Хутор Бор';
     private $City1 = '';
     private $ActDate = '20071004';
     private $IndexOld = '';

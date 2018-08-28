@@ -27,13 +27,13 @@ final class Office359138 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 359138;
-    private $OPSName = 'МАНЦИН-КЕЦ';
+    private $OPSName = 'Манцин-Кец';
     private $OPSType = 'О';
     private $OPSSubm = 358099;
-    private $Region = 'КАЛМЫКИЯ РЕСПУБЛИКА';
+    private $Region = 'Калмыкия Республика';
     private $Autonom = '';
-    private $Area = 'ИКИ-БУРУЛЬСКИЙ РАЙОН';
-    private $City = 'МАНЦЫН-КЕЦ';
+    private $Area = 'Ики-Бурульский район';
+    private $City = 'Манцын-Кец';
     private $City1 = '';
     private $ActDate = '20060220';
     private $IndexOld = '';

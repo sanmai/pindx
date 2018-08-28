@@ -27,13 +27,13 @@ final class Office678218 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 678218;
-    private $OPSName = 'ВИЛЮЙСК КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Вилюйск Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 678219;
-    private $Region = 'САХА (ЯКУТИЯ) РЕСПУБЛИКА';
+    private $Region = 'Саха (Якутия) Республика';
     private $Autonom = '';
-    private $Area = 'ВИЛЮЙСКИЙ РАЙОН';
-    private $City = 'ВИЛЮЙСК';
+    private $Area = 'Вилюйский район';
+    private $City = 'Вилюйск';
     private $City1 = '';
     private $ActDate = '20180530';
     private $IndexOld = '';

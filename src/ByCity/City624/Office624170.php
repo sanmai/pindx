@@ -27,13 +27,13 @@ final class Office624170 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 624170;
-    private $OPSName = 'ВЕРХ-НЕЙВИНСКИЙ';
+    private $OPSName = 'Верх-Нейвинский';
     private $OPSType = 'О';
     private $OPSSubm = 624139;
-    private $Region = 'СВЕРДЛОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Свердловская область';
     private $Autonom = '';
-    private $Area = 'НЕВЬЯНСКИЙ РАЙОН';
-    private $City = 'ВЕРХ-НЕЙВИНСКИЙ';
+    private $Area = 'Невьянский район';
+    private $City = 'Верх-Нейвинский';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

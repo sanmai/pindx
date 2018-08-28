@@ -27,13 +27,13 @@ final class Office622980 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 622980;
-    private $OPSName = 'ВИСИМО-УТКИНСК';
+    private $OPSName = 'Висимо-Уткинск';
     private $OPSType = 'О';
     private $OPSSubm = 622059;
-    private $Region = 'СВЕРДЛОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Свердловская область';
     private $Autonom = '';
-    private $Area = 'ПРИГОРОДНЫЙ РАЙОН';
-    private $City = 'ВИСИМО-УТКИНСК';
+    private $Area = 'Пригородный район';
+    private $City = 'Висимо-Уткинск';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office627050 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 627050;
-    private $OPSName = 'НОВОАТЬЯЛОВО';
+    private $OPSName = 'Новоатьялово';
     private $OPSType = 'О';
     private $OPSSubm = 627059;
-    private $Region = 'ТЮМЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тюменская область';
     private $Autonom = '';
-    private $Area = 'ЯЛУТОРОВСКИЙ РАЙОН';
-    private $City = 'НОВОАТЬЯЛОВО';
+    private $Area = 'Ялуторовский район';
+    private $City = 'Новоатьялово';
     private $City1 = '';
     private $ActDate = '20180530';
     private $IndexOld = '';

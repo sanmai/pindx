@@ -27,13 +27,13 @@ final class Office628642 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 628642;
-    private $OPSName = 'БОЛЬШЕТАРХОВО';
+    private $OPSName = 'Большетархово';
     private $OPSType = 'О';
     private $OPSSubm = 628600;
     private $Region = '';
-    private $Autonom = 'ХАНТЫ-МАНСИЙСКИЙ-ЮГРА АВТОНОМНЫЙ ОКРУГ';
-    private $Area = 'НИЖНЕВАРТОВСКИЙ РАЙОН';
-    private $City = 'БОЛЬШЕТАРХОВО';
+    private $Autonom = 'Ханты-Мансийский-Югра автономный округ';
+    private $Area = 'Нижневартовский район';
+    private $City = 'Большетархово';
     private $City1 = '';
     private $ActDate = '20170906';
     private $IndexOld = '';

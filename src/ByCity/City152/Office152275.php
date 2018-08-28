@@ -27,13 +27,13 @@ final class Office152275 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 152275;
-    private $OPSName = 'ГРЕШНЕВО';
+    private $OPSName = 'Грешнево';
     private $OPSType = 'О';
     private $OPSSubm = 150599;
-    private $Region = 'ЯРОСЛАВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ярославская область';
     private $Autonom = '';
-    private $Area = 'НЕКРАСОВСКИЙ РАЙОН';
-    private $City = 'ГРЕШНЕВО';
+    private $Area = 'Некрасовский район';
+    private $City = 'Грешнево';
     private $City1 = '';
     private $ActDate = '20150330';
     private $IndexOld = '';

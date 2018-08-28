@@ -27,13 +27,13 @@ final class Office461880 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 461880;
-    private $OPSName = 'МАТВЕЕВКА';
+    private $OPSName = 'Матвеевка';
     private $OPSType = 'О';
     private $OPSSubm = 461740;
-    private $Region = 'ОРЕНБУРГСКАЯ ОБЛАСТЬ';
+    private $Region = 'Оренбургская область';
     private $Autonom = '';
-    private $Area = 'МАТВЕЕВСКИЙ РАЙОН';
-    private $City = 'МАТВЕЕВКА';
+    private $Area = 'Матвеевский район';
+    private $City = 'Матвеевка';
     private $City1 = '';
     private $ActDate = '20050928';
     private $IndexOld = '';

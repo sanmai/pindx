@@ -27,13 +27,13 @@ final class Office606472 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 606472;
-    private $OPSName = 'КАНТАУРОВО';
+    private $OPSName = 'Кантаурово';
     private $OPSType = 'О';
     private $OPSSubm = 606449;
-    private $Region = 'НИЖЕГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Нижегородская область';
     private $Autonom = '';
-    private $Area = 'БОРСКИЙ РАЙОН';
-    private $City = 'КАНТАУРОВО';
+    private $Area = 'Борский район';
+    private $City = 'Кантаурово';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

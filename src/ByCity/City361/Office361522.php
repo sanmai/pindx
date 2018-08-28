@@ -27,13 +27,13 @@ final class Office361522 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 361522;
-    private $OPSName = 'ЗАЮКОВО';
+    private $OPSName = 'Заюково';
     private $OPSType = 'О';
     private $OPSSubm = 361530;
-    private $Region = 'КАБАРДИНО-БАЛКАРСКАЯ РЕСПУБЛИКА';
+    private $Region = 'Кабардино-Балкарская Республика';
     private $Autonom = '';
-    private $Area = 'БАКСАНСКИЙ РАЙОН';
-    private $City = 'ЗАЮКОВО';
+    private $Area = 'Баксанский район';
+    private $City = 'Заюково';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

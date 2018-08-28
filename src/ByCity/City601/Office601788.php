@@ -27,13 +27,13 @@ final class Office601788 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 601788;
-    private $OPSName = 'КОЛЬЧУГИНО КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Кольчугино Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 601780;
-    private $Region = 'ВЛАДИМИРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Владимирская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'КОЛЬЧУГИНО';
+    private $City = 'Кольчугино';
     private $City1 = '';
     private $ActDate = '20180813';
     private $IndexOld = '';

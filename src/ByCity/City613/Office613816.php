@@ -27,13 +27,13 @@ final class Office613816 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 613816;
-    private $OPSName = 'НИЖНЯЯ ПАЛОМИЦА';
+    private $OPSName = 'Нижняя Паломица';
     private $OPSType = 'О';
     private $OPSSubm = 612169;
-    private $Region = 'КИРОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Кировская область';
     private $Autonom = '';
-    private $Area = 'ОПАРИНСКИЙ РАЙОН';
-    private $City = 'НИЖНЯЯ ПАЛОМИЦА';
+    private $Area = 'Опаринский район';
+    private $City = 'Нижняя Паломица';
     private $City1 = '';
     private $ActDate = '20070406';
     private $IndexOld = '';

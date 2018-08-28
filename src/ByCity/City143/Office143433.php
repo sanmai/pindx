@@ -27,13 +27,13 @@ final class Office143433 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 143433;
-    private $OPSName = 'НАХАБИНО 3';
+    private $OPSName = 'Нахабино 3';
     private $OPSType = 'О';
     private $OPSSubm = 143449;
-    private $Region = 'МОСКОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Московская область';
     private $Autonom = '';
-    private $Area = 'КРАСНОГОРСКИЙ РАЙОН';
-    private $City = 'НАХАБИНО';
+    private $Area = 'Красногорский район';
+    private $City = 'Нахабино';
     private $City1 = '';
     private $ActDate = '20100721';
     private $IndexOld = '';

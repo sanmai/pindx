@@ -27,13 +27,13 @@ final class Office624802 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 624802;
-    private $OPSName = 'СУХОЙ ЛОГ 2';
+    private $OPSName = 'Сухой Лог 2';
     private $OPSType = 'О';
     private $OPSSubm = 624869;
-    private $Region = 'СВЕРДЛОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Свердловская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'СУХОЙ ЛОГ';
+    private $City = 'Сухой Лог';
     private $City1 = '';
     private $ActDate = '20060627';
     private $IndexOld = '';

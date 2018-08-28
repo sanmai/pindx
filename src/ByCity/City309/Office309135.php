@@ -27,13 +27,13 @@ final class Office309135 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 309135;
-    private $OPSName = 'ВЕРХОПЕНЬЕ';
+    private $OPSName = 'Верхопенье';
     private $OPSType = 'О';
     private $OPSSubm = 309099;
-    private $Region = 'БЕЛГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Белгородская область';
     private $Autonom = '';
-    private $Area = 'ИВНЯНСКИЙ РАЙОН';
-    private $City = 'ВЕРХОПЕНЬЕ';
+    private $Area = 'Ивнянский район';
+    private $City = 'Верхопенье';
     private $City1 = '';
     private $ActDate = '20050913';
     private $IndexOld = '';

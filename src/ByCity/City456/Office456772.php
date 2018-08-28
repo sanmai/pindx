@@ -27,14 +27,14 @@ final class Office456772 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 456772;
-    private $OPSName = 'СНЕЖИНСК 2';
+    private $OPSName = 'Снежинск 2';
     private $OPSType = 'О';
     private $OPSSubm = 456819;
-    private $Region = 'ЧЕЛЯБИНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Челябинская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'СНЕЖИНСК';
-    private $City1 = 'БЛИЖНИЙ БЕРЕГОВОЙ';
+    private $City = 'Снежинск';
+    private $City1 = 'Ближний Береговой';
     private $ActDate = '20070208';
     private $IndexOld = '';
 }

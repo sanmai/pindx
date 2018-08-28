@@ -27,13 +27,13 @@ final class Office689489 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 689489;
-    private $OPSName = 'КЕПЕРВЕЕМ УООП';
+    private $OPSName = 'Кепервеем Уооп';
     private $OPSType = 'Участок';
     private $OPSSubm = 689700;
     private $Region = '';
-    private $Autonom = 'ЧУКОТСКИЙ АВТОНОМНЫЙ ОКРУГ';
-    private $Area = 'БИЛИБИНСКИЙ РАЙОН';
-    private $City = 'КЕПЕРВЕЕМ';
+    private $Autonom = 'Чукотский автономный округ';
+    private $Area = 'Билибинский район';
+    private $City = 'Кепервеем';
     private $City1 = '';
     private $ActDate = '20160512';
     private $IndexOld = '';

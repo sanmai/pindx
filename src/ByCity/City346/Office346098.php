@@ -27,13 +27,13 @@ final class Office346098 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 346098;
-    private $OPSName = 'ДЕРКУЛ';
+    private $OPSName = 'Деркул';
     private $OPSType = 'О';
     private $OPSSubm = 347819;
-    private $Region = 'РОСТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ростовская область';
     private $Autonom = '';
-    private $Area = 'ТАРАСОВСКИЙ РАЙОН';
-    private $City = 'ДЕРКУЛ';
+    private $Area = 'Тарасовский район';
+    private $City = 'Деркул';
     private $City1 = '';
     private $ActDate = '20070214';
     private $IndexOld = '';

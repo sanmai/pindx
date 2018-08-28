@@ -27,13 +27,13 @@ final class Office623320 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 623320;
-    private $OPSName = 'НАТАЛЬИНСК';
+    private $OPSName = 'Натальинск';
     private $OPSType = 'О';
     private $OPSSubm = 623309;
-    private $Region = 'СВЕРДЛОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Свердловская область';
     private $Autonom = '';
-    private $Area = 'КРАСНОУФИМСКИЙ РАЙОН';
-    private $City = 'НАТАЛЬИНСК';
+    private $Area = 'Красноуфимский район';
+    private $City = 'Натальинск';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

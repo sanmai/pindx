@@ -27,13 +27,13 @@ final class Office163100 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 163100;
-    private $OPSName = 'АРХАНГЕЛЬСК-О. ХЕЙСА ЗЕМЛЯ ФРАНЦА-ИОСИФА';
+    private $OPSName = 'Архангельск-О. Хейса Земля Франца-Иосифа';
     private $OPSType = 'О';
     private $OPSSubm = 163999;
-    private $Region = 'АРХАНГЕЛЬСКАЯ ОБЛАСТЬ';
+    private $Region = 'Архангельская область';
     private $Autonom = '';
-    private $Area = 'ПРИМОРСКИЙ РАЙОН';
-    private $City = 'ХЕЙСА ЗЕМЛЯ ФРАНЦА-ИОСИФА';
+    private $Area = 'Приморский район';
+    private $City = 'Хейса Земля Франца-Иосифа';
     private $City1 = '';
     private $ActDate = '20051117';
     private $IndexOld = '';

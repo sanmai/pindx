@@ -27,13 +27,13 @@ final class Office303705 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 303705;
-    private $OPSName = 'ТУРОВКА';
+    private $OPSName = 'Туровка';
     private $OPSType = 'О';
     private $OPSSubm = 303739;
-    private $Region = 'ОРЛОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Орловская область';
     private $Autonom = '';
-    private $Area = 'ВЕРХОВСКИЙ РАЙОН';
-    private $City = 'ТУРОВКА';
+    private $Area = 'Верховский район';
+    private $City = 'Туровка';
     private $City1 = '';
     private $ActDate = '20010518';
     private $IndexOld = '';

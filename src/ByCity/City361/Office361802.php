@@ -27,13 +27,13 @@ final class Office361802 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 361802;
-    private $OPSName = 'КАШХАТАУ ППС';
-    private $OPSType = 'ППС';
+    private $OPSName = 'Кашхатау Ппс';
+    private $OPSType = 'Ппс';
     private $OPSSubm = 360000;
-    private $Region = 'КАБАРДИНО-БАЛКАРСКАЯ РЕСПУБЛИКА';
+    private $Region = 'Кабардино-Балкарская Республика';
     private $Autonom = '';
-    private $Area = 'ЧЕРЕКСКИЙ РАЙОН';
-    private $City = 'КАШХАТАУ';
+    private $Area = 'Черекский район';
+    private $City = 'Кашхатау';
     private $City1 = '';
     private $ActDate = '20170713';
     private $IndexOld = '';

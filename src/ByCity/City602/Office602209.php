@@ -27,13 +27,13 @@ final class Office602209 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 602209;
-    private $OPSName = 'ЯКИМАНСКАЯ СЛОБОДА';
+    private $OPSName = 'Якиманская Слобода';
     private $OPSType = 'О';
     private $OPSSubm = 602250;
-    private $Region = 'ВЛАДИМИРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Владимирская область';
     private $Autonom = '';
-    private $Area = 'МУРОМСКИЙ РАЙОН';
-    private $City = 'ЯКИМАНСКАЯ СЛОБОДА';
+    private $Area = 'Муромский район';
+    private $City = 'Якиманская Слобода';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

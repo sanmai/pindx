@@ -27,13 +27,13 @@ final class Office629623 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 629623;
-    private $OPSName = 'ЗЕЛЕНЫЙ ЯР';
+    private $OPSName = 'Зеленый Яр';
     private $OPSType = 'О';
     private $OPSSubm = 629000;
     private $Region = '';
-    private $Autonom = 'ЯМАЛО-НЕНЕЦКИЙ АВТОНОМНЫЙ ОКРУГ';
-    private $Area = 'ПРИУРАЛЬСКИЙ РАЙОН';
-    private $City = 'ЗЕЛЕНЫЙ ЯР';
+    private $Autonom = 'Ямало-Ненецкий автономный округ';
+    private $Area = 'Приуральский район';
+    private $City = 'Зеленый Яр';
     private $City1 = '';
     private $ActDate = '20170906';
     private $IndexOld = '';

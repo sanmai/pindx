@@ -27,13 +27,13 @@ final class Office184405 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 184405;
-    private $OPSName = 'КОРЗУНОВО';
+    private $OPSName = 'Корзуново';
     private $OPSType = 'О';
     private $OPSSubm = 184380;
-    private $Region = 'МУРМАНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Мурманская область';
     private $Autonom = '';
-    private $Area = 'ПЕЧЕНГСКИЙ РАЙОН';
-    private $City = 'КОРЗУНОВО';
+    private $Area = 'Печенгский район';
+    private $City = 'Корзуново';
     private $City1 = '';
     private $ActDate = '20060412';
     private $IndexOld = '';

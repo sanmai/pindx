@@ -27,13 +27,13 @@ final class Office659439 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 659439;
-    private $OPSName = 'СУХАЯ ЧЕМРОВКА';
+    private $OPSName = 'Сухая Чемровка';
     private $OPSType = 'О';
     private $OPSSubm = 659399;
-    private $Region = 'АЛТАЙСКИЙ КРАЙ';
+    private $Region = 'Алтайский край';
     private $Autonom = '';
-    private $Area = 'ЦЕЛИННЫЙ РАЙОН';
-    private $City = 'СУХАЯ ЧЕМРОВКА';
+    private $Area = 'Целинный район';
+    private $City = 'Сухая Чемровка';
     private $City1 = '';
     private $ActDate = '20041208';
     private $IndexOld = '';

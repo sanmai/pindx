@@ -27,13 +27,13 @@ final class Office186508 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 186508;
-    private $OPSName = 'БЕЛОМОРСК ППС';
-    private $OPSType = 'ППС';
+    private $OPSName = 'Беломорск Ппс';
+    private $OPSType = 'Ппс';
     private $OPSSubm = 186469;
-    private $Region = 'КАРЕЛИЯ РЕСПУБЛИКА';
+    private $Region = 'Карелия Республика';
     private $Autonom = '';
-    private $Area = 'БЕЛОМОРСКИЙ РАЙОН';
-    private $City = 'БЕЛОМОРСК';
+    private $Area = 'Беломорский район';
+    private $City = 'Беломорск';
     private $City1 = '';
     private $ActDate = '20170712';
     private $IndexOld = '';

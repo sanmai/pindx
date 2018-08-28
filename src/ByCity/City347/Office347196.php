@@ -27,13 +27,13 @@ final class Office347196 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 347196;
-    private $OPSName = 'УСТЬ-ГРЯЗНОВСКИЙ';
+    private $OPSName = 'Усть-Грязновский';
     private $OPSType = 'О';
     private $OPSSubm = 347239;
-    private $Region = 'РОСТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ростовская область';
     private $Autonom = '';
-    private $Area = 'СОВЕТСКИЙ РАЙОН';
-    private $City = 'УСТЬ-ГРЯЗНОВСКИЙ';
+    private $Area = 'Советский район';
+    private $City = 'Усть-Грязновский';
     private $City1 = '';
     private $ActDate = '20070214';
     private $IndexOld = '';

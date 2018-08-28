@@ -27,14 +27,14 @@ final class Office385077 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 385077;
-    private $OPSName = 'ГАВЕРДОВСКИЙ';
+    private $OPSName = 'Гавердовский';
     private $OPSType = 'О';
     private $OPSSubm = 385700;
-    private $Region = 'АДЫГЕЯ РЕСПУБЛИКА';
+    private $Region = 'Адыгея Республика';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'МАЙКОП';
-    private $City1 = 'ГАВЕРДОВСКИЙ';
+    private $City = 'Майкоп';
+    private $City1 = 'Гавердовский';
     private $ActDate = '20100914';
     private $IndexOld = '';
 }

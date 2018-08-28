@@ -27,13 +27,13 @@ final class Office404042 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 404042;
-    private $OPSName = 'ЛЕВЧУНОВКА';
+    private $OPSName = 'Левчуновка';
     private $OPSType = 'О';
     private $OPSSubm = 404030;
-    private $Region = 'ВОЛГОГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Волгоградская область';
     private $Autonom = '';
-    private $Area = 'НИКОЛАЕВСКИЙ РАЙОН';
-    private $City = 'ЛЕВЧУНОВКА';
+    private $Area = 'Николаевский район';
+    private $City = 'Левчуновка';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

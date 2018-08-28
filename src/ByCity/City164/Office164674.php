@@ -27,13 +27,13 @@ final class Office164674 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 164674;
-    private $OPSName = 'БОЛЬШАЯ НИСОГОРА';
+    private $OPSName = 'Большая Нисогора';
     private $OPSType = 'О';
     private $OPSSubm = 164779;
-    private $Region = 'АРХАНГЕЛЬСКАЯ ОБЛАСТЬ';
+    private $Region = 'Архангельская область';
     private $Autonom = '';
-    private $Area = 'ЛЕШУКОНСКИЙ РАЙОН';
-    private $City = 'БОЛЬШАЯ НИСОГОРА';
+    private $Area = 'Лешуконский район';
+    private $City = 'Большая Нисогора';
     private $City1 = '';
     private $ActDate = '20050712';
     private $IndexOld = '';

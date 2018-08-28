@@ -27,13 +27,13 @@ final class Office403450 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 403450;
-    private $OPSName = 'ЕНДОВСКИЙ';
+    private $OPSName = 'Ендовский';
     private $OPSType = 'О';
     private $OPSSubm = 403400;
-    private $Region = 'ВОЛГОГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Волгоградская область';
     private $Autonom = '';
-    private $Area = 'СЕРАФИМОВИЧСКИЙ РАЙОН';
-    private $City = 'ЕНДОВСКИЙ';
+    private $Area = 'Серафимовичский район';
+    private $City = 'Ендовский';
     private $City1 = '';
     private $ActDate = '20120613';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office399433 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 399433;
-    private $OPSName = 'БОЛЬШАЯ ПЛАВИЦА';
+    private $OPSName = 'Большая Плавица';
     private $OPSType = 'О';
     private $OPSSubm = 399099;
-    private $Region = 'ЛИПЕЦКАЯ ОБЛАСТЬ';
+    private $Region = 'Липецкая область';
     private $Autonom = '';
-    private $Area = 'ДОБРИНСКИЙ РАЙОН';
-    private $City = 'БОЛЬШАЯ ПЛАВИЦА';
+    private $Area = 'Добринский район';
+    private $City = 'Большая Плавица';
     private $City1 = '';
     private $ActDate = '20130301';
     private $IndexOld = '';

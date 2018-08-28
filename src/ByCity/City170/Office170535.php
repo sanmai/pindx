@@ -27,13 +27,13 @@ final class Office170535 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 170535;
-    private $OPSName = 'ЛИСИЦКИЙ БОР';
+    private $OPSName = 'Лисицкий Бор';
     private $OPSType = 'О';
     private $OPSSubm = 170000;
-    private $Region = 'ТВЕРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тверская область';
     private $Autonom = '';
-    private $Area = 'КАЛИНИНСКИЙ РАЙОН';
-    private $City = 'ТУРБАЗА  ЛИСИЦКИЙ БОР';
+    private $Area = 'Калининский район';
+    private $City = 'Турбаза  Лисицкий Бор';
     private $City1 = '';
     private $ActDate = '20180813';
     private $IndexOld = '';

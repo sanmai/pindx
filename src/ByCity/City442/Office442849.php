@@ -27,13 +27,13 @@ final class Office442849 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 442849;
-    private $OPSName = 'КОЛЫШЛЕЙ ПОЧТАМТ';
+    private $OPSName = 'Колышлей Почтамт';
     private $OPSType = 'П';
     private $OPSSubm = 440700;
-    private $Region = 'ПЕНЗЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Пензенская область';
     private $Autonom = '';
-    private $Area = 'КОЛЫШЛЕЙСКИЙ РАЙОН';
-    private $City = 'КОЛЫШЛЕЙ';
+    private $Area = 'Колышлейский район';
+    private $City = 'Колышлей';
     private $City1 = '';
     private $ActDate = '20071114';
     private $IndexOld = '';

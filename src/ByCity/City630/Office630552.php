@@ -27,13 +27,13 @@ final class Office630552 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 630552;
-    private $OPSName = 'ЖЕРЕБЦОВО';
+    private $OPSName = 'Жеребцово';
     private $OPSType = 'О';
     private $OPSSubm = 633450;
-    private $Region = 'НОВОСИБИРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Новосибирская область';
     private $Autonom = '';
-    private $Area = 'НОВОСИБИРСКИЙ РАЙОН';
-    private $City = 'ЖЕРЕБЦОВО';
+    private $Area = 'Новосибирский район';
+    private $City = 'Жеребцово';
     private $City1 = '';
     private $ActDate = '20110701';
     private $IndexOld = '';

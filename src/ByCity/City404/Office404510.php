@@ -27,13 +27,13 @@ final class Office404510 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 404510;
-    private $OPSName = 'ЛЯПИЧЕВ';
+    private $OPSName = 'Ляпичев';
     private $OPSType = 'О';
     private $OPSSubm = 404500;
-    private $Region = 'ВОЛГОГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Волгоградская область';
     private $Autonom = '';
-    private $Area = 'КАЛАЧЕВСКИЙ РАЙОН';
-    private $City = 'ЛЯПИЧЕВ';
+    private $Area = 'Калачевский район';
+    private $City = 'Ляпичев';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

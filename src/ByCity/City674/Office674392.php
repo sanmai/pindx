@@ -27,13 +27,13 @@ final class Office674392 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 674392;
-    private $OPSName = 'БОЛЬШОЙ ЗЕРЕНТУЙ';
+    private $OPSName = 'Большой Зерентуй';
     private $OPSType = 'О';
     private $OPSSubm = 674339;
-    private $Region = 'ЗАБАЙКАЛЬСКИЙ КРАЙ';
+    private $Region = 'Забайкальский край';
     private $Autonom = '';
-    private $Area = 'НЕРЧИНСКО-ЗАВОДСКИЙ РАЙОН';
-    private $City = 'БОЛЬШОЙ ЗЕРЕНТУЙ';
+    private $Area = 'Нерчинско-Заводский район';
+    private $City = 'Большой Зерентуй';
     private $City1 = '';
     private $ActDate = '20030127';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office403920 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 403920;
-    private $OPSName = 'ДУПЛЯТСКИЙ';
+    private $OPSName = 'Дуплятский';
     private $OPSType = 'О';
     private $OPSSubm = 403110;
-    private $Region = 'ВОЛГОГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Волгоградская область';
     private $Autonom = '';
-    private $Area = 'НОВОНИКОЛАЕВСКИЙ РАЙОН';
-    private $City = 'ДУПЛЯТСКИЙ';
+    private $Area = 'Новониколаевский район';
+    private $City = 'Дуплятский';
     private $City1 = '';
     private $ActDate = '20120613';
     private $IndexOld = '';

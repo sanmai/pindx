@@ -27,13 +27,13 @@ final class Office442020 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 442020;
-    private $OPSName = 'ПАШКОВО';
+    private $OPSName = 'Пашково';
     private $OPSType = 'О';
     private $OPSSubm = 442039;
-    private $Region = 'ПЕНЗЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Пензенская область';
     private $Autonom = '';
-    private $Area = 'ЗЕМЕТЧИНСКИЙ РАЙОН';
-    private $City = 'ПАШКОВО';
+    private $Area = 'Земетчинский район';
+    private $City = 'Пашково';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

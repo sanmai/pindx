@@ -27,13 +27,13 @@ final class Office453007 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 453007;
-    private $OPSName = 'СУУК-ЧИШМА';
+    private $OPSName = 'Суук-Чишма';
     private $OPSType = 'О';
     private $OPSSubm = 453009;
-    private $Region = 'БАШКОРТОСТАН РЕСПУБЛИКА';
+    private $Region = 'Башкортостан Республика';
     private $Autonom = '';
-    private $Area = 'КАРМАСКАЛИНСКИЙ РАЙОН';
-    private $City = 'СУУК-ЧИШМА';
+    private $Area = 'Кармаскалинский район';
+    private $City = 'Суук-Чишма';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

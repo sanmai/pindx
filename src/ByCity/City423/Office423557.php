@@ -27,13 +27,13 @@ final class Office423557 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 423557;
-    private $OPSName = 'КРАСНАЯ КАДКА ППС';
-    private $OPSType = 'ППС';
+    private $OPSName = 'Красная Кадка Ппс';
+    private $OPSType = 'Ппс';
     private $OPSSubm = 423599;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'НИЖНЕКАМСКИЙ РАЙОН';
-    private $City = 'КРАСНАЯ КАДКА';
+    private $Area = 'Нижнекамский район';
+    private $City = 'Красная Кадка';
     private $City1 = '';
     private $ActDate = '20170626';
     private $IndexOld = '';

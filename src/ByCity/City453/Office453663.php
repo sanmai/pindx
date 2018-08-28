@@ -27,13 +27,13 @@ final class Office453663 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 453663;
-    private $OPSName = 'ТЕМЯСОВО';
+    private $OPSName = 'Темясово';
     private $OPSType = 'О';
     private $OPSSubm = 453639;
-    private $Region = 'БАШКОРТОСТАН РЕСПУБЛИКА';
+    private $Region = 'Башкортостан Республика';
     private $Autonom = '';
-    private $Area = 'БАЙМАКСКИЙ РАЙОН';
-    private $City = 'ТЕМЯСОВО';
+    private $Area = 'Баймакский район';
+    private $City = 'Темясово';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office175000 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 175000;
-    private $OPSName = 'БАТЕЦКИЙ';
+    private $OPSName = 'Батецкий';
     private $OPSType = 'О';
     private $OPSSubm = 173999;
-    private $Region = 'НОВГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Новгородская область';
     private $Autonom = '';
-    private $Area = 'БАТЕЦКИЙ РАЙОН';
-    private $City = 'БАТЕЦКИЙ';
+    private $Area = 'Батецкий район';
+    private $City = 'Батецкий';
     private $City1 = '';
     private $ActDate = '20051214';
     private $IndexOld = '';

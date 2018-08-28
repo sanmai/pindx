@@ -27,13 +27,13 @@ final class Office671111 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 671111;
-    private $OPSName = 'ТАРБАГАТАЙ 1';
-    private $OPSType = 'ПЕРЕДВИЖНОЕ ОС';
+    private $OPSName = 'Тарбагатай 1';
+    private $OPSType = 'Передвижное Ос';
     private $OPSSubm = 670999;
-    private $Region = 'БУРЯТИЯ РЕСПУБЛИКА';
+    private $Region = 'Бурятия Республика';
     private $Autonom = '';
-    private $Area = 'ТАРБАГАТАЙСКИЙ РАЙОН';
-    private $City = 'ТАРБАГАТАЙ';
+    private $Area = 'Тарбагатайский район';
+    private $City = 'Тарбагатай';
     private $City1 = '';
     private $ActDate = '20160912';
     private $IndexOld = '';

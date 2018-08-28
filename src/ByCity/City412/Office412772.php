@@ -27,13 +27,13 @@ final class Office412772 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 412772;
-    private $OPSName = 'СТАРАЯ ЯБЛОНКА';
+    private $OPSName = 'Старая Яблонка';
     private $OPSType = 'О';
     private $OPSSubm = 412900;
-    private $Region = 'САРАТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Саратовская область';
     private $Autonom = '';
-    private $Area = 'ХВАЛЫНСКИЙ РАЙОН';
-    private $City = 'СТАРАЯ ЯБЛОНКА';
+    private $Area = 'Хвалынский район';
+    private $City = 'Старая Яблонка';
     private $City1 = '';
     private $ActDate = '20030911';
     private $IndexOld = '';

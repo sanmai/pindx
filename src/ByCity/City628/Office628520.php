@@ -27,13 +27,13 @@ final class Office628520 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 628520;
-    private $OPSName = 'ГОРНОПРАВДИНСК';
+    private $OPSName = 'Горноправдинск';
     private $OPSType = 'О';
     private $OPSSubm = 628000;
     private $Region = '';
-    private $Autonom = 'ХАНТЫ-МАНСИЙСКИЙ-ЮГРА АВТОНОМНЫЙ ОКРУГ';
-    private $Area = 'ХАНТЫ-МАНСИЙСКИЙ РАЙОН';
-    private $City = 'ГОРНОПРАВДИНСК';
+    private $Autonom = 'Ханты-Мансийский-Югра автономный округ';
+    private $Area = 'Ханты-Мансийский район';
+    private $City = 'Горноправдинск';
     private $City1 = '';
     private $ActDate = '20170906';
     private $IndexOld = '';

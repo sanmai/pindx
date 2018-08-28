@@ -27,13 +27,13 @@ final class Office423195 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 423195;
-    private $OPSName = 'СЛОБОДА-ЧЕРЕМУХОВАЯ';
+    private $OPSName = 'Слобода-Черемуховая';
     private $OPSType = 'О';
     private $OPSSubm = 422999;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'НОВОШЕШМИНСКИЙ РАЙОН';
-    private $City = 'СЛОБОДА ЧЕРЕМУХОВАЯ';
+    private $Area = 'Новошешминский район';
+    private $City = 'Слобода Черемуховая';
     private $City1 = '';
     private $ActDate = '20020927';
     private $IndexOld = '';

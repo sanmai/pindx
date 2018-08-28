@@ -27,13 +27,13 @@ final class Office359184 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 359184;
-    private $OPSName = 'БАГА-ЧОНОС';
+    private $OPSName = 'Бага-Чонос';
     private $OPSType = 'О';
     private $OPSSubm = 358099;
-    private $Region = 'КАЛМЫКИЯ РЕСПУБЛИКА';
+    private $Region = 'Калмыкия Республика';
     private $Autonom = '';
-    private $Area = 'ЦЕЛИННЫЙ РАЙОН';
-    private $City = 'БАГА-ЧОНОС';
+    private $Area = 'Целинный район';
+    private $City = 'Бага-Чонос';
     private $City1 = '';
     private $ActDate = '20060220';
     private $IndexOld = '';

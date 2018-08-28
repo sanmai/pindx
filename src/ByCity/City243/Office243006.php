@@ -27,13 +27,13 @@ final class Office243006 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 243006;
-    private $OPSName = 'КАТАШИН';
+    private $OPSName = 'Каташин';
     private $OPSType = 'О';
     private $OPSSubm = 243039;
-    private $Region = 'БРЯНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Брянская область';
     private $Autonom = '';
-    private $Area = 'НОВОЗЫБКОВСКИЙ РАЙОН';
-    private $City = 'КАТАШИН';
+    private $Area = 'Новозыбковский район';
+    private $City = 'Каташин';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

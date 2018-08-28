@@ -27,13 +27,13 @@ final class Office665220 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 665220;
-    private $OPSName = 'ПЕРФИЛОВО';
+    private $OPSName = 'Перфилово';
     private $OPSType = 'О';
     private $OPSSubm = 665250;
-    private $Region = 'ИРКУТСКАЯ ОБЛАСТЬ';
+    private $Region = 'Иркутская область';
     private $Autonom = '';
-    private $Area = 'ТУЛУНСКИЙ РАЙОН';
-    private $City = 'ПЕРФИЛОВО';
+    private $Area = 'Тулунский район';
+    private $City = 'Перфилово';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

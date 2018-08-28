@@ -27,13 +27,13 @@ final class Office152122 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 152122;
-    private $OPSName = 'ШУЛЕЦ';
-    private $OPSType = 'ПЕРЕДВИЖНОЕ ОС';
+    private $OPSName = 'Шулец';
+    private $OPSType = 'Передвижное Ос';
     private $OPSSubm = 152159;
-    private $Region = 'ЯРОСЛАВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ярославская область';
     private $Autonom = '';
-    private $Area = 'РОСТОВСКИЙ РАЙОН';
-    private $City = 'ШУЛЕЦ';
+    private $Area = 'Ростовский район';
+    private $City = 'Шулец';
     private $City1 = '';
     private $ActDate = '20140411';
     private $IndexOld = '';

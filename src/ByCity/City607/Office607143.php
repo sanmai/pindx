@@ -27,13 +27,13 @@ final class Office607143 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 607143;
-    private $OPSName = 'ТУРКУШИ ППС';
-    private $OPSType = 'ППС';
+    private $OPSName = 'Туркуши Ппс';
+    private $OPSType = 'Ппс';
     private $OPSSubm = 607180;
-    private $Region = 'НИЖЕГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Нижегородская область';
     private $Autonom = '';
-    private $Area = 'АРДАТОВСКИЙ РАЙОН';
-    private $City = 'ТУРКУШИ';
+    private $Area = 'Ардатовский район';
+    private $City = 'Туркуши';
     private $City1 = '';
     private $ActDate = '20170711';
     private $IndexOld = '';

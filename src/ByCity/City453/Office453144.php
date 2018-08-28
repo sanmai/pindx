@@ -27,13 +27,13 @@ final class Office453144 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 453144;
-    private $OPSName = 'ТЮРЮШЛЯ';
+    private $OPSName = 'Тюрюшля';
     private $OPSType = 'О';
     private $OPSSubm = 453169;
-    private $Region = 'БАШКОРТОСТАН РЕСПУБЛИКА';
+    private $Region = 'Башкортостан Республика';
     private $Autonom = '';
-    private $Area = 'СТЕРЛИТАМАКСКИЙ РАЙОН';
-    private $City = 'ТЮРЮШЛЯ';
+    private $Area = 'Стерлитамакский район';
+    private $City = 'Тюрюшля';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office456816 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 456816;
-    private $OPSName = 'ВЕРХНИЙ УФАЛЕЙ КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Верхний Уфалей Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 456819;
-    private $Region = 'ЧЕЛЯБИНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Челябинская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'ВЕРХНИЙ УФАЛЕЙ';
+    private $City = 'Верхний Уфалей';
     private $City1 = '';
     private $ActDate = '20171004';
     private $IndexOld = '';

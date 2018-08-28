@@ -27,13 +27,13 @@ final class Office431566 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 431566;
-    private $OPSName = 'ВЕРТЕЛИМ';
+    private $OPSName = 'Вертелим';
     private $OPSType = 'О';
     private $OPSSubm = 431289;
-    private $Region = 'МОРДОВИЯ РЕСПУБЛИКА';
+    private $Region = 'Мордовия Республика';
     private $Autonom = '';
-    private $Area = 'СТАРОШАЙГОВСКИЙ РАЙОН';
-    private $City = 'ВЕРТЕЛИМ';
+    private $Area = 'Старошайговский район';
+    private $City = 'Вертелим';
     private $City1 = '';
     private $ActDate = '20060615';
     private $IndexOld = '';

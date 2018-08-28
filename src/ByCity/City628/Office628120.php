@@ -27,13 +27,13 @@ final class Office628120 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 628120;
-    private $OPSName = 'МАЛЫЙ АТЛЫМ';
+    private $OPSName = 'Малый Атлым';
     private $OPSType = 'О';
     private $OPSSubm = 628160;
     private $Region = '';
-    private $Autonom = 'ХАНТЫ-МАНСИЙСКИЙ-ЮГРА АВТОНОМНЫЙ ОКРУГ';
-    private $Area = 'ОКТЯБРЬСКИЙ РАЙОН';
-    private $City = 'МАЛЫЙ АТЛЫМ';
+    private $Autonom = 'Ханты-Мансийский-Югра автономный округ';
+    private $Area = 'Октябрьский район';
+    private $City = 'Малый Атлым';
     private $City1 = '';
     private $ActDate = '20171130';
     private $IndexOld = '';

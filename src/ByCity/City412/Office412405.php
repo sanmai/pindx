@@ -27,13 +27,13 @@ final class Office412405 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 412405;
-    private $OPSName = 'БОЛЬШАЯ ОСИНОВКА';
+    private $OPSName = 'Большая Осиновка';
     private $OPSType = 'О';
     private $OPSSubm = 412030;
-    private $Region = 'САРАТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Саратовская область';
     private $Autonom = '';
-    private $Area = 'АТКАРСКИЙ РАЙОН';
-    private $City = 'БОЛЬШАЯ ОСИНОВКА';
+    private $Area = 'Аткарский район';
+    private $City = 'Большая Осиновка';
     private $City1 = '';
     private $ActDate = '20030610';
     private $IndexOld = '';

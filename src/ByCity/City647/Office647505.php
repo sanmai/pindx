@@ -27,13 +27,13 @@ final class Office647505 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 647505;
-    private $OPSName = 'ХАНТАЙСКОЕ ОЗЕРО';
+    private $OPSName = 'Хантайское Озеро';
     private $OPSType = 'О';
     private $OPSSubm = 663300;
-    private $Region = 'КРАСНОЯРСКИЙ КРАЙ';
+    private $Region = 'Красноярский край';
     private $Autonom = '';
-    private $Area = 'ТАЙМЫРСКИЙ ДОЛГАНО-НЕНЕЦКИЙ РАЙОН';
-    private $City = 'ХАНТАЙСКОЕ ОЗЕРО';
+    private $Area = 'Таймырский Долгано-Ненецкий район';
+    private $City = 'Хантайское Озеро';
     private $City1 = '';
     private $ActDate = '20070209';
     private $IndexOld = '';

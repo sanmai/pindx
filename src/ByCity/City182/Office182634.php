@@ -27,13 +27,13 @@ final class Office182634 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 182634;
-    private $OPSName = 'АРБУЗОВА ЩИЛИНКА';
+    private $OPSName = 'Арбузова Щилинка';
     private $OPSType = 'О';
     private $OPSSubm = 182629;
-    private $Region = 'ПСКОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Псковская область';
     private $Autonom = '';
-    private $Area = 'ПОРХОВСКИЙ РАЙОН';
-    private $City = 'АРБУЗОВА ЩИЛИНКА';
+    private $Area = 'Порховский район';
+    private $City = 'Арбузова Щилинка';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

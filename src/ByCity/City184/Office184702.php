@@ -27,13 +27,13 @@ final class Office184702 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 184702;
-    private $OPSName = 'УМБА 2';
-    private $OPSType = 'ПЕРЕДВИЖНОЕ ОС';
+    private $OPSName = 'Умба 2';
+    private $OPSType = 'Передвижное Ос';
     private $OPSSubm = 184200;
-    private $Region = 'МУРМАНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Мурманская область';
     private $Autonom = '';
-    private $Area = 'ТЕРСКИЙ РАЙОН';
-    private $City = 'УМБА';
+    private $Area = 'Терский район';
+    private $City = 'Умба';
     private $City1 = '';
     private $ActDate = '20160414';
     private $IndexOld = '';

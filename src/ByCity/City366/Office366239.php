@@ -27,14 +27,14 @@ final class Office366239 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 366239;
-    private $OPSName = 'БЕНОЙ-ВЕДЕНО';
+    private $OPSName = 'Беной-Ведено';
     private $OPSType = 'О';
     private $OPSSubm = 366200;
-    private $Region = 'ЧЕЧЕНСКАЯ РЕСПУБЛИКА';
+    private $Region = 'Чеченская Республика';
     private $Autonom = '';
-    private $Area = 'ГУДЕРМЕССКИЙ РАЙОН';
-    private $City = 'НОЖАЙ-ЮРТОВСКИЙ';
-    private $City1 = 'БЕНОЙ-ВЕДЕНО';
+    private $Area = 'Гудермесский район';
+    private $City = 'Ножай-Юртовский';
+    private $City1 = 'Беной-Ведено';
     private $ActDate = '20101220';
     private $IndexOld = '';
 }

@@ -27,13 +27,13 @@ final class Office452956 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 452956;
-    private $OPSName = 'ВАНЫШ-АЛПАУТОВО';
+    private $OPSName = 'Ваныш-Алпаутово';
     private $OPSType = 'О';
     private $OPSSubm = 452979;
-    private $Region = 'БАШКОРТОСТАН РЕСПУБЛИКА';
+    private $Region = 'Башкортостан Республика';
     private $Autonom = '';
-    private $Area = 'БУРАЕВСКИЙ РАЙОН';
-    private $City = 'ВАНЫШ-АЛПАУТОВО';
+    private $Area = 'Бураевский район';
+    private $City = 'Ваныш-Алпаутово';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

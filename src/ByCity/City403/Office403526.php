@@ -27,13 +27,13 @@ final class Office403526 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 403526;
-    private $OPSName = 'КРАСНЫЕ ЛИПКИ';
+    private $OPSName = 'Красные Липки';
     private $OPSType = 'О';
     private $OPSSubm = 403530;
-    private $Region = 'ВОЛГОГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Волгоградская область';
     private $Autonom = '';
-    private $Area = 'ФРОЛОВСКИЙ РАЙОН';
-    private $City = 'КРАСНЫЕ ЛИПКИ';
+    private $Area = 'Фроловский район';
+    private $City = 'Красные Липки';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

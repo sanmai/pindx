@@ -27,13 +27,13 @@ final class Office403257 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 403257;
-    private $OPSName = 'БОЛЬШОЙ БАБИНСКИЙ';
+    private $OPSName = 'Большой Бабинский';
     private $OPSType = 'О';
     private $OPSSubm = 403240;
-    private $Region = 'ВОЛГОГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Волгоградская область';
     private $Autonom = '';
-    private $Area = 'АЛЕКСЕЕВСКИЙ РАЙОН';
-    private $City = 'БОЛЬШОЙ БАБИНСКИЙ';
+    private $Area = 'Алексеевский район';
+    private $City = 'Большой Бабинский';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

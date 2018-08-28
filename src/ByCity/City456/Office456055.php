@@ -27,14 +27,14 @@ final class Office456055 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 456055;
-    private $OPSName = 'ТЮБЕЛЯС';
+    private $OPSName = 'Тюбеляс';
     private $OPSType = 'О';
     private $OPSSubm = 456069;
-    private $Region = 'ЧЕЛЯБИНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Челябинская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'УСТЬ-КАТАВ';
-    private $City1 = 'ТЮБЕЛЯС';
+    private $City = 'Усть-Катав';
+    private $City1 = 'Тюбеляс';
     private $ActDate = '20001030';
     private $IndexOld = '';
 }

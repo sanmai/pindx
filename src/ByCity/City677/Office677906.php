@@ -27,14 +27,14 @@ final class Office677906 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 677906;
-    private $OPSName = 'ТУЛАГИНО';
+    private $OPSName = 'Тулагино';
     private $OPSType = 'О';
     private $OPSSubm = 677999;
-    private $Region = 'САХА (ЯКУТИЯ) РЕСПУБЛИКА';
+    private $Region = 'Саха (Якутия) Республика';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'ЯКУТСК';
-    private $City1 = 'ТУЛАГИНО';
+    private $City = 'Якутск';
+    private $City1 = 'Тулагино';
     private $ActDate = '20001030';
     private $IndexOld = '';
 }

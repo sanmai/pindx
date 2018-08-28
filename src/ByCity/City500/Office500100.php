@@ -27,10 +27,10 @@ final class Office500100 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 500100;
-    private $OPSName = 'RUSSIAN POST';
-    private $OPSType = 'УФПС';
+    private $OPSName = 'Russian Post';
+    private $OPSType = 'Уфпс';
     private $OPSSubm = 0;
-    private $Region = 'МОСКВА';
+    private $Region = 'Москва';
     private $Autonom = '';
     private $Area = '';
     private $City = '';

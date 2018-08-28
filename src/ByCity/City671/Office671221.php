@@ -27,13 +27,13 @@ final class Office671221 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 671221;
-    private $OPSName = 'БОЛЬШОЕ КОЛЕСОВО';
+    private $OPSName = 'Большое Колесово';
     private $OPSType = 'О';
     private $OPSSubm = 671249;
-    private $Region = 'БУРЯТИЯ РЕСПУБЛИКА';
+    private $Region = 'Бурятия Республика';
     private $Autonom = '';
-    private $Area = 'КАБАНСКИЙ РАЙОН';
-    private $City = 'БОЛЬШОЕ КОЛЕСОВО';
+    private $Area = 'Кабанский район';
+    private $City = 'Большое Колесово';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

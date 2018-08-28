@@ -27,13 +27,13 @@ final class Office141707 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 141707;
-    private $OPSName = 'ДОЛГОПРУДНЫЙ 7';
+    private $OPSName = 'Долгопрудный 7';
     private $OPSType = 'О';
     private $OPSSubm = 141899;
-    private $Region = 'МОСКОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Московская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'ДОЛГОПРУДНЫЙ';
+    private $City = 'Долгопрудный';
     private $City1 = '';
     private $ActDate = '20030918';
     private $IndexOld = '';

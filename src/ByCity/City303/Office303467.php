@@ -27,13 +27,13 @@ final class Office303467 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 303467;
-    private $OPSName = 'ГНИЛЕЦ';
+    private $OPSName = 'Гнилец';
     private $OPSType = 'О';
     private $OPSSubm = 303229;
-    private $Region = 'ОРЛОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Орловская область';
     private $Autonom = '';
-    private $Area = 'ТРОСНЯНСКИЙ РАЙОН';
-    private $City = 'ГНИЛЕЦ';
+    private $Area = 'Троснянский район';
+    private $City = 'Гнилец';
     private $City1 = '';
     private $ActDate = '20041103';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office612948 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 612948;
-    private $OPSName = 'ТАТ-ВЕРХ-ГОНЬБА';
+    private $OPSName = 'Тат-Верх-Гоньба';
     private $OPSType = 'О';
     private $OPSSubm = 612999;
-    private $Region = 'КИРОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Кировская область';
     private $Autonom = '';
-    private $Area = 'МАЛМЫЖСКИЙ РАЙОН';
-    private $City = 'ТАТ-ВЕРХ-ГОНЬБА';
+    private $Area = 'Малмыжский район';
+    private $City = 'Тат-Верх-Гоньба';
     private $City1 = '';
     private $ActDate = '20040514';
     private $IndexOld = '';

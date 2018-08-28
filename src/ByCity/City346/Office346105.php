@@ -27,13 +27,13 @@ final class Office346105 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 346105;
-    private $OPSName = 'ДЕГТЕВО';
+    private $OPSName = 'Дегтево';
     private $OPSType = 'О';
     private $OPSSubm = 346139;
-    private $Region = 'РОСТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ростовская область';
     private $Autonom = '';
-    private $Area = 'МИЛЛЕРОВСКИЙ РАЙОН';
-    private $City = 'ДЕГТЕВО';
+    private $Area = 'Миллеровский район';
+    private $City = 'Дегтево';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office654245 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 654245;
-    private $OPSName = 'САРЫ-ЧУМЫШ';
+    private $OPSName = 'Сары-Чумыш';
     private $OPSType = 'О';
     private $OPSSubm = 654099;
-    private $Region = 'КЕМЕРОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Кемеровская область';
     private $Autonom = '';
-    private $Area = 'НОВОКУЗНЕЦКИЙ РАЙОН';
-    private $City = 'САРЫ-ЧУМЫШ';
+    private $Area = 'Новокузнецкий район';
+    private $City = 'Сары-Чумыш';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

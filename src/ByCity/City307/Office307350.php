@@ -27,13 +27,13 @@ final class Office307350 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 307350;
-    private $OPSName = 'ЯНЬКОВО-ПЕРВОЕ';
+    private $OPSName = 'Яньково-Первое';
     private $OPSType = 'О';
     private $OPSSubm = 307379;
-    private $Region = 'КУРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Курская область';
     private $Autonom = '';
-    private $Area = 'РЫЛЬСКИЙ РАЙОН';
-    private $City = 'ЯНЬКОВО 1-Е';
+    private $Area = 'Рыльский район';
+    private $City = 'Яньково 1-Е';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

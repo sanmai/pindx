@@ -27,13 +27,13 @@ final class Office404225 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 404225;
-    private $OPSName = 'КУРНАЕВКА';
+    private $OPSName = 'Курнаевка';
     private $OPSType = 'О';
     private $OPSSubm = 404260;
-    private $Region = 'ВОЛГОГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Волгоградская область';
     private $Autonom = '';
-    private $Area = 'СТАРОПОЛТАВСКИЙ РАЙОН';
-    private $City = 'КУРНАЕВКА';
+    private $Area = 'Старополтавский район';
+    private $City = 'Курнаевка';
     private $City1 = '';
     private $ActDate = '20070411';
     private $IndexOld = '';

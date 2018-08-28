@@ -27,13 +27,13 @@ final class Office301355 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 301355;
-    private $OPSName = 'БОЛЬШОЕ ШЕЛЕПИНО';
+    private $OPSName = 'Большое Шелепино';
     private $OPSType = 'О';
     private $OPSSubm = 301379;
-    private $Region = 'ТУЛЬСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тульская область';
     private $Autonom = '';
-    private $Area = 'АЛЕКСИНСКИЙ РАЙОН';
-    private $City = 'БОЛЬШОЕ ШЕЛЕПИНО';
+    private $Area = 'Алексинский район';
+    private $City = 'Большое Шелепино';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

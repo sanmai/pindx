@@ -27,13 +27,13 @@ final class Office140520 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 140520;
-    private $OPSName = 'БЕЛООМУТ';
+    private $OPSName = 'Белоомут';
     private $OPSType = 'О';
     private $OPSSubm = 140499;
-    private $Region = 'МОСКОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Московская область';
     private $Autonom = '';
-    private $Area = 'ЛУХОВИЦЫ РАЙОН';
-    private $City = 'БЕЛООМУТ';
+    private $Area = 'Луховицы район';
+    private $City = 'Белоомут';
     private $City1 = '';
     private $ActDate = '20180810';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office309915 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 309915;
-    private $OPSName = 'РАЗДОРНОЕ';
+    private $OPSName = 'Раздорное';
     private $OPSType = 'О';
     private $OPSSubm = 309859;
-    private $Region = 'БЕЛГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Белгородская область';
     private $Autonom = '';
-    private $Area = 'КРАСНОГВАРДЕЙСКИЙ РАЙОН';
-    private $City = 'РАЗДОРНОЕ';
+    private $Area = 'Красногвардейский район';
+    private $City = 'Раздорное';
     private $City1 = '';
     private $ActDate = '20110802';
     private $IndexOld = '';

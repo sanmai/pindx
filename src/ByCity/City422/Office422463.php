@@ -27,13 +27,13 @@ final class Office422463 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 422463;
-    private $OPSName = 'МАЛАЯ ЦИЛЬНА';
+    private $OPSName = 'Малая Цильна';
     private $OPSType = 'О';
     private $OPSSubm = 422499;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'ДРОЖЖАНОВСКИЙ РАЙОН';
-    private $City = 'МАЛАЯ ЦИЛЬНА';
+    private $Area = 'Дрожжановский район';
+    private $City = 'Малая Цильна';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

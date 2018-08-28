@@ -27,13 +27,13 @@ final class Office446187 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 446187;
-    private $OPSName = 'ТАШ-КУСТЬЯНОВО';
+    private $OPSName = 'Таш-Кустьяново';
     private $OPSType = 'О';
     private $OPSSubm = 446199;
-    private $Region = 'САМАРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Самарская область';
     private $Autonom = '';
-    private $Area = 'БОЛЬШЕГЛУШИЦКИЙ РАЙОН';
-    private $City = 'ТАШ-КУСТЬЯНОВО';
+    private $Area = 'Большеглушицкий район';
+    private $City = 'Таш-Кустьяново';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office142822 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 142822;
-    private $OPSName = 'СИТНЕ-ЩЕЛКАНОВО';
+    private $OPSName = 'Ситне-Щелканово';
     private $OPSType = 'О';
     private $OPSSubm = 142949;
-    private $Region = 'МОСКОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Московская область';
     private $Autonom = '';
-    private $Area = 'СТУПИНСКИЙ РАЙОН';
-    private $City = 'СИТНЕ-ЩЕЛКАНОВО';
+    private $Area = 'Ступинский район';
+    private $City = 'Ситне-Щелканово';
     private $City1 = '';
     private $ActDate = '20030331';
     private $IndexOld = '';

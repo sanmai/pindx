@@ -27,13 +27,13 @@ final class Office433700 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 433700;
-    private $OPSName = 'БАЗАРНЫЙ СЫЗГАН';
+    private $OPSName = 'Базарный Сызган';
     private $OPSType = 'О';
     private $OPSSubm = 433059;
-    private $Region = 'УЛЬЯНОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ульяновская область';
     private $Autonom = '';
-    private $Area = 'БАЗАРНОСЫЗГАНСКИЙ РАЙОН';
-    private $City = 'БАЗАРНЫЙ СЫЗГАН';
+    private $Area = 'Базарносызганский район';
+    private $City = 'Базарный Сызган';
     private $City1 = '';
     private $ActDate = '20040514';
     private $IndexOld = '';

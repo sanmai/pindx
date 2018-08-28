@@ -27,13 +27,13 @@ final class Office429396 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 429396;
-    private $OPSName = 'КИЛЬДЮШЕВО';
+    private $OPSName = 'Кильдюшево';
     private $OPSType = 'О';
     private $OPSSubm = 429399;
-    private $Region = 'ЧУВАШИЯ РЕСПУБЛИКА';
+    private $Region = 'Чувашия Республика';
     private $Autonom = '';
-    private $Area = 'ЯЛЬЧИКСКИЙ РАЙОН';
-    private $City = 'КИЛЬДЮШЕВО';
+    private $Area = 'Яльчикский район';
+    private $City = 'Кильдюшево';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

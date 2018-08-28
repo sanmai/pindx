@@ -27,14 +27,14 @@ final class Office644049 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 644049;
-    private $OPSName = 'ОМСК 49';
+    private $OPSName = 'Омск 49';
     private $OPSType = 'О';
     private $OPSSubm = 644000;
-    private $Region = 'ОМСКАЯ ОБЛАСТЬ';
+    private $Region = 'Омская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'ОМСК';
-    private $City1 = 'ВОЛЖСКИЙ';
+    private $City = 'Омск';
+    private $City1 = 'Волжский';
     private $ActDate = '20001030';
     private $IndexOld = '';
 }

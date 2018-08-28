@@ -27,13 +27,13 @@ final class Office632114 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 632114;
-    private $OPSName = 'ТАТАРСК 14';
-    private $OPSType = 'ПЕРЕДВИЖНОЕ ОС';
+    private $OPSName = 'Татарск 14';
+    private $OPSType = 'Передвижное Ос';
     private $OPSSubm = 632120;
-    private $Region = 'НОВОСИБИРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Новосибирская область';
     private $Autonom = '';
-    private $Area = 'ТАТАРСКИЙ РАЙОН';
-    private $City = 'ТАТАРСК';
+    private $Area = 'Татарский район';
+    private $City = 'Татарск';
     private $City1 = '';
     private $ActDate = '20150708';
     private $IndexOld = '';

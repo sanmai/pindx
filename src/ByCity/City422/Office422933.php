@@ -27,13 +27,13 @@ final class Office422933 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 422933;
-    private $OPSName = 'МАЛЫЙ КРАСНЫЙ ЯР';
+    private $OPSName = 'Малый Красный Яр';
     private $OPSType = 'О';
     private $OPSSubm = 422999;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'АЛЕКСЕЕВСКИЙ РАЙОН';
-    private $City = 'МАЛЫЙ КРАСНЫЙ ЯР';
+    private $Area = 'Алексеевский район';
+    private $City = 'Малый Красный Яр';
     private $City1 = '';
     private $ActDate = '20041116';
     private $IndexOld = '';

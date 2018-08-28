@@ -27,14 +27,14 @@ final class Office420105 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 420105;
-    private $OPSName = 'КАЗАНЬ 105';
+    private $OPSName = 'Казань 105';
     private $OPSType = 'О';
     private $OPSSubm = 420199;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'КАЗАНЬ';
-    private $City1 = 'АМЕТЬЕВО';
+    private $City = 'Казань';
+    private $City1 = 'Аметьево';
     private $ActDate = '20111223';
     private $IndexOld = '';
 }

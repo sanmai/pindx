@@ -27,13 +27,13 @@ final class Office427716 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 427716;
-    private $OPSName = 'КИЗНЕР КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Кизнер Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 427714;
-    private $Region = 'УДМУРТСКАЯ РЕСПУБЛИКА';
+    private $Region = 'Удмуртская Республика';
     private $Autonom = '';
-    private $Area = 'КИЗНЕРСКИЙ РАЙОН';
-    private $City = 'КИЗНЕР';
+    private $Area = 'Кизнерский район';
+    private $City = 'Кизнер';
     private $City1 = '';
     private $ActDate = '20170926';
     private $IndexOld = '';

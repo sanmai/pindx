@@ -27,13 +27,13 @@ final class Office404146 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 404146;
-    private $OPSName = 'КУЙБЫШЕВ';
+    private $OPSName = 'Куйбышев';
     private $OPSType = 'О';
     private $OPSSubm = 404100;
-    private $Region = 'ВОЛГОГРАДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Волгоградская область';
     private $Autonom = '';
-    private $Area = 'СРЕДНЕАХТУБИНСКИЙ РАЙОН';
-    private $City = 'КУЙБЫШЕВ';
+    private $Area = 'Среднеахтубинский район';
+    private $City = 'Куйбышев';
     private $City1 = '';
     private $ActDate = '20070411';
     private $IndexOld = '';

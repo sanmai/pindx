@@ -27,13 +27,13 @@ final class Office427054 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 427054;
-    private $OPSName = 'ВЕРХНИЙ ЧЕТКЕР';
+    private $OPSName = 'Верхний Четкер';
     private $OPSType = 'О';
     private $OPSSubm = 427169;
-    private $Region = 'УДМУРТСКАЯ РЕСПУБЛИКА';
+    private $Region = 'Удмуртская Республика';
     private $Autonom = '';
-    private $Area = 'ДЕБЕССКИЙ РАЙОН';
-    private $City = 'ВЕРХНИЙ ЧЕТКЕР';
+    private $Area = 'Дебесский район';
+    private $City = 'Верхний Четкер';
     private $City1 = '';
     private $ActDate = '20041229';
     private $IndexOld = '';

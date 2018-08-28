@@ -27,13 +27,13 @@ final class Office155667 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 155667;
-    private $OPSName = 'ДЕМИДОВО';
+    private $OPSName = 'Демидово';
     private $OPSType = 'О';
     private $OPSSubm = 155389;
-    private $Region = 'ИВАНОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ивановская область';
     private $Autonom = '';
-    private $Area = 'ПЕСТЯКОВСКИЙ РАЙОН';
-    private $City = 'ДЕМИДОВО';
+    private $Area = 'Пестяковский район';
+    private $City = 'Демидово';
     private $City1 = '';
     private $ActDate = '20040318';
     private $IndexOld = '';

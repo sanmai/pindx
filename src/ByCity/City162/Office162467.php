@@ -27,13 +27,13 @@ final class Office162467 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 162467;
-    private $OPSName = 'НИЖНЯЯ НОЖЕМА';
+    private $OPSName = 'Нижняя Ножема';
     private $OPSType = 'О';
     private $OPSSubm = 162499;
-    private $Region = 'ВОЛОГОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Вологодская область';
     private $Autonom = '';
-    private $Area = 'БАБАЕВСКИЙ РАЙОН';
-    private $City = 'НИЖНЯЯ НОЖЕМА';
+    private $Area = 'Бабаевский район';
+    private $City = 'Нижняя Ножема';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

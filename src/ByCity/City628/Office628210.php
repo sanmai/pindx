@@ -27,13 +27,13 @@ final class Office628210 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 628210;
-    private $OPSName = 'КОНДИНСКОЕ';
+    private $OPSName = 'Кондинское';
     private $OPSType = 'О';
     private $OPSSubm = 628280;
     private $Region = '';
-    private $Autonom = 'ХАНТЫ-МАНСИЙСКИЙ-ЮГРА АВТОНОМНЫЙ ОКРУГ';
-    private $Area = 'КОНДИНСКИЙ РАЙОН';
-    private $City = 'КОНДИНСКОЕ';
+    private $Autonom = 'Ханты-Мансийский-Югра автономный округ';
+    private $Area = 'Кондинский район';
+    private $City = 'Кондинское';
     private $City1 = '';
     private $ActDate = '20170906';
     private $IndexOld = '';

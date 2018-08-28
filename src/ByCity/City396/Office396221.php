@@ -27,13 +27,13 @@ final class Office396221 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 396221;
-    private $OPSName = 'БОЛЬШИЕ ЯСЫРКИ';
+    private $OPSName = 'Большие Ясырки';
     private $OPSType = 'О';
     private $OPSSubm = 396259;
-    private $Region = 'ВОРОНЕЖСКАЯ ОБЛАСТЬ';
+    private $Region = 'Воронежская область';
     private $Autonom = '';
-    private $Area = 'АННИНСКИЙ РАЙОН';
-    private $City = 'БОЛЬШИЕ ЯСЫРКИ';
+    private $Area = 'Аннинский район';
+    private $City = 'Большие Ясырки';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

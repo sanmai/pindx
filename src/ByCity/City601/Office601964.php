@@ -27,13 +27,13 @@ final class Office601964 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 601964;
-    private $OPSName = 'ГИГАНТ';
+    private $OPSName = 'Гигант';
     private $OPSType = 'О';
     private $OPSSubm = 601919;
-    private $Region = 'ВЛАДИМИРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Владимирская область';
     private $Autonom = '';
-    private $Area = 'КОВРОВСКИЙ РАЙОН';
-    private $City = 'ГИГАНТ';
+    private $Area = 'Ковровский район';
+    private $City = 'Гигант';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office412384 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 412384;
-    private $OPSName = 'ХРУЩЕВКА';
+    private $OPSName = 'Хрущевка';
     private $OPSType = 'О';
     private $OPSSubm = 412300;
-    private $Region = 'САРАТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Саратовская область';
     private $Autonom = '';
-    private $Area = 'САМОЙЛОВСКИЙ РАЙОН';
-    private $City = 'ХРУЩЕВКА';
+    private $Area = 'Самойловский район';
+    private $City = 'Хрущевка';
     private $City1 = '';
     private $ActDate = '20021011';
     private $IndexOld = '';

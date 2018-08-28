@@ -27,13 +27,13 @@ final class Office606976 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 606976;
-    private $OPSName = 'ТРОШКОВО ППС';
-    private $OPSType = 'ППС';
+    private $OPSName = 'Трошково Ппс';
+    private $OPSType = 'Ппс';
     private $OPSSubm = 606839;
-    private $Region = 'НИЖЕГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Нижегородская область';
     private $Autonom = '';
-    private $Area = 'ТОНКИНСКИЙ РАЙОН';
-    private $City = 'ТРОШКОВО';
+    private $Area = 'Тонкинский район';
+    private $City = 'Трошково';
     private $City1 = '';
     private $ActDate = '20170711';
     private $IndexOld = '';

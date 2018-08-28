@@ -27,13 +27,13 @@ final class Office629877 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 629877;
-    private $OPSName = 'ХАНЫМЕЙ';
+    private $OPSName = 'Ханымей';
     private $OPSType = 'О';
     private $OPSSubm = 629800;
     private $Region = '';
-    private $Autonom = 'ЯМАЛО-НЕНЕЦКИЙ АВТОНОМНЫЙ ОКРУГ';
-    private $Area = 'ПУРОВСКИЙ РАЙОН';
-    private $City = 'ХАНЫМЕЙ';
+    private $Autonom = 'Ямало-Ненецкий автономный округ';
+    private $Area = 'Пуровский район';
+    private $City = 'Ханымей';
     private $City1 = '';
     private $ActDate = '20170906';
     private $IndexOld = '';

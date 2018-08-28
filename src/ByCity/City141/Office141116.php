@@ -27,13 +27,13 @@ final class Office141116 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 141116;
-    private $OPSName = 'ЩЕЛКОВО КЛАДОВАЯ ХРАНЕНИЯ НЕРОЗДАННЫХ ПО';
+    private $OPSName = 'Щелково Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 141000;
-    private $Region = 'МОСКОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Московская область';
     private $Autonom = '';
-    private $Area = 'ЩЕЛКОВСКИЙ РАЙОН';
-    private $City = 'ЩЕЛКОВО';
+    private $Area = 'Щелковский район';
+    private $City = 'Щелково';
     private $City1 = '';
     private $ActDate = '20171009';
     private $IndexOld = '';

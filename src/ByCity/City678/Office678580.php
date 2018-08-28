@@ -27,13 +27,13 @@ final class Office678580 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 678580;
-    private $OPSName = 'БАТАГАЙ-АЛЫТА';
+    private $OPSName = 'Батагай-Алыта';
     private $OPSType = 'О';
     private $OPSSubm = 677099;
-    private $Region = 'САХА (ЯКУТИЯ) РЕСПУБЛИКА';
+    private $Region = 'Саха (Якутия) Республика';
     private $Autonom = '';
-    private $Area = 'ЭВЕНО-БЫТАНТАЙСКИЙ НАЦИОНАЛЬНЫЙ РАЙОН';
-    private $City = 'БАТАГАЙ-АЛЫТА';
+    private $Area = 'Эвено-Бытантайский национальный район';
+    private $City = 'Батагай-Алыта';
     private $City1 = '';
     private $ActDate = '20171018';
     private $IndexOld = '';

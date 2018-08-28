@@ -27,13 +27,13 @@ final class Office655743 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 655743;
-    private $OPSName = 'ВЕРХ-ТАШТЫП';
+    private $OPSName = 'Верх-Таштып';
     private $OPSType = 'О';
     private $OPSSubm = 655799;
-    private $Region = 'ХАКАСИЯ РЕСПУБЛИКА';
+    private $Region = 'Хакасия Республика';
     private $Autonom = '';
-    private $Area = 'ТАШТЫПСКИЙ РАЙОН';
-    private $City = 'ВЕРХ ТАШТЫП';
+    private $Area = 'Таштыпский район';
+    private $City = 'Верх Таштып';
     private $City1 = '';
     private $ActDate = '20180813';
     private $IndexOld = '';

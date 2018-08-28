@@ -27,13 +27,13 @@ final class Office391668 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 391668;
-    private $OPSName = 'ТУПИК ПОПС';
-    private $OPSType = 'ПЕРЕДВИЖНОЕ ОС';
+    private $OPSName = 'Тупик Попс';
+    private $OPSType = 'Передвижное Ос';
     private $OPSSubm = 391469;
-    private $Region = 'РЯЗАНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Рязанская область';
     private $Autonom = '';
-    private $Area = 'ЕРМИШИНСКИЙ РАЙОН';
-    private $City = 'ТУПИК';
+    private $Area = 'Ермишинский район';
+    private $City = 'Тупик';
     private $City1 = '';
     private $ActDate = '20061018';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office152627 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 152627;
-    private $OPSName = 'ДИВНАЯ ГОРА';
+    private $OPSName = 'Дивная Гора';
     private $OPSType = 'О';
     private $OPSSubm = 152619;
-    private $Region = 'ЯРОСЛАВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ярославская область';
     private $Autonom = '';
-    private $Area = 'УГЛИЧСКИЙ РАЙОН';
-    private $City = 'ДИВНАЯ ГОРА';
+    private $Area = 'Угличский район';
+    private $City = 'Дивная Гора';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

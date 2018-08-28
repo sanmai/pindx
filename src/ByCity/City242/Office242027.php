@@ -27,13 +27,13 @@ final class Office242027 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 242027;
-    private $OPSName = 'НОВОЕ КАПЛИНО';
+    private $OPSName = 'Новое Каплино';
     private $OPSType = 'О';
     private $OPSSubm = 242039;
-    private $Region = 'БРЯНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Брянская область';
     private $Autonom = '';
-    private $Area = 'ЖИРЯТИНСКИЙ РАЙОН';
-    private $City = 'НОВОЕ КАПЛИНО';
+    private $Area = 'Жирятинский район';
+    private $City = 'Новое Каплино';
     private $City1 = '';
     private $ActDate = '20120111';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office431702 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 431702;
-    private $OPSName = 'ЧАМЗИНКА 2';
-    private $OPSType = 'ПЕРЕДВИЖНОЕ ОС';
+    private $OPSName = 'Чамзинка 2';
+    private $OPSType = 'Передвижное Ос';
     private $OPSSubm = 431849;
-    private $Region = 'МОРДОВИЯ РЕСПУБЛИКА';
+    private $Region = 'Мордовия Республика';
     private $Autonom = '';
-    private $Area = 'ЧАМЗИНСКИЙ РАЙОН';
-    private $City = 'ЧАМЗИНКА';
+    private $Area = 'Чамзинский район';
+    private $City = 'Чамзинка';
     private $City1 = '';
     private $ActDate = '20150902';
     private $IndexOld = '';

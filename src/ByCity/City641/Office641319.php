@@ -27,13 +27,13 @@ final class Office641319 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 641319;
-    private $OPSName = 'ДОМ ОТДЫХА ЛЕСНИКИ';
+    private $OPSName = 'Дом Отдыха Лесники';
     private $OPSType = 'О';
     private $OPSSubm = 641339;
-    private $Region = 'КУРГАНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Курганская область';
     private $Autonom = '';
-    private $Area = 'КЕТОВСКИЙ РАЙОН';
-    private $City = 'ЛЕСНИКОВО';
+    private $Area = 'Кетовский район';
+    private $City = 'Лесниково';
     private $City1 = '';
     private $ActDate = '20180813';
     private $IndexOld = '';

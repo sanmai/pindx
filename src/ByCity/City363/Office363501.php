@@ -27,13 +27,13 @@ final class Office363501 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 363501;
-    private $OPSName = 'ЧИКОЛА 1 ППС';
-    private $OPSType = 'ППС';
+    private $OPSName = 'Чикола 1 Ппс';
+    private $OPSType = 'Ппс';
     private $OPSSubm = 363330;
-    private $Region = 'СЕВЕРНАЯ ОСЕТИЯ - АЛАНИЯ РЕСПУБЛИКА';
+    private $Region = 'Северная Осетия - Алания Республика';
     private $Autonom = '';
-    private $Area = 'ИРАФСКИЙ РАЙОН';
-    private $City = 'ЧИКОЛА';
+    private $Area = 'Ирафский район';
+    private $City = 'Чикола';
     private $City1 = '';
     private $ActDate = '20170915';
     private $IndexOld = '';

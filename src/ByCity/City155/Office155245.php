@@ -27,14 +27,14 @@ final class Office155245 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 155245;
-    private $OPSName = 'СОСНОВЕЦ';
+    private $OPSName = 'Сосновец';
     private $OPSType = 'О';
     private $OPSSubm = 155339;
-    private $Region = 'ИВАНОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ивановская область';
     private $Autonom = '';
-    private $Area = 'РОДНИКОВСКИЙ РАЙОН';
-    private $City = 'СОСНОВЕЦ';
-    private $City1 = 'НОВЫЙ';
+    private $Area = 'Родниковский район';
+    private $City = 'Сосновец';
+    private $City1 = 'Новый';
     private $ActDate = '20060721';
     private $IndexOld = '';
 }

@@ -27,13 +27,13 @@ final class Office142263 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 142263;
-    private $OPSName = 'БОЛЬШОЕ ГРЫЗЛОВО';
+    private $OPSName = 'Большое Грызлово';
     private $OPSType = 'О';
     private $OPSSubm = 142169;
-    private $Region = 'МОСКОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Московская область';
     private $Autonom = '';
-    private $Area = 'СЕРПУХОВСКИЙ РАЙОН';
-    private $City = 'БОЛЬШОЕ ГРЫЗЛОВО';
+    private $Area = 'Серпуховский район';
+    private $City = 'Большое Грызлово';
     private $City1 = '';
     private $ActDate = '20080115';
     private $IndexOld = '';

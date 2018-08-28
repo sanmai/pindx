@@ -27,13 +27,13 @@ final class Office104040 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 104040;
-    private $OPSName = 'ШЕРЕМЕТЬЕВО АОПП';
-    private $OPSType = 'АОПП';
+    private $OPSName = 'Шереметьево Аопп';
+    private $OPSType = 'Аопп';
     private $OPSSubm = 144700;
-    private $Region = 'МОСКОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Московская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'ХИМКИ';
+    private $City = 'Химки';
     private $City1 = '';
     private $ActDate = '20160115';
     private $IndexOld = '';

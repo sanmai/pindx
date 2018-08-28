@@ -27,13 +27,13 @@ final class Office461022 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 461022;
-    private $OPSName = 'ТВЕРДИЛОВО';
+    private $OPSName = 'Твердилово';
     private $OPSType = 'О';
     private $OPSSubm = 461059;
-    private $Region = 'ОРЕНБУРГСКАЯ ОБЛАСТЬ';
+    private $Region = 'Оренбургская область';
     private $Autonom = '';
-    private $Area = 'БУЗУЛУКСКИЙ РАЙОН';
-    private $City = 'ТВЕРДИЛОВО';
+    private $Area = 'Бузулукский район';
+    private $City = 'Твердилово';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

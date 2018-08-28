@@ -27,13 +27,13 @@ final class Office652592 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 652592;
-    private $OPSName = 'ПАНФИЛОВО';
+    private $OPSName = 'Панфилово';
     private $OPSType = 'О';
     private $OPSSubm = 652599;
-    private $Region = 'КЕМЕРОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Кемеровская область';
     private $Autonom = '';
-    private $Area = 'ЛЕНИНСК-КУЗНЕЦКИЙ РАЙОН';
-    private $City = 'ПАНФИЛОВО';
+    private $Area = 'Ленинск-Кузнецкий район';
+    private $City = 'Панфилово';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

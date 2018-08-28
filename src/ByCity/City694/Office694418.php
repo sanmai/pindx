@@ -27,13 +27,13 @@ final class Office694418 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 694418;
-    private $OPSName = 'АРГИ-ПАГИ УООП';
+    private $OPSName = 'Арги-Паги Уооп';
     private $OPSType = 'Участок';
     private $OPSSubm = 694409;
-    private $Region = 'САХАЛИНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Сахалинская область';
     private $Autonom = '';
-    private $Area = 'ТЫМОВСКИЙ РАЙОН';
-    private $City = 'АРГИ-ПАГИ';
+    private $Area = 'Тымовский район';
+    private $City = 'Арги-Паги';
     private $City1 = '';
     private $ActDate = '20161219';
     private $IndexOld = '';

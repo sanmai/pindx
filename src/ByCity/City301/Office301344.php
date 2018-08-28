@@ -27,13 +27,13 @@ final class Office301344 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 301344;
-    private $OPSName = 'СЕНЕВО';
+    private $OPSName = 'Сенево';
     private $OPSType = 'О';
     private $OPSSubm = 301379;
-    private $Region = 'ТУЛЬСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тульская область';
     private $Autonom = '';
-    private $Area = 'АЛЕКСИНСКИЙ РАЙОН';
-    private $City = 'СЕНЕВО';
+    private $Area = 'Алексинский район';
+    private $City = 'Сенево';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

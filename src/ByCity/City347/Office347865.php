@@ -27,13 +27,13 @@ final class Office347865 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 347865;
-    private $OPSName = 'ВЕРХНИЕ ГРАЧИКИ';
+    private $OPSName = 'Верхние Грачики';
     private $OPSType = 'О';
     private $OPSSubm = 347819;
-    private $Region = 'РОСТОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Ростовская область';
     private $Autonom = '';
-    private $Area = 'КАМЕНСКИЙ РАЙОН';
-    private $City = 'ВЕРХНИЕ ГРАЧИКИ';
+    private $Area = 'Каменский район';
+    private $City = 'Верхние Грачики';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

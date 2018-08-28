@@ -27,13 +27,13 @@ final class Office393800 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 393800;
-    private $OPSName = 'СТАРОЮРЬЕВО';
+    private $OPSName = 'Староюрьево';
     private $OPSType = 'О';
     private $OPSSubm = 393724;
-    private $Region = 'ТАМБОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Тамбовская область';
     private $Autonom = '';
-    private $Area = 'СТАРОЮРЬЕВСКИЙ РАЙОН';
-    private $City = 'СТАРОЮРЬЕВО';
+    private $Area = 'Староюрьевский район';
+    private $City = 'Староюрьево';
     private $City1 = '';
     private $ActDate = '20060404';
     private $IndexOld = '';

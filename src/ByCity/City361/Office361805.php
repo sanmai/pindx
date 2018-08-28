@@ -27,13 +27,13 @@ final class Office361805 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 361805;
-    private $OPSName = 'ВЕРХНЯЯ ЖЕМТАЛА';
+    private $OPSName = 'Верхняя Жемтала';
     private $OPSType = 'О';
     private $OPSSubm = 360000;
-    private $Region = 'КАБАРДИНО-БАЛКАРСКАЯ РЕСПУБЛИКА';
+    private $Region = 'Кабардино-Балкарская Республика';
     private $Autonom = '';
-    private $Area = 'ЧЕРЕКСКИЙ РАЙОН';
-    private $City = 'ВЕРХНЯЯ ЖЕМТАЛА';
+    private $Area = 'Черекский район';
+    private $City = 'Верхняя Жемтала';
     private $City1 = '';
     private $ActDate = '20070814';
     private $IndexOld = '';

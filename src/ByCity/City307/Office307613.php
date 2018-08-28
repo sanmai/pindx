@@ -27,13 +27,13 @@ final class Office307613 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 307613;
-    private $OPSName = 'ВЕРХНЯЯ СОКОВНИНКА';
+    private $OPSName = 'Верхняя Соковнинка';
     private $OPSType = 'О';
     private $OPSSubm = 307759;
-    private $Region = 'КУРСКАЯ ОБЛАСТЬ';
+    private $Region = 'Курская область';
     private $Autonom = '';
-    private $Area = 'КОНЫШЕВСКИЙ РАЙОН';
-    private $City = 'ВЕРХНЯЯ СОКОВНИНКА';
+    private $Area = 'Конышевский район';
+    private $City = 'Верхняя Соковнинка';
     private $City1 = '';
     private $ActDate = '20050704';
     private $IndexOld = '';

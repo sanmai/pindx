@@ -27,13 +27,13 @@ final class Office431212 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 431212;
-    private $OPSName = 'КУЛИКОВО';
+    private $OPSName = 'Куликово';
     private $OPSType = 'О';
     private $OPSSubm = 431259;
-    private $Region = 'МОРДОВИЯ РЕСПУБЛИКА';
+    private $Region = 'Мордовия Республика';
     private $Autonom = '';
-    private $Area = 'ТЕНЬГУШЕВСКИЙ РАЙОН';
-    private $City = 'КУЛИКОВО';
+    private $Area = 'Теньгушевский район';
+    private $City = 'Куликово';
     private $City1 = '';
     private $ActDate = '20060615';
     private $IndexOld = '';

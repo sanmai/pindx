@@ -27,13 +27,13 @@ final class Office143823 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 143823;
-    private $OPSName = 'КОНОПЛЕВО';
+    private $OPSName = 'Коноплево';
     private $OPSType = 'О';
     private $OPSSubm = 143449;
-    private $Region = 'МОСКОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Московская область';
     private $Autonom = '';
-    private $Area = 'ЛОТОШИНСКИЙ РАЙОН';
-    private $City = 'КОНОПЛЕВО';
+    private $Area = 'Лотошинский район';
+    private $City = 'Коноплево';
     private $City1 = '';
     private $ActDate = '20100721';
     private $IndexOld = '';

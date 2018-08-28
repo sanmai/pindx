@@ -27,13 +27,13 @@ final class Office423514 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 423514;
-    private $OPSName = 'НИЖНЕЕ БИШЕВО';
+    private $OPSName = 'Нижнее Бишево';
     private $OPSType = 'О';
     private $OPSSubm = 423539;
-    private $Region = 'ТАТАРСТАН РЕСПУБЛИКА';
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = 'ЗАИНСКИЙ РАЙОН';
-    private $City = 'НИЖНЕЕ БИШЕВО';
+    private $Area = 'Заинский район';
+    private $City = 'Нижнее Бишево';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

@@ -27,13 +27,13 @@ final class Office442132 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 442132;
-    private $OPSName = 'МИЧКАССКИЕ ВЫСЕЛКИ';
+    private $OPSName = 'Мичкасские Выселки';
     private $OPSType = 'О';
     private $OPSSubm = 442169;
-    private $Region = 'ПЕНЗЕНСКАЯ ОБЛАСТЬ';
+    private $Region = 'Пензенская область';
     private $Autonom = '';
-    private $Area = 'НИЖНЕЛОМОВСКИЙ РАЙОН';
-    private $City = 'МИЧКАССКИЕ ВЫСЕЛКИ';
+    private $Area = 'Нижнеломовский район';
+    private $City = 'Мичкасские Выселки';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

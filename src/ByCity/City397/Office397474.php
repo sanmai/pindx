@@ -27,13 +27,13 @@ final class Office397474 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 397474;
-    private $OPSName = 'ВЕРХНЯЯ ТИШАНКА';
+    private $OPSName = 'Верхняя Тишанка';
     private $OPSType = 'О';
     private $OPSSubm = 397499;
-    private $Region = 'ВОРОНЕЖСКАЯ ОБЛАСТЬ';
+    private $Region = 'Воронежская область';
     private $Autonom = '';
-    private $Area = 'ТАЛОВСКИЙ РАЙОН';
-    private $City = 'ВЕРХНЯЯ ТИШАНКА';
+    private $Area = 'Таловский район';
+    private $City = 'Верхняя Тишанка';
     private $City1 = '';
     private $ActDate = '20001030';
     private $IndexOld = '';

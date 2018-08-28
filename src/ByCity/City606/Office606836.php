@@ -27,13 +27,13 @@ final class Office606836 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 606836;
-    private $OPSName = 'БОЛЬШОЙ ТЕРСЕНЬ ППС';
-    private $OPSType = 'ППС';
+    private $OPSName = 'Большой Терсень Ппс';
+    private $OPSType = 'Ппс';
     private $OPSSubm = 606839;
-    private $Region = 'НИЖЕГОРОДСКАЯ ОБЛАСТЬ';
+    private $Region = 'Нижегородская область';
     private $Autonom = '';
-    private $Area = 'УРЕНСКИЙ РАЙОН';
-    private $City = 'БОЛЬШОЙ ТЕРСЕНЬ';
+    private $Area = 'Уренский район';
+    private $City = 'Большой Терсень';
     private $City1 = '';
     private $ActDate = '20170711';
     private $IndexOld = '';

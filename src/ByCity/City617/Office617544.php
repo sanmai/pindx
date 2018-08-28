@@ -27,13 +27,13 @@ final class Office617544 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 617544;
-    private $OPSName = 'НИЖНЯЯ ИСТЕКАЕВКА';
+    private $OPSName = 'Нижняя Истекаевка';
     private $OPSType = 'О';
     private $OPSSubm = 617489;
-    private $Region = 'ПЕРМСКИЙ КРАЙ';
+    private $Region = 'Пермский край';
     private $Autonom = '';
-    private $Area = 'СУКСУНСКИЙ РАЙОН';
-    private $City = 'НИЖНЯЯ ИСТЕКАЕВКА';
+    private $Area = 'Суксунский район';
+    private $City = 'Нижняя Истекаевка';
     private $City1 = '';
     private $ActDate = '20051228';
     private $IndexOld = '';

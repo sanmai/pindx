@@ -27,13 +27,13 @@ final class Office142679 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 142679;
-    private $OPSName = 'ОРЕХОВО-ЗУЕВО ПОЧТАМТ';
+    private $OPSName = 'Орехово-Зуево Почтамт';
     private $OPSType = 'П';
     private $OPSSubm = 144700;
-    private $Region = 'МОСКОВСКАЯ ОБЛАСТЬ';
+    private $Region = 'Московская область';
     private $Autonom = '';
-    private $Area = 'ОРЕХОВО-ЗУЕВСКИЙ РАЙОН';
-    private $City = 'ОРЕХОВО-ЗУЕВО';
+    private $Area = 'Орехово-Зуевский район';
+    private $City = 'Орехово-Зуево';
     private $City1 = '';
     private $ActDate = '20080319';
     private $IndexOld = '';
