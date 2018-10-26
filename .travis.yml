@@ -16,6 +16,7 @@ install:
   - composer install --prefer-dist
 
 script:
+  - make PIndx.tsv
   - vendor/bin/phpunit
   - vendor/bin/php-cs-fixer --dry-run --stop-on-violation fix
   - composer validate

@@ -1,6 +1,7 @@
 SHELL=/bin/bash
 
 all: src/MainDirectory.php src/PrefixDirectory.php json src/ByCity
+	mkdir -p build/cache
 	php vendor/bin/php-cs-fixer fix -v
 
 clean:
