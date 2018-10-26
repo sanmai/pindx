@@ -20,7 +20,7 @@ stages:
 jobs:
   include:
     - stage: analyze
-      php: 7.2
+      php: 7.1
       before_install:
         - sudo apt-get install -y dbview
       install:
