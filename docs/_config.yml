@@ -1,1 +1,18 @@
 theme: jekyll-theme-dinky
+
+google_analytics: UA-15430942-8
+
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+
+encoding: UTF-8
+kramdown:
+  input: GFM
+  hard_wrap: false
+future: true
+jailed: false
+gfm_quirks: paragraph_end
+
