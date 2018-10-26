@@ -83,18 +83,18 @@ $office->getDate();
 require 'vendor/autoload.php';
 
 $postalCode = 130980;
-$office = \RussianPostIndex\PrefixDirectory::getOffice($postalCode);
-
-var_dump($office->getIndex()); // int(130980)
-var_dump($office->getName()); // string(25) "Москва EMS ММПО"
-var_dump($office->getType()); // string(8) "ММПО"
-var_dump($office->getSuperior()); // int(104040)
-var_dump($office->getRegion()); // string(12) "Москва"
-var_dump($office->getAutonomousRegion()); // string(0) ""
-var_dump($office->getArea()); // string(0) ""
-var_dump($office->getCity()); // string(0) ""
-var_dump($office->getDistrict()); // string(0) ""
-var_dump($office->getDate()->format('Y-m-d')); // string(10) "2017-04-28"
+if ($office = \RussianPostIndex\PrefixDirectory::getOffice($postalCode)) {
+    var_dump($office->getIndex()); // int(130980)
+    var_dump($office->getName()); // string(25) "Москва EMS ММПО"
+    var_dump($office->getType()); // string(8) "ММПО"
+    var_dump($office->getSuperior()); // int(104040)
+    var_dump($office->getRegion()); // string(12) "Москва"
+    var_dump($office->getAutonomousRegion()); // string(0) ""
+    var_dump($office->getArea()); // string(0) ""
+    var_dump($office->getCity()); // string(0) ""
+    var_dump($office->getDistrict()); // string(0) ""
+    var_dump($office->getDate()->format('Y-m-d')); // string(10) "2017-04-28"
+}
 ```
 
 ## Проверка индекса
