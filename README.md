@@ -101,7 +101,8 @@ var_dump($office->getDate()->format('Y-m-d')); // string(10) "2017-04-28"
 
 ```php
 $postalCode = 130980;
-var_dump(\RussianPostIndex\MainDirectory::postalCodeValid($postalCode));
+$postalCodeValid = \RussianPostIndex\MainDirectory::postalCodeValid($postalCode);
+var_dump($postalCodeValid);
 // bool(true)
 ```
 Существуют способы ещё более ускорить работу алгоритма проверки индексов, с большим использованием памяти и существенно более медленной инициализацией поискового индекса. В этой библиотеке такой метод не имплементирован.
