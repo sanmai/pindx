@@ -24,17 +24,14 @@ use PHPUnit\Framework\TestCase;
 /**
  * @coversNothing
  */
-class Validate extends TestCase
+class ValidateTest extends TestCase
 {
-    public static function setUpBeforeClass()
+    public function postalCodeProvider()
     {
         if (!file_exists(\PIndxTools\Reader::TSV_SOURCE)) {
             self::markTestSkipped('No data to test with');
         }
-    }
 
-    public function postalCodeProvider()
-    {
         $reader = new \PIndxTools\Reader();
 
         yield from \Pipeline\take($reader->read())->map(function (\PIndxTools\Record $record) {
