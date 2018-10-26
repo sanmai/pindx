@@ -41,6 +41,12 @@ class ReaderTest extends TestCase
         $this->assertSame('Москва', $rec->OPSName);
         $this->assertSame(127950, $rec->OPSSubm);
         $this->assertSame('20110121', $rec->ActDate);
+
+        foreach ($reader->read($fh) as $rec) {
+            continue;
+        }
+
+        $this->assertFalse(is_resource($fh));
     }
 
     public function testUpdateCyrillicCasing()
