@@ -11,6 +11,13 @@ cache:
     - $HOME/.composer
     - build/cache
 
+addons:
+  apt:
+    update: true
+
+before_install:
+  - sudo apt-get install -y dbview
+
 install:
   - composer install --prefer-dist
 

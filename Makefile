@@ -15,6 +15,7 @@ PIndx.dbf: PIndx.zip
 	unzip -p PIndx.zip > PIndx.dbf
 
 PIndx.txt: PIndx.dbf
+	@$$(command -v dbview) --version
 	dbview -o -e -r PIndx.dbf > PIndx.txt || true
 
 PIndx.tsv: PIndx.dbf
