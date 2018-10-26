@@ -43,4 +43,5 @@ return PhpCsFixer\Config::create()
         PhpCsFixer\Finder::create()
         ->in(__DIR__)
     )
+    ->setCacheFile(__DIR__.'/build/cache/.php_cs.cache')
 ;
