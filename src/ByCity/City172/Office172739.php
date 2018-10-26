@@ -32,9 +32,9 @@ final class Office172739 implements \RussianPostIndex\Record
     private $OPSSubm = 172749;
     private $Region = 'Тверская область';
     private $Autonom = '';
-    private $Area = 'Осташковский район';
-    private $City = 'Солнечный';
+    private $Area = '';
+    private $City = 'Зато Солнечный';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20180829';
     private $IndexOld = '';
 }

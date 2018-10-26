@@ -29,12 +29,12 @@ final class Office171902 implements \RussianPostIndex\Record
     private $Index = 171902;
     private $OPSName = 'Максатиха ППС';
     private $OPSType = 'ППС';
-    private $OPSSubm = 170000;
+    private $OPSSubm = 171939;
     private $Region = 'Тверская область';
     private $Autonom = '';
     private $Area = 'Максатихинский район';
     private $City = 'Максатиха';
     private $City1 = '';
-    private $ActDate = '20171009';
+    private $ActDate = '20180903';
     private $IndexOld = '';
 }

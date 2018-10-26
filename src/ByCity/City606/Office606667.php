@@ -27,7 +27,7 @@ final class Office606667 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 606667;
-    private $OPSName = 'Семенов Удпп';
+    private $OPSName = 'Семенов Увпп';
     private $OPSType = 'Участок';
     private $OPSSubm = 606669;
     private $Region = 'Нижегородская область';
@@ -35,6 +35,6 @@ final class Office606667 implements \RussianPostIndex\Record
     private $Area = 'Семеновский район';
     private $City = 'Семенов';
     private $City1 = '';
-    private $ActDate = '20180626';
+    private $ActDate = '20181005';
     private $IndexOld = '';
 }

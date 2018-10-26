@@ -1,6 +1,6 @@
 SHELL=/bin/bash
 
-all: src/MainDirectory.php src/PrefixDirectory.php json src/ByCity
+all: src/MainDirectory.php src/PrefixDirectory.php docs/json src/ByCity
 	mkdir -p build/cache
 	php vendor/bin/php-cs-fixer fix -v
 
@@ -29,11 +29,11 @@ src/MainDirectory.php: PIndx.tsv
 src/PrefixDirectory.php: PIndx.tsv
 	php bin/PrefixDirectory.php
 
-json: PIndx.tsv
+docs/json: PIndx.tsv
 	php bin/JSONIndex.php
-	touch json
+	touch docs/json
 
 src/ByCity: PIndx.tsv
 	php bin/PHPExport.php
-	php vendor/bin/php-cs-fixer fix -v src/ByCity/
+	find src/ByCity -type f -print0 | xargs -0 -P$$(nproc) -n64 php vendor/bin/php-cs-fixer fix --using-cache=no --quiet --config .php_cs.dist
 	touch src/ByCity

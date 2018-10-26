@@ -27,7 +27,7 @@ final class Office606915 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 606915;
-    private $OPSName = 'Шахунья Удпп';
+    private $OPSName = 'Шахунья Увпп';
     private $OPSType = 'Участок';
     private $OPSSubm = 606929;
     private $Region = 'Нижегородская область';
@@ -35,6 +35,6 @@ final class Office606915 implements \RussianPostIndex\Record
     private $Area = 'Шахунский район';
     private $City = 'Шахунья';
     private $City1 = '';
-    private $ActDate = '20180626';
+    private $ActDate = '20181005';
     private $IndexOld = '';
 }

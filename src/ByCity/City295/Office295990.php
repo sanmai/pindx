@@ -32,9 +32,9 @@ final class Office295990 implements \RussianPostIndex\Record
     private $OPSSubm = 295999;
     private $Region = 'Крым Республика';
     private $Autonom = '';
-    private $Area = '';
-    private $City = 'Симферополь';
+    private $Area = 'Симферопольский район';
+    private $City = 'Мирное 5';
     private $City1 = '';
-    private $ActDate = '20171018';
+    private $ActDate = '20180914';
     private $IndexOld = '';
 }

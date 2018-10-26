@@ -30,11 +30,11 @@ final class Office130980 implements \RussianPostIndex\Record
     private $OPSName = 'Москва EMS ММПО';
     private $OPSType = 'ММПО';
     private $OPSSubm = 104040;
-    private $Region = 'Москва';
+    private $Region = 'Московская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = '';
-    private $City1 = '';
-    private $ActDate = '20170428';
+    private $City = 'Химки';
+    private $City1 = 'Шереметьево - 2';
+    private $ActDate = '20180821';
     private $IndexOld = '';
 }

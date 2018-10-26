@@ -33,8 +33,8 @@ final class Office215032 implements \RussianPostIndex\Record
     private $Region = 'Смоленская область';
     private $Autonom = '';
     private $Area = 'Гагаринский район';
-    private $City = 'Самуйлово Самуйловский округ';
+    private $City = 'Самуйлово';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20180913';
     private $IndexOld = '';
 }

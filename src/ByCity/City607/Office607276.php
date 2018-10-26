@@ -27,7 +27,7 @@ final class Office607276 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 607276;
-    private $OPSName = 'Арзамас Удпп';
+    private $OPSName = 'Арзамас Увпп';
     private $OPSType = 'Участок';
     private $OPSSubm = 607279;
     private $Region = 'Нижегородская область';
@@ -35,6 +35,6 @@ final class Office607276 implements \RussianPostIndex\Record
     private $Area = 'Арзамасский район';
     private $City = 'Арзамас';
     private $City1 = '';
-    private $ActDate = '20180626';
+    private $ActDate = '20181005';
     private $IndexOld = '';
 }

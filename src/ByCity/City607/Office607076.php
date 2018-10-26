@@ -27,7 +27,7 @@ final class Office607076 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 607076;
-    private $OPSName = 'Выкса Удпп';
+    private $OPSName = 'Выкса Увпп';
     private $OPSType = 'Участок';
     private $OPSSubm = 607079;
     private $Region = 'Нижегородская область';
@@ -35,6 +35,6 @@ final class Office607076 implements \RussianPostIndex\Record
     private $Area = 'Выксунский район';
     private $City = 'Выкса';
     private $City1 = '';
-    private $ActDate = '20180626';
+    private $ActDate = '20181005';
     private $IndexOld = '';
 }

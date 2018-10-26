@@ -27,7 +27,7 @@ final class Office606498 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 606498;
-    private $OPSName = 'Бор Удпп';
+    private $OPSName = 'Бор Увпп';
     private $OPSType = 'Участок';
     private $OPSSubm = 606449;
     private $Region = 'Нижегородская область';
@@ -35,6 +35,6 @@ final class Office606498 implements \RussianPostIndex\Record
     private $Area = 'Борский район';
     private $City = 'Бор';
     private $City1 = '';
-    private $ActDate = '20180626';
+    private $ActDate = '20181005';
     private $IndexOld = '';
 }

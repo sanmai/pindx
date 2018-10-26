@@ -27,7 +27,7 @@ final class Office386200 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 386200;
-    private $OPSName = 'Орджоникидзевская Почтамт';
+    private $OPSName = 'Сунжа Почтамт';
     private $OPSType = 'П';
     private $OPSSubm = 386700;
     private $Region = 'Ингушетия Республика';
@@ -35,6 +35,6 @@ final class Office386200 implements \RussianPostIndex\Record
     private $Area = 'Сунженский район';
     private $City = 'Сунжа';
     private $City1 = '';
-    private $ActDate = '20120621';
+    private $ActDate = '20180924';
     private $IndexOld = '';
 }

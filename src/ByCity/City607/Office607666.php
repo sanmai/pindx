@@ -27,7 +27,7 @@ final class Office607666 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 607666;
-    private $OPSName = 'Кстово Удпп';
+    private $OPSName = 'Кстово Увпп';
     private $OPSType = 'Участок';
     private $OPSSubm = 607669;
     private $Region = 'Нижегородская область';
@@ -35,6 +35,6 @@ final class Office607666 implements \RussianPostIndex\Record
     private $Area = 'Кстовский район';
     private $City = 'Кстово';
     private $City1 = '';
-    private $ActDate = '20180626';
+    private $ActDate = '20181005';
     private $IndexOld = '';
 }

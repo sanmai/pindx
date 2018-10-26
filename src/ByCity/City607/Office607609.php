@@ -27,7 +27,7 @@ final class Office607609 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 607609;
-    private $OPSName = 'Богородск Удпп';
+    private $OPSName = 'Богородск Увпп';
     private $OPSType = 'Участок';
     private $OPSSubm = 607649;
     private $Region = 'Нижегородская область';
@@ -35,6 +35,6 @@ final class Office607609 implements \RussianPostIndex\Record
     private $Area = 'Богородский район';
     private $City = 'Богородск';
     private $City1 = '';
-    private $ActDate = '20180626';
+    private $ActDate = '20181005';
     private $IndexOld = '';
 }

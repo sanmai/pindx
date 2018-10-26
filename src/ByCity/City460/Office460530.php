@@ -34,7 +34,7 @@ final class Office460530 implements \RussianPostIndex\Record
     private $Autonom = '';
     private $Area = 'Оренбургский район';
     private $City = 'Ивановка';
-    private $City1 = 'Ивановка 460530';
-    private $ActDate = '20141222';
+    private $City1 = '';
+    private $ActDate = '20180913';
     private $IndexOld = '';
 }

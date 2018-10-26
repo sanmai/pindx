@@ -23,11 +23,11 @@ $pipeline = \Pipeline\take($reader->read());
 $pipeline->map(function (\PIndxTools\Record $record) {
     $cityCode = substr((string) $record->Index, 0, 3);
 
-    if (!is_dir("json/$cityCode/")) {
-        mkdir("json/$cityCode/");
+    if (!is_dir("docs/json/$cityCode/")) {
+        mkdir("docs/json/$cityCode/");
     }
 
-    yield "json/$cityCode/{$record->Index}.json" => $record;
+    yield "docs/json/$cityCode/{$record->Index}.json" => $record;
 });
 
 foreach ($pipeline as $filename => $record) {

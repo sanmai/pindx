@@ -27,7 +27,7 @@ final class Office607196 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 607196;
-    private $OPSName = 'Саров Удпп';
+    private $OPSName = 'Саров Увпп';
     private $OPSType = 'Участок';
     private $OPSSubm = 607180;
     private $Region = 'Нижегородская область';
@@ -35,6 +35,6 @@ final class Office607196 implements \RussianPostIndex\Record
     private $Area = '';
     private $City = 'Саров';
     private $City1 = '';
-    private $ActDate = '20180626';
+    private $ActDate = '20181005';
     private $IndexOld = '';
 }
