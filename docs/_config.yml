@@ -17,3 +17,6 @@ jailed: false
 gfm_quirks: paragraph_end
 
 lang: ru
+
+title: JSON API
+description: Справочник почтовых индексов почты России
