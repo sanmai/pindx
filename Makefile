@@ -5,7 +5,7 @@ all: src/MainDirectory.php src/PrefixDirectory.php docs/json src/ByCity
 	php vendor/bin/php-cs-fixer fix -v
 
 clean:
-	rm -v PIndx.tsv PIndx.txt
+	rm -fv PIndx.tsv PIndx.txt PIndx.dbf PIndx.zip
 
 PIndx.zip:
 	wget http://vinfo.russianpost.ru/database/PIndx.zip
