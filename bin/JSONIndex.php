@@ -18,6 +18,10 @@
 declare(strict_types=1);
 require 'vendor/autoload.php';
 
+if (!is_dir('docs/json')) {
+    mkdir('docs/json');
+}
+
 $reader = new \PIndxTools\Reader();
 $pipeline = \Pipeline\take($reader->read());
 $pipeline->map(function (\PIndxTools\Record $record) {

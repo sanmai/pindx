@@ -27,7 +27,7 @@ final class Office243225 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 243225;
-    private $OPSName = 'Ветлевка';
+    private $OPSName = 'Ясная Поляна';
     private $OPSType = 'О';
     private $OPSSubm = 243339;
     private $Region = 'Брянская область';
@@ -35,6 +35,6 @@ final class Office243225 implements \RussianPostIndex\Record
     private $Area = 'Мглинский район';
     private $City = 'Ясная Поляна';
     private $City1 = '';
-    private $ActDate = '20050715';
+    private $ActDate = '20181019';
     private $IndexOld = '';
 }

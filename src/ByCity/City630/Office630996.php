@@ -29,12 +29,12 @@ final class Office630996 implements \RussianPostIndex\Record
     private $Index = 630996;
     private $OPSName = 'Новосибирск-ДТИ';
     private $OPSType = 'ДТИ';
-    private $OPSSubm = 630027;
+    private $OPSSubm = 630100;
     private $Region = 'Новосибирская область';
     private $Autonom = '';
     private $Area = '';
     private $City = 'Новосибирск';
     private $City1 = '';
-    private $ActDate = '20160415';
+    private $ActDate = '20181022';
     private $IndexOld = '';
 }

@@ -33,8 +33,8 @@ final class Office242017 implements \RussianPostIndex\Record
     private $Region = 'Брянская область';
     private $Autonom = '';
     private $Area = 'Жирятинский район';
-    private $City = 'Морачево';
+    private $City = 'Морачово';
     private $City1 = '';
-    private $ActDate = '20060206';
+    private $ActDate = '20181022';
     private $IndexOld = '';
 }
