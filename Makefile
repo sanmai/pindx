@@ -1,13 +1,10 @@
 SHELL=/bin/bash
 
+.PHONY=all
 all: src/MainDirectory.php src/PrefixDirectory.php docs/json src/ByCity
 	mkdir -p build/cache
 	php vendor/bin/php-cs-fixer fix -v
 	git add src/ByCity/ docs/json/
-
-clean:
-	rm -fv PIndx.tsv PIndx.txt PIndx.dbf PIndx.zip
-	git rm -fr src/ByCity/ docs/json/
 
 PIndx.zip:
 	wget http://vinfo.russianpost.ru/database/PIndx.zip
@@ -39,3 +36,12 @@ src/ByCity: PIndx.tsv
 	php bin/PHPExport.php
 	find src/ByCity -type f -print0 | xargs -0 -P$$(nproc) -n64 php vendor/bin/php-cs-fixer fix --using-cache=no --quiet --config .php_cs.dist
 	touch src/ByCity
+
+.PHONY=clean
+clean:
+	rm -fv PIndx.tsv PIndx.txt PIndx.dbf PIndx.zip
+	git rm -fr src/ByCity/ docs/json/
+
+.PHONY=test
+test:
+	php vendor/bin/phpunit
