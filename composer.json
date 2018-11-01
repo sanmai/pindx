@@ -6,7 +6,7 @@
         "phpunit/phpunit": ">=6",
         "sanmai/pipeline": "^0.3.3|^2.0|^3.0",
         "friendsofphp/php-cs-fixer": "^2.13",
-        "symfony/finder": "^4.1"
+        "symfony/finder": "^3.4|^4.1"
     },
     "license": "Apache-2.0",
     "require": {
