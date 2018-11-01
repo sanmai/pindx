@@ -25,31 +25,8 @@ use Symfony\Component\Finder\Finder;
 /**
  * @coversNothing
  */
-class ValidateTest extends TestCase
+class ValidateMainDirectoryTest extends TestCase
 {
-    public function postalCodeProvider()
-    {
-        if (!file_exists(\PIndxTools\Reader::TSV_SOURCE)) {
-            self::markTestSkipped('No data to test with');
-        }
-
-        $reader = new \PIndxTools\Reader();
-
-        return \Pipeline\take($reader->read())->map(function (\PIndxTools\Record $record) {
-            return [$record->Index];
-        });
-    }
-
-    /**
-     * @dataProvider postalCodeProvider
-     *
-     * @param mixed $postalCode
-     */
-    public function testPostalCodeExists($postalCode)
-    {
-        $this->assertNotNull(\RussianPostIndex\PrefixDirectory::getOffice($postalCode));
-    }
-
     public function postalCodesFromFiles()
     {
         $finder = new Finder();
