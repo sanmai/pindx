@@ -6,6 +6,7 @@ all: src/MainDirectory.php src/PrefixDirectory.php docs/json src/ByCity
 
 clean:
 	rm -fv PIndx.tsv PIndx.txt PIndx.dbf PIndx.zip
+	git rm -fr src/ByCity/ docs/json/
 
 PIndx.zip:
 	wget http://vinfo.russianpost.ru/database/PIndx.zip
