@@ -20,6 +20,7 @@ declare(strict_types=1);
 namespace Tests\PIndxTools;
 
 use PHPUnit\Framework\TestCase;
+use Symfony\Component\Finder\Finder;
 
 /**
  * @coversNothing
@@ -34,7 +35,7 @@ class ValidateTest extends TestCase
 
         $reader = new \PIndxTools\Reader();
 
-        yield from \Pipeline\take($reader->read())->map(function (\PIndxTools\Record $record) {
+        return \Pipeline\take($reader->read())->map(function (\PIndxTools\Record $record) {
             return [$record->Index];
         });
     }
@@ -47,5 +48,37 @@ class ValidateTest extends TestCase
     public function testPostalCodeExists($postalCode)
     {
         $this->assertNotNull(\RussianPostIndex\PrefixDirectory::getOffice($postalCode));
+    }
+
+    public function postalCodesFromFiles()
+    {
+        $finder = new Finder();
+        $finder->files()->in('src/ByCity/')->name('Office*.php');
+
+        $pipeline = \Pipeline\take($finder);
+
+        $pipeline->map(function (\SplFileInfo $fileInfo) {
+            return $fileInfo->getFilename();
+        });
+
+        $pipeline->map(function ($filename) {
+            return substr($filename, 6, 6);
+        });
+
+        $pipeline->map(function ($postalCode) {
+            yield $postalCode => [$postalCode];
+        });
+
+        return $pipeline;
+    }
+
+    /**
+     * @dataProvider postalCodesFromFiles
+     *
+     * @param mixed $postalCode
+     */
+    public function testPostalCodeIndexed($postalCode)
+    {
+        $this->assertTrue(\RussianPostIndex\MainDirectory::postalCodeValid($postalCode));
     }
 }
