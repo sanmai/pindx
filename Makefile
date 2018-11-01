@@ -3,6 +3,7 @@ SHELL=/bin/bash
 all: src/MainDirectory.php src/PrefixDirectory.php docs/json src/ByCity
 	mkdir -p build/cache
 	php vendor/bin/php-cs-fixer fix -v
+	git add src/ByCity/ docs/json/
 
 clean:
 	rm -fv PIndx.tsv PIndx.txt PIndx.dbf PIndx.zip
