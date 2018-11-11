@@ -1,2 +1,4 @@
 Host: https://www.postindexapi.ru/
 Sitemap: https://www.postindexapi.ru/sitemap.xml
+
+Disallow: /id/
