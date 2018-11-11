@@ -1,0 +1,26 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+    xmlns:yandex="http://news.yandex.ru"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:turbo="http://turbo.yandex.ru">
+  <channel>
+    {% if site.google_analytics %}<yandex:analytics id="{{ site.google_analytics }}" type="Google"></yandex:analytics>{% endif %}
+    <title>{{ site.title | xml_escape }}</title>
+    <description>{{ site.description | xml_escape }}</description>
+    <language>ru</language>
+    <link>{{ site.url }}{{ site.baseurl }}/</link>
+    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
+    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+    <generator>Jekyll v{{ jekyll.version }}</generator>
+    {% for post in site.pages limit:1 %}
+      <item turbo="true">
+        <title>{{ post.title | xml_escape }}</title>
+        <turbo:content><![CDATA[{{ post.content }}]]></turbo:content>
+        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
+      </item>
+    {% endfor %}
+  </channel>
+</rss>
