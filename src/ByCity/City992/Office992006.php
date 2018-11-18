@@ -17,24 +17,24 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City132;
+namespace RussianPostIndex\ByCity\City992;
 
 /**
  * @internal
  */
-final class Office132700 implements \RussianPostIndex\Record
+final class Office992006 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 132700;
-    private $OPSName = 'Асц-Филиал ФГУП "почта России"';
-    private $OPSType = 'УФПС';
-    private $OPSSubm = 0;
-    private $Region = 'Московская область';
+    private $Index = 992006;
+    private $OPSName = 'Самара Почтомат (Апс)';
+    private $OPSType = 'Почтомат';
+    private $OPSSubm = 443099;
+    private $Region = 'Самарская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'Подольск';
+    private $City = 'Самара';
     private $City1 = '';
-    private $ActDate = '20180530';
+    private $ActDate = '20181114';
     private $IndexOld = '';
 }

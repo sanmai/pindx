@@ -17,24 +17,24 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City102;
+namespace RussianPostIndex\ByCity\City646;
 
 /**
  * @internal
  */
-final class Office102014 implements \RussianPostIndex\Record
+final class Office646129 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 102014;
-    private $OPSName = 'Москва-ГЦМПП Ремцех';
-    private $OPSType = 'Цех';
-    private $OPSSubm = 135800;
-    private $Region = 'Москва';
+    private $Index = 646129;
+    private $OPSName = 'Называевск Уооп';
+    private $OPSType = 'Участок';
+    private $OPSSubm = 646339;
+    private $Region = 'Омская область';
     private $Autonom = '';
-    private $Area = '';
-    private $City = '';
+    private $Area = 'Называевский район';
+    private $City = 'Называевск';
     private $City1 = '';
-    private $ActDate = '20131015';
+    private $ActDate = '20181108';
     private $IndexOld = '';
 }

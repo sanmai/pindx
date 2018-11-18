@@ -32,9 +32,9 @@ final class Office166721 implements \RussianPostIndex\Record
     private $OPSSubm = 166100;
     private $Region = '';
     private $Autonom = 'Ненецкий автономный округ';
-    private $Area = '';
+    private $Area = 'Заполярный район';
     private $City = 'Бугрино';
     private $City1 = '';
-    private $ActDate = '20051208';
+    private $ActDate = '20181112';
     private $IndexOld = '';
 }

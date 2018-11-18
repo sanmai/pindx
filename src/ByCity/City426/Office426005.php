@@ -17,24 +17,24 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City130;
+namespace RussianPostIndex\ByCity\City426;
 
 /**
  * @internal
  */
-final class Office130000 implements \RussianPostIndex\Record
+final class Office426005 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 130000;
-    private $OPSName = 'Москва EMS';
-    private $OPSType = 'УФПС';
-    private $OPSSubm = 0;
-    private $Region = 'Москва';
+    private $Index = 426005;
+    private $OPSName = 'Ижевск 5 ППС';
+    private $OPSType = 'ППС';
+    private $OPSSubm = 426999;
+    private $Region = 'Удмуртская Республика';
     private $Autonom = '';
     private $Area = '';
-    private $City = '';
+    private $City = 'Ижевск';
     private $City1 = '';
-    private $ActDate = '20060214';
+    private $ActDate = '20181108';
     private $IndexOld = '';
 }

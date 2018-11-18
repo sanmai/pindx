@@ -27,7 +27,7 @@ final class Office391816 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 391816;
-    private $OPSName = 'Троице-Орловка';
+    private $OPSName = 'Рудинка';
     private $OPSType = 'О';
     private $OPSSubm = 391859;
     private $Region = 'Рязанская область';
@@ -35,6 +35,6 @@ final class Office391816 implements \RussianPostIndex\Record
     private $Area = 'Скопинский район';
     private $City = 'Рудинка';
     private $City1 = '';
-    private $ActDate = '20180413';
+    private $ActDate = '20181109';
     private $IndexOld = '';
 }

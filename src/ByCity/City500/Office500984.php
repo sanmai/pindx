@@ -30,11 +30,11 @@ final class Office500984 implements \RussianPostIndex\Record
     private $OPSName = 'Russian Post Berlin O';
     private $OPSType = 'Участок';
     private $OPSSubm = 500100;
-    private $Region = 'Москва';
+    private $Region = 'Германия';
     private $Autonom = '';
     private $Area = '';
-    private $City = '';
+    private $City = 'Берлин';
     private $City1 = '';
-    private $ActDate = '20081024';
+    private $ActDate = '20181109';
     private $IndexOld = '';
 }

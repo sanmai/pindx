@@ -35,6 +35,6 @@ final class Office607836 implements \RussianPostIndex\Record
     private $Area = 'Лукояновский район';
     private $City = 'Санки';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20181030';
     private $IndexOld = '';
 }

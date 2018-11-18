@@ -17,24 +17,24 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City102;
+namespace RussianPostIndex\ByCity\City992;
 
 /**
  * @internal
  */
-final class Office102893 implements \RussianPostIndex\Record
+final class Office992004 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 102893;
-    private $OPSName = 'Москва-ГЦМПП Ремцех Уч. Тары';
-    private $OPSType = 'Ти';
-    private $OPSSubm = 102014;
-    private $Region = 'Москва';
+    private $Index = 992004;
+    private $OPSName = 'Самара Почтомат (Апс)';
+    private $OPSType = 'Почтомат';
+    private $OPSSubm = 443041;
+    private $Region = 'Самарская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = '';
+    private $City = 'Самара';
     private $City1 = '';
-    private $ActDate = '20131010';
+    private $ActDate = '20181113';
     private $IndexOld = '';
 }

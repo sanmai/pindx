@@ -27,14 +27,14 @@ final class Office141831 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 141831;
-    private $OPSName = 'Новоcиньково-ДТИ';
+    private $OPSName = 'Новосиньково-ДТИ';
     private $OPSType = 'ДТИ';
     private $OPSSubm = 141830;
     private $Region = 'Московская область';
     private $Autonom = '';
     private $Area = 'Дмитровский район';
-    private $City = 'Новоcиньково';
+    private $City = 'Новосиньково';
     private $City1 = '';
-    private $ActDate = '20081002';
+    private $ActDate = '20181115';
     private $IndexOld = '';
 }

@@ -30,11 +30,11 @@ final class Office500200 implements \RussianPostIndex\Record
     private $OPSName = 'Цхинвал';
     private $OPSType = 'О';
     private $OPSSubm = 362000;
-    private $Region = 'Южная Осетия Республика';
+    private $Region = 'Южная Осетия';
     private $Autonom = '';
     private $Area = '';
     private $City = 'Цхинвал';
     private $City1 = '';
-    private $ActDate = '20101209';
+    private $ActDate = '20181111';
     private $IndexOld = '';
 }

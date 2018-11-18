@@ -30,11 +30,11 @@ final class Office468324 implements \RussianPostIndex\Record
     private $OPSName = 'Байконур 4';
     private $OPSType = 'О';
     private $OPSSubm = 468320;
-    private $Region = 'Байконур';
+    private $Region = 'Казахстан';
     private $Autonom = '';
     private $Area = '';
-    private $City = '';
+    private $City = 'Байконур';
     private $City1 = '';
-    private $ActDate = '20041025';
+    private $ActDate = '20181115';
     private $IndexOld = '';
 }
