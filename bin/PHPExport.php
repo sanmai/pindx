@@ -54,5 +54,8 @@ foreach ($pipeline as $filename => $record) {
     }
 
     echo "\n}";
-    file_put_contents($filename, ob_get_clean());
+    if (!file_put_contents($filename, ob_get_clean())) {
+        echo "Failed saving $filename\n";
+        exit(1);
+    }
 }

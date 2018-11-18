@@ -1,9 +1,10 @@
 SHELL=/bin/bash
+PHP=$$(command -v php)
 
 .PHONY=all
 all: src/MainDirectory.php src/PrefixDirectory.php docs/json src/ByCity
 	mkdir -p build/cache
-	php vendor/bin/php-cs-fixer fix -v
+	$(PHP) vendor/bin/php-cs-fixer fix -v
 	git add src/ByCity/ docs/json/
 
 PIndx.zip:
@@ -18,24 +19,25 @@ PIndx.txt: PIndx.dbf
 	dbview -o -e -r PIndx.dbf > PIndx.txt || true
 
 PIndx.tsv: PIndx.dbf
+	@$$(command -v dbview) --version
 	dbview PIndx.dbf | iconv -f CP866 | grep -q $$'\t' && echo "Found a tab character, cannot proceed with .tsv conversion" || true
 	dbview -t -b -d$$'\t' PIndx.dbf | iconv -f CP866 > PIndx.tsv
 	grep -q ^0 PIndx.tsv && echo "Found a postal code beginning with a zero" || true
 
-src/MainDirectory.php: PIndx.tsv
-	php bin/MainDirectory.php
+src/MainDirectory.php: PIndx.tsv vendor/autoload.php
+	$(PHP) bin/MainDirectory.php
 
-src/PrefixDirectory.php: PIndx.tsv
-	php bin/PrefixDirectory.php
+src/PrefixDirectory.php: PIndx.tsv vendor/autoload.php
+	$(PHP) bin/PrefixDirectory.php
 
 docs/json: PIndx.tsv
-	php bin/JSONIndex.php
-	touch docs/json
+	$(PHP) bin/JSONIndex.php
+	touch --no-create docs/json/
 
-src/ByCity: PIndx.tsv
-	php bin/PHPExport.php
-	find src/ByCity -type f -print0 | xargs -0 -P$$(nproc) -n64 php vendor/bin/php-cs-fixer fix --using-cache=no --quiet --config .php_cs.dist
-	touch src/ByCity
+src/ByCity: PIndx.tsv vendor/autoload.php
+	$(PHP) bin/PHPExport.php
+	find src/ByCity -type f -print0 | xargs -r -0 -P$$(nproc) -n64 $(PHP) vendor/bin/php-cs-fixer fix --using-cache=no --quiet --config .php_cs.dist
+	touch --no-create src/ByCity/
 
 .PHONY=clean
 clean:
@@ -43,5 +45,9 @@ clean:
 	git rm -fr src/ByCity/ docs/json/
 
 .PHONY=test
-test:
-	php vendor/bin/phpunit
+test: vendor/autoload.php
+	$(PHP) vendor/bin/phpunit
+
+vendor/autoload.php:
+	$(PHP) -v
+	composer install
