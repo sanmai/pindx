@@ -27,7 +27,7 @@ final class Office676470 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 676470;
-    private $OPSName = 'Углегорск';
+    private $OPSName = 'Циолковский';
     private $OPSType = 'О';
     private $OPSSubm = 676450;
     private $Region = 'Амурская область';
@@ -35,6 +35,6 @@ final class Office676470 implements \RussianPostIndex\Record
     private $Area = 'Свободненский район';
     private $City = 'Циолковский';
     private $City1 = '';
-    private $ActDate = '20181112';
+    private $ActDate = '20181130';
     private $IndexOld = '';
 }

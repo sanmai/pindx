@@ -17,24 +17,24 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City641;
+namespace RussianPostIndex\ByCity\City355;
 
 /**
  * @internal
  */
-final class Office641338 implements \RussianPostIndex\Record
+final class Office355902 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 641338;
-    private $OPSName = 'Кетово Уооп';
-    private $OPSType = 'Участок';
-    private $OPSSubm = 641339;
-    private $Region = 'Курганская область';
+    private $Index = 355902;
+    private $OPSName = 'Ставрополь-ДТИ';
+    private $OPSType = 'ДТИ';
+    private $OPSSubm = 355035;
+    private $Region = 'Ставропольский край';
     private $Autonom = '';
-    private $Area = 'Кетовский район';
-    private $City = 'Кетово';
+    private $Area = '';
+    private $City = 'Ставрополь';
     private $City1 = '';
-    private $ActDate = '20170911';
+    private $ActDate = '20181122';
     private $IndexOld = '';
 }

@@ -27,7 +27,7 @@ final class Office641532 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 641532;
-    private $OPSName = 'Сунгурова';
+    private $OPSName = 'Сунгурово';
     private $OPSType = 'О';
     private $OPSSubm = 641639;
     private $Region = 'Курганская область';
@@ -35,6 +35,6 @@ final class Office641532 implements \RussianPostIndex\Record
     private $Area = 'Мокроусовский район';
     private $City = 'Сунгурово';
     private $City1 = '';
-    private $ActDate = '20180813';
+    private $ActDate = '20181126';
     private $IndexOld = '';
 }

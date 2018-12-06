@@ -33,8 +33,8 @@ final class Office156536 implements \RussianPostIndex\Record
     private $Region = 'Костромская область';
     private $Autonom = '';
     private $Area = 'Костромской район';
-    private $City = 'Ильинское Самсоновский Сельский Совет';
+    private $City = 'Ильинское';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20181126';
     private $IndexOld = '';
 }

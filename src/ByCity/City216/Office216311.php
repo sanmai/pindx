@@ -33,8 +33,8 @@ final class Office216311 implements \RussianPostIndex\Record
     private $Region = 'Смоленская область';
     private $Autonom = '';
     private $Area = 'Глинковский район';
-    private $City = 'Дубосище';
+    private $City = 'Дубасище';
     private $City1 = '';
-    private $ActDate = '20020430';
+    private $ActDate = '20181127';
     private $IndexOld = '';
 }

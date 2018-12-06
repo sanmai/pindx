@@ -33,8 +33,8 @@ final class Office665457 implements \RussianPostIndex\Record
     private $Region = 'Иркутская область';
     private $Autonom = '';
     private $Area = 'Усольский район';
-    private $City = 'Усолье-Сибирское';
-    private $City1 = 'Цдс';
-    private $ActDate = '20011217';
+    private $City = 'Усолье- Сибирское 7';
+    private $City1 = '';
+    private $ActDate = '20181116';
     private $IndexOld = '';
 }

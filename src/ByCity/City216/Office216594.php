@@ -33,8 +33,8 @@ final class Office216594 implements \RussianPostIndex\Record
     private $Region = 'Смоленская область';
     private $Autonom = '';
     private $Area = 'Ершичский район';
-    private $City = 'Язовка';
+    private $City = 'Малая Язовка';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20181119';
     private $IndexOld = '';
 }

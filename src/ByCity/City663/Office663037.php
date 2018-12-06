@@ -27,7 +27,7 @@ final class Office663037 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 663037;
-    private $OPSName = 'Талая';
+    private $OPSName = 'Талое';
     private $OPSType = 'О';
     private $OPSSubm = 662989;
     private $Region = 'Красноярский край';
@@ -35,6 +35,6 @@ final class Office663037 implements \RussianPostIndex\Record
     private $Area = 'Емельяновский район';
     private $City = 'Талое';
     private $City1 = '';
-    private $ActDate = '20070427';
+    private $ActDate = '20181129';
     private $IndexOld = '';
 }

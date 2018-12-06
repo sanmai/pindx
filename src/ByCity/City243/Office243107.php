@@ -33,8 +33,8 @@ final class Office243107 implements \RussianPostIndex\Record
     private $Region = 'Брянская область';
     private $Autonom = '';
     private $Area = 'Клинцовский район';
-    private $City = 'Вьюнки';
+    private $City = 'Вьюнка';
     private $City1 = '';
-    private $ActDate = '20180813';
+    private $ActDate = '20181127';
     private $IndexOld = '';
 }

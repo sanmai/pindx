@@ -33,8 +33,8 @@ final class Office422775 implements \RussianPostIndex\Record
     private $Region = 'Татарстан Республика';
     private $Autonom = '';
     private $Area = 'Пестречинский район';
-    private $City = 'Тагашево';
+    private $City = 'Тогашево';
     private $City1 = '';
-    private $ActDate = '20180925';
+    private $ActDate = '20181126';
     private $IndexOld = '';
 }

@@ -27,14 +27,14 @@ final class Office143044 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 143044;
-    private $OPSName = 'Голицыно 4';
+    private $OPSName = 'Краснознаменск 4';
     private $OPSType = 'О';
     private $OPSSubm = 143000;
     private $Region = 'Московская область';
     private $Autonom = '';
     private $Area = 'Одинцовский район';
-    private $City = 'Голицыно';
+    private $City = 'Краснознаменск';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20181123';
     private $IndexOld = '';
 }

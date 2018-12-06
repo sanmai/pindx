@@ -17,24 +17,24 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City393;
+namespace RussianPostIndex\ByCity\City432;
 
 /**
  * @internal
  */
-final class Office393801 implements \RussianPostIndex\Record
+final class Office432905 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 393801;
-    private $OPSName = 'Староюрьево 1';
-    private $OPSType = 'О';
-    private $OPSSubm = 393724;
-    private $Region = 'Тамбовская область';
+    private $Index = 432905;
+    private $OPSName = 'Ульяновск-ДТИ';
+    private $OPSType = 'ДТИ';
+    private $OPSSubm = 432068;
+    private $Region = 'Ульяновская область';
     private $Autonom = '';
-    private $Area = 'Староюрьевский район';
-    private $City = 'Староюрьево';
+    private $Area = '';
+    private $City = 'Ульяновск';
     private $City1 = '';
-    private $ActDate = '20181127';
+    private $ActDate = '20181119';
     private $IndexOld = '';
 }

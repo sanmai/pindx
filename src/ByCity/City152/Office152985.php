@@ -27,14 +27,14 @@ final class Office152985 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 152985;
-    private $OPSName = 'Покров';
-    private $OPSType = 'О';
+    private $OPSName = 'Рыбинск';
+    private $OPSType = 'Передвижное ОС';
     private $OPSSubm = 152939;
     private $Region = 'Ярославская область';
     private $Autonom = '';
     private $Area = 'Рыбинский район';
-    private $City = 'Покров';
+    private $City = 'Рыбинск';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20181129';
     private $IndexOld = '';
 }
