@@ -14,16 +14,20 @@ matrix:
     - php: nightly
 
 stages:
+  - check
   - analyze
   - test
 
 jobs:
   include:
+    - stage: check
+      install:
+      script:
+        - make check
     - stage: analyze
       php: 7.1
       before_install:
         - sudo apt-get install -y dbview
-      install:
         - phpenv config-rm xdebug.ini
         - composer install --prefer-dist
       script:

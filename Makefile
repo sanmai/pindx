@@ -1,5 +1,6 @@
 SHELL=/bin/bash
 PHP=$$(command -v php)
+PINDXZIP=http://vinfo.russianpost.ru/database/PIndx.zip
 
 .PHONY=all
 all: src/MainDirectory.php src/PrefixDirectory.php docs/json src/ByCity
@@ -7,8 +8,13 @@ all: src/MainDirectory.php src/PrefixDirectory.php docs/json src/ByCity
 	$(PHP) vendor/bin/php-cs-fixer fix -v
 	git add src/ByCity/ docs/json/
 
+.PHONY=check
+check:
+	curl -I --silent --show-error --fail -o /dev/null $(PINDXZIP)
+	# All clear!
+
 PIndx.zip:
-	wget http://vinfo.russianpost.ru/database/PIndx.zip
+	wget $(PINDXZIP)
 	unzip -t PIndx.zip
 
 PIndx.dbf: PIndx.zip
