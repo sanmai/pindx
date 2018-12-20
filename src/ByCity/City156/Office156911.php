@@ -32,9 +32,9 @@ final class Office156911 implements \RussianPostIndex\Record
     private $OPSSubm = 156000;
     private $Region = 'Костромская область';
     private $Autonom = '';
-    private $Area = 'Костромской район';
+    private $Area = '';
     private $City = 'Кострома';
     private $City1 = '';
-    private $ActDate = '20160516';
+    private $ActDate = '20181217';
     private $IndexOld = '';
 }
