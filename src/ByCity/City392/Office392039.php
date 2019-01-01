@@ -17,24 +17,24 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City238;
+namespace RussianPostIndex\ByCity\City392;
 
 /**
  * @internal
  */
-final class Office238016 implements \RussianPostIndex\Record
+final class Office392039 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 238016;
-    private $OPSName = 'Нестеров ППС';
-    private $OPSType = 'ППС';
-    private $OPSSubm = 238169;
-    private $Region = 'Калининградская область';
+    private $Index = 392039;
+    private $OPSName = 'Тамбов 39';
+    private $OPSType = 'Передвижное ОС';
+    private $OPSSubm = 392999;
+    private $Region = 'Тамбовская область';
     private $Autonom = '';
-    private $Area = 'Нестеровский район';
-    private $City = 'Нестеров';
+    private $Area = '';
+    private $City = 'Тамбов';
     private $City1 = '';
-    private $ActDate = '20170621';
+    private $ActDate = '20181221';
     private $IndexOld = '';
 }

@@ -33,7 +33,7 @@ final class Office425555 implements \RussianPostIndex\Record
     private $Region = 'Марий Эл Республика';
     private $Autonom = '';
     private $Area = 'Куженерский район';
-    private $City = 'Ружбеляк (Шорсолинский С/с)';
+    private $City = 'Ружбеляк (Шорсолинский С/С)';
     private $City1 = '';
     private $ActDate = '20180813';
     private $IndexOld = '';

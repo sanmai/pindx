@@ -1008,7 +1008,7 @@ final class PrefixDirectory
         ],
         992 => [
                0,
-               400,
+               700,
         ],
         993 => [
                0,

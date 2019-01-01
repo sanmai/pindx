@@ -29,12 +29,12 @@ final class Office111713 implements \RussianPostIndex\Record
     private $Index = 111713;
     private $OPSName = 'Москва-ДТИ';
     private $OPSType = 'ДТИ';
-    private $OPSSubm = 111970;
+    private $OPSSubm = 109440;
     private $Region = 'Москва';
     private $Autonom = '';
     private $Area = '';
     private $City = '';
     private $City1 = '';
-    private $ActDate = '20110527';
+    private $ActDate = '20181226';
     private $IndexOld = '';
 }

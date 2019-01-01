@@ -17,24 +17,24 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City111;
+namespace RussianPostIndex\ByCity\City420;
 
 /**
  * @internal
  */
-final class Office111762 implements \RussianPostIndex\Record
+final class Office420710 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 111762;
-    private $OPSName = 'Москва-ДТИ';
-    private $OPSType = 'ДТИ';
-    private $OPSSubm = 117676;
-    private $Region = 'Москва';
+    private $Index = 420710;
+    private $OPSName = 'Казанский Рцгп';
+    private $OPSType = 'Цех';
+    private $OPSSubm = 421700;
+    private $Region = 'Татарстан Республика';
     private $Autonom = '';
-    private $Area = '';
-    private $City = '';
+    private $Area = 'Лаишевский район';
+    private $City = 'Столбище';
     private $City1 = '';
-    private $ActDate = '20130415';
+    private $ActDate = '20181224';
     private $IndexOld = '';
 }

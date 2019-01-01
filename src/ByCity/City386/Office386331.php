@@ -33,8 +33,8 @@ final class Office386331 implements \RussianPostIndex\Record
     private $Region = 'Ингушетия Республика';
     private $Autonom = '';
     private $Area = 'Малгобекский район';
-    private $City = 'Малгобек';
+    private $City = 'Вежарий-Юрт';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20181226';
     private $IndexOld = '';
 }
