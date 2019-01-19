@@ -1,21 +1,34 @@
 {
     "name": "sanmai/pindx",
-    "description": "Эталонный справочник почтовых индексов объектов почтовой связи",
     "type": "library",
-    "require-dev": {
-        "phpunit/phpunit": ">=6",
-        "sanmai/pipeline": "^0.3.3|^2.0|^3.0",
-        "friendsofphp/php-cs-fixer": "^2.13",
-        "symfony/finder": "^3.4|^4.1"
-    },
+    "description": "Эталонный справочник почтовых индексов объектов почтовой связи",
     "license": "Apache-2.0",
     "require": {
         "php": ">=7"
     },
+    "require-dev": {
+        "friendsofphp/php-cs-fixer": "^2.13",
+        "phpunit/phpunit": ">=6",
+        "sanmai/pipeline": "^0.3.3 || ^2.0 || ^3.0",
+        "symfony/finder": "^3.4 || ^4.1"
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "v0.2.x-dev"
+        }
+    },
     "autoload": {
-        "psr-4": {"RussianPostIndex\\": "src/"}
+        "psr-4": {
+            "RussianPostIndex\\": "src/"
+        }
     },
     "autoload-dev": {
-        "psr-4": {"PIndxTools\\": "tools/", "Tests\\PIndxTools\\": "tests/"}
+        "psr-4": {
+            "PIndxTools\\": "tools/",
+            "Tests\\PIndxTools\\": "tests/"
+        }
     }
 }
