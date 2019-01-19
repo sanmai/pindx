@@ -6,7 +6,7 @@ PINDXZIP=http://vinfo.russianpost.ru/database/PIndx.zip
 all: src/MainDirectory.php src/PrefixDirectory.php docs/json src/ByCity
 	mkdir -p build/cache
 	$(PHP) vendor/bin/php-cs-fixer fix -v
-	git add src/ByCity/ docs/json/
+	git add src/ docs/json/
 
 .PHONY=check
 check:
