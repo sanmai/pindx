@@ -57,3 +57,7 @@ test: vendor/autoload.php
 vendor/autoload.php:
 	$(PHP) -v
 	composer install
+
+.PHONY=cron
+cron: all
+	if ! git diff --cached --quiet; then git commit -m "Automatic build on $$(date +%Y-%m-%d)"; git push; exit 1; fi
