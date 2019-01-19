@@ -33,7 +33,7 @@ final class Office425418 implements \RussianPostIndex\Record
     private $Region = 'Марий Эл Республика';
     private $Autonom = '';
     private $Area = 'Советский район';
-    private $City = 'Верх-Ушнур (Верх-Ушнурское С/П)';
+    private $City = 'Верх-Ушнур (Верх-Ушнурское С/п)';
     private $City1 = '';
     private $ActDate = '20180813';
     private $IndexOld = '';

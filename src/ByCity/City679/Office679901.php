@@ -17,24 +17,24 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City131;
+namespace RussianPostIndex\ByCity\City679;
 
 /**
  * @internal
  */
-final class Office131000 implements \RussianPostIndex\Record
+final class Office679901 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 131000;
-    private $OPSName = 'Москва ФГУП "почта России"';
-    private $OPSType = 'ФГУП';
-    private $OPSSubm = 0;
-    private $Region = 'Москва';
-    private $Autonom = '';
-    private $Area = '';
-    private $City = '';
+    private $Index = 679901;
+    private $OPSName = 'Биробиджан-ДТИ';
+    private $OPSType = 'ДТИ';
+    private $OPSSubm = 679016;
+    private $Region = '';
+    private $Autonom = 'Еврейская автономная область';
+    private $Area = 'Биробиджанский район';
+    private $City = 'Биробиджан';
     private $City1 = '';
-    private $ActDate = '20050203';
+    private $ActDate = '20190111';
     private $IndexOld = '';
 }

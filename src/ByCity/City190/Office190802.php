@@ -29,12 +29,12 @@ final class Office190802 implements \RussianPostIndex\Record
     private $Index = 190802;
     private $OPSName = 'Санкт-Петербург-ДТИ';
     private $OPSType = 'ДТИ';
-    private $OPSSubm = 190000;
+    private $OPSSubm = 190121;
     private $Region = 'Санкт-Петербург';
     private $Autonom = '';
     private $Area = '';
     private $City = '';
     private $City1 = '';
-    private $ActDate = '20100119';
+    private $ActDate = '20181228';
     private $IndexOld = '';
 }

@@ -17,24 +17,24 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City131;
+namespace RussianPostIndex\ByCity\City353;
 
 /**
  * @internal
  */
-final class Office131000 implements \RussianPostIndex\Record
+final class Office353735 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 131000;
-    private $OPSName = 'Москва ФГУП "почта России"';
-    private $OPSType = 'ФГУП';
-    private $OPSSubm = 0;
-    private $Region = 'Москва';
+    private $Index = 353735;
+    private $OPSName = 'Каневская';
+    private $OPSType = 'Передвижное ОС';
+    private $OPSSubm = 353739;
+    private $Region = 'Краснодарский край';
     private $Autonom = '';
-    private $Area = '';
-    private $City = '';
+    private $Area = 'Каневской район';
+    private $City = 'Каневская';
     private $City1 = '';
-    private $ActDate = '20050203';
+    private $ActDate = '20190114';
     private $IndexOld = '';
 }
