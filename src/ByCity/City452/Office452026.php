@@ -27,7 +27,7 @@ final class Office452026 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 452026;
-    private $OPSName = 'Новомихайловский';
+    private $OPSName = 'Михайловка';
     private $OPSType = 'О';
     private $OPSSubm = 452039;
     private $Region = 'Башкортостан Республика';
@@ -35,6 +35,6 @@ final class Office452026 implements \RussianPostIndex\Record
     private $Area = 'Бижбулякский район';
     private $City = 'Михайловка';
     private $City1 = '';
-    private $ActDate = '20060913';
+    private $ActDate = '20190124';
     private $IndexOld = '';
 }

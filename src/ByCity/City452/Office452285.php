@@ -27,7 +27,7 @@ final class Office452285 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 452285;
-    private $OPSName = 'Куктово';
+    private $OPSName = 'Старокуктово';
     private $OPSType = 'О';
     private $OPSSubm = 452329;
     private $Region = 'Башкортостан Республика';
@@ -35,6 +35,6 @@ final class Office452285 implements \RussianPostIndex\Record
     private $Area = 'Илишевский район';
     private $City = 'Старокуктово';
     private $City1 = '';
-    private $ActDate = '20070212';
+    private $ActDate = '20190124';
     private $IndexOld = '';
 }

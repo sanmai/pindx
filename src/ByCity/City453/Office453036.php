@@ -27,7 +27,7 @@ final class Office453036 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 453036;
-    private $OPSName = 'Липовка';
+    private $OPSName = 'Благовещенка';
     private $OPSType = 'О';
     private $OPSSubm = 453009;
     private $Region = 'Башкортостан Республика';
@@ -35,6 +35,6 @@ final class Office453036 implements \RussianPostIndex\Record
     private $Area = 'Архангельский район';
     private $City = 'Благовещенка';
     private $City1 = '';
-    private $ActDate = '20190114';
+    private $ActDate = '20190124';
     private $IndexOld = '';
 }

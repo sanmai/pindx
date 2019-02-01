@@ -17,24 +17,24 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City185;
+namespace RussianPostIndex\ByCity\City355;
 
 /**
  * @internal
  */
-final class Office185020 implements \RussianPostIndex\Record
+final class Office355048 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 185020;
-    private $OPSName = 'Петрозаводск 20 ППС';
-    private $OPSType = 'ППС';
-    private $OPSSubm = 185000;
-    private $Region = 'Карелия Республика';
+    private $Index = 355048;
+    private $OPSName = 'Ставрополь 48';
+    private $OPSType = 'О';
+    private $OPSSubm = 355000;
+    private $Region = 'Ставропольский край';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'Петрозаводск';
+    private $City = 'Ставрополь';
     private $City1 = '';
-    private $ActDate = '20170818';
+    private $ActDate = '20190130';
     private $IndexOld = '';
 }

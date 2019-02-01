@@ -17,24 +17,24 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City694;
+namespace RussianPostIndex\ByCity\City660;
 
 /**
  * @internal
  */
-final class Office694429 implements \RussianPostIndex\Record
+final class Office660984 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 694429;
-    private $OPSName = 'Александровск-Сахалинский Уооп';
-    private $OPSType = 'Участок';
-    private $OPSSubm = 694409;
-    private $Region = 'Сахалинская область';
+    private $Index = 660984;
+    private $OPSName = 'Красноярск-ДТИ';
+    private $OPSType = 'ДТИ';
+    private $OPSSubm = 660001;
+    private $Region = 'Красноярский край';
     private $Autonom = '';
-    private $Area = 'Александровск-Сахалинский район';
-    private $City = 'Александровск-Сахалинский';
+    private $Area = '';
+    private $City = 'Красноярск';
     private $City1 = '';
-    private $ActDate = '20151126';
+    private $ActDate = '20190131';
     private $IndexOld = '';
 }

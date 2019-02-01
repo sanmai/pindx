@@ -17,24 +17,24 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City427;
+namespace RussianPostIndex\ByCity\City424;
 
 /**
  * @internal
  */
-final class Office427638 implements \RussianPostIndex\Record
+final class Office424802 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 427638;
-    private $OPSName = 'Штанигурт ППС';
-    private $OPSType = 'ППС';
-    private $OPSSubm = 427649;
-    private $Region = 'Удмуртская Республика';
+    private $Index = 424802;
+    private $OPSName = 'Йошкар-Ола-ДТИ';
+    private $OPSType = 'ДТИ';
+    private $OPSSubm = 424000;
+    private $Region = 'Марий Эл Республика';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'Штанигурт';
+    private $City = 'Йошкар-Ола';
     private $City1 = '';
-    private $ActDate = '20190131';
+    private $ActDate = '20190118';
     private $IndexOld = '';
 }

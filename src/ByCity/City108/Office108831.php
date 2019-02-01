@@ -27,7 +27,7 @@ final class Office108831 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 108831;
-    private $OPSName = 'Вороново 1';
+    private $OPSName = 'Щербинка 31';
     private $OPSType = 'О';
     private $OPSSubm = 142169;
     private $Region = 'Москва';
@@ -35,6 +35,6 @@ final class Office108831 implements \RussianPostIndex\Record
     private $Area = '';
     private $City = 'Щербинка';
     private $City1 = '';
-    private $ActDate = '20181203';
+    private $ActDate = '20190123';
     private $IndexOld = '';
 }
