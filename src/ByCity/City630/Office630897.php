@@ -27,7 +27,7 @@ final class Office630897 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 630897;
-    private $OPSName = 'Новосибирск Уцц';
+    private $OPSName = 'Новосибирск Ууц';
     private $OPSType = 'Участок';
     private $OPSSubm = 630000;
     private $Region = 'Новосибирская область';
@@ -35,6 +35,6 @@ final class Office630897 implements \RussianPostIndex\Record
     private $Area = '';
     private $City = 'Новосибирск';
     private $City1 = '';
-    private $ActDate = '20170707';
+    private $ActDate = '20190205';
     private $IndexOld = '';
 }

@@ -32,9 +32,9 @@ final class Office679901 implements \RussianPostIndex\Record
     private $OPSSubm = 679016;
     private $Region = '';
     private $Autonom = 'Еврейская автономная область';
-    private $Area = 'Биробиджанский район';
+    private $Area = '';
     private $City = 'Биробиджан';
     private $City1 = '';
-    private $ActDate = '20190111';
+    private $ActDate = '20190214';
     private $IndexOld = '';
 }

@@ -27,14 +27,14 @@ final class Office443964 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 443964;
-    private $OPSName = 'Самара МСЦ Уопо';
-    private $OPSType = 'Участок';
+    private $OPSName = 'Самара МСЦ Цоп';
+    private $OPSType = 'Цех';
     private $OPSSubm = 443960;
     private $Region = 'Самарская область';
     private $Autonom = '';
     private $Area = '';
     private $City = 'Самара';
     private $City1 = '';
-    private $ActDate = '20180420';
+    private $ActDate = '20190214';
     private $IndexOld = '';
 }

@@ -17,24 +17,24 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City469;
+namespace RussianPostIndex\ByCity\City996;
 
 /**
  * @internal
  */
-final class Office469329 implements \RussianPostIndex\Record
+final class Office996100 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 469329;
-    private $OPSName = 'Байконур Уооп';
-    private $OPSType = 'Участок';
-    private $OPSSubm = 468320;
-    private $Region = 'Казахстан';
+    private $Index = 996100;
+    private $OPSName = 'Димитровград  Почтомат (Апс)';
+    private $OPSType = 'Почтомат';
+    private $OPSSubm = 433513;
+    private $Region = 'Ульяновская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'Байконур';
+    private $City = 'Димитровград';
     private $City1 = '';
-    private $ActDate = '20190121';
+    private $ActDate = '20190214';
     private $IndexOld = '';
 }

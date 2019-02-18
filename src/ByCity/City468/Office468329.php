@@ -17,24 +17,24 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City423;
+namespace RussianPostIndex\ByCity\City468;
 
 /**
  * @internal
  */
-final class Office423244 implements \RussianPostIndex\Record
+final class Office468329 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 423244;
-    private $OPSName = 'Бугульма 14 ППС';
-    private $OPSType = 'ППС';
-    private $OPSSubm = 423249;
-    private $Region = 'Татарстан Республика';
+    private $Index = 468329;
+    private $OPSName = 'Байконур Уооп';
+    private $OPSType = 'Участок';
+    private $OPSSubm = 468320;
+    private $Region = 'Байконур';
     private $Autonom = '';
-    private $Area = 'Бугульминский район';
-    private $City = 'Бугульма';
+    private $Area = '';
+    private $City = '';
     private $City1 = '';
-    private $ActDate = '20170913';
+    private $ActDate = '20190121';
     private $IndexOld = '';
 }

@@ -17,24 +17,24 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City423;
+namespace RussianPostIndex\ByCity\City676;
 
 /**
  * @internal
  */
-final class Office423933 implements \RussianPostIndex\Record
+final class Office676018 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 423933;
-    private $OPSName = 'Бавлы 3 ППС';
-    private $OPSType = 'ППС';
-    private $OPSSubm = 423249;
-    private $Region = 'Татарстан Республика';
+    private $Index = 676018;
+    private $OPSName = 'Сковородино 8';
+    private $OPSType = 'Передвижное ОС';
+    private $OPSSubm = 676240;
+    private $Region = 'Амурская область';
     private $Autonom = '';
-    private $Area = 'Бавлинский район';
-    private $City = 'Бавлы';
+    private $Area = '';
+    private $City = 'Зея';
     private $City1 = '';
-    private $ActDate = '20170913';
+    private $ActDate = '20190214';
     private $IndexOld = '';
 }

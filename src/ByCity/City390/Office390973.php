@@ -29,12 +29,12 @@ final class Office390973 implements \RussianPostIndex\Record
     private $Index = 390973;
     private $OPSName = 'Рязань-ДТИ';
     private $OPSType = 'ДТИ';
-    private $OPSSubm = 390000;
+    private $OPSSubm = 390044;
     private $Region = 'Рязанская область';
     private $Autonom = '';
     private $Area = '';
     private $City = 'Рязань';
     private $City1 = '';
-    private $ActDate = '20180704';
+    private $ActDate = '20190208';
     private $IndexOld = '';
 }
