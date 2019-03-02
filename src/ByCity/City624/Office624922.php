@@ -29,12 +29,12 @@ final class Office624922 implements \RussianPostIndex\Record
     private $Index = 624922;
     private $OPSName = 'Ликино';
     private $OPSType = 'О';
-    private $OPSSubm = 624980;
+    private $OPSSubm = 624459;
     private $Region = 'Свердловская область';
     private $Autonom = '';
     private $Area = 'Гаринский район';
     private $City = 'Ликино';
     private $City1 = '';
-    private $ActDate = '20100929';
+    private $ActDate = '20190220';
     private $IndexOld = '';
 }

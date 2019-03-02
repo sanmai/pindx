@@ -17,24 +17,24 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City624;
+namespace RussianPostIndex\ByCity\City644;
 
 /**
  * @internal
  */
-final class Office624980 implements \RussianPostIndex\Record
+final class Office644968 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 624980;
-    private $OPSName = 'Серов Почтамт';
-    private $OPSType = 'П';
-    private $OPSSubm = 620700;
-    private $Region = 'Свердловская область';
+    private $Index = 644968;
+    private $OPSName = 'Омск МСЦ Уо Отправлений 1 Класса';
+    private $OPSType = 'Участок';
+    private $OPSSubm = 644960;
+    private $Region = 'Омская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'Серов';
+    private $City = 'Омск';
     private $City1 = '';
-    private $ActDate = '20100929';
+    private $ActDate = '20190228';
     private $IndexOld = '';
 }

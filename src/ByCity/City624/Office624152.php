@@ -29,12 +29,12 @@ final class Office624152 implements \RussianPostIndex\Record
     private $Index = 624152;
     private $OPSName = 'Нейво-Рудянка';
     private $OPSType = 'О';
-    private $OPSSubm = 624139;
+    private $OPSSubm = 623159;
     private $Region = 'Свердловская область';
     private $Autonom = '';
     private $Area = '';
     private $City = 'Кировград';
     private $City1 = 'Нейво-Рудянка';
-    private $ActDate = '20100929';
+    private $ActDate = '20190220';
     private $IndexOld = '';
 }

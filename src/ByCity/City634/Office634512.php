@@ -17,24 +17,24 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City427;
+namespace RussianPostIndex\ByCity\City634;
 
 /**
  * @internal
  */
-final class Office427897 implements \RussianPostIndex\Record
+final class Office634512 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 427897;
-    private $OPSName = 'Варзи Ятчи ППС';
-    private $OPSType = 'ППС';
-    private $OPSSubm = 427749;
-    private $Region = 'Удмуртская Республика';
+    private $Index = 634512;
+    private $OPSName = 'Кисловка 2';
+    private $OPSType = 'О';
+    private $OPSSubm = 634000;
+    private $Region = 'Томская область';
     private $Autonom = '';
-    private $Area = 'Алнашский район';
-    private $City = 'Варзи-Ятчи';
+    private $Area = 'Томский район';
+    private $City = 'Кисловка';
     private $City1 = '';
-    private $ActDate = '20171023';
+    private $ActDate = '20190219';
     private $IndexOld = '';
 }

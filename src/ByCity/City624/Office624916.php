@@ -29,12 +29,12 @@ final class Office624916 implements \RussianPostIndex\Record
     private $Index = 624916;
     private $OPSName = 'Гари Уооп';
     private $OPSType = 'Участок';
-    private $OPSSubm = 624980;
+    private $OPSSubm = 624459;
     private $Region = 'Свердловская область';
     private $Autonom = '';
     private $Area = 'Гаринский район';
     private $City = 'Гари';
     private $City1 = '';
-    private $ActDate = '20100608';
+    private $ActDate = '20190220';
     private $IndexOld = '';
 }

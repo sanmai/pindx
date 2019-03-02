@@ -17,24 +17,24 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City624;
+namespace RussianPostIndex\ByCity\City670;
 
 /**
  * @internal
  */
-final class Office624139 implements \RussianPostIndex\Record
+final class Office670994 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 624139;
-    private $OPSName = 'Новоуральск Почтамт';
-    private $OPSType = 'П';
-    private $OPSSubm = 620700;
-    private $Region = 'Свердловская область';
+    private $Index = 670994;
+    private $OPSName = 'Улан-Удэ-ДТИ';
+    private $OPSType = 'ДТИ';
+    private $OPSSubm = 670000;
+    private $Region = 'Бурятия Республика';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'Новоуральск';
+    private $City = 'Улан-Удэ';
     private $City1 = '';
-    private $ActDate = '20080214';
+    private $ActDate = '20190225';
     private $IndexOld = '';
 }

@@ -29,12 +29,12 @@ final class Office624172 implements \RussianPostIndex\Record
     private $Index = 624172;
     private $OPSName = 'Нижние Таволги';
     private $OPSType = 'О';
-    private $OPSSubm = 624139;
+    private $OPSSubm = 623159;
     private $Region = 'Свердловская область';
     private $Autonom = '';
     private $Area = 'Невьянский район';
     private $City = 'Нижние Таволги';
     private $City1 = '';
-    private $ActDate = '20100929';
+    private $ActDate = '20190220';
     private $IndexOld = '';
 }

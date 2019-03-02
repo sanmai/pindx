@@ -29,12 +29,12 @@ final class Office624996 implements \RussianPostIndex\Record
     private $Index = 624996;
     private $OPSName = 'Серов Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
-    private $OPSSubm = 624980;
+    private $OPSSubm = 624459;
     private $Region = 'Свердловская область';
     private $Autonom = '';
     private $Area = '';
     private $City = 'Серов';
     private $City1 = '';
-    private $ActDate = '20170724';
+    private $ActDate = '20190220';
     private $IndexOld = '';
 }

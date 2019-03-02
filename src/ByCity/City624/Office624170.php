@@ -29,12 +29,12 @@ final class Office624170 implements \RussianPostIndex\Record
     private $Index = 624170;
     private $OPSName = 'Верх-Нейвинский';
     private $OPSType = 'О';
-    private $OPSSubm = 624139;
+    private $OPSSubm = 623159;
     private $Region = 'Свердловская область';
     private $Autonom = '';
     private $Area = 'Невьянский район';
     private $City = 'Верх-Нейвинский';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20190220';
     private $IndexOld = '';
 }

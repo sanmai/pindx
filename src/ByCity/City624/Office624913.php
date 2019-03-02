@@ -29,12 +29,12 @@ final class Office624913 implements \RussianPostIndex\Record
     private $Index = 624913;
     private $OPSName = 'Андрюшино';
     private $OPSType = 'О';
-    private $OPSSubm = 624980;
+    private $OPSSubm = 624459;
     private $Region = 'Свердловская область';
     private $Autonom = '';
     private $Area = 'Гаринский район';
     private $City = 'Андрюшино';
     private $City1 = '';
-    private $ActDate = '20100929';
+    private $ActDate = '20190220';
     private $IndexOld = '';
 }

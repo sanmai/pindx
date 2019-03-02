@@ -17,24 +17,24 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City427;
+namespace RussianPostIndex\ByCity\City634;
 
 /**
  * @internal
  */
-final class Office427998 implements \RussianPostIndex\Record
+final class Office634968 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 427998;
-    private $OPSName = 'Лагуново ППС';
-    private $OPSType = 'ППС';
-    private $OPSSubm = 427979;
-    private $Region = 'Удмуртская Республика';
+    private $Index = 634968;
+    private $OPSName = 'Томск МСЦ Уо Отправлений 1 Класса';
+    private $OPSType = 'Участок';
+    private $OPSSubm = 634960;
+    private $Region = 'Томская область';
     private $Autonom = '';
-    private $Area = 'Сарапульский район';
-    private $City = 'Лагуново';
+    private $Area = '';
+    private $City = 'Томск';
     private $City1 = '';
-    private $ActDate = '20171023';
+    private $ActDate = '20190228';
     private $IndexOld = '';
 }

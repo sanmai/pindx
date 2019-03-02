@@ -17,24 +17,24 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City427;
+namespace RussianPostIndex\ByCity\City654;
 
 /**
  * @internal
  */
-final class Office427554 implements \RussianPostIndex\Record
+final class Office654151 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 427554;
-    private $OPSName = 'Балезино 4 ППС';
-    private $OPSType = 'ППС';
-    private $OPSSubm = 427559;
-    private $Region = 'Удмуртская Республика';
+    private $Index = 654151;
+    private $OPSName = 'Новокузнецк Цосп';
+    private $OPSType = 'Цех';
+    private $OPSSubm = 654099;
+    private $Region = 'Кемеровская область';
     private $Autonom = '';
-    private $Area = 'Балезинский район';
-    private $City = 'Балезино';
+    private $Area = '';
+    private $City = 'Новокузнецк';
     private $City1 = '';
-    private $ActDate = '20171023';
+    private $ActDate = '20190228';
     private $IndexOld = '';
 }

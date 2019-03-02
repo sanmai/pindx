@@ -29,12 +29,12 @@ final class Office624187 implements \RussianPostIndex\Record
     private $Index = 624187;
     private $OPSName = 'Ребристый';
     private $OPSType = 'О';
-    private $OPSSubm = 624139;
+    private $OPSSubm = 623159;
     private $Region = 'Свердловская область';
     private $Autonom = '';
     private $Area = 'Невьянский район';
     private $City = 'Ребристый';
     private $City1 = '';
-    private $ActDate = '20100929';
+    private $ActDate = '20190220';
     private $IndexOld = '';
 }

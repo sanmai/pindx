@@ -29,12 +29,12 @@ final class Office624989 implements \RussianPostIndex\Record
     private $Index = 624989;
     private $OPSName = 'Маслова';
     private $OPSType = 'О';
-    private $OPSSubm = 624980;
+    private $OPSSubm = 624459;
     private $Region = 'Свердловская область';
     private $Autonom = '';
     private $Area = 'Серовский район';
     private $City = 'Маслова';
     private $City1 = '';
-    private $ActDate = '20161107';
+    private $ActDate = '20190220';
     private $IndexOld = '';
 }

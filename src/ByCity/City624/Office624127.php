@@ -29,12 +29,12 @@ final class Office624127 implements \RussianPostIndex\Record
     private $Index = 624127;
     private $OPSName = 'Тарасково';
     private $OPSType = 'О';
-    private $OPSSubm = 624139;
+    private $OPSSubm = 623159;
     private $Region = 'Свердловская область';
     private $Autonom = '';
     private $Area = '';
     private $City = 'Новоуральск';
     private $City1 = 'Тарасково';
-    private $ActDate = '20001030';
+    private $ActDate = '20190220';
     private $IndexOld = '';
 }

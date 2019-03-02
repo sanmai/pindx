@@ -29,12 +29,12 @@ final class Office624963 implements \RussianPostIndex\Record
     private $Index = 624963;
     private $OPSName = 'Красноглинный';
     private $OPSType = 'О';
-    private $OPSSubm = 624980;
+    private $OPSSubm = 624459;
     private $Region = 'Свердловская область';
     private $Autonom = '';
     private $Area = 'Серовский район';
     private $City = 'Красноглинный';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20190220';
     private $IndexOld = '';
 }

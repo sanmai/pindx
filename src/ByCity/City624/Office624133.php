@@ -29,12 +29,12 @@ final class Office624133 implements \RussianPostIndex\Record
     private $Index = 624133;
     private $OPSName = 'Новоуральск 3';
     private $OPSType = 'О';
-    private $OPSSubm = 624139;
+    private $OPSSubm = 623159;
     private $Region = 'Свердловская область';
     private $Autonom = '';
     private $Area = '';
     private $City = 'Новоуральск';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20190220';
     private $IndexOld = '';
 }
