@@ -23,7 +23,8 @@ stages:
 jobs:
   include:
     - stage: check
-      install:
+      language: bash
+      install: skip
       script:
         - make check
     - stage: analyze
