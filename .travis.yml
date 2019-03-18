@@ -41,7 +41,7 @@ jobs:
         - composer validate
     - stage: release
       language: bash
-      if: branch = master AND tag IS blank
+      if: branch = master AND tag IS blank AND commit_message =~ /^Automatic build/
       before_install: skip
       install: skip
       script:
