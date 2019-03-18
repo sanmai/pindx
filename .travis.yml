@@ -18,7 +18,7 @@ stages:
   - check
   - analyze
   - test
-  - deploy
+  - release
 
 jobs:
   include:
@@ -38,6 +38,16 @@ jobs:
         - vendor/bin/phpunit
         - vendor/bin/php-cs-fixer --dry-run --stop-on-violation fix
         - composer validate
+    - stage: release
+      if: branch = master AND tag IS blank
+      script:
+        - git tag -a "$(. find-next-version)" -m "Automatic release"
+      deploy:
+        provider: script
+        on:
+          branch: master
+          tags: true
+        script: git push --tags
 
 cache:
   directories:
@@ -56,12 +66,3 @@ install:
 script:
   - vendor/bin/phpunit
 
-deploy:
-  - provider: script
-    skip_cleanup: true
-    on:
-      branch: master
-      condition: tag IS blank
-    script:
-      - git tag -a "$(. find-next-version)" -m "Automatic release"
-      - git push --tags
