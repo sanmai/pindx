@@ -4,17 +4,19 @@ trap '>&2 echo Release failed \(line $LINENO\)' ERR
 
 set -o nounset -o errexit
 
-test -f docs/_data/status.yml
+>&2 echo "Current branch: $(git rev-parse --abbrev-ref HEAD)"
 test $(git rev-parse --abbrev-ref HEAD) = "master"
 
+test -f docs/_data/status.yml
+grep updated: docs/_data/status.yml | grep -qo '[0-9-]*'
+updated=$(grep updated: docs/_data/status.yml | grep -o '[0-9-]*' | sed s/-//g)
+>&2 echo "Database updated: $updated"
+
 releasedVer=$(git describe --abbrev=0 --tags)
-
-
 >&2 echo "Latest version: $releasedVer"
 grep -qP '^v\d+\.\d+\.\d+' <<< "$releasedVer"
 
-nextVer=$(awk -v date=$(grep updated: docs/_data/status.yml | grep -o '[0-9-]*' | sed s/-//g) -F'[.+]' '{print $1 "." $2 "." ($3 + 1) "+" date}' <<< "$releasedVer")
-
+nextVer=$(awk -v date=$updated -F'[.+]' '{print $1 "." $2 "." ($3 + 1) "+" date}' <<< "$releasedVer")
 >&2 echo "Proposed version: $nextVer"
 grep -qP '^v\d+\.\d+\.\d+' <<< "$releasedVer"
 

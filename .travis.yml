@@ -44,8 +44,8 @@ jobs:
       before_install: skip
       install: skip
       script:
-        - . find-next-version 2>&1
-        - git tag -a "$(. find-next-version)" -m "Automatic release"
+        - ./find-next-version 2>&1
+        - git tag -a "$(./find-next-version)" -m "Automatic release"
       deploy:
         provider: script
         on:
