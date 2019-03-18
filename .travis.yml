@@ -1,3 +1,4 @@
+---
 sudo: false
 
 language: php
@@ -17,6 +18,7 @@ stages:
   - check
   - analyze
   - test
+  - deploy
 
 jobs:
   include:
