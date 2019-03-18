@@ -4,8 +4,9 @@ trap '>&2 echo Release failed \(line $LINENO\)' ERR
 
 set -o nounset -o errexit
 
->&2 echo "Current branch: $(git rev-parse --abbrev-ref HEAD)"
-test $(git rev-parse --abbrev-ref HEAD) = "master"
+TRAVIS_BRANCH="${TRAVIS_BRANCH:-$(git rev-parse --abbrev-ref HEAD)}"
+>&2 echo "Current branch: $TRAVIS_BRANCH"
+test "$TRAVIS_BRANCH" = "master"
 
 test -f docs/_data/status.yml
 grep updated: docs/_data/status.yml | grep -qo '[0-9-]*'
