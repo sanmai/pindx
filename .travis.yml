@@ -51,7 +51,7 @@ jobs:
         provider: script
         on:
           branch: master
-          tags: true
+          tags: false
         script: git push --tags
 
 cache:
