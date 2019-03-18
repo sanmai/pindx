@@ -1,7 +1,7 @@
 export PHP_CS_FIXER_IGNORE_ENV=1
 SHELL=/bin/bash
 PHP=$$(command -v php)
-PINDXZIP=http://vinfo.russianpost.ru/database/PIndx.zip
+PINDXZIP=https://vinfo.russianpost.ru/database/PIndx.zip
 
 .PHONY=all
 all: src/MainDirectory.php src/PrefixDirectory.php docs/json src/ByCity
