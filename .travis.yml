@@ -39,6 +39,7 @@ jobs:
         - vendor/bin/php-cs-fixer --dry-run --stop-on-violation fix
         - composer validate
     - stage: release
+      language: bash
       if: branch = master AND tag IS blank
       before_install: skip
       install: skip
