@@ -27,7 +27,7 @@ final class Office108836 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 108836;
-    private $OPSName = 'Ватутинки';
+    private $OPSName = 'Ватутинки 36';
     private $OPSType = 'О';
     private $OPSSubm = 142079;
     private $Region = 'Москва';
@@ -35,6 +35,6 @@ final class Office108836 implements \RussianPostIndex\Record
     private $Area = '';
     private $City = 'Десеновское';
     private $City1 = 'Ватутинки';
-    private $ActDate = '20180131';
+    private $ActDate = '20190314';
     private $IndexOld = '';
 }

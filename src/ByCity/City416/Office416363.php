@@ -27,7 +27,7 @@ final class Office416363 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 416363;
-    private $OPSName = 'Староволжский';
+    private $OPSName = 'Старо-Волжский';
     private $OPSType = 'О';
     private $OPSSubm = 416379;
     private $Region = 'Астраханская область';
@@ -35,6 +35,6 @@ final class Office416363 implements \RussianPostIndex\Record
     private $Area = 'Икрянинский район';
     private $City = 'Старо-Волжский';
     private $City1 = '';
-    private $ActDate = '20190211';
+    private $ActDate = '20190311';
     private $IndexOld = '';
 }

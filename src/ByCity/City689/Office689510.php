@@ -33,8 +33,8 @@ final class Office689510 implements \RussianPostIndex\Record
     private $Region = '';
     private $Autonom = 'Чукотский автономный округ';
     private $Area = 'Анадырский район';
-    private $City = 'Угольные Копи АОПП';
-    private $City1 = '';
-    private $ActDate = '20140812';
+    private $City = 'Угольные Копи';
+    private $City1 = 'Анадырь (Угольный)';
+    private $ActDate = '20190315';
     private $IndexOld = '';
 }
