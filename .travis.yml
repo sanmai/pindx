@@ -53,3 +53,13 @@ install:
 
 script:
   - vendor/bin/phpunit
+
+deploy:
+  - provider: script
+    skip_cleanup: true
+    on:
+      branch: master
+      condition: tag IS blank
+    script:
+      - git tag -a "$(. find-next-version)" -m "Automatic release"
+      - git push --tags

@@ -1,0 +1,21 @@
+#!/bin/bash
+
+trap '>&2 echo Release failed \(line $LINENO\)' ERR
+
+set -o nounset -o errexit
+
+test -f docs/_data/last-update-date
+test $(git rev-parse --abbrev-ref HEAD) = "master"
+
+releasedVer=$(git describe --abbrev=0 --tags)
+
+
+>&2 echo "Latest version: $releasedVer"
+grep -qP '^v\d+\.\d+\.\d+' <<< "$releasedVer"
+
+nextVer=$(awk -v date=$(sed s/-//g docs/_data/last-update-date) -F'[.+]' '{print $1 "." $2 "." ($3 + 1) "+" date}' <<< "$releasedVer")
+
+>&2 echo "Proposed version: $nextVer"
+grep -qP '^v\d+\.\d+\.\d+' <<< "$releasedVer"
+
+echo $nextVer
