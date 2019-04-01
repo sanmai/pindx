@@ -29,12 +29,12 @@ final class Office108806 implements \RussianPostIndex\Record
     private $Index = 108806;
     private $OPSName = 'Рассудово';
     private $OPSType = 'О';
-    private $OPSSubm = 143399;
+    private $OPSSubm = 119950;
     private $Region = 'Москва';
     private $Autonom = '';
     private $Area = '';
     private $City = 'Новофедоровское';
     private $City1 = 'Рассудово';
-    private $ActDate = '20180131';
+    private $ActDate = '20190329';
     private $IndexOld = '';
 }

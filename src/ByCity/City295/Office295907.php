@@ -17,24 +17,24 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City163;
+namespace RussianPostIndex\ByCity\City295;
 
 /**
  * @internal
  */
-final class Office163027 implements \RussianPostIndex\Record
+final class Office295907 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 163027;
-    private $OPSName = 'Архангельск 27 ППС';
-    private $OPSType = 'ППС';
-    private $OPSSubm = 163999;
-    private $Region = 'Архангельская область';
+    private $Index = 295907;
+    private $OPSName = 'Симферополь Цопп Уч. Мжд';
+    private $OPSType = 'Участок';
+    private $OPSSubm = 295960;
+    private $Region = 'Крым Республика';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'Архангельск';
+    private $City = 'Симферополь';
     private $City1 = '';
-    private $ActDate = '20171214';
+    private $ActDate = '20190329';
     private $IndexOld = '';
 }

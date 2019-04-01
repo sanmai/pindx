@@ -29,12 +29,12 @@ final class Office108804 implements \RussianPostIndex\Record
     private $Index = 108804;
     private $OPSName = 'Кокошкино';
     private $OPSType = 'О';
-    private $OPSSubm = 143399;
+    private $OPSSubm = 119950;
     private $Region = 'Москва';
     private $Autonom = '';
     private $Area = '';
     private $City = 'Кокошкино';
     private $City1 = 'Кокошкино';
-    private $ActDate = '20180131';
+    private $ActDate = '20190329';
     private $IndexOld = '';
 }

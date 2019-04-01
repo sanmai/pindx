@@ -29,12 +29,12 @@ final class Office108800 implements \RussianPostIndex\Record
     private $Index = 108800;
     private $OPSName = 'Киевский';
     private $OPSType = 'О';
-    private $OPSSubm = 143399;
+    private $OPSSubm = 119950;
     private $Region = 'Москва';
     private $Autonom = '';
     private $Area = '';
     private $City = 'Киевский';
     private $City1 = 'Киевский';
-    private $ActDate = '20180131';
+    private $ActDate = '20190329';
     private $IndexOld = '';
 }

@@ -17,24 +17,24 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City453;
+namespace RussianPostIndex\ByCity\City299;
 
 /**
  * @internal
  */
-final class Office453517 implements \RussianPostIndex\Record
+final class Office299903 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 453517;
-    private $OPSName = 'Белорецк Уооп';
+    private $Index = 299903;
+    private $OPSName = 'Севастополь Цопп Уч. Страховой';
     private $OPSType = 'Участок';
-    private $OPSSubm = 453519;
-    private $Region = 'Башкортостан Республика';
+    private $OPSSubm = 299960;
+    private $Region = 'Севастополь';
     private $Autonom = '';
-    private $Area = 'Белорецкий район';
-    private $City = 'Железнодорожный';
+    private $Area = '';
+    private $City = '';
     private $City1 = '';
-    private $ActDate = '20190320';
+    private $ActDate = '20190329';
     private $IndexOld = '';
 }

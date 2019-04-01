@@ -29,12 +29,12 @@ final class Office108850 implements \RussianPostIndex\Record
     private $Index = 108850;
     private $OPSName = 'Солнцево-Парк';
     private $OPSType = 'О';
-    private $OPSSubm = 142079;
+    private $OPSSubm = 119950;
     private $Region = 'Москва';
     private $Autonom = '';
     private $Area = '';
     private $City = 'Солнцево Парк';
     private $City1 = '';
-    private $ActDate = '20180426';
+    private $ActDate = '20190329';
     private $IndexOld = '';
 }

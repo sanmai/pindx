@@ -29,12 +29,12 @@ final class Office108826 implements \RussianPostIndex\Record
     private $Index = 108826;
     private $OPSName = 'Приволье';
     private $OPSType = 'О';
-    private $OPSSubm = 142169;
+    private $OPSSubm = 117950;
     private $Region = 'Москва';
     private $Autonom = '';
     private $Area = '';
     private $City = 'Щаповское';
     private $City1 = 'Приволье';
-    private $ActDate = '20180131';
+    private $ActDate = '20190329';
     private $IndexOld = '';
 }

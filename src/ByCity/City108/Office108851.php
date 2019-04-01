@@ -29,12 +29,12 @@ final class Office108851 implements \RussianPostIndex\Record
     private $Index = 108851;
     private $OPSName = 'Щербинка 1';
     private $OPSType = 'О';
-    private $OPSSubm = 142169;
+    private $OPSSubm = 117950;
     private $Region = 'Москва';
     private $Autonom = '';
     private $Area = '';
     private $City = 'Щербинка';
     private $City1 = '';
-    private $ActDate = '20150911';
+    private $ActDate = '20190329';
     private $IndexOld = '';
 }

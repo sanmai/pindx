@@ -29,12 +29,12 @@ final class Office108836 implements \RussianPostIndex\Record
     private $Index = 108836;
     private $OPSName = 'Ватутинки 36';
     private $OPSType = 'О';
-    private $OPSSubm = 142079;
+    private $OPSSubm = 117950;
     private $Region = 'Москва';
     private $Autonom = '';
     private $Area = '';
     private $City = 'Десеновское';
     private $City1 = 'Ватутинки';
-    private $ActDate = '20190314';
+    private $ActDate = '20190329';
     private $IndexOld = '';
 }

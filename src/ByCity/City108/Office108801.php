@@ -29,12 +29,12 @@ final class Office108801 implements \RussianPostIndex\Record
     private $Index = 108801;
     private $OPSName = 'Коммунарка 1';
     private $OPSType = 'О';
-    private $OPSSubm = 142079;
+    private $OPSSubm = 117950;
     private $Region = 'Москва';
     private $Autonom = '';
     private $Area = '';
     private $City = 'Коммунарка';
     private $City1 = '';
-    private $ActDate = '20190314';
+    private $ActDate = '20190329';
     private $IndexOld = '';
 }

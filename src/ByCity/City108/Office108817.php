@@ -29,12 +29,12 @@ final class Office108817 implements \RussianPostIndex\Record
     private $Index = 108817;
     private $OPSName = 'Поселок Минвнешторга';
     private $OPSType = 'О';
-    private $OPSSubm = 142079;
+    private $OPSSubm = 119950;
     private $Region = 'Москва';
     private $Autonom = '';
     private $Area = '';
     private $City = 'Внуковское';
     private $City1 = 'Минвнешторга';
-    private $ActDate = '20180131';
+    private $ActDate = '20190329';
     private $IndexOld = '';
 }
