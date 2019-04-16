@@ -17,24 +17,24 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City423;
+namespace RussianPostIndex\ByCity\City344;
 
 /**
  * @internal
  */
-final class Office423601 implements \RussianPostIndex\Record
+final class Office344968 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 423601;
-    private $OPSName = 'Елабуга 1';
-    private $OPSType = 'О';
-    private $OPSSubm = 423639;
-    private $Region = 'Татарстан Республика';
+    private $Index = 344968;
+    private $OPSName = 'Ростов-На-Дону МСЦ Lfsm1-См';
+    private $OPSType = 'Ти';
+    private $OPSSubm = 344964;
+    private $Region = 'Ростовская область';
     private $Autonom = '';
-    private $Area = 'Елабужский район';
-    private $City = 'Елабуга';
-    private $City1 = 'Алабуга Оэз';
-    private $ActDate = '20190410';
+    private $Area = '';
+    private $City = 'Ростов-На-Дону';
+    private $City1 = '';
+    private $ActDate = '20190408';
     private $IndexOld = '';
 }

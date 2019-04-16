@@ -33,8 +33,8 @@ final class Office150510 implements \RussianPostIndex\Record
     private $Region = 'Ярославская область';
     private $Autonom = '';
     private $Area = 'Ярославский район';
-    private $City = 'Кузнечиха';
+    private $City = 'Кузнечиха (Кузнечихинский С.о.)';
     private $City1 = '';
-    private $ActDate = '20150330';
+    private $ActDate = '20190410';
     private $IndexOld = '';
 }

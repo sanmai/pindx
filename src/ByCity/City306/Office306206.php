@@ -17,24 +17,24 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City423;
+namespace RussianPostIndex\ByCity\City306;
 
 /**
  * @internal
  */
-final class Office423601 implements \RussianPostIndex\Record
+final class Office306206 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 423601;
-    private $OPSName = 'Елабуга 1';
-    private $OPSType = 'О';
-    private $OPSSubm = 423639;
-    private $Region = 'Татарстан Республика';
+    private $Index = 306206;
+    private $OPSName = 'Пристень Уооп';
+    private $OPSType = 'Участок';
+    private $OPSSubm = 306201;
+    private $Region = 'Курская область';
     private $Autonom = '';
-    private $Area = 'Елабужский район';
-    private $City = 'Елабуга';
-    private $City1 = 'Алабуга Оэз';
-    private $ActDate = '20190410';
+    private $Area = 'Пристенский район';
+    private $City = 'Пристень';
+    private $City1 = '';
+    private $ActDate = '20190411';
     private $IndexOld = '';
 }
