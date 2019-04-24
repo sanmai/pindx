@@ -111,7 +111,7 @@ var_dump($postalCodeValid);
 
 ## JSON
 
-Для вашего удобства все данные из БД [также есть в виде JSON API](https://www.postindexapi.ru/).
+Для вашего удобства все данные из БД [также есть в виде JSON API почтовых индексов](https://www.postindexapi.ru/).
 
 API - бесплатное, обратная ссылка - желательна. [Сами файлы.](docs/json)
 
