@@ -56,7 +56,11 @@ cron-clean: clean
 	find composer.lock vendor/autoload.php -mtime +30 -delete
 
 .PHONY=test
-test: vendor/autoload.php all
+test: vendor/autoload.php
+	$(PHP) vendor/bin/phpunit
+
+.PHONY=test-all
+test-all: all vendor/autoload.php
 	$(PHP) vendor/bin/phpunit --stop-on-failure
 
 vendor/autoload.php:
@@ -64,7 +68,7 @@ vendor/autoload.php:
 	composer install
 
 .PHONY=cron
-cron: all test
+cron: all test-all
 	curl -s https://vinfo.russianpost.ru/database/ops.html | elinks -no-home 1 -dump -localhost -dump-charset utf-8 -force-html -no-references -no-numbering | grep -A1 Сформирован | sed -E 's,([0-9]{2}).([0-9]{2}).([0-9]{4}),\3-\2-\1,g' | grep -o [0-9-]* | head -n 1 > docs/_data/last-update-date
 	sed s/date-updated/$$(cat docs/_data/last-update-date)/ docs/_data/status.yml.template > docs/_data/status.yml; git add docs/_data/status.yml
 	if ! git diff --cached --quiet; then git commit -m "Automatic build for $$(cat docs/_data/last-update-date)"; git push; exit 1; fi
