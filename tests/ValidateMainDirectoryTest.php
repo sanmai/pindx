@@ -56,6 +56,6 @@ class ValidateMainDirectoryTest extends TestCase
      */
     public function testPostalCodeIndexed($postalCode)
     {
-        $this->assertTrue(\RussianPostIndex\MainDirectory::postalCodeValid($postalCode), "Main directory is not aware of postal code $postalCode");
+        $this->assertTrue(\RussianPostIndex\MainDirectory::postalCodeValid($postalCode), "Either the main directory is not aware of postal code $postalCode, or we have an extra file");
     }
 }
