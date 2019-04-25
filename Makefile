@@ -57,7 +57,7 @@ cron-clean: clean
 
 .PHONY=test
 test: vendor/autoload.php all
-	$(PHP) vendor/bin/phpunit
+	$(PHP) vendor/bin/phpunit --stop-on-failure
 
 vendor/autoload.php:
 	$(PHP) -v
