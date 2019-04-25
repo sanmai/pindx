@@ -51,6 +51,10 @@ clean:
 	rm -fv PIndx.tsv PIndx.txt PIndx.dbf PIndx.zip
 	git rm -fr src/ByCity/ docs/json/
 
+.PHONY=cron-clean
+cron-clean: clean
+	find composer.lock vendor/autoload.php -mtime +30 -delete
+
 .PHONY=test
 test: vendor/autoload.php
 	$(PHP) vendor/bin/phpunit
