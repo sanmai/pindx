@@ -29,12 +29,12 @@ final class Office307041 implements \RussianPostIndex\Record
     private $Index = 307041;
     private $OPSName = 'Гостомля-Первая';
     private $OPSType = 'О';
-    private $OPSSubm = 307059;
+    private $OPSSubm = 307259;
     private $Region = 'Курская область';
     private $Autonom = '';
     private $Area = 'Медвенский район';
     private $City = '1-Я Гостомля';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20190419';
     private $IndexOld = '';
 }

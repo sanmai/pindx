@@ -29,12 +29,12 @@ final class Office307053 implements \RussianPostIndex\Record
     private $Index = 307053;
     private $OPSName = 'Вышний Дубовец';
     private $OPSType = 'О';
-    private $OPSSubm = 307059;
+    private $OPSSubm = 306269;
     private $Region = 'Курская область';
     private $Autonom = '';
     private $Area = 'Медвенский район';
     private $City = 'Вышний Дубовец';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20190419';
     private $IndexOld = '';
 }

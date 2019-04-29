@@ -33,8 +33,8 @@ final class Office445251 implements \RussianPostIndex\Record
     private $Region = 'Самарская область';
     private $Autonom = '';
     private $Area = 'Сызранский район';
-    private $City = 'Междуреченск';
+    private $City = 'Междуреченск-1';
     private $City1 = '';
-    private $ActDate = '20021128';
+    private $ActDate = '20190418';
     private $IndexOld = '';
 }

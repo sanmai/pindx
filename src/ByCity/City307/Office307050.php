@@ -29,12 +29,12 @@ final class Office307050 implements \RussianPostIndex\Record
     private $Index = 307050;
     private $OPSName = 'Губановка';
     private $OPSType = 'О';
-    private $OPSSubm = 307059;
+    private $OPSSubm = 306269;
     private $Region = 'Курская область';
     private $Autonom = '';
     private $Area = 'Медвенский район';
     private $City = 'Губановка';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20190419';
     private $IndexOld = '';
 }

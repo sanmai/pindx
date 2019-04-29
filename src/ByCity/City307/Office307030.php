@@ -29,12 +29,12 @@ final class Office307030 implements \RussianPostIndex\Record
     private $Index = 307030;
     private $OPSName = 'Медвенка';
     private $OPSType = 'О';
-    private $OPSSubm = 307059;
+    private $OPSSubm = 307259;
     private $Region = 'Курская область';
     private $Autonom = '';
     private $Area = 'Медвенский район';
     private $City = 'Медвенка';
     private $City1 = '';
-    private $ActDate = '20080201';
+    private $ActDate = '20190419';
     private $IndexOld = '';
 }

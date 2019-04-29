@@ -29,12 +29,12 @@ final class Office307490 implements \RussianPostIndex\Record
     private $Index = 307490;
     private $OPSName = 'Теткино';
     private $OPSType = 'О';
-    private $OPSSubm = 307499;
+    private $OPSSubm = 307379;
     private $Region = 'Курская область';
     private $Autonom = '';
     private $Area = 'Глушковский район';
     private $City = 'Теткино';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20190419';
     private $IndexOld = '';
 }

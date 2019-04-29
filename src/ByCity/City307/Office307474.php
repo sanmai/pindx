@@ -29,12 +29,12 @@ final class Office307474 implements \RussianPostIndex\Record
     private $Index = 307474;
     private $OPSName = 'Алексеевка';
     private $OPSType = 'О';
-    private $OPSSubm = 307499;
+    private $OPSSubm = 307379;
     private $Region = 'Курская область';
     private $Autonom = '';
     private $Area = 'Глушковский район';
     private $City = 'Алексеевка';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20190419';
     private $IndexOld = '';
 }
