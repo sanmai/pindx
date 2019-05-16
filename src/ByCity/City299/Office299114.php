@@ -17,24 +17,24 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City366;
+namespace RussianPostIndex\ByCity\City299;
 
 /**
  * @internal
  */
-final class Office366034 implements \RussianPostIndex\Record
+final class Office299114 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 366034;
-    private $OPSName = 'Грозный 34';
-    private $OPSType = 'О';
-    private $OPSSubm = 364000;
-    private $Region = 'Чеченская Республика';
+    private $Index = 299114;
+    private $OPSName = 'Севастополь Ууц';
+    private $OPSType = 'Участок';
+    private $OPSSubm = 299700;
+    private $Region = 'Севастополь';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'Грозный';
-    private $City1 = 'Старая Сунжа';
-    private $ActDate = '20190429';
+    private $City = '';
+    private $City1 = '';
+    private $ActDate = '20190513';
     private $IndexOld = '';
 }
