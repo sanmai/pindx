@@ -17,24 +17,24 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City652;
+namespace RussianPostIndex\ByCity\City414;
 
 /**
  * @internal
  */
-final class Office652410 implements \RussianPostIndex\Record
+final class Office414963 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 652410;
-    private $OPSName = 'Таежный';
-    private $OPSType = 'О';
-    private $OPSSubm = 652499;
-    private $Region = 'Кемеровская область';
+    private $Index = 414963;
+    private $OPSName = 'Астрахань МСЦ Уооп';
+    private $OPSType = 'Участок';
+    private $OPSSubm = 414960;
+    private $Region = 'Астраханская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'Тайга';
+    private $City = 'Астрахань';
     private $City1 = '';
-    private $ActDate = '20190518';
+    private $ActDate = '20190528';
     private $IndexOld = '';
 }

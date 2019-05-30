@@ -17,24 +17,24 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City683;
+namespace RussianPostIndex\ByCity\City663;
 
 /**
  * @internal
  */
-final class Office683980 implements \RussianPostIndex\Record
+final class Office663370 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 683980;
-    private $OPSName = 'Петропавловск-Камчатский ГСП';
-    private $OPSType = 'ГСП';
-    private $OPSSubm = 683000;
-    private $Region = 'Камчатский край';
+    private $Index = 663370;
+    private $OPSName = 'Норильск АОПП';
+    private $OPSType = 'АОПП';
+    private $OPSSubm = 663300;
+    private $Region = 'Красноярский край';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'Петропавловск-Камчатский';
+    private $City = 'Норильск';
     private $City1 = '';
-    private $ActDate = '20160119';
+    private $ActDate = '20190521';
     private $IndexOld = '';
 }

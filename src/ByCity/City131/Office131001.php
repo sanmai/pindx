@@ -17,24 +17,24 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City652;
+namespace RussianPostIndex\ByCity\City131;
 
 /**
  * @internal
  */
-final class Office652410 implements \RussianPostIndex\Record
+final class Office131001 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 652410;
-    private $OPSName = 'Таежный';
-    private $OPSType = 'О';
-    private $OPSSubm = 652499;
-    private $Region = 'Кемеровская область';
+    private $Index = 131001;
+    private $OPSName = 'ФГУП "почта России" - Сервис Личный Кабинет';
+    private $OPSType = 'Ти';
+    private $OPSSubm = 131000;
+    private $Region = 'Москва';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'Тайга';
+    private $City = '';
     private $City1 = '';
-    private $ActDate = '20190518';
+    private $ActDate = '20190527';
     private $IndexOld = '';
 }
