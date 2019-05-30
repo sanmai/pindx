@@ -11,7 +11,7 @@
         "phpunit/phpunit": ">=6",
         "sanmai/pipeline": "^0.3.3 || ^2.0 || ^3.0",
         "symfony/finder": "^3.4 || ^4.1",
-        "symfony/yaml": "^4.3"
+        "symfony/yaml": "^3.4 || ^4.3"
     },
     "config": {
         "sort-packages": true
