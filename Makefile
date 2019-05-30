@@ -4,7 +4,7 @@ PHP=$$(command -v php)
 PINDXZIP=https://vinfo.russianpost.ru/database/PIndx.zip
 
 .PHONY=all
-all: src/MainDirectory.php src/PrefixDirectory.php docs/json src/ByCity
+all: src/MainDirectory.php src/PrefixDirectory.php docs/json docs/json/index.json src/ByCity
 	mkdir -p build/cache
 	$(PHP) vendor/bin/php-cs-fixer fix -v
 	git add src/ docs/json/
@@ -39,8 +39,10 @@ src/PrefixDirectory.php: PIndx.tsv vendor/autoload.php
 
 docs/json: PIndx.tsv
 	$(PHP) bin/JSONIndex.php
-	$(PHP) bin/JSONListIndex.php
 	touch --no-create docs/json/
+
+docs/json/index.json: PIndx.tsv
+	$(PHP) bin/JSONListIndex.php
 
 src/ByCity: PIndx.tsv vendor/autoload.php
 	$(PHP) bin/PHPExport.php

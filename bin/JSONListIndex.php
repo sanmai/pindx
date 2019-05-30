@@ -39,3 +39,5 @@ $result = $pipeline->reduce(function (array $carry, int $index) {
 foreach ($result as $cityCode => $postCodes) {
     file_put_contents("docs/json/$cityCode.json", json_encode(array_values($postCodes), JSON_PRETTY_PRINT));
 }
+
+file_put_contents('docs/json/index.json', json_encode(array_keys($result), JSON_PRETTY_PRINT));
