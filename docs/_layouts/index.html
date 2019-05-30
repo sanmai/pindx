@@ -1,0 +1,37 @@
+{% capture url %}
+{{ '/' | absolute_url }}json/{{ page.data.Index | slice: 0, 3 }}/{{ page.data.Index }}.json
+{% endcapture %}
+
+{% capture markdown %}
+
+## Почтовый индекс {{ data.index }}
+
+Данные по почтовому индексу {{ page.data.Index }} отделения почтовой связи Почты России в формате JSON [доступны по ссылке]({{ url | strip }}):
+
+```
+{{ url | strip }}
+```
+
+## Описание полей данных
+
+| Поле | Значение | Описание |
+| ---- | ---- | ---- |
+| Index  | {{ page.data.Index | xml_escape }} | Почтовый индекс объекта почтовой связи в соответствии с действующей системой индексации.  |
+| OPSName  | {{ page.data.OPSName | xml_escape }} | Наименование объекта почтовой связи.  |
+| OPSType  | {{ page.data.OPSType | xml_escape }} | Тип объекта почтовой связи. |
+| OPSSubm  | {{ page.data.OPSSubm | xml_escape }} | Индекс вышестоящего по иерархии подчиненности объекта почтовой связи.  |
+| Region  | {{ page.data.Region | xml_escape }} | Наименование области, края, республики, в которой находится объект почтовой связи. |
+| Autonom  | {{ page.data.Autonom | xml_escape }} | Наименование автономной области, в которой находится объект почтовой связи.  |
+| Area  | {{ page.data.Area | xml_escape }} | Наименование района, в котором находится объект почтовой связи.  |
+| City  | {{ page.data.City | xml_escape }} | Наименование населенного пункта, в котором находится объект почтовой связи.  |
+| City1  | {{ page.data.City1 | xml_escape }} | Наименование подчиненного населенного пункта, в котором находится объект почтовой связи.  |
+| ActDate  | {{ page.data.ActDate | xml_escape }} | Дата актуализации информации об объекте почтовой связи.  |
+| IndexOld  | {{ page.data.IndexOld | xml_escape }} | Почтовый индекс объект почтовой связи до ввода действующей системы индексации.  |
+
+{% endcapture %}
+
+{% capture content %}
+{{ markdown | markdownify }}
+{% endcapture %}
+
+{% include default.html %}
