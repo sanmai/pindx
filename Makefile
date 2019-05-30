@@ -39,6 +39,7 @@ src/PrefixDirectory.php: PIndx.tsv vendor/autoload.php
 
 docs/json: PIndx.tsv
 	$(PHP) bin/JSONIndex.php
+	$(PHP) bin/JSONListIndex.php
 	touch --no-create docs/json/
 
 src/ByCity: PIndx.tsv vendor/autoload.php
