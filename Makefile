@@ -47,6 +47,10 @@ src/ByCity: PIndx.tsv vendor/autoload.php
 	find src/ByCity -type f -print0 | xargs -r -0 -P$$(nproc) -n64 $(PHP) vendor/bin/php-cs-fixer fix --using-cache=no --quiet --config .php_cs.dist
 	touch --no-create src/ByCity/
 
+.PHONY=cs
+cs:
+	$(PHP) vendor/bin/php-cs-fixer fix -v
+
 .PHONY=clean
 clean:
 	rm -fv PIndx.tsv PIndx.txt PIndx.dbf PIndx.zip
