@@ -10,7 +10,8 @@
         "friendsofphp/php-cs-fixer": "^2.13",
         "phpunit/phpunit": ">=6",
         "sanmai/pipeline": "^0.3.3 || ^2.0 || ^3.0",
-        "symfony/finder": "^3.4 || ^4.1"
+        "symfony/finder": "^3.4 || ^4.1",
+        "symfony/yaml": "^4.3"
     },
     "config": {
         "sort-packages": true

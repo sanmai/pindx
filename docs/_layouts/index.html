@@ -4,9 +4,9 @@
 
 {% capture markdown %}
 
-## Почтовый индекс {{ data.index }}
+## Почтовый индекс {{ page.data.Index }}
 
-Данные по почтовому индексу {{ page.data.Index }} отделения почтовой связи Почты России в формате JSON [доступны по ссылке]({{ url | strip }}):
+Данные отделения почтовой связи Почты России с индексом {{ page.data.Index }} в формате JSON [доступны по ссылке]({{ url | strip }}):
 
 ```
 {{ url | strip }}
@@ -19,7 +19,7 @@
 | Index  | {{ page.data.Index | xml_escape }} | Почтовый индекс объекта почтовой связи в соответствии с действующей системой индексации.  |
 | OPSName  | {{ page.data.OPSName | xml_escape }} | Наименование объекта почтовой связи.  |
 | OPSType  | {{ page.data.OPSType | xml_escape }} | Тип объекта почтовой связи. |
-| OPSSubm  | {{ page.data.OPSSubm | xml_escape }} | Индекс вышестоящего по иерархии подчиненности объекта почтовой связи.  |
+| OPSSubm  | <a href="/{{ page.data.OPSSubm | xml_escape }}/">{{ page.data.OPSSubm | xml_escape }}</a> | Индекс вышестоящего по иерархии подчиненности объекта почтовой связи.  |
 | Region  | {{ page.data.Region | xml_escape }} | Наименование области, края, республики, в которой находится объект почтовой связи. |
 | Autonom  | {{ page.data.Autonom | xml_escape }} | Наименование автономной области, в которой находится объект почтовой связи.  |
 | Area  | {{ page.data.Area | xml_escape }} | Наименование района, в котором находится объект почтовой связи.  |
