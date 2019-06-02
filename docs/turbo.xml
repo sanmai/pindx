@@ -16,11 +16,13 @@ layout: null
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <generator>Jekyll v{{ jekyll.version }}</generator>
     {% for post in site.pages limit:1 %}
+    {% if post.turbo %}
       <item turbo="true">
         <title>{{ post.title | xml_escape }}</title>
         <turbo:content><![CDATA[{{ post.content }}]]></turbo:content>
         <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
       </item>
+    {% endif %}
     {% endfor %}
   </channel>
 </rss>
