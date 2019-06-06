@@ -68,6 +68,10 @@ trait RecordTrait
 
     public function getDate(): \DateTimeInterface
     {
+        if ($this->ActDate instanceof \DateTimeImmutable) {
+            return $this->ActDate;
+        }
+
         return new \DateTimeImmutable($this->ActDate);
     }
 }
