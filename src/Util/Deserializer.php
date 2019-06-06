@@ -39,7 +39,7 @@ final class Deserializer
         if (method_exists(AnnotationRegistry::class, 'registerUniqueLoader')) {
             AnnotationRegistry::registerUniqueLoader('class_exists');
         } elseif (method_exists(AnnotationRegistry::class, 'registerLoader')) {
-            AnnotationRegistry::registerUniqueLoader('class_exists');
+            AnnotationRegistry::registerLoader('class_exists');
         }
     }
 
