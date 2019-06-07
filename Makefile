@@ -74,9 +74,13 @@ test: vendor/autoload.php
 test-all: all vendor/autoload.php
 	$(PHP) vendor/bin/phpunit --stop-on-failure
 
-vendor/autoload.php:
+vendor/autoload.php: composer.lock
 	$(PHP) -v
 	composer install
+
+composer.lock: composer.json
+	composer update
+	touch -r composer.lock composer.json
 
 .PHONY=cron
 cron: all test-all
