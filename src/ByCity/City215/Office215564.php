@@ -17,23 +17,23 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City188;
+namespace RussianPostIndex\ByCity\City215;
 
 /**
  * @internal
  */
-final class Office188669 implements \RussianPostIndex\Record
+final class Office215564 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 188669;
-    private $OPSName = 'Мурино 9';
-    private $OPSType = 'О';
-    private $OPSSubm = 188699;
-    private $Region = 'Ленинградская область';
+    private $Index = 215564;
+    private $OPSName = 'Сафоново 64';
+    private $OPSType = 'Передвижное ОС';
+    private $OPSSubm = 215569;
+    private $Region = 'Смоленская область';
     private $Autonom = '';
-    private $Area = 'Всеволожский район';
-    private $City = 'Новое Девяткино';
+    private $Area = 'Сафоновский район';
+    private $City = 'Сафоново';
     private $City1 = '';
     private $ActDate = '20190610';
     private $IndexOld = '';

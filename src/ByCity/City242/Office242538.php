@@ -17,24 +17,24 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City640;
+namespace RussianPostIndex\ByCity\City242;
 
 /**
  * @internal
  */
-final class Office640898 implements \RussianPostIndex\Record
+final class Office242538 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 640898;
-    private $OPSName = 'Курган ГСП';
-    private $OPSType = 'ГСП';
-    private $OPSSubm = 640000;
-    private $Region = 'Курганская область';
+    private $Index = 242538;
+    private $OPSName = 'Карачев 38';
+    private $OPSType = 'Передвижное ОС';
+    private $OPSSubm = 241000;
+    private $Region = 'Брянская область';
     private $Autonom = '';
-    private $Area = '';
-    private $City = 'Курган';
+    private $Area = 'Карачевский район';
+    private $City = 'Карачев';
     private $City1 = '';
-    private $ActDate = '20160217';
+    private $ActDate = '20190606';
     private $IndexOld = '';
 }
