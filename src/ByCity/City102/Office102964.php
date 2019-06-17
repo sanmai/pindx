@@ -17,24 +17,24 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City297;
+namespace RussianPostIndex\ByCity\City102;
 
 /**
  * @internal
  */
-final class Office297505 implements \RussianPostIndex\Record
+final class Office102964 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 297505;
-    private $OPSName = 'Мирное 5';
-    private $OPSType = 'О';
-    private $OPSSubm = 295999;
-    private $Region = 'Крым Республика';
+    private $Index = 102964;
+    private $OPSName = 'Мр Лц Внуково Цех-1 ММПО Уо';
+    private $OPSType = 'Участок';
+    private $OPSSubm = 102976;
+    private $Region = 'Москва';
     private $Autonom = '';
-    private $Area = 'Симферопольский район';
-    private $City = 'Мирное';
-    private $City1 = '';
+    private $Area = '';
+    private $City = 'Марушкинское';
+    private $City1 = 'Шарапово';
     private $ActDate = '20190614';
     private $IndexOld = '';
 }

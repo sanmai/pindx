@@ -17,24 +17,24 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City297;
+namespace RussianPostIndex\ByCity\City131;
 
 /**
  * @internal
  */
-final class Office297505 implements \RussianPostIndex\Record
+final class Office131002 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 297505;
-    private $OPSName = 'Мирное 5';
-    private $OPSType = 'О';
-    private $OPSSubm = 295999;
-    private $Region = 'Крым Республика';
+    private $Index = 131002;
+    private $OPSName = 'Пансионат "почтовик"';
+    private $OPSType = 'Ти';
+    private $OPSSubm = 131000;
+    private $Region = 'Краснодарский край';
     private $Autonom = '';
-    private $Area = 'Симферопольский район';
-    private $City = 'Мирное';
-    private $City1 = '';
-    private $ActDate = '20190614';
+    private $Area = '';
+    private $City = 'Геленджик';
+    private $City1 = 'Кабардинка';
+    private $ActDate = '20190613';
     private $IndexOld = '';
 }

@@ -17,24 +17,24 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City297;
+namespace RussianPostIndex\ByCity\City140;
 
 /**
  * @internal
  */
-final class Office297505 implements \RussianPostIndex\Record
+final class Office140016 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 297505;
-    private $OPSName = 'Мирное 5';
+    private $Index = 140016;
+    private $OPSName = 'Люберцы 16';
     private $OPSType = 'О';
-    private $OPSSubm = 295999;
-    private $Region = 'Крым Республика';
+    private $OPSSubm = 140079;
+    private $Region = 'Московская область';
     private $Autonom = '';
-    private $Area = 'Симферопольский район';
-    private $City = 'Мирное';
+    private $Area = 'Люберецкий район';
+    private $City = 'Люберцы';
     private $City1 = '';
-    private $ActDate = '20190614';
+    private $ActDate = '20190617';
     private $IndexOld = '';
 }

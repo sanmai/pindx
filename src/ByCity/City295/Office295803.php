@@ -17,19 +17,19 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City297;
+namespace RussianPostIndex\ByCity\City295;
 
 /**
  * @internal
  */
-final class Office297505 implements \RussianPostIndex\Record
+final class Office295803 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 297505;
-    private $OPSName = 'Мирное 5';
-    private $OPSType = 'О';
-    private $OPSSubm = 295999;
+    private $Index = 295803;
+    private $OPSName = 'Мирное-ДТИ';
+    private $OPSType = 'ДТИ';
+    private $OPSSubm = 297505;
     private $Region = 'Крым Республика';
     private $Autonom = '';
     private $Area = 'Симферопольский район';
