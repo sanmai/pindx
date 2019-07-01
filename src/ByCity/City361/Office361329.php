@@ -17,24 +17,24 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City685;
+namespace RussianPostIndex\ByCity\City361;
 
 /**
  * @internal
  */
-final class Office685963 implements \RussianPostIndex\Record
+final class Office361329 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 685963;
-    private $OPSName = 'Магадан МСЦ Уоп';
+    private $Index = 361329;
+    private $OPSName = 'Нарткала Уоопо';
     private $OPSType = 'Участок';
-    private $OPSSubm = 685960;
-    private $Region = 'Магаданская область';
+    private $OPSSubm = 361330;
+    private $Region = 'Кабардино-Балкарская Республика';
     private $Autonom = '';
-    private $Area = '';
-    private $City = 'Магадан';
-    private $City1 = 'Сокол';
-    private $ActDate = '20190618';
+    private $Area = 'Урванский район';
+    private $City = 'Нарткала';
+    private $City1 = '';
+    private $ActDate = '20190628';
     private $IndexOld = '';
 }

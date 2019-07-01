@@ -17,24 +17,24 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City685;
+namespace RussianPostIndex\ByCity\City361;
 
 /**
  * @internal
  */
-final class Office685963 implements \RussianPostIndex\Record
+final class Office361059 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 685963;
-    private $OPSName = 'Магадан МСЦ Уоп';
+    private $Index = 361059;
+    private $OPSName = 'Прохладный Уоопо';
     private $OPSType = 'Участок';
-    private $OPSSubm = 685960;
-    private $Region = 'Магаданская область';
+    private $OPSSubm = 361040;
+    private $Region = 'Кабардино-Балкарская Республика';
     private $Autonom = '';
-    private $Area = '';
-    private $City = 'Магадан';
-    private $City1 = 'Сокол';
-    private $ActDate = '20190618';
+    private $Area = 'Прохладненский район';
+    private $City = 'Прохладный';
+    private $City1 = '';
+    private $ActDate = '20190628';
     private $IndexOld = '';
 }
