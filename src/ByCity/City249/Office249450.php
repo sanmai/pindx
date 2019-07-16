@@ -17,24 +17,24 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City423;
+namespace RussianPostIndex\ByCity\City249;
 
 /**
  * @internal
  */
-final class Office423062 implements \RussianPostIndex\Record
+final class Office249450 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 423062;
-    private $OPSName = 'Аксубаево 2 ППС';
-    private $OPSType = 'ППС';
-    private $OPSSubm = 422999;
-    private $Region = 'Татарстан Республика';
+    private $Index = 249450;
+    private $OPSName = 'Киров 10';
+    private $OPSType = 'Передвижное ОС';
+    private $OPSSubm = 249449;
+    private $Region = 'Калужская область';
     private $Autonom = '';
-    private $Area = 'Аксубаевский район';
-    private $City = 'Аксубаево';
+    private $Area = 'Кировский район';
+    private $City = 'Киров';
     private $City1 = '';
-    private $ActDate = '20170918';
+    private $ActDate = '20190702';
     private $IndexOld = '';
 }

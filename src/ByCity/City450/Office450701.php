@@ -17,24 +17,24 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City102;
+namespace RussianPostIndex\ByCity\City450;
 
 /**
  * @internal
  */
-final class Office102034 implements \RussianPostIndex\Record
+final class Office450701 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 102034;
-    private $OPSName = 'Москва-ДТИ';
-    private $OPSType = 'ДТИ';
-    private $OPSSubm = 102101;
-    private $Region = 'Москва';
+    private $Index = 450701;
+    private $OPSName = 'УФПС Республики Башкортостан-Склад Мтс';
+    private $OPSType = 'Ти';
+    private $OPSSubm = 450700;
+    private $Region = 'Башкортостан Республика';
     private $Autonom = '';
     private $Area = '';
-    private $City = '';
+    private $City = 'Уфа';
     private $City1 = '';
-    private $ActDate = '20190628';
+    private $ActDate = '20190709';
     private $IndexOld = '';
 }

@@ -17,24 +17,24 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City423;
+namespace RussianPostIndex\ByCity\City355;
 
 /**
  * @internal
  */
-final class Office423474 implements \RussianPostIndex\Record
+final class Office355904 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 423474;
-    private $OPSName = 'Альметьевск 24 ППС';
-    private $OPSType = 'ППС';
-    private $OPSSubm = 423469;
-    private $Region = 'Татарстан Республика';
+    private $Index = 355904;
+    private $OPSName = 'Ставрополь-ДТИ';
+    private $OPSType = 'ДТИ';
+    private $OPSSubm = 355048;
+    private $Region = 'Ставропольский край';
     private $Autonom = '';
-    private $Area = 'Альметьевский район';
-    private $City = 'Альметьевск';
+    private $Area = '';
+    private $City = 'Ставрополь';
     private $City1 = '';
-    private $ActDate = '20170913';
+    private $ActDate = '20190711';
     private $IndexOld = '';
 }

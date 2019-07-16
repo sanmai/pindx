@@ -27,7 +27,7 @@ final class Office425476 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 425476;
-    private $OPSName = 'Сенсур Кладовая Хранения Нерозданных По';
+    private $OPSName = 'Сернур Кладовая Хранения Нерозданных По';
     private $OPSType = 'Участок';
     private $OPSSubm = 425479;
     private $Region = 'Марий Эл Республика';
@@ -35,6 +35,6 @@ final class Office425476 implements \RussianPostIndex\Record
     private $Area = 'Сернурский район';
     private $City = 'Сернур';
     private $City1 = '';
-    private $ActDate = '20170927';
+    private $ActDate = '20190709';
     private $IndexOld = '';
 }

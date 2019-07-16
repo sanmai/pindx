@@ -17,24 +17,24 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City102;
+namespace RussianPostIndex\ByCity\City991;
 
 /**
  * @internal
  */
-final class Office102034 implements \RussianPostIndex\Record
+final class Office991807 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 102034;
-    private $OPSName = 'Москва-ДТИ';
-    private $OPSType = 'ДТИ';
-    private $OPSSubm = 102101;
-    private $Region = 'Москва';
+    private $Index = 991807;
+    private $OPSName = 'Омск-Почтомат (Апс)';
+    private $OPSType = 'Почтомат';
+    private $OPSSubm = 644050;
+    private $Region = 'Омская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = '';
+    private $City = 'Омск';
     private $City1 = '';
-    private $ActDate = '20190628';
+    private $ActDate = '20190703';
     private $IndexOld = '';
 }

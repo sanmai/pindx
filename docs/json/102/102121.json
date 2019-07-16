@@ -1,6 +1,6 @@
 {
     "Index": 102121,
-    "OPSName": "Москва-ГЦМПП 121",
+    "OPSName": "Москва-ДТИ",
     "OPSType": "ДТИ",
     "OPSSubm": 102001,
     "Region": "Москва",
@@ -8,6 +8,6 @@
     "Area": "",
     "City": "",
     "City1": "",
-    "ActDate": "20170919",
+    "ActDate": "20190628",
     "IndexOld": ""
 }

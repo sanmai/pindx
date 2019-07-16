@@ -17,24 +17,24 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City422;
+namespace RussianPostIndex\ByCity\City606;
 
 /**
  * @internal
  */
-final class Office422974 implements \RussianPostIndex\Record
+final class Office606158 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 422974;
-    private $OPSName = 'Нарат-Елга ППС';
-    private $OPSType = 'ППС';
-    private $OPSSubm = 422999;
-    private $Region = 'Татарстан Республика';
+    private $Index = 606158;
+    private $OPSName = 'Вача Кладовая Хранения Нерозданных По';
+    private $OPSType = 'Участок';
+    private $OPSSubm = 606139;
+    private $Region = 'Нижегородская область';
     private $Autonom = '';
-    private $Area = 'Чистопольский район';
-    private $City = 'Нарат-Елга';
+    private $Area = 'Павловский район';
+    private $City = 'Павлово';
     private $City1 = '';
-    private $ActDate = '20170626';
+    private $ActDate = '20190711';
     private $IndexOld = '';
 }

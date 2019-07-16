@@ -27,14 +27,14 @@ final class Office443547 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 443547;
-    private $OPSName = 'Торновое';
+    private $OPSName = 'Придорожный';
     private $OPSType = 'О';
     private $OPSSubm = 443000;
     private $Region = 'Самарская область';
     private $Autonom = '';
     private $Area = 'Волжский район';
-    private $City = 'Торновое';
+    private $City = 'Придорожный';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20190701';
     private $IndexOld = '';
 }
