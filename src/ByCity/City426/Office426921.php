@@ -29,12 +29,12 @@ final class Office426921 implements \RussianPostIndex\Record
     private $Index = 426921;
     private $OPSName = 'Ижевск-ДТИ';
     private $OPSType = 'ДТИ';
-    private $OPSSubm = 426053;
+    private $OPSSubm = 426011;
     private $Region = 'Удмуртская Республика';
     private $Autonom = '';
     private $Area = '';
     private $City = 'Ижевск';
     private $City1 = '';
-    private $ActDate = '20141202';
+    private $ActDate = '20190722';
     private $IndexOld = '';
 }

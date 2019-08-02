@@ -34,7 +34,7 @@ final class Office369303 implements \RussianPostIndex\Record
     private $Autonom = '';
     private $Area = 'Усть-Джегутинский район';
     private $City = 'Усть-Джегута';
-    private $City1 = '';
-    private $ActDate = '20180530';
+    private $City1 = 'Московский';
+    private $ActDate = '20190722';
     private $IndexOld = '';
 }

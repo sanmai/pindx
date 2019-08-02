@@ -29,12 +29,12 @@ final class Office108967 implements \RussianPostIndex\Record
     private $Index = 108967;
     private $OPSName = 'Лц Внуково-2  Уч. Отправлений 1 Класса';
     private $OPSType = 'Участок';
-    private $OPSSubm = 108960;
+    private $OPSSubm = 108985;
     private $Region = 'Москва';
     private $Autonom = '';
     private $Area = '';
     private $City = 'Марушкинское';
     private $City1 = 'Давыдково';
-    private $ActDate = '20180928';
+    private $ActDate = '20190719';
     private $IndexOld = '';
 }

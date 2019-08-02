@@ -29,12 +29,12 @@ final class Office106000 implements \RussianPostIndex\Record
     private $Index = 106000;
     private $OPSName = 'Москва-Главный Пункт Еспп';
     private $OPSType = 'Ти';
-    private $OPSSubm = 101700;
+    private $OPSSubm = 131000;
     private $Region = 'Москва';
     private $Autonom = '';
     private $Area = '';
     private $City = '';
     private $City1 = '';
-    private $ActDate = '20101019';
+    private $ActDate = '20190716';
     private $IndexOld = '';
 }

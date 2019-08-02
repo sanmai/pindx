@@ -29,12 +29,12 @@ final class Office305971 implements \RussianPostIndex\Record
     private $Index = 305971;
     private $OPSName = 'Курск-ДТИ';
     private $OPSType = 'ДТИ';
-    private $OPSSubm = 305000;
+    private $OPSSubm = 305961;
     private $Region = 'Курская область';
     private $Autonom = '';
     private $Area = '';
     private $City = 'Курск';
     private $City1 = '';
-    private $ActDate = '20080605';
+    private $ActDate = '20190722';
     private $IndexOld = '';
 }
