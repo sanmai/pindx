@@ -64,5 +64,6 @@ class ReaderTest extends TestCase
     {
         $this->assertSame('Москва ФГУП "Почта России"', \PIndxTools\Reader::updateCyrillicCasing('МОСКВА ФГУП "ПОЧТА РОССИИ"'));
         $this->assertSame('Пансионат "Почтовик"', \PIndxTools\Reader::updateCyrillicCasing('ПАНСИОНАТ "ПОЧТОВИК"'));
+        $this->assertSame('Russian Post Berlin Lc/Ao', \PIndxTools\Reader::updateCyrillicCasing('Russian Post Berlin LC/AO'));
     }
 }

@@ -56,13 +56,25 @@ final class Reader
         'Умсц' => 'УМСЦ',
         'Уфпс' => 'УФПС',
         'Фгуп' => 'ФГУП',
+        'Гуп' => 'ГУП',
         'Ems' => 'EMS',
         'Лпц' => 'ЛПЦ',
+        'Пкф' => 'ПКФ',
     ];
 
     public static function updateCyrillicCasing(string $input): string
     {
-        return str_replace(array_keys(self::LOWER_CASE_WORDS), self::LOWER_CASE_WORDS, mb_convert_case($input, MB_CASE_TITLE));
+        if (PHP_VERSION_ID < 70300) {
+            $input = str_replace(['"', '/'], ['"% ', '/% '], $input);
+        }
+
+        $output = str_replace(array_keys(self::LOWER_CASE_WORDS), self::LOWER_CASE_WORDS, mb_convert_case($input, MB_CASE_TITLE));
+
+        if (PHP_VERSION_ID < 70300) {
+            $output = str_replace(['"% ', '/% '], ['"', '/'], $output);
+        }
+
+        return $output;
     }
 
     /**
