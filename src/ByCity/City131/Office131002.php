@@ -27,7 +27,7 @@ final class Office131002 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 131002;
-    private $OPSName = 'Пансионат "почтовик"';
+    private $OPSName = 'Пансионат "Почтовик"';
     private $OPSType = 'Ти';
     private $OPSSubm = 131000;
     private $Region = 'Краснодарский край';

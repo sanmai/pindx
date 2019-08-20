@@ -27,7 +27,7 @@ final class Office141895 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 141895;
-    private $OPSName = 'Посёлок Совхоза "останкино"';
+    private $OPSName = 'Посёлок Совхоза "Останкино"';
     private $OPSType = 'О';
     private $OPSSubm = 141899;
     private $Region = 'Московская область';
