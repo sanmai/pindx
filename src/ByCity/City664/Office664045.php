@@ -33,7 +33,7 @@ final class Office664045 implements \RussianPostIndex\Record
     private $Region = 'Иркутская область';
     private $Autonom = '';
     private $Area = 'Аларский район';
-    private $City = 'В/ч №39995';
+    private $City = 'В/Ч №39995';
     private $City1 = '';
     private $ActDate = '20171113';
     private $IndexOld = '';

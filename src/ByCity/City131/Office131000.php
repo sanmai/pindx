@@ -27,7 +27,7 @@ final class Office131000 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 131000;
-    private $OPSName = 'Москва ФГУП "почта России"';
+    private $OPSName = 'Москва ФГУП "Почта России"';
     private $OPSType = 'ФГУП';
     private $OPSSubm = 0;
     private $Region = 'Москва';
