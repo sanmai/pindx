@@ -17,24 +17,24 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City399;
+namespace RussianPostIndex\ByCity\City366;
 
 /**
  * @internal
  */
-final class Office399742 implements \RussianPostIndex\Record
+final class Office366225 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 399742;
-    private $OPSName = 'Совхоз Ключ Жизни';
-    private $OPSType = 'О';
-    private $OPSSubm = 399799;
-    private $Region = 'Липецкая область';
+    private $Index = 366225;
+    private $OPSName = 'Гудермес Кладовая Хранения Нерозданных По';
+    private $OPSType = 'Участок';
+    private $OPSSubm = 366200;
+    private $Region = 'Чеченская Республика';
     private $Autonom = '';
-    private $Area = 'Елецкий район';
-    private $City = 'Ключ Жизни';
+    private $Area = 'Гудермесский район';
+    private $City = 'Гудермес';
     private $City1 = '';
-    private $ActDate = '20190826';
+    private $ActDate = '20190823';
     private $IndexOld = '';
 }

@@ -35,6 +35,6 @@ final class Office168114 implements \RussianPostIndex\Record
     private $Area = 'Сысольский район';
     private $City = 'Вотча';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20190826';
     private $IndexOld = '';
 }

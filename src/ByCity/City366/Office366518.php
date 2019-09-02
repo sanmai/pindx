@@ -17,24 +17,24 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City399;
+namespace RussianPostIndex\ByCity\City366;
 
 /**
  * @internal
  */
-final class Office399742 implements \RussianPostIndex\Record
+final class Office366518 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 399742;
-    private $OPSName = 'Совхоз Ключ Жизни';
-    private $OPSType = 'О';
-    private $OPSSubm = 399799;
-    private $Region = 'Липецкая область';
+    private $Index = 366518;
+    private $OPSName = 'Урус-Мартан Кладовая Хранения Нерозданных По';
+    private $OPSType = 'Участок';
+    private $OPSSubm = 366500;
+    private $Region = 'Чеченская Республика';
     private $Autonom = '';
-    private $Area = 'Елецкий район';
-    private $City = 'Ключ Жизни';
+    private $Area = 'Урус-Мартановский район';
+    private $City = 'Урус-Мартан';
     private $City1 = '';
-    private $ActDate = '20190826';
+    private $ActDate = '20190823';
     private $IndexOld = '';
 }

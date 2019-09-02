@@ -17,24 +17,24 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City399;
+namespace RussianPostIndex\ByCity\City500;
 
 /**
  * @internal
  */
-final class Office399742 implements \RussianPostIndex\Record
+final class Office500480 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 399742;
-    private $OPSName = 'Совхоз Ключ Жизни';
-    private $OPSType = 'О';
-    private $OPSSubm = 399799;
-    private $Region = 'Липецкая область';
+    private $Index = 500480;
+    private $OPSName = 'Newark';
+    private $OPSType = 'ММПО';
+    private $OPSSubm = 131000;
+    private $Region = 'Москва';
     private $Autonom = '';
-    private $Area = 'Елецкий район';
-    private $City = 'Ключ Жизни';
+    private $Area = '';
+    private $City = '';
     private $City1 = '';
-    private $ActDate = '20190826';
+    private $ActDate = '20190830';
     private $IndexOld = '';
 }
