@@ -27,7 +27,7 @@ final class Office399341 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 399341;
-    private $OPSName = 'Песковатка-Казачья';
+    private $OPSName = 'Усмань 11';
     private $OPSType = 'О';
     private $OPSSubm = 399379;
     private $Region = 'Липецкая область';
@@ -35,6 +35,6 @@ final class Office399341 implements \RussianPostIndex\Record
     private $Area = 'Усманский район';
     private $City = 'Усмань';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20190930';
     private $IndexOld = '';
 }

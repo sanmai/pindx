@@ -29,12 +29,12 @@ final class Office410978 implements \RussianPostIndex\Record
     private $Index = 410978;
     private $OPSName = 'Саратов-ДТИ';
     private $OPSType = 'ДТИ';
-    private $OPSSubm = 410012;
+    private $OPSSubm = 410000;
     private $Region = 'Саратовская область';
     private $Autonom = '';
     private $Area = '';
     private $City = 'Саратов';
     private $City1 = '';
-    private $ActDate = '20190801';
+    private $ActDate = '20190924';
     private $IndexOld = '';
 }

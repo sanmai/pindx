@@ -27,7 +27,7 @@ final class Office131000 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 131000;
-    private $OPSName = 'Москва ФГУП "Почта России"';
+    private $OPSName = 'Ао "Почта России"';
     private $OPSType = 'ФГУП';
     private $OPSSubm = 0;
     private $Region = 'Москва';
@@ -35,6 +35,6 @@ final class Office131000 implements \RussianPostIndex\Record
     private $Area = '';
     private $City = '';
     private $City1 = '';
-    private $ActDate = '20050203';
+    private $ActDate = '20191003';
     private $IndexOld = '';
 }

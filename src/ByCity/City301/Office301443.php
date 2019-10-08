@@ -17,24 +17,24 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City142;
+namespace RussianPostIndex\ByCity\City301;
 
 /**
  * @internal
  */
-final class Office142435 implements \RussianPostIndex\Record
+final class Office301443 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 142435;
-    private $OPSName = 'Совхоз Им. 50-Летия Октября';
-    private $OPSType = 'О';
-    private $OPSSubm = 143919;
-    private $Region = 'Московская область';
+    private $Index = 301443;
+    private $OPSName = 'Одоев 3';
+    private $OPSType = 'Передвижное ОС';
+    private $OPSSubm = 301439;
+    private $Region = 'Тульская область';
     private $Autonom = '';
-    private $Area = 'Ногинский район';
-    private $City = 'Кудиново';
+    private $Area = 'Одоевский район';
+    private $City = 'Одоев';
     private $City1 = '';
-    private $ActDate = '20190920';
+    private $ActDate = '20190930';
     private $IndexOld = '';
 }
