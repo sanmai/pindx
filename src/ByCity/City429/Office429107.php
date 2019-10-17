@@ -33,8 +33,8 @@ final class Office429107 implements \RussianPostIndex\Record
     private $Region = 'Чувашия Республика';
     private $Autonom = '';
     private $Area = 'Шумерлинский район';
-    private $City = 'Егоркино(Егоркинского Поселения)';
+    private $City = 'Егоркино Егоркинского Пос';
     private $City1 = '';
-    private $ActDate = '20181121';
+    private $ActDate = '20191003';
     private $IndexOld = '';
 }

@@ -35,6 +35,6 @@ final class Office356188 implements \RussianPostIndex\Record
     private $Area = 'Труновский Муниципальный район';
     private $City = 'Подлесное';
     private $City1 = '';
-    private $ActDate = '20190925';
+    private $ActDate = '20191003';
     private $IndexOld = '';
 }

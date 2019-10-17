@@ -27,7 +27,7 @@ final class Office628700 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 628700;
-    private $OPSName = 'УФПС Ханты-Мансийского Автономного округа';
+    private $OPSName = 'УФПС Ханты-Мансийского Автономного округа - Югра';
     private $OPSType = 'УФПС';
     private $OPSSubm = 0;
     private $Region = '';
@@ -35,6 +35,6 @@ final class Office628700 implements \RussianPostIndex\Record
     private $Area = '';
     private $City = 'Ханты-Мансийск';
     private $City1 = '';
-    private $ActDate = '20170906';
+    private $ActDate = '20191014';
     private $IndexOld = '';
 }

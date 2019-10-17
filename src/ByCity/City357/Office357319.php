@@ -32,9 +32,9 @@ final class Office357319 implements \RussianPostIndex\Record
     private $OPSSubm = 355700;
     private $Region = 'Ставропольский край';
     private $Autonom = '';
-    private $Area = 'Кировский район';
+    private $Area = 'Кировский Городской округ район';
     private $City = 'Новопавловск';
     private $City1 = '';
-    private $ActDate = '20071130';
+    private $ActDate = '20191003';
     private $IndexOld = '';
 }

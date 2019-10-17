@@ -33,8 +33,8 @@ final class Office186322 implements \RussianPostIndex\Record
     private $Region = 'Карелия Республика';
     private $Autonom = '';
     private $Area = 'Медвежьегорский район';
-    private $City = 'Кумса Вторая';
+    private $City = 'Кумса-2';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20191003';
     private $IndexOld = '';
 }

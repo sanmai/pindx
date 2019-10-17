@@ -33,8 +33,8 @@ final class Office397738 implements \RussianPostIndex\Record
     private $Region = 'Воронежская область';
     private $Autonom = '';
     private $Area = 'Бобровский район';
-    private $City = 'Верхний Икорец-1';
+    private $City = 'Верхний Икорец';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20191003';
     private $IndexOld = '';
 }

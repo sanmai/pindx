@@ -35,6 +35,6 @@ final class Office356189 implements \RussianPostIndex\Record
     private $Area = 'Труновский Муниципальный район';
     private $City = 'Новая Кугульта';
     private $City1 = '';
-    private $ActDate = '20190918';
+    private $ActDate = '20191003';
     private $IndexOld = '';
 }

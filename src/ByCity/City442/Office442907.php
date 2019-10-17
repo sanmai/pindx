@@ -33,8 +33,8 @@ final class Office442907 implements \RussianPostIndex\Record
     private $Region = 'Пензенская область';
     private $Autonom = '';
     private $Area = 'Тамалинский район';
-    private $City = 'Малая Сергеевка';
+    private $City = 'Малая Сергиевка';
     private $City1 = '';
-    private $ActDate = '20060626';
+    private $ActDate = '20191003';
     private $IndexOld = '';
 }
