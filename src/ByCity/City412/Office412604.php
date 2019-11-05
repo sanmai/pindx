@@ -33,8 +33,8 @@ final class Office412604 implements \RussianPostIndex\Record
     private $Region = 'Саратовская область';
     private $Autonom = '';
     private $Area = 'Базарно-Карабулакский район';
-    private $City = 'Базарный Карабулак 1';
+    private $City = 'Базарный Карабулак';
     private $City1 = '';
-    private $ActDate = '20170818';
+    private $ActDate = '20191025';
     private $IndexOld = '';
 }

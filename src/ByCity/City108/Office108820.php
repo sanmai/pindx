@@ -33,8 +33,8 @@ final class Office108820 implements \RussianPostIndex\Record
     private $Region = 'Москва';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'Мосрентген';
-    private $City1 = 'Завода Мосрентген';
-    private $ActDate = '20190404';
+    private $City = '';
+    private $City1 = '';
+    private $ActDate = '20191021';
     private $IndexOld = '';
 }

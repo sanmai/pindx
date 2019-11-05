@@ -34,7 +34,7 @@ final class Office404151 implements \RussianPostIndex\Record
     private $Autonom = '';
     private $Area = 'Среднеахтубинский район';
     private $City = 'Бурковский';
-    private $City1 = 'Дубрава';
-    private $ActDate = '20070411';
+    private $City1 = 'Дубрава Днп';
+    private $ActDate = '20191025';
     private $IndexOld = '';
 }

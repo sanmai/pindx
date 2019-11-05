@@ -34,7 +34,7 @@ final class Office404124 implements \RussianPostIndex\Record
     private $Autonom = '';
     private $Area = '';
     private $City = 'Волжский';
-    private $City1 = 'Краснооктябрьский';
-    private $ActDate = '20001030';
+    private $City1 = '';
+    private $ActDate = '20191025';
     private $IndexOld = '';
 }

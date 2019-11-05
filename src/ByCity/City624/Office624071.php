@@ -33,8 +33,8 @@ final class Office624071 implements \RussianPostIndex\Record
     private $Region = 'Свердловская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'Верхняя Пышма';
-    private $City1 = 'Среднеуральск';
-    private $ActDate = '20180813';
+    private $City = 'Среднеуральск';
+    private $City1 = '';
+    private $ActDate = '20191025';
     private $IndexOld = '';
 }
