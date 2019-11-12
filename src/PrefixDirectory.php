@@ -1044,8 +1044,6 @@ final class PrefixDirectory
      * Проверяет существование почтового индекса.
      *
      * @param string|int $postalCode
-     *
-     * @return bool
      */
     public static function postalCodeValid($postalCode): bool
     {

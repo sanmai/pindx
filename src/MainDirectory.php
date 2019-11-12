@@ -50864,8 +50864,6 @@ final class MainDirectory
      * Проверяет существование почтового индекса.
      *
      * @param string|int $postalCode
-     *
-     * @return bool
      */
     public static function postalCodeValid($postalCode): bool
     {
