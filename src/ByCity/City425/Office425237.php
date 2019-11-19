@@ -17,24 +17,24 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City399;
+namespace RussianPostIndex\ByCity\City425;
 
 /**
  * @internal
  */
-final class Office399775 implements \RussianPostIndex\Record
+final class Office425237 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 399775;
-    private $OPSName = 'Елец 5';
-    private $OPSType = 'О';
-    private $OPSSubm = 399799;
-    private $Region = 'Липецкая область';
+    private $Index = 425237;
+    private $OPSName = 'Медведево Удпп';
+    private $OPSType = 'Участок';
+    private $OPSSubm = 425239;
+    private $Region = 'Марий Эл Республика';
     private $Autonom = '';
-    private $Area = '';
-    private $City = 'Елец';
-    private $City1 = 'Электрик';
-    private $ActDate = '20191111';
+    private $Area = 'Медведевский район';
+    private $City = 'Медведево';
+    private $City1 = '';
+    private $ActDate = '20191118';
     private $IndexOld = '';
 }
