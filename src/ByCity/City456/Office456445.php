@@ -32,9 +32,9 @@ final class Office456445 implements \RussianPostIndex\Record
     private $OPSSubm = 456439;
     private $Region = 'Челябинская область';
     private $Autonom = '';
-    private $Area = 'Чебаркульский район';
+    private $Area = '';
     private $City = 'Чебаркуль';
     private $City1 = '';
-    private $ActDate = '20180813';
+    private $ActDate = '20191127';
     private $IndexOld = '';
 }

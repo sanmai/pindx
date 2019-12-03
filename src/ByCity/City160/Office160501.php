@@ -27,14 +27,14 @@ final class Office160501 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 160501;
-    private $OPSName = 'Лоста';
+    private $OPSName = 'Вологда 501';
     private $OPSType = 'О';
     private $OPSSubm = 160999;
     private $Region = 'Вологодская область';
     private $Autonom = '';
     private $Area = '';
     private $City = 'Вологда';
-    private $City1 = 'Лоста';
-    private $ActDate = '20001030';
+    private $City1 = '';
+    private $ActDate = '20191122';
     private $IndexOld = '';
 }

@@ -27,7 +27,7 @@ final class Office143190 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 143190;
-    private $OPSName = 'Звенигород УКД';
+    private $OPSName = 'Щелково УКД';
     private $OPSType = 'УКД';
     private $OPSSubm = 145100;
     private $Region = 'Московская область';
@@ -35,6 +35,6 @@ final class Office143190 implements \RussianPostIndex\Record
     private $Area = 'Щелковский район';
     private $City = 'Щелково';
     private $City1 = '';
-    private $ActDate = '20191112';
+    private $ActDate = '20191119';
     private $IndexOld = '';
 }

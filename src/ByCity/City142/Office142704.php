@@ -30,11 +30,11 @@ final class Office142704 implements \RussianPostIndex\Record
     private $OPSName = 'Видное 4';
     private $OPSType = 'О';
     private $OPSSubm = 142079;
-    private $Region = 'Москва';
+    private $Region = 'Московская область';
     private $Autonom = '';
-    private $Area = '';
-    private $City = '';
+    private $Area = 'Ленинский район';
+    private $City = 'Видное';
     private $City1 = '';
-    private $ActDate = '20060227';
+    private $ActDate = '20191121';
     private $IndexOld = '';
 }

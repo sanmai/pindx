@@ -27,7 +27,7 @@ final class Office160901 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 160901;
-    private $OPSName = 'Прилуки';
+    private $OPSName = 'Вологда 901';
     private $OPSType = 'О';
     private $OPSSubm = 160999;
     private $Region = 'Вологодская область';
@@ -35,6 +35,6 @@ final class Office160901 implements \RussianPostIndex\Record
     private $Area = '';
     private $City = 'Вологда';
     private $City1 = '';
-    private $ActDate = '20040804';
+    private $ActDate = '20191119';
     private $IndexOld = '';
 }

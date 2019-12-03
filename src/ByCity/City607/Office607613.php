@@ -27,14 +27,14 @@ final class Office607613 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 607613;
-    private $OPSName = 'Шумилово';
+    private $OPSName = 'Новинки';
     private $OPSType = 'О';
     private $OPSSubm = 607649;
     private $Region = 'Нижегородская область';
     private $Autonom = '';
     private $Area = 'Богородский район';
-    private $City = 'Шумилово';
+    private $City = 'Новинки';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20191120';
     private $IndexOld = '';
 }
