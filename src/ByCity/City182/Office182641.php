@@ -33,8 +33,8 @@ final class Office182641 implements \RussianPostIndex\Record
     private $Region = 'Псковская область';
     private $Autonom = '';
     private $Area = 'Порховский район';
-    private $City = 'Боровичи. Демянская Волость';
+    private $City = 'Боровичи. Дубровенская Волость';
     private $City1 = '';
-    private $ActDate = '20191202';
+    private $ActDate = '20191205';
     private $IndexOld = '';
 }

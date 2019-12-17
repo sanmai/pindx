@@ -17,24 +17,24 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City186;
+namespace RussianPostIndex\ByCity\City443;
 
 /**
  * @internal
  */
-final class Office186873 implements \RussianPostIndex\Record
+final class Office443939 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 186873;
-    private $OPSName = 'Суоярви 3  ППС';
-    private $OPSType = 'ППС';
-    private $OPSSubm = 185000;
-    private $Region = 'Карелия Республика';
+    private $Index = 443939;
+    private $OPSName = 'Самара-ДТИ';
+    private $OPSType = 'ДТИ';
+    private $OPSSubm = 443126;
+    private $Region = 'Самарская область';
     private $Autonom = '';
-    private $Area = 'Суоярвский район';
-    private $City = 'Суоярви';
+    private $Area = '';
+    private $City = 'Самара';
     private $City1 = '';
-    private $ActDate = '20170908';
+    private $ActDate = '20191212';
     private $IndexOld = '';
 }
