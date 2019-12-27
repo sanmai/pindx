@@ -17,24 +17,24 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City397;
+namespace RussianPostIndex\ByCity\City350;
 
 /**
  * @internal
  */
-final class Office397742 implements \RussianPostIndex\Record
+final class Office350968 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 397742;
-    private $OPSName = 'Хреновое 2';
-    private $OPSType = 'О';
-    private $OPSSubm = 397759;
-    private $Region = 'Воронежская область';
+    private $Index = 350968;
+    private $OPSName = 'Краснодар МСЦ Кладовая Хранения Нерозданных По';
+    private $OPSType = 'Участок';
+    private $OPSSubm = 350960;
+    private $Region = 'Краснодарский край';
     private $Autonom = '';
-    private $Area = 'Бобровский район';
-    private $City = 'Слобода';
+    private $Area = '';
+    private $City = 'Краснодар';
     private $City1 = '';
-    private $ActDate = '20191217';
+    private $ActDate = '20191220';
     private $IndexOld = '';
 }

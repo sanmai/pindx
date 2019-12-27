@@ -27,14 +27,14 @@ final class Office200836 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 200836;
-    private $OPSName = 'Санкт-Петербург-ДТИ';
-    private $OPSType = 'ДТИ';
-    private $OPSSubm = 200961;
+    private $OPSName = 'Санкт-Петербург Асц ППС';
+    private $OPSType = 'ППС';
+    private $OPSSubm = 200960;
     private $Region = 'Санкт-Петербург';
     private $Autonom = '';
     private $Area = '';
     private $City = '';
     private $City1 = '';
-    private $ActDate = '20161017';
+    private $ActDate = '20191226';
     private $IndexOld = '';
 }
