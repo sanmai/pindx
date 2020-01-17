@@ -29,12 +29,12 @@ final class Office443926 implements \RussianPostIndex\Record
     private $Index = 443926;
     private $OPSName = 'Самара-ДТИ';
     private $OPSType = 'ДТИ';
-    private $OPSSubm = 443030;
+    private $OPSSubm = 443126;
     private $Region = 'Самарская область';
     private $Autonom = '';
     private $Area = '';
     private $City = 'Самара';
     private $City1 = '';
-    private $ActDate = '20121219';
+    private $ActDate = '20200117';
     private $IndexOld = '';
 }
