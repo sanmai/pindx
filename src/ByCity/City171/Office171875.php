@@ -27,14 +27,14 @@ final class Office171875 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 171875;
-    private $OPSName = 'Гриблянка';
+    private $OPSName = 'Копачево';
     private $OPSType = 'О';
     private $OPSSubm = 171150;
     private $Region = 'Тверская область';
     private $Autonom = '';
     private $Area = 'Удомельский район';
-    private $City = 'Гриблянка';
+    private $City = 'Копачево';
     private $City1 = '';
-    private $ActDate = '20100524';
+    private $ActDate = '20200123';
     private $IndexOld = '';
 }
