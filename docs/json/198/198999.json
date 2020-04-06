@@ -1,13 +1,13 @@
 {
     "Index": 198999,
     "OPSName": "Санкт-Петербург-Кировский МРП",
-    "OPSType": "П",
+    "OPSType": "МРП",
     "OPSSubm": 190700,
     "Region": "Санкт-Петербург",
     "Autonom": "",
     "Area": "",
     "City": "",
     "City1": "",
-    "ActDate": "20100812",
+    "ActDate": "20200403",
     "IndexOld": ""
 }

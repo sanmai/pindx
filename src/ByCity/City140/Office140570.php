@@ -35,6 +35,6 @@ final class Office140570 implements \RussianPostIndex\Record
     private $Area = 'Озеры район';
     private $City = 'Тарбушево';
     private $City1 = '';
-    private $ActDate = '20180813';
+    private $ActDate = '20200404';
     private $IndexOld = '';
 }

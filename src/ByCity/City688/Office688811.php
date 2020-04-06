@@ -31,7 +31,7 @@ final class Office688811 implements \RussianPostIndex\Record
     private $OPSType = 'Оп';
     private $OPSSubm = 683000;
     private $Region = 'Камчатский край';
-    private $Autonom = 'Корякский округ';
+    private $Autonom = '';
     private $Area = 'Олюторский район';
     private $City = 'Корф';
     private $City1 = '';

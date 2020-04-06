@@ -29,12 +29,12 @@ final class Office344986 implements \RussianPostIndex\Record
     private $Index = 344986;
     private $OPSName = 'Ростов-На-Дону-ДТИ';
     private $OPSType = 'ДТИ';
-    private $OPSSubm = 344000;
+    private $OPSSubm = 344006;
     private $Region = 'Ростовская область';
     private $Autonom = '';
     private $Area = '';
     private $City = 'Ростов-На-Дону';
     private $City1 = '';
-    private $ActDate = '20161129';
+    private $ActDate = '20200319';
     private $IndexOld = '';
 }

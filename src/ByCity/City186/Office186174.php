@@ -35,6 +35,6 @@ final class Office186174 implements \RussianPostIndex\Record
     private $Area = 'Пудожский район';
     private $City = 'Усть-Река';
     private $City1 = '';
-    private $ActDate = '20050729';
+    private $ActDate = '20200331';
     private $IndexOld = '';
 }

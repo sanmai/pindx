@@ -28,13 +28,13 @@ final class Office198999 implements \RussianPostIndex\Record
 
     private $Index = 198999;
     private $OPSName = 'Санкт-Петербург-Кировский МРП';
-    private $OPSType = 'П';
+    private $OPSType = 'МРП';
     private $OPSSubm = 190700;
     private $Region = 'Санкт-Петербург';
     private $Autonom = '';
     private $Area = '';
     private $City = '';
     private $City1 = '';
-    private $ActDate = '20100812';
+    private $ActDate = '20200403';
     private $IndexOld = '';
 }
