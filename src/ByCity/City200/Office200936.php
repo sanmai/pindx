@@ -17,24 +17,24 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City665;
+namespace RussianPostIndex\ByCity\City200;
 
 /**
  * @internal
  */
-final class Office665814 implements \RussianPostIndex\Record
+final class Office200936 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 665814;
-    private $OPSName = 'Ангарск 14';
-    private $OPSType = 'О';
-    private $OPSSubm = 665800;
-    private $Region = 'Иркутская область';
+    private $Index = 200936;
+    private $OPSName = 'Кировский Уч. Россыпи-4 Зона-11';
+    private $OPSType = 'Участок';
+    private $OPSSubm = 200980;
+    private $Region = 'Санкт-Петербург';
     private $Autonom = '';
-    private $Area = 'Ангарский район';
-    private $City = 'Ангарск';
+    private $Area = '';
+    private $City = '';
     private $City1 = '';
-    private $ActDate = '20200407';
+    private $ActDate = '20200414';
     private $IndexOld = '';
 }

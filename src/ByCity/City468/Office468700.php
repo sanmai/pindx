@@ -28,13 +28,13 @@ final class Office468700 implements \RussianPostIndex\Record
 
     private $Index = 468700;
     private $OPSName = 'ГУП "Байконурсвязьинформ"';
-    private $OPSType = 'УФПС';
+    private $OPSType = 'ФГУП';
     private $OPSSubm = 0;
     private $Region = 'Казахстан';
     private $Autonom = '';
     private $Area = '';
     private $City = 'Байконур';
     private $City1 = '';
-    private $ActDate = '20181115';
+    private $ActDate = '20200409';
     private $IndexOld = '';
 }
