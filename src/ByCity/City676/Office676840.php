@@ -33,8 +33,8 @@ final class Office676840 implements \RussianPostIndex\Record
     private $Region = 'Амурская область';
     private $Autonom = '';
     private $Area = 'Белогорский район';
-    private $City = 'Низинное';
-    private $City1 = '';
-    private $ActDate = '20001030';
+    private $City = 'Белогорск';
+    private $City1 = 'Низинное';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

@@ -33,8 +33,8 @@ final class Office161579 implements \RussianPostIndex\Record
     private $Region = 'Вологодская область';
     private $Autonom = '';
     private $Area = 'Тарногский район';
-    private $City = 'Афанасьевская';
+    private $City = 'Афанасьевская (Тарногское Мо)';
     private $City1 = '';
-    private $ActDate = '20101119';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

@@ -33,8 +33,8 @@ final class Office422137 implements \RussianPostIndex\Record
     private $Region = 'Татарстан Республика';
     private $Autonom = '';
     private $Area = 'Кукморский район';
-    private $City = 'Починок-Сутер';
+    private $City = 'Починок Сутер';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

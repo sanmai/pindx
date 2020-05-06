@@ -33,8 +33,8 @@ final class Office431552 implements \RussianPostIndex\Record
     private $Region = 'Мордовия Республика';
     private $Autonom = '';
     private $Area = 'Старошайговский район';
-    private $City = 'Ингенер -Пятина';
+    private $City = 'Ингенер-Пятина';
     private $City1 = '';
-    private $ActDate = '20060615';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

@@ -33,8 +33,8 @@ final class Office601266 implements \RussianPostIndex\Record
     private $Region = 'Владимирская область';
     private $Autonom = '';
     private $Area = 'Суздальский район';
-    private $City = 'Спасское Городище';
+    private $City = 'Спасское-Городище';
     private $City1 = '';
-    private $ActDate = '20070214';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

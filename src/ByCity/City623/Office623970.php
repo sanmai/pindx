@@ -33,8 +33,8 @@ final class Office623970 implements \RussianPostIndex\Record
     private $Region = 'Свердловская область';
     private $Autonom = '';
     private $Area = 'Тавдинский район';
-    private $City = 'Песчаный';
+    private $City = 'Карьер';
     private $City1 = '';
-    private $ActDate = '20110131';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

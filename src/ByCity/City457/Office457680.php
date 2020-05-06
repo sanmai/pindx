@@ -33,8 +33,8 @@ final class Office457680 implements \RussianPostIndex\Record
     private $Region = 'Челябинская область';
     private $Autonom = '';
     private $Area = 'Верхнеуральский район';
-    private $City = 'Карагайский Бор - Дом Отдыха';
+    private $City = 'Карагайский';
     private $City1 = '';
-    private $ActDate = '20070208';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

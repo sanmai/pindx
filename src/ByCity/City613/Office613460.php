@@ -33,8 +33,8 @@ final class Office613460 implements \RussianPostIndex\Record
     private $Region = 'Кировская область';
     private $Autonom = '';
     private $Area = 'Нолинский район';
-    private $City = 'Лудяна-  Ясашинская';
+    private $City = 'Лудяна-Ясашинская';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

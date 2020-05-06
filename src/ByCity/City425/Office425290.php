@@ -33,8 +33,8 @@ final class Office425290 implements \RussianPostIndex\Record
     private $Region = 'Марий Эл Республика';
     private $Autonom = '';
     private $Area = 'Килемарский район';
-    private $City = 'Арда';
+    private $City = 'Малая Арда';
     private $City1 = '';
-    private $ActDate = '20070301';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

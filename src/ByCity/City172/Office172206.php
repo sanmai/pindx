@@ -33,8 +33,8 @@ final class Office172206 implements \RussianPostIndex\Record
     private $Region = 'Тверская область';
     private $Autonom = '';
     private $Area = 'Селижаровский район';
-    private $City = 'Чайка Турбаза';
+    private $City = 'Т/Б Чайка';
     private $City1 = '';
-    private $ActDate = '20050907';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

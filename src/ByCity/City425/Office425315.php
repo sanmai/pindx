@@ -33,8 +33,8 @@ final class Office425315 implements \RussianPostIndex\Record
     private $Region = 'Марий Эл Республика';
     private $Autonom = '';
     private $Area = 'Горномарийский район';
-    private $City = 'Березово (Берёзовский С/С)';
+    private $City = 'Березово (Березовский С/С)';
     private $City1 = '';
-    private $ActDate = '20180813';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

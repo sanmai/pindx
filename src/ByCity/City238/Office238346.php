@@ -33,8 +33,8 @@ final class Office238346 implements \RussianPostIndex\Record
     private $Region = 'Калининградская область';
     private $Autonom = '';
     private $Area = 'Светловский район';
-    private $City = 'Черепаново';
-    private $City1 = '';
-    private $ActDate = '20061018';
+    private $City = 'Светлый';
+    private $City1 = 'Черепаново';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

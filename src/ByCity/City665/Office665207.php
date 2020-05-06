@@ -33,8 +33,8 @@ final class Office665207 implements \RussianPostIndex\Record
     private $Region = 'Иркутская область';
     private $Autonom = '';
     private $Area = 'Тулунский район';
-    private $City = 'Тулун';
+    private $City = 'Мугун';
     private $City1 = '';
-    private $ActDate = '20180503';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

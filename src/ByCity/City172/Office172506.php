@@ -33,8 +33,8 @@ final class Office172506 implements \RussianPostIndex\Record
     private $Region = 'Тверская область';
     private $Autonom = '';
     private $Area = 'Нелидовский район';
-    private $City = 'Копейки';
-    private $City1 = '';
-    private $ActDate = '20001030';
+    private $City = 'Нелидово';
+    private $City1 = 'Копейки';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

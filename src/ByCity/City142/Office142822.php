@@ -33,8 +33,8 @@ final class Office142822 implements \RussianPostIndex\Record
     private $Region = 'Московская область';
     private $Autonom = '';
     private $Area = 'Ступинский район';
-    private $City = 'Ситне-Щелканово';
-    private $City1 = '';
-    private $ActDate = '20030331';
+    private $City = 'Ступино';
+    private $City1 = 'Ситне-Щелканово';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

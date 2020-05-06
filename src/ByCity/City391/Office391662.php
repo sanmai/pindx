@@ -33,8 +33,8 @@ final class Office391662 implements \RussianPostIndex\Record
     private $Region = 'Рязанская область';
     private $Autonom = '';
     private $Area = 'Ермишинский район';
-    private $City = 'Спасс-Раменье';
+    private $City = 'Спасско-Раменье';
     private $City1 = '';
-    private $ActDate = '20070425';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

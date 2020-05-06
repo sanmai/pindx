@@ -35,6 +35,6 @@ final class Office632945 implements \RussianPostIndex\Record
     private $Area = 'Краснозерский район';
     private $City = 'Новый Баганенок';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

@@ -33,8 +33,8 @@ final class Office461480 implements \RussianPostIndex\Record
     private $Region = 'Оренбургская область';
     private $Autonom = '';
     private $Area = 'Шарлыкский район';
-    private $City = 'Зерикло';
+    private $City = 'Зирекло';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

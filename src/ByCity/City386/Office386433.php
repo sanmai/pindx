@@ -33,8 +33,8 @@ final class Office386433 implements \RussianPostIndex\Record
     private $Region = 'Ингушетия Республика';
     private $Autonom = '';
     private $Area = 'Джейрахский район';
-    private $City = 'Армхи';
-    private $City1 = '';
-    private $ActDate = '20001030';
+    private $City = 'Джейрах';
+    private $City1 = 'Армхи';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

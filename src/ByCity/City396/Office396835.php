@@ -33,8 +33,8 @@ final class Office396835 implements \RussianPostIndex\Record
     private $Region = 'Воронежская область';
     private $Autonom = '';
     private $Area = 'Хохольский район';
-    private $City = 'Опытная Станция Вниик';
+    private $City = 'Опытной Станции Вниик';
     private $City1 = '';
-    private $ActDate = '20171031';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

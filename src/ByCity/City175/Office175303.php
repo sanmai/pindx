@@ -33,8 +33,8 @@ final class Office175303 implements \RussianPostIndex\Record
     private $Region = 'Новгородская область';
     private $Autonom = '';
     private $Area = 'Демянский район';
-    private $City = 'Ямник Ямницкое Сп';
+    private $City = 'Ямник';
     private $City1 = '';
-    private $ActDate = '20180813';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

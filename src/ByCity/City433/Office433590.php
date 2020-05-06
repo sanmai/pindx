@@ -33,8 +33,8 @@ final class Office433590 implements \RussianPostIndex\Record
     private $Region = 'Ульяновская область';
     private $Autonom = '';
     private $Area = 'Новомалыклинский район';
-    private $City = 'Якушка';
+    private $City = 'Станция Якушка';
     private $City1 = '';
-    private $ActDate = '20050526';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

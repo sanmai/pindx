@@ -33,8 +33,8 @@ final class Office652092 implements \RussianPostIndex\Record
     private $Region = 'Кемеровская область';
     private $Autonom = '';
     private $Area = 'Юргинский район';
-    private $City = 'Станция Юрга 2-Я';
+    private $City = 'Юрга 2-Я';
     private $City1 = '';
-    private $ActDate = '20030327';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

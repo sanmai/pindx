@@ -33,8 +33,8 @@ final class Office607055 implements \RussianPostIndex\Record
     private $Region = 'Нижегородская область';
     private $Autonom = '';
     private $Area = 'Выксунский район';
-    private $City = 'Димара';
-    private $City1 = '';
-    private $ActDate = '20001030';
+    private $City = 'Выкса';
+    private $City1 = 'Димара';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

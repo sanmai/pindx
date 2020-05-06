@@ -33,8 +33,8 @@ final class Office165265 implements \RussianPostIndex\Record
     private $Region = 'Архангельская область';
     private $Autonom = '';
     private $Area = 'Устьянский район';
-    private $City = 'Сенгосс';
+    private $City = 'Сенгос';
     private $City1 = '';
-    private $ActDate = '20101124';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

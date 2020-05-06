@@ -33,8 +33,8 @@ final class Office361206 implements \RussianPostIndex\Record
     private $Region = 'Кабардино-Балкарская Республика';
     private $Autonom = '';
     private $Area = 'Терский район';
-    private $City = 'Интернациональное';
+    private $City = 'Интернациональный';
     private $City1 = '';
-    private $ActDate = '20080702';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

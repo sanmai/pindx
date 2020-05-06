@@ -33,8 +33,8 @@ final class Office632093 implements \RussianPostIndex\Record
     private $Region = 'Новосибирская область';
     private $Autonom = '';
     private $Area = 'Северный район';
-    private $City = 'Фёдоровка';
+    private $City = 'Федоровка';
     private $City1 = '';
-    private $ActDate = '20180813';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

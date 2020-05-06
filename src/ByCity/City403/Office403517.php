@@ -33,8 +33,8 @@ final class Office403517 implements \RussianPostIndex\Record
     private $Region = 'Волгоградская область';
     private $Autonom = '';
     private $Area = 'Фроловский район';
-    private $City = 'Арчедино-Чернушенский';
+    private $City = 'Арчедино-Чернушинский';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

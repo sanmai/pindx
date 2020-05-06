@@ -33,8 +33,8 @@ final class Office433408 implements \RussianPostIndex\Record
     private $Region = 'Ульяновская область';
     private $Autonom = '';
     private $Area = 'Чердаклинский район';
-    private $City = 'Крестово Городище';
+    private $City = 'Крестово-Городище';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

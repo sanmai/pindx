@@ -33,8 +33,8 @@ final class Office309805 implements \RussianPostIndex\Record
     private $Region = 'Белгородская область';
     private $Autonom = '';
     private $Area = 'Алексеевский район';
-    private $City = 'Хрещатое';
+    private $City = 'Хрещатый';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

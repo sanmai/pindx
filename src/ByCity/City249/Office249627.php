@@ -33,8 +33,8 @@ final class Office249627 implements \RussianPostIndex\Record
     private $Region = 'Калужская область';
     private $Autonom = '';
     private $Area = 'Спас-Деменский район';
-    private $City = 'Снопоть';
+    private $City = 'Снопот';
     private $City1 = '';
-    private $ActDate = '20061102';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

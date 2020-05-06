@@ -33,8 +33,8 @@ final class Office303766 implements \RussianPostIndex\Record
     private $Region = 'Орловская область';
     private $Autonom = '';
     private $Area = 'Должанский район';
-    private $City = 'Кудиново';
+    private $City = 'Новотроицкое';
     private $City1 = '';
-    private $ActDate = '20050131';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

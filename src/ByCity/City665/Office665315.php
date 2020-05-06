@@ -33,8 +33,8 @@ final class Office665315 implements \RussianPostIndex\Record
     private $Region = 'Иркутская область';
     private $Autonom = '';
     private $Area = 'Куйтунский район';
-    private $City = 'Нова Тельба';
+    private $City = 'Новая Тельба';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

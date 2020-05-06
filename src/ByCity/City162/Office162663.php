@@ -33,8 +33,8 @@ final class Office162663 implements \RussianPostIndex\Record
     private $Region = 'Вологодская область';
     private $Autonom = '';
     private $Area = 'Череповецкий район';
-    private $City = 'Аксеново Югское';
-    private $City1 = '';
-    private $ActDate = '20180813';
+    private $City = 'Югское Сельское Поселение';
+    private $City1 = 'Аксеново';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

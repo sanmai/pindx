@@ -33,8 +33,8 @@ final class Office174211 implements \RussianPostIndex\Record
     private $Region = 'Новгородская область';
     private $Autonom = '';
     private $Area = 'Чудовский район';
-    private $City = 'Чудово 1-Е';
+    private $City = 'Чудово';
     private $City1 = '';
-    private $ActDate = '20061002';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

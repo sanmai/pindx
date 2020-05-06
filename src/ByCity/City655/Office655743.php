@@ -33,8 +33,8 @@ final class Office655743 implements \RussianPostIndex\Record
     private $Region = 'Хакасия Республика';
     private $Autonom = '';
     private $Area = 'Таштыпский район';
-    private $City = 'Верх Таштып';
+    private $City = 'Верх-Таштып';
     private $City1 = '';
-    private $ActDate = '20180813';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

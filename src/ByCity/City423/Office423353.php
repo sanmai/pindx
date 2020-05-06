@@ -33,8 +33,8 @@ final class Office423353 implements \RussianPostIndex\Record
     private $Region = 'Татарстан Республика';
     private $Autonom = '';
     private $Area = 'Сармановский район';
-    private $City = 'Лешев-Тамак';
+    private $City = 'Лешев Тамак';
     private $City1 = '';
-    private $ActDate = '20110630';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

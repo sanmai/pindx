@@ -33,8 +33,8 @@ final class Office647501 implements \RussianPostIndex\Record
     private $Region = 'Красноярский край';
     private $Autonom = '';
     private $Area = 'Таймырский Долгано-Ненецкий район';
-    private $City = 'Левинские Пески';
-    private $City1 = '';
-    private $ActDate = '20070209';
+    private $City = 'Дудинка';
+    private $City1 = 'Левинские Пески';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

@@ -33,8 +33,8 @@ final class Office359152 implements \RussianPostIndex\Record
     private $Region = 'Калмыкия Республика';
     private $Autonom = '';
     private $Area = 'Яшкульский район';
-    private $City = 'Тавн-Гашун';
+    private $City = 'Тавн Гашун';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

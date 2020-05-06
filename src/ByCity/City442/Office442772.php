@@ -33,8 +33,8 @@ final class Office442772 implements \RussianPostIndex\Record
     private $Region = 'Пензенская область';
     private $Autonom = '';
     private $Area = 'Бессоновский район';
-    private $City = 'Степное-Полеологово';
+    private $City = 'Степное Полеологово';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

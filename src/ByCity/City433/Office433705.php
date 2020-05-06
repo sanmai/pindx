@@ -33,8 +33,8 @@ final class Office433705 implements \RussianPostIndex\Record
     private $Region = 'Ульяновская область';
     private $Autonom = '';
     private $Area = 'Базарносызганский район';
-    private $City = 'Бугры';
+    private $City = 'Базарный Сызган';
     private $City1 = '';
-    private $ActDate = '20040514';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

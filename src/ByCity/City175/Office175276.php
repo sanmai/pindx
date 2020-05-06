@@ -33,8 +33,8 @@ final class Office175276 implements \RussianPostIndex\Record
     private $Region = 'Новгородская область';
     private $Autonom = '';
     private $Area = 'Холмский район';
-    private $City = 'Замошье Красноборское Сп';
+    private $City = 'Замошье (Красноборское С/П)';
     private $City1 = '';
-    private $ActDate = '20180813';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

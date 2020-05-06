@@ -33,8 +33,8 @@ final class Office152066 implements \RussianPostIndex\Record
     private $Region = 'Ярославская область';
     private $Autonom = '';
     private $Area = 'Даниловский район';
-    private $City = 'Козлово';
+    private $City = 'Козлово (Середская С/А)';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

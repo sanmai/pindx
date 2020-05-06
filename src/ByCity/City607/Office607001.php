@@ -33,8 +33,8 @@ final class Office607001 implements \RussianPostIndex\Record
     private $Region = 'Нижегородская область';
     private $Autonom = '';
     private $Area = 'Кулебакский район';
-    private $City = 'Велетьма';
-    private $City1 = '';
-    private $ActDate = '20061107';
+    private $City = 'Кулебаки';
+    private $City1 = 'Велетьма';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

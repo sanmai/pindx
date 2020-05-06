@@ -33,8 +33,8 @@ final class Office346390 implements \RussianPostIndex\Record
     private $Region = 'Ростовская область';
     private $Autonom = '';
     private $Area = 'Красносулинский район';
-    private $City = 'Клевцов';
+    private $City = 'Красный Сулин';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

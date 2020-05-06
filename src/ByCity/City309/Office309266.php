@@ -33,8 +33,8 @@ final class Office309266 implements \RussianPostIndex\Record
     private $Region = 'Белгородская область';
     private $Autonom = '';
     private $Area = 'Шебекинский район';
-    private $City = 'Стрелица Вторая';
+    private $City = 'Стрелица-Вторая';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

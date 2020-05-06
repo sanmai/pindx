@@ -33,8 +33,8 @@ final class Office636865 implements \RussianPostIndex\Record
     private $Region = 'Томская область';
     private $Autonom = '';
     private $Area = 'Зырянский район';
-    private $City = 'Семеновка';
+    private $City = 'Семёновка';
     private $City1 = '';
-    private $ActDate = '20030611';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

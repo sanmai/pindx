@@ -33,8 +33,8 @@ final class Office422705 implements \RussianPostIndex\Record
     private $Region = 'Татарстан Республика';
     private $Autonom = '';
     private $Area = 'Высокогорский район';
-    private $City = 'Железнодорожной Станции Высокая Гора';
+    private $City = 'Ж/Д Станции Высокая Гора';
     private $City1 = '';
-    private $ActDate = '20171123';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

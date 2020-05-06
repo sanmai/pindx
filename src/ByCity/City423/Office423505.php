@@ -33,8 +33,8 @@ final class Office423505 implements \RussianPostIndex\Record
     private $Region = 'Татарстан Республика';
     private $Autonom = '';
     private $Area = 'Заинский район';
-    private $City = 'Кармалка';
-    private $City1 = '';
-    private $ActDate = '20001030';
+    private $City = 'Заинск';
+    private $City1 = 'Кармалка';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

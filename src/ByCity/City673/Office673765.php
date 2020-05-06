@@ -33,8 +33,8 @@ final class Office673765 implements \RussianPostIndex\Record
     private $Region = 'Забайкальский край';
     private $Autonom = '';
     private $Area = 'Могочинский район';
-    private $City = 'Семиозерный';
+    private $City = 'Семиозёрный';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

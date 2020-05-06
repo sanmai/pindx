@@ -33,8 +33,8 @@ final class Office391748 implements \RussianPostIndex\Record
     private $Region = 'Рязанская область';
     private $Autonom = '';
     private $Area = 'Захаровский район';
-    private $City = 'Смена';
+    private $City = 'Совхоза "Смена"';
     private $City1 = '';
-    private $ActDate = '20030604';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

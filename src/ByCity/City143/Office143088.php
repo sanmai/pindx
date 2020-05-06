@@ -33,8 +33,8 @@ final class Office143088 implements \RussianPostIndex\Record
     private $Region = 'Московская область';
     private $Autonom = '';
     private $Area = 'Одинцовский район';
-    private $City = 'Санаторий Им Герцена';
+    private $City = 'Санатория Им. Герцена';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

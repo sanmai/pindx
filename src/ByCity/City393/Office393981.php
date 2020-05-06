@@ -33,8 +33,8 @@ final class Office393981 implements \RussianPostIndex\Record
     private $Region = 'Тамбовская область';
     private $Autonom = '';
     private $Area = 'Пичаевский район';
-    private $City = 'Гагарино 2';
+    private $City = 'Гагарино 2-Е';
     private $City1 = '';
-    private $ActDate = '20060320';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

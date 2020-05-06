@@ -33,8 +33,8 @@ final class Office143335 implements \RussianPostIndex\Record
     private $Region = 'Московская область';
     private $Autonom = '';
     private $Area = 'Наро-Фоминский район';
-    private $City = 'Шустиково';
-    private $City1 = '';
-    private $ActDate = '20001030';
+    private $City = 'Наро-Фоминск';
+    private $City1 = 'Шустиково';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

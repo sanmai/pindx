@@ -33,8 +33,8 @@ final class Office171581 implements \RussianPostIndex\Record
     private $Region = 'Тверская область';
     private $Autonom = '';
     private $Area = 'Калязинский район';
-    private $City = 'Алферово';
-    private $City1 = '';
-    private $ActDate = '20050907';
+    private $City = 'Алферовское';
+    private $City1 = 'Алферово';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

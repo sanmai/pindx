@@ -33,8 +33,8 @@ final class Office601111 implements \RussianPostIndex\Record
     private $Region = 'Владимирская область';
     private $Autonom = '';
     private $Area = 'Петушинский район';
-    private $City = 'Костерево-1';
-    private $City1 = '';
-    private $ActDate = '20001030';
+    private $City = 'Костерево';
+    private $City1 = 'Костерево-1';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

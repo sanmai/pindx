@@ -33,8 +33,8 @@ final class Office429547 implements \RussianPostIndex\Record
     private $Region = 'Чувашия Республика';
     private $Autonom = '';
     private $Area = 'Моргаушский район';
-    private $City = 'Анаткасы - Тораевская Сельская Администрация';
+    private $City = 'Анаткасы (Тораевское С/П)';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

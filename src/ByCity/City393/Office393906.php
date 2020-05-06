@@ -33,8 +33,8 @@ final class Office393906 implements \RussianPostIndex\Record
     private $Region = 'Тамбовская область';
     private $Autonom = '';
     private $Area = 'Моршанский район';
-    private $City = 'Мало-Моршевка';
+    private $City = 'Малое Пичаево';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

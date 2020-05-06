@@ -33,8 +33,8 @@ final class Office425153 implements \RussianPostIndex\Record
     private $Region = 'Марий Эл Республика';
     private $Autonom = '';
     private $Area = 'Моркинский район';
-    private $City = 'Юрдур (Городское Поселение Морки)';
+    private $City = 'Юрдур (Мари-Кужерский С/С)';
     private $City1 = '';
-    private $ActDate = '20180813';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

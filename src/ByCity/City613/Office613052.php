@@ -33,8 +33,8 @@ final class Office613052 implements \RussianPostIndex\Record
     private $Region = 'Кировская область';
     private $Autonom = '';
     private $Area = 'Кирово-Чепецкий район';
-    private $City = 'Каринторф';
-    private $City1 = '';
-    private $ActDate = '20010606';
+    private $City = 'Кирово-Чепецк';
+    private $City1 = 'Каринторф';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

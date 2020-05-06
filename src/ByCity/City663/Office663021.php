@@ -33,8 +33,8 @@ final class Office663021 implements \RussianPostIndex\Record
     private $Region = 'Красноярский край';
     private $Autonom = '';
     private $Area = 'Емельяновский район';
-    private $City = 'Аэропорт Красноярск';
-    private $City1 = '';
-    private $ActDate = '20070427';
+    private $City = 'Емельяново';
+    private $City1 = 'Аэропорт Красноярск';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

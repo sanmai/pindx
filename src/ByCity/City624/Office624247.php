@@ -33,8 +33,8 @@ final class Office624247 implements \RussianPostIndex\Record
     private $Region = 'Свердловская область';
     private $Autonom = '';
     private $Area = 'Белоярский район';
-    private $City = 'Мезенское';
-    private $City1 = '';
-    private $ActDate = '20030321';
+    private $City = 'Заречный';
+    private $City1 = 'Мезенское';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

@@ -33,8 +33,8 @@ final class Office152972 implements \RussianPostIndex\Record
     private $Region = 'Ярославская область';
     private $Autonom = '';
     private $Area = 'Рыбинский район';
-    private $City = 'Погорелка';
+    private $City = 'Погорелка (Погорельская С/А)';
     private $City1 = '';
-    private $ActDate = '20180813';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

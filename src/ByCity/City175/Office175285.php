@@ -33,8 +33,8 @@ final class Office175285 implements \RussianPostIndex\Record
     private $Region = 'Новгородская область';
     private $Autonom = '';
     private $Area = 'Холмский район';
-    private $City = 'Каменка';
+    private $City = 'Каменка (Тогодское С/П)';
     private $City1 = '';
-    private $ActDate = '20071023';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

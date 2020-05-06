@@ -33,8 +33,8 @@ final class Office369381 implements \RussianPostIndex\Record
     private $Region = 'Карачаево-Черкесская Республика';
     private $Autonom = '';
     private $Area = 'Малокарачаевский район';
-    private $City = 'Учкекен 1';
+    private $City = 'Учкекен';
     private $City1 = '';
-    private $ActDate = '20060315';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

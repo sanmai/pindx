@@ -17,24 +17,24 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City143;
+namespace RussianPostIndex\ByCity\City243;
 
 /**
  * @internal
  */
-final class Office143802 implements \RussianPostIndex\Record
+final class Office243337 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 143802;
-    private $OPSName = 'Красногорск Пвпо';
-    private $OPSType = 'Пвпо';
-    private $OPSSubm = 143449;
-    private $Region = 'Московская область';
+    private $Index = 243337;
+    private $OPSName = 'Унеча Уосп';
+    private $OPSType = 'Участок';
+    private $OPSSubm = 243339;
+    private $Region = 'Брянская область';
     private $Autonom = '';
-    private $Area = 'Красногорский район';
-    private $City = 'Красногорск';
+    private $Area = 'Унечский район';
+    private $City = 'Унеча';
     private $City1 = '';
-    private $ActDate = '20181217';
+    private $ActDate = '20200506';
     private $IndexOld = '';
 }

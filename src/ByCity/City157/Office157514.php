@@ -33,8 +33,8 @@ final class Office157514 implements \RussianPostIndex\Record
     private $Region = 'Костромская область';
     private $Autonom = '';
     private $Area = 'Шарьинский район';
-    private $City = 'Пищевка';
+    private $City = 'Пищёвка';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

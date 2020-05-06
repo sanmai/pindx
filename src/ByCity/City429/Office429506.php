@@ -33,8 +33,8 @@ final class Office429506 implements \RussianPostIndex\Record
     private $Region = 'Чувашия Республика';
     private $Autonom = '';
     private $Area = 'Чебоксарский район';
-    private $City = 'Сятракасы -Лапсарского Сельского Поселения';
+    private $City = 'Сятракасы (Лапсарского С/П)';
     private $City1 = '';
-    private $ActDate = '20180813';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

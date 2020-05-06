@@ -33,8 +33,8 @@ final class Office390505 implements \RussianPostIndex\Record
     private $Region = 'Рязанская область';
     private $Autonom = '';
     private $Area = 'Рязанский район';
-    private $City = 'Учебное Х-Во Стенькино';
+    private $City = 'Стенькино';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

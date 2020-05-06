@@ -33,8 +33,8 @@ final class Office427885 implements \RussianPostIndex\Record
     private $Region = 'Удмуртская Республика';
     private $Autonom = '';
     private $Area = 'Алнашский район';
-    private $City = 'Алнаши';
+    private $City = 'Железнодорожная Станция Алнаши';
     private $City1 = '';
-    private $ActDate = '20060814';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

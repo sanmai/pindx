@@ -33,8 +33,8 @@ final class Office238347 implements \RussianPostIndex\Record
     private $Region = 'Калининградская область';
     private $Autonom = '';
     private $Area = 'Светловский район';
-    private $City = 'Люблино';
-    private $City1 = '';
-    private $ActDate = '20061018';
+    private $City = 'Светлый';
+    private $City1 = 'Люблино';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

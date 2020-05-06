@@ -33,8 +33,8 @@ final class Office152382 implements \RussianPostIndex\Record
     private $Region = 'Ярославская область';
     private $Autonom = '';
     private $Area = 'Большесельский район';
-    private $City = 'Чудиново';
+    private $City = 'Чудиново (Чудиновский С/С)';
     private $City1 = '';
-    private $ActDate = '20180813';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

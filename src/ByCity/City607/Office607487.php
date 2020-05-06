@@ -17,24 +17,24 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City141;
+namespace RussianPostIndex\ByCity\City607;
 
 /**
  * @internal
  */
-final class Office141012 implements \RussianPostIndex\Record
+final class Office607487 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 141012;
-    private $OPSName = 'Мытищи Пвпо';
-    private $OPSType = 'Пвпо';
-    private $OPSSubm = 141000;
-    private $Region = 'Московская область';
+    private $Index = 607487;
+    private $OPSName = 'Пильна Увпп';
+    private $OPSType = 'Участок';
+    private $OPSSubm = 607489;
+    private $Region = 'Нижегородская область';
     private $Autonom = '';
-    private $Area = 'Мытищинский район';
-    private $City = 'Мытищи';
+    private $Area = 'Пильнинский район';
+    private $City = 'Пильна';
     private $City1 = '';
-    private $ActDate = '20190304';
+    private $ActDate = '20200428';
     private $IndexOld = '';
 }

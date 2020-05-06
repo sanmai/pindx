@@ -33,8 +33,8 @@ final class Office673053 implements \RussianPostIndex\Record
     private $Region = 'Забайкальский край';
     private $Autonom = '';
     private $Area = 'Красночикойский район';
-    private $City = 'Большая Речка';
+    private $City = 'Прииск Большая Речка';
     private $City1 = '';
-    private $ActDate = '20040303';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

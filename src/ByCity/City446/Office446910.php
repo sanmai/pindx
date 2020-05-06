@@ -33,8 +33,8 @@ final class Office446910 implements \RussianPostIndex\Record
     private $Region = 'Самарская область';
     private $Autonom = '';
     private $Area = 'Шенталинский район';
-    private $City = 'Шентала';
+    private $City = 'Старая Шентала';
     private $City1 = '';
-    private $ActDate = '20050928';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

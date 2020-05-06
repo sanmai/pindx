@@ -33,8 +33,8 @@ final class Office456538 implements \RussianPostIndex\Record
     private $Region = 'Челябинская область';
     private $Autonom = '';
     private $Area = 'Сосновский район';
-    private $City = 'Смолино Ж-Д';
+    private $City = 'Смолино Ж-Д. Ст.';
     private $City1 = '';
-    private $ActDate = '20061101';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

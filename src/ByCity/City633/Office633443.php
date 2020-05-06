@@ -33,8 +33,8 @@ final class Office633443 implements \RussianPostIndex\Record
     private $Region = 'Новосибирская область';
     private $Autonom = '';
     private $Area = 'Тогучинский район';
-    private $City = 'Дергоусово';
+    private $City = 'Дергаусово';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

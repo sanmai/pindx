@@ -33,8 +33,8 @@ final class Office301208 implements \RussianPostIndex\Record
     private $Region = 'Тульская область';
     private $Autonom = '';
     private $Area = 'Щекинский район';
-    private $City = 'Майский   Костомаровское  Мо';
+    private $City = 'Майский (Яснополянское Мо)';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

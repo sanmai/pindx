@@ -33,8 +33,8 @@ final class Office174745 implements \RussianPostIndex\Record
     private $Region = 'Новгородская область';
     private $Autonom = '';
     private $Area = 'Любытинский район';
-    private $City = 'Теребутинец';
+    private $City = 'Теребутенец';
     private $City1 = '';
-    private $ActDate = '20050914';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

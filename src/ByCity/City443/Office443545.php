@@ -33,8 +33,8 @@ final class Office443545 implements \RussianPostIndex\Record
     private $Region = 'Самарская область';
     private $Autonom = '';
     private $Area = 'Волжский район';
-    private $City = 'Курумоч 2';
+    private $City = 'Курумоч';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

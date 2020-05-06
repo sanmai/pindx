@@ -33,8 +33,8 @@ final class Office243370 implements \RussianPostIndex\Record
     private $Region = 'Брянская область';
     private $Autonom = '';
     private $Area = 'Выгоничский район';
-    private $City = 'Хутор Бор';
+    private $City = 'Хутор-Бор';
     private $City1 = '';
-    private $ActDate = '20071004';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

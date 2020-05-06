@@ -33,8 +33,8 @@ final class Office241043 implements \RussianPostIndex\Record
     private $Region = 'Брянская область';
     private $Autonom = '';
     private $Area = 'Брянский район';
-    private $City = 'Бело-Бережский Санаторий';
+    private $City = 'Бело-Бережский Санаторий Турбаза';
     private $City1 = '';
-    private $ActDate = '20100730';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

@@ -33,8 +33,8 @@ final class Office461763 implements \RussianPostIndex\Record
     private $Region = 'Оренбургская область';
     private $Autonom = '';
     private $Area = 'Абдулинский район';
-    private $City = 'Степановка 2-Я';
+    private $City = 'Степановка Вторая';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

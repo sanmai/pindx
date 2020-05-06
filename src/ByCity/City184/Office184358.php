@@ -33,8 +33,8 @@ final class Office184358 implements \RussianPostIndex\Record
     private $Region = 'Мурманская область';
     private $Autonom = '';
     private $Area = 'Кольский район';
-    private $City = 'Мурмаши-3';
+    private $City = 'Мурмаши';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

@@ -33,8 +33,8 @@ final class Office169934 implements \RussianPostIndex\Record
     private $Region = 'Коми Республика';
     private $Autonom = '';
     private $Area = 'Воркутинский район';
-    private $City = 'Воргашор';
-    private $City1 = '';
-    private $ActDate = '20001030';
+    private $City = 'Воркута';
+    private $City1 = 'Воргашор';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

@@ -33,8 +33,8 @@ final class Office433244 implements \RussianPostIndex\Record
     private $Region = 'Ульяновская область';
     private $Autonom = '';
     private $Area = 'Сурский район';
-    private $City = 'Кирзять';
+    private $City = 'Центральная Усадьба Совхоза "Сурский"';
     private $City1 = '';
-    private $ActDate = '20140818';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

@@ -33,8 +33,8 @@ final class Office659121 implements \RussianPostIndex\Record
     private $Region = 'Алтайский край';
     private $Autonom = '';
     private $Area = 'Заринский район';
-    private $City = 'Новоманошкино';
+    private $City = 'Новомоношкино';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

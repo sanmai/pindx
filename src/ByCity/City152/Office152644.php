@@ -33,8 +33,8 @@ final class Office152644 implements \RussianPostIndex\Record
     private $Region = 'Ярославская область';
     private $Autonom = '';
     private $Area = 'Угличский район';
-    private $City = 'Платуново';
+    private $City = 'Платуново (Отрадновское С/П)';
     private $City1 = '';
-    private $ActDate = '20180813';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

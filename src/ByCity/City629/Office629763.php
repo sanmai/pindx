@@ -33,8 +33,8 @@ final class Office629763 implements \RussianPostIndex\Record
     private $Region = '';
     private $Autonom = 'Ямало-Ненецкий автономный округ';
     private $Area = 'Надымский район';
-    private $City = 'Старый Надым';
-    private $City1 = '';
-    private $ActDate = '20170906';
+    private $City = 'Надым';
+    private $City1 = 'Старый Надым';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

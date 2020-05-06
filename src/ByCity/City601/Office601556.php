@@ -33,8 +33,8 @@ final class Office601556 implements \RussianPostIndex\Record
     private $Region = 'Владимирская область';
     private $Autonom = '';
     private $Area = 'Гусь-Хрустальный район';
-    private $City = 'Панфилово';
-    private $City1 = '';
-    private $ActDate = '20040401';
+    private $City = 'Гусь-Хрустальный';
+    private $City1 = 'Панфилово';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

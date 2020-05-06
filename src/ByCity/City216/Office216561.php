@@ -33,8 +33,8 @@ final class Office216561 implements \RussianPostIndex\Record
     private $Region = 'Смоленская область';
     private $Autonom = '';
     private $Area = 'Рославльский район';
-    private $City = 'Липовка Липовское';
+    private $City = 'Липовка';
     private $City1 = '';
-    private $ActDate = '20180813';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

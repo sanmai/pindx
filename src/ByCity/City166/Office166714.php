@@ -33,8 +33,8 @@ final class Office166714 implements \RussianPostIndex\Record
     private $Region = '';
     private $Autonom = 'Ненецкий автономный округ';
     private $Area = 'Заполярный район';
-    private $City = 'Нельмин Нос';
+    private $City = 'Нельмин-Нос';
     private $City1 = '';
-    private $ActDate = '20180813';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

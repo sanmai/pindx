@@ -33,8 +33,8 @@ final class Office171040 implements \RussianPostIndex\Record
     private $Region = 'Тверская область';
     private $Autonom = '';
     private $Area = 'Бологовский район';
-    private $City = 'Гузятино';
+    private $City = 'Гузятино (Гузятинский С/О)';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

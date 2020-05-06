@@ -33,8 +33,8 @@ final class Office249142 implements \RussianPostIndex\Record
     private $Region = 'Калужская область';
     private $Autonom = '';
     private $Area = 'Перемышльский район';
-    private $City = 'Калужская Опытная Сельскохозяйственная Станция';
+    private $City = 'Калужская Опытная Сельскохозяйственная С';
     private $City1 = '';
-    private $ActDate = '20050802';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

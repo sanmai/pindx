@@ -33,8 +33,8 @@ final class Office309910 implements \RussianPostIndex\Record
     private $Region = 'Белгородская область';
     private $Autonom = '';
     private $Area = 'Красногвардейский район';
-    private $City = 'Бирюч';
+    private $City = 'Бирюч (Коломыцевское С/П)';
     private $City1 = '';
-    private $ActDate = '20110802';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

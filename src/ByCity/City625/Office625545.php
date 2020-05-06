@@ -33,8 +33,8 @@ final class Office625545 implements \RussianPostIndex\Record
     private $Region = 'Тюменская область';
     private $Autonom = '';
     private $Area = 'Тюменский район';
-    private $City = 'Сосновое';
+    private $City = 'Богандинский';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

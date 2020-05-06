@@ -33,8 +33,8 @@ final class Office397218 implements \RussianPostIndex\Record
     private $Region = 'Воронежская область';
     private $Autonom = '';
     private $Area = 'Грибановский район';
-    private $City = 'Совхоза Павловка';
+    private $City = 'Совхоза "Павловка"';
     private $City1 = '';
-    private $ActDate = '20171130';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

@@ -33,8 +33,8 @@ final class Office161123 implements \RussianPostIndex\Record
     private $Region = 'Вологодская область';
     private $Autonom = '';
     private $Area = 'Кирилловский район';
-    private $City = 'Коварзино';
-    private $City1 = '';
-    private $ActDate = '20111116';
+    private $City = 'Ферапонтовское';
+    private $City1 = 'Коварзино';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

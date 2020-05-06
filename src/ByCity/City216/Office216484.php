@@ -33,8 +33,8 @@ final class Office216484 implements \RussianPostIndex\Record
     private $Region = 'Смоленская область';
     private $Autonom = '';
     private $Area = 'Починковский район';
-    private $City = 'Старинки';
+    private $City = 'Старинки (Лосненское С/Пос)';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

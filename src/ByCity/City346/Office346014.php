@@ -33,8 +33,8 @@ final class Office346014 implements \RussianPostIndex\Record
     private $Region = 'Ростовская область';
     private $Autonom = '';
     private $Area = 'Чертковский район';
-    private $City = 'Семено-Камышинская';
+    private $City = 'Семено-Камышенская';
     private $City1 = '';
-    private $ActDate = '20070214';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

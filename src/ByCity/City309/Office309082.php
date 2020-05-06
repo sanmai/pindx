@@ -33,8 +33,8 @@ final class Office309082 implements \RussianPostIndex\Record
     private $Region = 'Белгородская область';
     private $Autonom = '';
     private $Area = 'Яковлевский район';
-    private $City = 'Серетено';
+    private $City = 'Серетино';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

@@ -33,8 +33,8 @@ final class Office353527 implements \RussianPostIndex\Record
     private $Region = 'Краснодарский край';
     private $Autonom = '';
     private $Area = 'Темрюкский район';
-    private $City = 'Светлый Путь  Ленина';
+    private $City = 'Светлый Путь Ленина';
     private $City1 = '';
-    private $ActDate = '20081008';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

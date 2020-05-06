@@ -33,8 +33,8 @@ final class Office161328 implements \RussianPostIndex\Record
     private $Region = 'Вологодская область';
     private $Autonom = '';
     private $Area = 'Тотемский район';
-    private $City = 'Гремячий Толшменское Поселени';
+    private $City = 'Гремячий';
     private $City1 = '';
-    private $ActDate = '20100524';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

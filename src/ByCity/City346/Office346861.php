@@ -33,8 +33,8 @@ final class Office346861 implements \RussianPostIndex\Record
     private $Region = 'Ростовская область';
     private $Autonom = '';
     private $Area = 'Неклиновский район';
-    private $City = 'Весело Вознесеновка';
+    private $City = 'Весело-Вознесенка';
     private $City1 = '';
-    private $ActDate = '20171208';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

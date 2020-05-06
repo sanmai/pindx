@@ -33,8 +33,8 @@ final class Office423225 implements \RussianPostIndex\Record
     private $Region = 'Татарстан Республика';
     private $Autonom = '';
     private $Area = 'Бугульминский район';
-    private $City = 'Жд Станции Акбаш';
+    private $City = 'Ж/Д Станции Акбаш';
     private $City1 = '';
-    private $ActDate = '20180813';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

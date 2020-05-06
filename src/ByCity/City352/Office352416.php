@@ -33,8 +33,8 @@ final class Office352416 implements \RussianPostIndex\Record
     private $Region = 'Краснодарский край';
     private $Autonom = '';
     private $Area = 'Курганинский район';
-    private $City = 'Красное Поле';
-    private $City1 = '';
-    private $ActDate = '20110125';
+    private $City = 'Курганинск';
+    private $City1 = 'Красное Поле';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

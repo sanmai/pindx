@@ -33,8 +33,8 @@ final class Office641751 implements \RussianPostIndex\Record
     private $Region = 'Курганская область';
     private $Autonom = '';
     private $Area = 'Далматовский район';
-    private $City = 'Песчано - Коледино';
+    private $City = 'Песчано-Коледино';
     private $City1 = '';
-    private $ActDate = '20080331';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

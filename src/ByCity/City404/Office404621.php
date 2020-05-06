@@ -35,6 +35,6 @@ final class Office404621 implements \RussianPostIndex\Record
     private $Area = 'Ленинский район';
     private $City = 'Ленинск';
     private $City1 = '';
-    private $ActDate = '20070411';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

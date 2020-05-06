@@ -33,8 +33,8 @@ final class Office641049 implements \RussianPostIndex\Record
     private $Region = 'Курганская область';
     private $Autonom = '';
     private $Area = 'Мишкинский район';
-    private $City = 'Бутырский';
+    private $City = 'Бутырское';
     private $City1 = '';
-    private $ActDate = '20080331';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

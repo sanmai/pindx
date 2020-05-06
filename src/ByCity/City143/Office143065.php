@@ -33,8 +33,8 @@ final class Office143065 implements \RussianPostIndex\Record
     private $Region = 'Московская область';
     private $Autonom = '';
     private $Area = 'Одинцовский район';
-    private $City = 'Покровское';
+    private $City = 'Покровское (Сп Ершовское)';
     private $City1 = '';
-    private $ActDate = '20020130';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

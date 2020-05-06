@@ -33,8 +33,8 @@ final class Office187613 implements \RussianPostIndex\Record
     private $Region = 'Ленинградская область';
     private $Autonom = '';
     private $Area = 'Бокситогорский район';
-    private $City = 'Большой Двор Большедворское Сп';
+    private $City = 'Большой Двор (Большедворское С/П)';
     private $City1 = '';
-    private $ActDate = '20190805';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

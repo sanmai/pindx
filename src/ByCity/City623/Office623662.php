@@ -33,8 +33,8 @@ final class Office623662 implements \RussianPostIndex\Record
     private $Region = 'Свердловская область';
     private $Autonom = '';
     private $Area = 'Тугулымский район';
-    private $City = 'Демина';
+    private $City = 'Демино';
     private $City1 = '';
-    private $ActDate = '20030321';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

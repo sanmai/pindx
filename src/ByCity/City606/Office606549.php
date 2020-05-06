@@ -33,8 +33,8 @@ final class Office606549 implements \RussianPostIndex\Record
     private $Region = 'Нижегородская область';
     private $Autonom = '';
     private $Area = 'Чкаловский район';
-    private $City = 'Кузнецово';
+    private $City = 'Кузнецово (Кузнецовский С/С)';
     private $City1 = '';
-    private $ActDate = '20060914';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

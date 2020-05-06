@@ -35,6 +35,6 @@ final class Office393741 implements \RussianPostIndex\Record
     private $Area = 'Мичуринский район';
     private $City = 'Зеленый Гай';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

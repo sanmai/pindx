@@ -33,8 +33,8 @@ final class Office309377 implements \RussianPostIndex\Record
     private $Region = 'Белгородская область';
     private $Autonom = '';
     private $Area = 'Грайворонский район';
-    private $City = 'Головчино-1';
+    private $City = 'Головчино';
     private $City1 = '';
-    private $ActDate = '20110802';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

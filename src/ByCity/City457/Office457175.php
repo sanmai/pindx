@@ -33,8 +33,8 @@ final class Office457175 implements \RussianPostIndex\Record
     private $Region = 'Челябинская область';
     private $Autonom = '';
     private $Area = 'Октябрьский район';
-    private $City = 'Уйско-Чебаркульское';
+    private $City = 'Уйско-Чебаркульская';
     private $City1 = '';
-    private $ActDate = '20130201';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

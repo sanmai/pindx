@@ -33,8 +33,8 @@ final class Office442385 implements \RussianPostIndex\Record
     private $Region = 'Пензенская область';
     private $Autonom = '';
     private $Area = 'Мокшанский район';
-    private $City = 'Широкоисс';
+    private $City = 'Широкоис';
     private $City1 = '';
-    private $ActDate = '20060626';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

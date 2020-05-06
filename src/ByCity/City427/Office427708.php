@@ -33,8 +33,8 @@ final class Office427708 implements \RussianPostIndex\Record
     private $Region = 'Удмуртская Республика';
     private $Autonom = '';
     private $Area = 'Кизнерский район';
-    private $City = 'Кизнер-Село';
+    private $City = 'Кизнер';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

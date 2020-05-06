@@ -33,8 +33,8 @@ final class Office187611 implements \RussianPostIndex\Record
     private $Region = 'Ленинградская область';
     private $Autonom = '';
     private $Area = 'Бокситогорский район';
-    private $City = 'Окулово Самойловское Сп';
+    private $City = 'Окулово (Самойловское С/П)';
     private $City1 = '';
-    private $ActDate = '20180813';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

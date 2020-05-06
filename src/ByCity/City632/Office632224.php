@@ -33,8 +33,8 @@ final class Office632224 implements \RussianPostIndex\Record
     private $Region = 'Новосибирская область';
     private $Autonom = '';
     private $Area = 'Чановский район';
-    private $City = 'Курорт Озеро Карачи';
+    private $City = 'Озеро-Карачи';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

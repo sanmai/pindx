@@ -33,8 +33,8 @@ final class Office671167 implements \RussianPostIndex\Record
     private $Region = 'Бурятия Республика';
     private $Autonom = '';
     private $Area = 'Селенгинский район';
-    private $City = 'Заозерный';
-    private $City1 = '';
-    private $ActDate = '20120910';
+    private $City = 'Гусиноозерск';
+    private $City1 = 'Заозерный';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

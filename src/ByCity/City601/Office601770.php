@@ -33,8 +33,8 @@ final class Office601770 implements \RussianPostIndex\Record
     private $Region = 'Владимирская область';
     private $Autonom = '';
     private $Area = 'Кольчугинский район';
-    private $City = 'Белая Речка';
-    private $City1 = '';
-    private $ActDate = '20001030';
+    private $City = 'Кольчугино';
+    private $City1 = 'Белая Речка';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

@@ -33,8 +33,8 @@ final class Office216315 implements \RussianPostIndex\Record
     private $Region = 'Смоленская область';
     private $Autonom = '';
     private $Area = 'Глинковский район';
-    private $City = 'Ивонино';
+    private $City = 'Ивонино (Бердниковское С/Пос)';
     private $City1 = '';
-    private $ActDate = '20020430';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

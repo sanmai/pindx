@@ -33,8 +33,8 @@ final class Office404190 implements \RussianPostIndex\Record
     private $Region = 'Волгоградская область';
     private $Autonom = '';
     private $Area = 'Светлоярский район';
-    private $City = 'Абганерово-Вокзал';
+    private $City = 'Абганерово';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

@@ -33,8 +33,8 @@ final class Office629841 implements \RussianPostIndex\Record
     private $Region = '';
     private $Autonom = 'Ямало-Ненецкий автономный округ';
     private $Area = 'Пуровский район';
-    private $City = 'Пурпе 1';
+    private $City = 'Пурпе-1';
     private $City1 = '';
-    private $ActDate = '20170906';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

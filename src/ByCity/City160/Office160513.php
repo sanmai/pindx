@@ -33,8 +33,8 @@ final class Office160513 implements \RussianPostIndex\Record
     private $Region = 'Вологодская область';
     private $Autonom = '';
     private $Area = 'Вологодский район';
-    private $City = 'Норобово';
+    private $City = 'Норобово (Спасское Мо)';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

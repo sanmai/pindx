@@ -33,8 +33,8 @@ final class Office361219 implements \RussianPostIndex\Record
     private $Region = 'Кабардино-Балкарская Республика';
     private $Autonom = '';
     private $Area = 'Терский район';
-    private $City = 'Заводское';
+    private $City = 'Заводской';
     private $City1 = '';
-    private $ActDate = '20180813';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

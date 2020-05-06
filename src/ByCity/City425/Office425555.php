@@ -33,8 +33,8 @@ final class Office425555 implements \RussianPostIndex\Record
     private $Region = 'Марий Эл Республика';
     private $Autonom = '';
     private $Area = 'Куженерский район';
-    private $City = 'Ружбеляк (Шорсолинский С/С)';
+    private $City = 'Ружбеляк (Шорсолинское С/П)';
     private $City1 = '';
-    private $ActDate = '20180813';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

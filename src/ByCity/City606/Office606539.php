@@ -33,8 +33,8 @@ final class Office606539 implements \RussianPostIndex\Record
     private $Region = 'Нижегородская область';
     private $Autonom = '';
     private $Area = 'Городецкий район';
-    private $City = 'Буревестник';
+    private $City = 'Буревестник (Тимирязевский С/С)';
     private $City1 = '';
-    private $ActDate = '20171018';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

@@ -33,8 +33,8 @@ final class Office238014 implements \RussianPostIndex\Record
     private $Region = 'Калининградская область';
     private $Autonom = '';
     private $Area = 'Нестеровский район';
-    private $City = 'Садовое Илюшинское Сп';
+    private $City = 'Садовое';
     private $City1 = '';
-    private $ActDate = '20180813';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

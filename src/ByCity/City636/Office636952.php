@@ -33,8 +33,8 @@ final class Office636952 implements \RussianPostIndex\Record
     private $Region = 'Томская область';
     private $Autonom = '';
     private $Area = 'Первомайский район';
-    private $City = 'Тарбеево';
+    private $City = 'Торбеево';
     private $City1 = '';
-    private $ActDate = '20030402';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

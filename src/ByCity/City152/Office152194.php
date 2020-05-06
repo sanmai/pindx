@@ -33,8 +33,8 @@ final class Office152194 implements \RussianPostIndex\Record
     private $Region = 'Ярославская область';
     private $Autonom = '';
     private $Area = 'Борисоглебский район';
-    private $City = 'Высоково';
+    private $City = 'Высоково (Высоковская С/А)';
     private $City1 = '';
-    private $ActDate = '20060404';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

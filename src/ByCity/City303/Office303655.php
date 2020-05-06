@@ -33,8 +33,8 @@ final class Office303655 implements \RussianPostIndex\Record
     private $Region = 'Орловская область';
     private $Autonom = '';
     private $Area = 'Краснозоренский район';
-    private $City = 'Успенье';
+    private $City = 'Пол-Успенье';
     private $City1 = '';
-    private $ActDate = '20050825';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

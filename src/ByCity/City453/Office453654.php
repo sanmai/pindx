@@ -33,8 +33,8 @@ final class Office453654 implements \RussianPostIndex\Record
     private $Region = 'Башкортостан Республика';
     private $Autonom = '';
     private $Area = 'Баймакский район';
-    private $City = 'Сосновского Отделения';
+    private $City = 'Сосновка';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

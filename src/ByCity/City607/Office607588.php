@@ -17,24 +17,24 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City129;
+namespace RussianPostIndex\ByCity\City607;
 
 /**
  * @internal
  */
-final class Office129003 implements \RussianPostIndex\Record
+final class Office607588 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 129003;
-    private $OPSName = 'Москва Пвпо';
-    private $OPSType = 'Пвпо';
-    private $OPSSubm = 127950;
-    private $Region = 'Москва';
+    private $Index = 607588;
+    private $OPSName = 'Сеченово Увпп';
+    private $OPSType = 'Участок';
+    private $OPSSubm = 607489;
+    private $Region = 'Нижегородская область';
     private $Autonom = '';
-    private $Area = '';
-    private $City = '';
+    private $Area = 'Сеченовский район';
+    private $City = 'Сеченово';
     private $City1 = '';
-    private $ActDate = '20181217';
+    private $ActDate = '20200428';
     private $IndexOld = '';
 }

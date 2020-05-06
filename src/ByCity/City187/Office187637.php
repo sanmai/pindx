@@ -33,8 +33,8 @@ final class Office187637 implements \RussianPostIndex\Record
     private $Region = 'Ленинградская область';
     private $Autonom = '';
     private $Area = 'Бокситогорский район';
-    private $City = 'Климово';
+    private $City = 'Климово (Климовское С/П)';
     private $City1 = '';
-    private $ActDate = '20071227';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

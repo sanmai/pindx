@@ -33,8 +33,8 @@ final class Office429213 implements \RussianPostIndex\Record
     private $Region = 'Чувашия Республика';
     private $Autonom = '';
     private $Area = 'Вурнарский район';
-    private $City = 'Чирш-Шинеры';
+    private $City = 'Чириш-Шинеры';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

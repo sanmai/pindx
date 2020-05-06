@@ -33,8 +33,8 @@ final class Office173502 implements \RussianPostIndex\Record
     private $Region = 'Новгородская область';
     private $Autonom = '';
     private $Area = 'Новгородский район';
-    private $City = 'Подберезье Подберезское Сп';
+    private $City = 'Подберезье';
     private $City1 = '';
-    private $ActDate = '20180813';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

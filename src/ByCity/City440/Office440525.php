@@ -33,8 +33,8 @@ final class Office440525 implements \RussianPostIndex\Record
     private $Region = 'Пензенская область';
     private $Autonom = '';
     private $Area = 'Пензенский район';
-    private $City = 'Серп И Молот';
+    private $City = 'Центральная Усадьба Свх. " Серп И Молот"';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

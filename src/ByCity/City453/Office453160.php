@@ -33,8 +33,8 @@ final class Office453160 implements \RussianPostIndex\Record
     private $Region = 'Башкортостан Республика';
     private $Autonom = '';
     private $Area = 'Стерлитамакский район';
-    private $City = 'Васильевка';
+    private $City = 'Наумовка';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

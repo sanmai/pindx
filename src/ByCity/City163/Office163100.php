@@ -33,8 +33,8 @@ final class Office163100 implements \RussianPostIndex\Record
     private $Region = 'Архангельская область';
     private $Autonom = '';
     private $Area = 'Приморский район';
-    private $City = 'Хейса Земля Франца-Иосифа';
+    private $City = 'Архипелаг Земля Франца-Иосифа';
     private $City1 = '';
-    private $ActDate = '20051117';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

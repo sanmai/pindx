@@ -33,8 +33,8 @@ final class Office160524 implements \RussianPostIndex\Record
     private $Region = 'Вологодская область';
     private $Autonom = '';
     private $Area = 'Вологодский район';
-    private $City = 'Погорелово Сосновское';
+    private $City = 'Погорелово (Сосновское Мо)';
     private $City1 = '';
-    private $ActDate = '20180813';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

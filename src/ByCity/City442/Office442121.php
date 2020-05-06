@@ -33,8 +33,8 @@ final class Office442121 implements \RussianPostIndex\Record
     private $Region = 'Пензенская область';
     private $Autonom = '';
     private $Area = 'Пачелмский район';
-    private $City = 'Мокрый Мичкас';
+    private $City = 'Мокрый Мичкасс';
     private $City1 = '';
-    private $ActDate = '20060901';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

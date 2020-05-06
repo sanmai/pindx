@@ -33,8 +33,8 @@ final class Office243002 implements \RussianPostIndex\Record
     private $Region = 'Брянская область';
     private $Autonom = '';
     private $Area = 'Новозыбковский район';
-    private $City = 'Халевичи';
+    private $City = 'Халеевичи';
     private $City1 = '';
-    private $ActDate = '20060206';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

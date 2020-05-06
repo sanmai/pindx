@@ -33,8 +33,8 @@ final class Office627111 implements \RussianPostIndex\Record
     private $Region = 'Тюменская область';
     private $Autonom = '';
     private $Area = 'Заводоуковский район';
-    private $City = 'Новая Заимка 1';
+    private $City = 'Новая Заимка';
     private $City1 = '';
-    private $ActDate = '20171002';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

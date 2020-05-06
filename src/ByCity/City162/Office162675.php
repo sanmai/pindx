@@ -33,8 +33,8 @@ final class Office162675 implements \RussianPostIndex\Record
     private $Region = 'Вологодская область';
     private $Autonom = '';
     private $Area = 'Череповецкий район';
-    private $City = 'Шулма Нелазское';
-    private $City1 = '';
-    private $ActDate = '20180813';
+    private $City = 'Нелазское Сельское Поселение';
+    private $City1 = 'Шулма';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

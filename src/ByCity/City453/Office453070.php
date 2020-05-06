@@ -33,8 +33,8 @@ final class Office453070 implements \RussianPostIndex\Record
     private $Region = 'Башкортостан Республика';
     private $Autonom = '';
     private $Area = 'Гафурийский район';
-    private $City = 'Станции Белое Озеро';
+    private $City = 'Белое Озеро';
     private $City1 = '';
-    private $ActDate = '20070212';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

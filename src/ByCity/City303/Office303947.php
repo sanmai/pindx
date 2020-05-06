@@ -33,8 +33,8 @@ final class Office303947 implements \RussianPostIndex\Record
     private $Region = 'Орловская область';
     private $Autonom = '';
     private $Area = 'Хотынецкий район';
-    private $City = 'Мощеное';
+    private $City = 'Мощёное';
     private $City1 = '';
-    private $ActDate = '20100730';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

@@ -33,8 +33,8 @@ final class Office446579 implements \RussianPostIndex\Record
     private $Region = 'Самарская область';
     private $Autonom = '';
     private $Area = 'Исаклинский район';
-    private $City = 'Сухарь-Матак';
+    private $City = 'Сухарь Матак';
     private $City1 = '';
-    private $ActDate = '20101014';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

@@ -33,8 +33,8 @@ final class Office397932 implements \RussianPostIndex\Record
     private $Region = 'Воронежская область';
     private $Autonom = '';
     private $Area = 'Лискинский район';
-    private $City = 'Поселок С-За 2-Я Пятилетка';
+    private $City = 'Совхоза "2-Я Пятилетка"';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

@@ -33,8 +33,8 @@ final class Office433304 implements \RussianPostIndex\Record
     private $Region = 'Ульяновская область';
     private $Autonom = '';
     private $Area = 'Ульяновский район';
-    private $City = 'Панская Слобода';
-    private $City1 = '';
-    private $ActDate = '20060828';
+    private $City = 'Новоульяновск';
+    private $City1 = 'Панская Слобода';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

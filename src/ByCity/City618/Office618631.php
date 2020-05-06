@@ -33,8 +33,8 @@ final class Office618631 implements \RussianPostIndex\Record
     private $Region = 'Пермский край';
     private $Autonom = '';
     private $Area = 'Чердынский район';
-    private $City = 'Ныроб-1';
+    private $City = 'Ныроб';
     private $City1 = '';
-    private $ActDate = '20121023';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

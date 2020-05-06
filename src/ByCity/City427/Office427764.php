@@ -33,8 +33,8 @@ final class Office427764 implements \RussianPostIndex\Record
     private $Region = 'Удмуртская Республика';
     private $Autonom = '';
     private $Area = 'Можгинский район';
-    private $City = 'Малая Валожикья';
+    private $City = 'Малая Воложикья';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

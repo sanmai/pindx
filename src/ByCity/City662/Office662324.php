@@ -33,8 +33,8 @@ final class Office662324 implements \RussianPostIndex\Record
     private $Region = 'Красноярский край';
     private $Autonom = '';
     private $Area = 'Шарыповский район';
-    private $City = 'Горячегорск';
-    private $City1 = '';
-    private $ActDate = '20001030';
+    private $City = 'Шарыпово';
+    private $City1 = 'Горячегорск';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

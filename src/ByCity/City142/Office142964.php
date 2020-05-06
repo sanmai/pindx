@@ -33,8 +33,8 @@ final class Office142964 implements \RussianPostIndex\Record
     private $Region = 'Московская область';
     private $Autonom = '';
     private $Area = 'Серебряно-Прудский район';
-    private $City = 'Глубокое';
-    private $City1 = '';
-    private $ActDate = '20020111';
+    private $City = 'Серебряные Пруды';
+    private $City1 = 'Глубокое';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

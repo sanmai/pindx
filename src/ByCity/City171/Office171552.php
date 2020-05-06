@@ -33,8 +33,8 @@ final class Office171552 implements \RussianPostIndex\Record
     private $Region = 'Тверская область';
     private $Autonom = '';
     private $Area = 'Калязинский район';
-    private $City = 'Липовка';
-    private $City1 = '';
-    private $ActDate = '20050907';
+    private $City = 'Старобисловское';
+    private $City1 = 'Липовка';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

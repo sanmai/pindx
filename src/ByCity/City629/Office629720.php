@@ -33,8 +33,8 @@ final class Office629720 implements \RussianPostIndex\Record
     private $Region = '';
     private $Autonom = 'Ямало-Ненецкий автономный округ';
     private $Area = 'Ямальский район';
-    private $City = 'Мыс Каменный';
+    private $City = 'Мыс-Каменный';
     private $City1 = '';
-    private $ActDate = '20170906';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

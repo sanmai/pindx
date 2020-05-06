@@ -33,8 +33,8 @@ final class Office652221 implements \RussianPostIndex\Record
     private $Region = 'Кемеровская область';
     private $Autonom = '';
     private $Area = 'Тисульский район';
-    private $City = 'Большая Натальевка';
-    private $City1 = '';
-    private $ActDate = '20001030';
+    private $City = 'Комсомольск';
+    private $City1 = 'Большая Натальевка';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

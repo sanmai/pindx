@@ -33,8 +33,8 @@ final class Office303433 implements \RussianPostIndex\Record
     private $Region = 'Орловская область';
     private $Autonom = '';
     private $Area = 'Колпнянский район';
-    private $City = 'Хутор Лимовое';
+    private $City = 'Хутор-Лимовое';
     private $City1 = '';
-    private $ActDate = '20041103';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

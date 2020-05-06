@@ -33,8 +33,8 @@ final class Office162168 implements \RussianPostIndex\Record
     private $Region = 'Вологодская область';
     private $Autonom = '';
     private $Area = 'Вожегодский район';
-    private $City = 'Козлово Бекетовское Мо';
+    private $City = 'Котлово';
     private $City1 = '';
-    private $ActDate = '20101119';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

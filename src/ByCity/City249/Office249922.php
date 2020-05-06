@@ -33,8 +33,8 @@ final class Office249922 implements \RussianPostIndex\Record
     private $Region = 'Калужская область';
     private $Autonom = '';
     private $Area = 'Юхновский район';
-    private $City = 'Павлищев Бор';
+    private $City = 'Санатория Павлищев Бор';
     private $City1 = '';
-    private $ActDate = '20040202';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

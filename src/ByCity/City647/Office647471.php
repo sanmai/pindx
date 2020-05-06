@@ -33,8 +33,8 @@ final class Office647471 implements \RussianPostIndex\Record
     private $Region = 'Красноярский край';
     private $Autonom = '';
     private $Area = 'Таймырский Долгано-Ненецкий район';
-    private $City = 'Новорыбное';
+    private $City = 'Новорыбная';
     private $City1 = '';
-    private $ActDate = '20070209';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

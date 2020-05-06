@@ -33,8 +33,8 @@ final class Office174524 implements \RussianPostIndex\Record
     private $Region = 'Новгородская область';
     private $Autonom = '';
     private $Area = 'Пестовский район';
-    private $City = 'Коровино';
+    private $City = 'Коровино (Лаптевское С/П)';
     private $City1 = '';
-    private $ActDate = '20110117';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

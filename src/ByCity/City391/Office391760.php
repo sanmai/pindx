@@ -33,8 +33,8 @@ final class Office391760 implements \RussianPostIndex\Record
     private $Region = 'Рязанская область';
     private $Autonom = '';
     private $Area = 'Милославский район';
-    private $City = 'Топиллы';
+    private $City = 'Станции Топилы';
     private $City1 = '';
-    private $ActDate = '20060607';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

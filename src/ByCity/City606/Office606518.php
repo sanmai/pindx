@@ -33,8 +33,8 @@ final class Office606518 implements \RussianPostIndex\Record
     private $Region = 'Нижегородская область';
     private $Autonom = '';
     private $Area = 'Городецкий район';
-    private $City = 'Воронино';
+    private $City = 'Воронино (Зиняковский С/С)';
     private $City1 = '';
-    private $ActDate = '20171018';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

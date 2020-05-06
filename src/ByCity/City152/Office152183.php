@@ -33,8 +33,8 @@ final class Office152183 implements \RussianPostIndex\Record
     private $Region = 'Ярославская область';
     private $Autonom = '';
     private $Area = 'Борисоглебский район';
-    private $City = 'Березники';
+    private $City = 'Березники (Покровская С/А)';
     private $City1 = '';
-    private $ActDate = '20060404';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

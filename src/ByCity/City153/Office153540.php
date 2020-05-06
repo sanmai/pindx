@@ -33,8 +33,8 @@ final class Office153540 implements \RussianPostIndex\Record
     private $Region = 'Ивановская область';
     private $Autonom = '';
     private $Area = 'Ивановский район';
-    private $City = 'Ермолино';
+    private $City = 'Железнодорожной Станции Ермолино';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

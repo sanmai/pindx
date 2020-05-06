@@ -33,8 +33,8 @@ final class Office431627 implements \RussianPostIndex\Record
     private $Region = 'Мордовия Республика';
     private $Autonom = '';
     private $Area = 'Ромодановский район';
-    private $City = 'Садвинтрест';
+    private $City = 'Совхоз "Садвинтрест"';
     private $City1 = '';
-    private $ActDate = '20180813';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

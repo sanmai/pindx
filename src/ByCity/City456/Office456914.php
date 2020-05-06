@@ -33,8 +33,8 @@ final class Office456914 implements \RussianPostIndex\Record
     private $Region = 'Челябинская область';
     private $Autonom = '';
     private $Area = 'Саткинский район';
-    private $City = 'Сатка';
+    private $City = 'Малый Бердяуш';
     private $City1 = '';
-    private $ActDate = '20180813';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

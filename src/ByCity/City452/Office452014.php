@@ -33,8 +33,8 @@ final class Office452014 implements \RussianPostIndex\Record
     private $Region = 'Башкортостан Республика';
     private $Autonom = '';
     private $Area = 'Белебеевский район';
-    private $City = 'Центральная Усадьба  Племзавода Имени Максима Горького';
+    private $City = 'Центральной Усадьбы Племзавода Имени Максима Горького';
     private $City1 = '';
-    private $ActDate = '20200329';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

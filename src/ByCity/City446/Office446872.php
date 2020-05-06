@@ -33,8 +33,8 @@ final class Office446872 implements \RussianPostIndex\Record
     private $Region = 'Самарская область';
     private $Autonom = '';
     private $Area = 'Елховский район';
-    private $City = 'Тёплый Стан';
+    private $City = 'Теплый Стан';
     private $City1 = '';
-    private $ActDate = '20180614';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

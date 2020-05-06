@@ -33,8 +33,8 @@ final class Office391761 implements \RussianPostIndex\Record
     private $Region = 'Рязанская область';
     private $Autonom = '';
     private $Area = 'Милославский район';
-    private $City = 'Совхоза Большевик';
+    private $City = 'Совхоза "Большевик"';
     private $City1 = '';
-    private $ActDate = '20060607';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

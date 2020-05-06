@@ -33,8 +33,8 @@ final class Office141667 implements \RussianPostIndex\Record
     private $Region = 'Московская область';
     private $Autonom = '';
     private $Area = 'Клинский район';
-    private $City = 'Спас-Заулок';
-    private $City1 = '';
-    private $ActDate = '20100721';
+    private $City = 'Клин';
+    private $City1 = 'Спас-Заулок';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

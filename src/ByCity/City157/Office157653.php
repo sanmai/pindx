@@ -33,8 +33,8 @@ final class Office157653 implements \RussianPostIndex\Record
     private $Region = 'Костромская область';
     private $Autonom = '';
     private $Area = 'Павинский район';
-    private $City = 'Березовка';
+    private $City = 'Берёзовка';
     private $City1 = '';
-    private $ActDate = '20190529';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

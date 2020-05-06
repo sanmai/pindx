@@ -33,8 +33,8 @@ final class Office215258 implements \RussianPostIndex\Record
     private $Region = 'Смоленская область';
     private $Autonom = '';
     private $Area = 'Сычевский район';
-    private $City = 'Октябрьская';
-    private $City1 = '';
-    private $ActDate = '20180813';
+    private $City = 'Мальцево';
+    private $City1 = 'Октябрьская';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

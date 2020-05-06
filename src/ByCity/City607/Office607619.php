@@ -33,8 +33,8 @@ final class Office607619 implements \RussianPostIndex\Record
     private $Region = 'Нижегородская область';
     private $Autonom = '';
     private $Area = 'Богородский район';
-    private $City = 'Ушаково';
+    private $City = 'Ушаково (Шварихинский С/С)';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

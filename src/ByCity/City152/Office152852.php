@@ -33,8 +33,8 @@ final class Office152852 implements \RussianPostIndex\Record
     private $Region = 'Ярославская область';
     private $Autonom = '';
     private $Area = 'Пошехонский район';
-    private $City = 'Федорково';
+    private $City = 'Федорково (Федорковский С/О)';
     private $City1 = '';
-    private $ActDate = '20180813';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

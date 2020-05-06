@@ -33,8 +33,8 @@ final class Office413211 implements \RussianPostIndex\Record
     private $Region = 'Саратовская область';
     private $Autonom = '';
     private $Area = 'Советский район';
-    private $City = 'Степное 1';
+    private $City = 'Степное';
     private $City1 = '';
-    private $ActDate = '20051227';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

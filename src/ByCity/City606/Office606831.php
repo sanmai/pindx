@@ -33,8 +33,8 @@ final class Office606831 implements \RussianPostIndex\Record
     private $Region = 'Нижегородская область';
     private $Autonom = '';
     private $Area = 'Уренский район';
-    private $City = 'Козляна';
+    private $City = 'Большая Козляна';
     private $City1 = '';
-    private $ActDate = '20170711';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

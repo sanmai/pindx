@@ -33,8 +33,8 @@ final class Office175332 implements \RussianPostIndex\Record
     private $Region = 'Новгородская область';
     private $Autonom = '';
     private $Area = 'Демянский район';
-    private $City = 'Черный Ручей';
+    private $City = 'Чёрный Ручей';
     private $City1 = '';
-    private $ActDate = '20110117';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

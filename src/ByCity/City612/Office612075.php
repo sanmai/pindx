@@ -33,8 +33,8 @@ final class Office612075 implements \RussianPostIndex\Record
     private $Region = 'Кировская область';
     private $Autonom = '';
     private $Area = 'Оричевский район';
-    private $City = 'Суводи';
+    private $City = 'Разбойный Бор';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

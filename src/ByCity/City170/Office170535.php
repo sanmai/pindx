@@ -33,8 +33,8 @@ final class Office170535 implements \RussianPostIndex\Record
     private $Region = 'Тверская область';
     private $Autonom = '';
     private $Area = 'Калининский район';
-    private $City = 'Турбаза  Лисицкий Бор';
+    private $City = 'Турбаза "Лисицкий Бор"';
     private $City1 = '';
-    private $ActDate = '20180813';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

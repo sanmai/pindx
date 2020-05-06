@@ -33,8 +33,8 @@ final class Office606167 implements \RussianPostIndex\Record
     private $Region = 'Нижегородская область';
     private $Autonom = '';
     private $Area = 'Вачский район';
-    private $City = 'Звягино';
+    private $City = 'Звягино (Казаковский С/С)';
     private $City1 = '';
-    private $ActDate = '20060914';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

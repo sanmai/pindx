@@ -33,8 +33,8 @@ final class Office606457 implements \RussianPostIndex\Record
     private $Region = 'Нижегородская область';
     private $Autonom = '';
     private $Area = 'Борский район';
-    private $City = 'Завражное';
-    private $City1 = '';
-    private $ActDate = '20180530';
+    private $City = 'Бор';
+    private $City1 = 'Завражное';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

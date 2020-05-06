@@ -33,8 +33,8 @@ final class Office242315 implements \RussianPostIndex\Record
     private $Region = 'Брянская область';
     private $Autonom = '';
     private $Area = 'Брасовский район';
-    private $City = 'Хотеево';
+    private $City = 'Хотеева';
     private $City1 = '';
-    private $ActDate = '20060206';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

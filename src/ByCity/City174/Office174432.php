@@ -33,8 +33,8 @@ final class Office174432 implements \RussianPostIndex\Record
     private $Region = 'Новгородская область';
     private $Autonom = '';
     private $Area = 'Боровичский район';
-    private $City = 'Сушилово Сушиловское С. П.';
+    private $City = 'Сушилово (Сушиловское С/П)';
     private $City1 = '';
-    private $ActDate = '20180813';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }

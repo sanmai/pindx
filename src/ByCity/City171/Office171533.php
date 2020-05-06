@@ -33,8 +33,8 @@ final class Office171533 implements \RussianPostIndex\Record
     private $Region = 'Тверская область';
     private $Autonom = '';
     private $Area = 'Кимрский район';
-    private $City = 'Федоровка';
-    private $City1 = '';
-    private $ActDate = '20001030';
+    private $City = 'Федоровское';
+    private $City1 = 'Федоровка';
+    private $ActDate = '20200423';
     private $IndexOld = '';
 }
