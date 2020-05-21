@@ -33,8 +33,8 @@ final class Office694929 implements \RussianPostIndex\Record
     private $Region = 'Сахалинская область';
     private $Autonom = '';
     private $Area = 'Углегорский район';
-    private $City = 'Поречье';
+    private $City = 'Углегорск';
     private $City1 = '';
-    private $ActDate = '20080206';
+    private $ActDate = '20200515';
     private $IndexOld = '';
 }

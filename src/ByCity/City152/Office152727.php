@@ -17,24 +17,24 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City624;
+namespace RussianPostIndex\ByCity\City152;
 
 /**
  * @internal
  */
-final class Office624217 implements \RussianPostIndex\Record
+final class Office152727 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 624217;
-    private $OPSName = 'Лесной Уд';
+    private $Index = 152727;
+    private $OPSName = 'Новый Некоуз Усопо';
     private $OPSType = 'Участок';
-    private $OPSSubm = 624219;
-    private $Region = 'Свердловская область';
+    private $OPSSubm = 152729;
+    private $Region = 'Ярославская область';
     private $Autonom = '';
-    private $Area = '';
-    private $City = 'Лесной';
+    private $Area = 'Некоузский район';
+    private $City = 'Новый Некоуз';
     private $City1 = '';
-    private $ActDate = '20160216';
+    private $ActDate = '20200519';
     private $IndexOld = '';
 }

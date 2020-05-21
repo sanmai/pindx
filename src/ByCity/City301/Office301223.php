@@ -33,8 +33,8 @@ final class Office301223 implements \RussianPostIndex\Record
     private $Region = 'Тульская область';
     private $Autonom = '';
     private $Area = 'Щекинский район';
-    private $City = 'Грецовка';
+    private $City = 'Грецовка (Лазаревское Мо)';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20200515';
     private $IndexOld = '';
 }

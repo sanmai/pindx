@@ -33,8 +33,8 @@ final class Office601957 implements \RussianPostIndex\Record
     private $Region = 'Владимирская область';
     private $Autonom = '';
     private $Area = 'Ковровский район';
-    private $City = 'Санаторий Им Абельмана';
+    private $City = 'Санатория Им Абельмана';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20200515';
     private $IndexOld = '';
 }

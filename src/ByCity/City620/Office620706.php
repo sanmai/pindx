@@ -17,24 +17,24 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City624;
+namespace RussianPostIndex\ByCity\City620;
 
 /**
  * @internal
  */
-final class Office624358 implements \RussianPostIndex\Record
+final class Office620706 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 624358;
-    private $OPSName = 'Качканар Уд';
+    private $Index = 620706;
+    private $OPSName = 'Екатеринбург Цэп';
     private $OPSType = 'Участок';
-    private $OPSSubm = 624219;
+    private $OPSSubm = 620700;
     private $Region = 'Свердловская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'Качканар';
+    private $City = 'Екатеринбург';
     private $City1 = '';
-    private $ActDate = '20170109';
+    private $ActDate = '20200519';
     private $IndexOld = '';
 }
