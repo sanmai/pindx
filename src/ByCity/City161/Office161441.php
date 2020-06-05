@@ -35,6 +35,6 @@ final class Office161441 implements \RussianPostIndex\Record
     private $Area = 'Никольский район';
     private $City = 'Никольск';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20200521';
     private $IndexOld = '';
 }

@@ -29,12 +29,12 @@ final class Office300992 implements \RussianPostIndex\Record
     private $Index = 300992;
     private $OPSName = 'Тула-ДТИ';
     private $OPSType = 'ДТИ';
-    private $OPSSubm = 300004;
+    private $OPSSubm = 300008;
     private $Region = 'Тульская область';
     private $Autonom = '';
     private $Area = '';
     private $City = 'Тула';
     private $City1 = '';
-    private $ActDate = '20150615';
+    private $ActDate = '20200605';
     private $IndexOld = '';
 }
