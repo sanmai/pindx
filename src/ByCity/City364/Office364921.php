@@ -17,24 +17,24 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City108;
+namespace RussianPostIndex\ByCity\City364;
 
 /**
  * @internal
  */
-final class Office108819 implements \RussianPostIndex\Record
+final class Office364921 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 108819;
-    private $OPSName = 'Институт Полиомиелита';
-    private $OPSType = 'О';
-    private $OPSSubm = 119950;
-    private $Region = 'Москва';
+    private $Index = 364921;
+    private $OPSName = 'Грозный-ДТИ';
+    private $OPSType = 'ДТИ';
+    private $OPSSubm = 364024;
+    private $Region = 'Чеченская Республика';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'Московский';
-    private $City1 = 'Института Полиомиелита';
-    private $ActDate = '20200610';
+    private $City = 'Грозный';
+    private $City1 = '';
+    private $ActDate = '20200608';
     private $IndexOld = '';
 }
