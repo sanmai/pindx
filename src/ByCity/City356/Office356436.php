@@ -17,24 +17,24 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City141;
+namespace RussianPostIndex\ByCity\City356;
 
 /**
  * @internal
  */
-final class Office141633 implements \RussianPostIndex\Record
+final class Office356436 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 141633;
-    private $OPSName = 'Захарово';
-    private $OPSType = 'О';
-    private $OPSSubm = 141400;
-    private $Region = 'Московская область';
+    private $Index = 356436;
+    private $OPSName = 'Благодарный Кладовая Хранения Нерозданных По';
+    private $OPSType = 'Участок';
+    private $OPSSubm = 356439;
+    private $Region = 'Ставропольский край';
     private $Autonom = '';
-    private $Area = 'Клинский район';
-    private $City = 'Клин';
-    private $City1 = 'Захарово';
-    private $ActDate = '20200619';
+    private $Area = 'Благодарненский район';
+    private $City = 'Благодарный';
+    private $City1 = '';
+    private $ActDate = '20200703';
     private $IndexOld = '';
 }

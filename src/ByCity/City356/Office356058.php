@@ -17,24 +17,24 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City629;
+namespace RussianPostIndex\ByCity\City356;
 
 /**
  * @internal
  */
-final class Office629994 implements \RussianPostIndex\Record
+final class Office356058 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 629994;
-    private $OPSName = 'Губкинский УКД';
-    private $OPSType = 'УКД';
-    private $OPSSubm = 629100;
-    private $Region = '';
-    private $Autonom = 'Ямало-Ненецкий автономный округ';
-    private $Area = '';
-    private $City = 'Губкинский';
+    private $Index = 356058;
+    private $OPSName = 'Красногвардейское Кладовая Хранения Нерозданных По';
+    private $OPSType = 'Участок';
+    private $OPSSubm = 356059;
+    private $Region = 'Ставропольский край';
+    private $Autonom = '';
+    private $Area = 'Красногвардейский район';
+    private $City = 'Красногвардейское';
     private $City1 = '';
-    private $ActDate = '20170906';
+    private $ActDate = '20200703';
     private $IndexOld = '';
 }

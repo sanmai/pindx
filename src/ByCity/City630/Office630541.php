@@ -35,6 +35,6 @@ final class Office630541 implements \RussianPostIndex\Record
     private $Area = 'Новосибирский район';
     private $City = 'Элитный';
     private $City1 = '';
-    private $ActDate = '20091005';
+    private $ActDate = '20200702';
     private $IndexOld = '';
 }
