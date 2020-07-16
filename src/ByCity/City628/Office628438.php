@@ -17,24 +17,24 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City307;
+namespace RussianPostIndex\ByCity\City628;
 
 /**
  * @internal
  */
-final class Office307162 implements \RussianPostIndex\Record
+final class Office628438 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 307162;
-    private $OPSName = 'Басово';
-    private $OPSType = 'О';
-    private $OPSSubm = 307189;
-    private $Region = 'Курская область';
-    private $Autonom = '';
-    private $Area = 'Железногорский район';
-    private $City = 'Басово-Заречье';
+    private $Index = 628438;
+    private $OPSName = 'Сургут-ДТИ';
+    private $OPSType = 'ДТИ';
+    private $OPSSubm = 628408;
+    private $Region = '';
+    private $Autonom = 'Ханты-Мансийский-Югра автономный округ';
+    private $Area = '';
+    private $City = 'Сургут';
     private $City1 = '';
-    private $ActDate = '20200709';
+    private $ActDate = '20200708';
     private $IndexOld = '';
 }
