@@ -17,24 +17,24 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City353;
+namespace RussianPostIndex\ByCity\City300;
 
 /**
  * @internal
  */
-final class Office353565 implements \RussianPostIndex\Record
+final class Office300921 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 353565;
-    private $OPSName = 'Славянск-На-Кубани 5';
-    private $OPSType = 'О';
-    private $OPSSubm = 353559;
-    private $Region = 'Краснодарский край';
+    private $Index = 300921;
+    private $OPSName = 'Тула-ДТИ';
+    private $OPSType = 'ДТИ';
+    private $OPSSubm = 300008;
+    private $Region = 'Тульская область';
     private $Autonom = '';
-    private $Area = 'Славянский район';
-    private $City = 'Совхозный';
+    private $Area = '';
+    private $City = 'Тула';
     private $City1 = '';
-    private $ActDate = '20200721';
+    private $ActDate = '20200723';
     private $IndexOld = '';
 }

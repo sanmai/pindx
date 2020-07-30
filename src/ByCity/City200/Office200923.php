@@ -17,24 +17,24 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City196;
+namespace RussianPostIndex\ByCity\City200;
 
 /**
  * @internal
  */
-final class Office196616 implements \RussianPostIndex\Record
+final class Office200923 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 196616;
-    private $OPSName = 'Пушкин Уооп';
+    private $Index = 200923;
+    private $OPSName = 'Пушкинский Уч. Россыпи-3 Зона-23';
     private $OPSType = 'Участок';
-    private $OPSSubm = 198999;
+    private $OPSSubm = 200980;
     private $Region = 'Санкт-Петербург';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'Пушкин';
+    private $City = '';
     private $City1 = '';
-    private $ActDate = '20101228';
+    private $ActDate = '20200720';
     private $IndexOld = '';
 }
