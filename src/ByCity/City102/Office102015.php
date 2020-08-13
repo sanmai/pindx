@@ -27,7 +27,7 @@ final class Office102015 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 102015;
-    private $OPSName = 'Москва-Казанский Вокзал ПЖДП Цех-9';
+    private $OPSName = 'Москва-Казанский Вокзал ПЖДП Цех-4 Обраб. Ппи';
     private $OPSType = 'Цех';
     private $OPSSubm = 102000;
     private $Region = 'Москва';
@@ -35,6 +35,6 @@ final class Office102015 implements \RussianPostIndex\Record
     private $Area = '';
     private $City = '';
     private $City1 = '';
-    private $ActDate = '20070418';
+    private $ActDate = '20200811';
     private $IndexOld = '';
 }

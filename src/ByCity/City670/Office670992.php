@@ -29,12 +29,12 @@ final class Office670992 implements \RussianPostIndex\Record
     private $Index = 670992;
     private $OPSName = 'Улан-Удэ-ДТИ';
     private $OPSType = 'ДТИ';
-    private $OPSSubm = 670008;
+    private $OPSSubm = 670000;
     private $Region = 'Бурятия Республика';
     private $Autonom = '';
     private $Area = '';
     private $City = 'Улан-Удэ';
     private $City1 = '';
-    private $ActDate = '20170707';
+    private $ActDate = '20200805';
     private $IndexOld = '';
 }

@@ -27,14 +27,14 @@ final class Office130980 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 130980;
-    private $OPSName = 'Москва EMS ММПО';
-    private $OPSType = 'ММПО';
-    private $OPSSubm = 104040;
+    private $OPSName = 'Москва EMS';
+    private $OPSType = 'Цех';
+    private $OPSSubm = 104980;
     private $Region = 'Московская область';
     private $Autonom = '';
     private $Area = '';
     private $City = 'Химки';
     private $City1 = 'Шереметьево - 2';
-    private $ActDate = '20180821';
+    private $ActDate = '20200811';
     private $IndexOld = '';
 }

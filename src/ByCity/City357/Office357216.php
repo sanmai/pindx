@@ -17,24 +17,24 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City671;
+namespace RussianPostIndex\ByCity\City357;
 
 /**
  * @internal
  */
-final class Office671942 implements \RussianPostIndex\Record
+final class Office357216 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 671942;
-    private $OPSName = 'Хамней';
-    private $OPSType = 'О';
-    private $OPSSubm = 671959;
-    private $Region = 'Бурятия Республика';
+    private $Index = 357216;
+    private $OPSName = 'Минеральные Воды Кладовая Хранения Нерозданных По';
+    private $OPSType = 'Участок';
+    private $OPSSubm = 357200;
+    private $Region = 'Ставропольский край';
     private $Autonom = '';
-    private $Area = 'Закаменский район';
-    private $City = 'Хуртага';
+    private $Area = 'Минераловодский район';
+    private $City = 'Минеральные Воды';
     private $City1 = '';
-    private $ActDate = '20200812';
+    private $ActDate = '20200803';
     private $IndexOld = '';
 }

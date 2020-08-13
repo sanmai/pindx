@@ -33,8 +33,8 @@ final class Office249224 implements \RussianPostIndex\Record
     private $Region = 'Калужская область';
     private $Autonom = '';
     private $Area = 'Бабынинский район';
-    private $City = 'Воронино';
+    private $City = 'Лопухино';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20200810';
     private $IndexOld = '';
 }
