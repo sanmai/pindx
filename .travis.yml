@@ -9,11 +9,6 @@ php:
   - 7.3
   - 7.4
 
-matrix:
-  fast_finish: true
-  allow_failures:
-    - php: 7.4snapshot
-
 stages:
   - check
   - analyze
@@ -21,6 +16,9 @@ stages:
   - release
 
 jobs:
+  fast_finish: true
+  allow_failures:
+    - php: 7.4snapshot
   include:
     - stage: check
       language: bash
