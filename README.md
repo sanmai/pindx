@@ -1,5 +1,5 @@
 [![Latest Stable Version](https://poser.pugx.org/sanmai/pindx/v/stable)](https://packagist.org/packages/sanmai/pindx)
-[![Build Status](https://travis-ci.org/sanmai/pindx.svg?branch=master)](https://travis-ci.org/sanmai/pindx)
+[![Build Status](https://travis-ci.com/sanmai/pindx.svg?branch=master)](https://travis-ci.com/sanmai/pindx)
 [![JSON API](https://img.shields.io/badge/json%20api-live-green.svg)](https://www.postindexapi.ru/)
 
 # Справочник почтовых индексов 
