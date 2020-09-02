@@ -17,24 +17,24 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City685;
+namespace RussianPostIndex\ByCity\City620;
 
 /**
  * @internal
  */
-final class Office685099 implements \RussianPostIndex\Record
+final class Office620947 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 685099;
-    private $OPSName = 'Магадан Уосп';
-    private $OPSType = 'Участок';
-    private $OPSSubm = 685700;
-    private $Region = 'Магаданская область';
+    private $Index = 620947;
+    private $OPSName = 'Екатеринбург-ДТИ';
+    private $OPSType = 'ДТИ';
+    private $OPSSubm = 620077;
+    private $Region = 'Свердловская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'Магадан';
+    private $City = 'Екатеринбург';
     private $City1 = '';
-    private $ActDate = '20110301';
+    private $ActDate = '20200831';
     private $IndexOld = '';
 }
