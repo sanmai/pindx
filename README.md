@@ -102,6 +102,14 @@ if ($office = \RussianPostIndex\PrefixDirectory::getOffice($postalCode)) {
 ```
 ## Получение данных отделения используя JSON API
 
+Если нужен только клиент, без встроенной БД, установить его можно так:
+
+```
+composer require sanmai/pindx-client
+```
+
+Способ вызова:
+
 ```php
 $client = new \RussianPostIndex\Client();
 $office = $client->getOffice(101000);
