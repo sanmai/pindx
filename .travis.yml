@@ -64,7 +64,7 @@ addons:
 
 install:
   - phpenv config-rm xdebug.ini || true
-  - composer remove --no-update --dev friendsofphp/php-cs-fixer
+  - composer remove --no-update --dev friendsofphp/php-cs-fixer ergebnis/composer-normalize
   - composer install --prefer-dist
 
 script:
