@@ -17,24 +17,24 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City443;
+namespace RussianPostIndex\ByCity\City398;
 
 /**
  * @internal
  */
-final class Office443921 implements \RussianPostIndex\Record
+final class Office398921 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 443921;
-    private $OPSName = 'Самара-ДТИ';
+    private $Index = 398921;
+    private $OPSName = 'Липецк-ДТИ';
     private $OPSType = 'ДТИ';
-    private $OPSSubm = 443126;
-    private $Region = 'Самарская область';
+    private $OPSSubm = 398000;
+    private $Region = 'Липецкая область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'Самара';
+    private $City = 'Липецк';
     private $City1 = '';
-    private $ActDate = '20200910';
+    private $ActDate = '20200903';
     private $IndexOld = '';
 }
