@@ -32,9 +32,9 @@ final class Office363506 implements \RussianPostIndex\Record
     private $OPSSubm = 363330;
     private $Region = 'Северная Осетия - Алания Республика';
     private $Autonom = '';
-    private $Area = 'Алагирский район';
-    private $City = 'Алагир';
-    private $City1 = 'Таминск';
-    private $ActDate = '20200806';
+    private $Area = 'Ирафский район';
+    private $City = 'Толдзгун';
+    private $City1 = '';
+    private $ActDate = '20200930';
     private $IndexOld = '';
 }

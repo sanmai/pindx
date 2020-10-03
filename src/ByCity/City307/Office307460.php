@@ -33,8 +33,8 @@ final class Office307460 implements \RussianPostIndex\Record
     private $Region = 'Курская область';
     private $Autonom = '';
     private $Area = 'Глушковский район';
-    private $City = 'Ст Глушково';
+    private $City = 'Глушково';
     private $City1 = '';
-    private $ActDate = '20200423';
+    private $ActDate = '20201001';
     private $IndexOld = '';
 }

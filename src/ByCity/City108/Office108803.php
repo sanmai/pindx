@@ -35,6 +35,6 @@ final class Office108803 implements \RussianPostIndex\Record
     private $Area = '';
     private $City = 'Воскресенское';
     private $City1 = 'Подсобного Хозяйства Воскресенское';
-    private $ActDate = '20190329';
+    private $ActDate = '20201001';
     private $IndexOld = '';
 }

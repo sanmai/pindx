@@ -33,8 +33,8 @@ final class Office413858 implements \RussianPostIndex\Record
     private $Region = 'Саратовская область';
     private $Autonom = '';
     private $Area = 'Балаковский район';
-    private $City = 'Никольское-Казаково';
+    private $City = 'Балаково';
     private $City1 = '';
-    private $ActDate = '20200423';
+    private $ActDate = '20201001';
     private $IndexOld = '';
 }

@@ -33,8 +33,8 @@ final class Office673230 implements \RussianPostIndex\Record
     private $Region = 'Забайкальский край';
     private $Autonom = '';
     private $Area = 'Хилокский район';
-    private $City = 'Харагун';
+    private $City = 'Центральный Харагун';
     private $City1 = '';
-    private $ActDate = '20060208';
+    private $ActDate = '20201001';
     private $IndexOld = '';
 }
