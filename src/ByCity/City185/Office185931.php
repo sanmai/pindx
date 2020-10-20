@@ -29,12 +29,12 @@ final class Office185931 implements \RussianPostIndex\Record
     private $Index = 185931;
     private $OPSName = 'Петрозаводск-ДТИ';
     private $OPSType = 'ДТИ';
-    private $OPSSubm = 185035;
+    private $OPSSubm = 185019;
     private $Region = 'Карелия Республика';
     private $Autonom = '';
     private $Area = '';
     private $City = 'Петрозаводск';
     private $City1 = '';
-    private $ActDate = '20150112';
+    private $ActDate = '20201014';
     private $IndexOld = '';
 }

@@ -27,7 +27,7 @@ final class Office670923 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 670923;
-    private $OPSName = 'Улан-Удэ Увпп-3';
+    private $OPSName = 'Улан-Удэ Удпп-3';
     private $OPSType = 'Участок';
     private $OPSSubm = 670999;
     private $Region = 'Бурятия Республика';
@@ -35,6 +35,6 @@ final class Office670923 implements \RussianPostIndex\Record
     private $Area = '';
     private $City = 'Улан-Удэ';
     private $City1 = '';
-    private $ActDate = '20200124';
+    private $ActDate = '20201015';
     private $IndexOld = '';
 }

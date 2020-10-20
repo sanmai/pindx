@@ -33,8 +33,8 @@ final class Office442415 implements \RussianPostIndex\Record
     private $Region = 'Пензенская область';
     private $Autonom = '';
     private $Area = 'Кондольский район';
-    private $City = 'Кондоль';
+    private $City = 'Саловка';
     private $City1 = '';
-    private $ActDate = '20180813';
+    private $ActDate = '20201005';
     private $IndexOld = '';
 }
