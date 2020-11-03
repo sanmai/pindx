@@ -29,12 +29,12 @@ final class Office690957 implements \RussianPostIndex\Record
     private $Index = 690957;
     private $OPSName = 'Владивосток АОПП ММПО Pi-EMS';
     private $OPSType = 'Цех';
-    private $OPSSubm = 690980;
+    private $OPSSubm = 690950;
     private $Region = 'Приморский край';
     private $Autonom = '';
     private $Area = '';
     private $City = 'Владивосток';
     private $City1 = '';
-    private $ActDate = '20141023';
+    private $ActDate = '20201029';
     private $IndexOld = '';
 }

@@ -27,14 +27,14 @@ final class Office618701 implements \RussianPostIndex\Record
     use \RussianPostIndex\Util\RecordTrait;
 
     private $Index = 618701;
-    private $OPSName = 'Пивань 1';
+    private $OPSName = 'Камский';
     private $OPSType = 'О';
-    private $OPSSubm = 681099;
-    private $Region = 'Хабаровский край';
+    private $OPSSubm = 618749;
+    private $Region = 'Пермский край';
     private $Autonom = '';
-    private $Area = 'Комсомольский район';
-    private $City = 'Пивань';
-    private $City1 = '';
-    private $ActDate = '20201001';
+    private $Area = 'Добрянский район';
+    private $City = 'Добрянка';
+    private $City1 = 'Камский';
+    private $ActDate = '20201006';
     private $IndexOld = '';
 }
