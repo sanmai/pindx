@@ -4,8 +4,8 @@
     "description": "Эталонный справочник почтовых индексов объектов почтовой связи",
     "license": "Apache-2.0",
     "require": {
-        "php": "^7",
-        "guzzlehttp/guzzle": "^6.3",
+        "php": "^7 || ^8",
+        "guzzlehttp/guzzle": "^6.3 || ^7",
         "jms/serializer": "^1.14 || ^2.3 || ^3.0",
         "sanmai/pindx-client": "^0.1"
     },
