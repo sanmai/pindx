@@ -44,7 +44,7 @@ jobs:
       install: skip
       script:
         - ./find-next-version 2>&1
-        - git log $(git describe --tags --abbrev=0)..HEAD --oneline src
+        - git log $(git describe --tags --abbrev=0)..HEAD --oneline src | grep -q .
         - git log $(git describe --tags --abbrev=0)..HEAD --oneline src | grep -q . && git tag -a "$(./find-next-version)" -m "Automatic release for build $TRAVIS_BUILD_NUMBER"
       deploy:
         provider: script
@@ -55,6 +55,7 @@ jobs:
 
 cache:
   directories:
+    - $HOME/.cache
     - $HOME/.composer
     - build/cache
 
