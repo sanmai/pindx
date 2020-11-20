@@ -33,8 +33,8 @@ final class Office309042 implements \RussianPostIndex\Record
     private $Region = 'Белгородская область';
     private $Autonom = '';
     private $Area = 'Прохоровский район';
-    private $City = 'Береговое-Первое';
+    private $City = 'Береговое-Второе';
     private $City1 = '';
-    private $ActDate = '20200423';
+    private $ActDate = '20201103';
     private $IndexOld = '';
 }

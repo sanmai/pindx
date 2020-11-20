@@ -33,8 +33,8 @@ final class Office143321 implements \RussianPostIndex\Record
     private $Region = 'Московская область';
     private $Autonom = '';
     private $Area = 'Наро-Фоминский район';
-    private $City = 'Наро-Фоминск';
-    private $City1 = 'Головково';
-    private $ActDate = '20200423';
+    private $City = 'Головково';
+    private $City1 = '';
+    private $ActDate = '20201106';
     private $IndexOld = '';
 }

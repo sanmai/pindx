@@ -33,8 +33,8 @@ final class Office442880 implements \RussianPostIndex\Record
     private $Region = 'Пензенская область';
     private $Autonom = '';
     private $Area = 'Сердобский район';
-    private $City = 'Надеждинский';
+    private $City = 'Центральная Усадьба Свх. "Надеждинский"';
     private $City1 = '';
-    private $ActDate = '20180813';
+    private $ActDate = '20201109';
     private $IndexOld = '';
 }

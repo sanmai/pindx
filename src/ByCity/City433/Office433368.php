@@ -33,8 +33,8 @@ final class Office433368 implements \RussianPostIndex\Record
     private $Region = 'Ульяновская область';
     private $Autonom = '';
     private $Area = 'Тереньгульский район';
-    private $City = 'Тумкино';
+    private $City = 'Тереньга';
     private $City1 = '';
-    private $ActDate = '20050829';
+    private $ActDate = '20201111';
     private $IndexOld = '';
 }

@@ -33,8 +33,8 @@ final class Office442505 implements \RussianPostIndex\Record
     private $Region = 'Пензенская область';
     private $Autonom = '';
     private $Area = 'Кузнецкий район';
-    private $City = 'Тихменево';
+    private $City = 'Монастырское';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20201109';
     private $IndexOld = '';
 }

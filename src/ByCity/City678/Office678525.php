@@ -33,8 +33,8 @@ final class Office678525 implements \RussianPostIndex\Record
     private $Region = 'Саха (Якутия) Республика';
     private $Autonom = '';
     private $Area = 'Верхоянский район';
-    private $City = 'Дулгалах';
+    private $City = 'Томтор';
     private $City1 = '';
-    private $ActDate = '20180628';
+    private $ActDate = '20201103';
     private $IndexOld = '';
 }

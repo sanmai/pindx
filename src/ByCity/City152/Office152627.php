@@ -33,8 +33,8 @@ final class Office152627 implements \RussianPostIndex\Record
     private $Region = 'Ярославская область';
     private $Autonom = '';
     private $Area = 'Угличский район';
-    private $City = 'Дивная Гора';
+    private $City = 'Варгуново';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20201109';
     private $IndexOld = '';
 }

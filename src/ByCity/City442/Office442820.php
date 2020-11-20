@@ -33,8 +33,8 @@ final class Office442820 implements \RussianPostIndex\Record
     private $Region = 'Пензенская область';
     private $Autonom = '';
     private $Area = 'Колышлейский район';
-    private $City = 'Скрябино';
+    private $City = 'Лесной';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20201109';
     private $IndexOld = '';
 }

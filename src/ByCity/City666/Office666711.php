@@ -33,8 +33,8 @@ final class Office666711 implements \RussianPostIndex\Record
     private $Region = 'Иркутская область';
     private $Autonom = '';
     private $Area = 'Киренский район';
-    private $City = 'Бубновка';
+    private $City = 'Киренск';
     private $City1 = '';
-    private $ActDate = '20001030';
+    private $ActDate = '20201117';
     private $IndexOld = '';
 }
