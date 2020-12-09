@@ -33,8 +33,8 @@ final class Office363126 implements \RussianPostIndex\Record
     private $Region = 'Северная Осетия - Алания Республика';
     private $Autonom = '';
     private $Area = 'Пригородный район';
-    private $City = 'Нижний Кани';
+    private $City = 'Верхний Кани';
     private $City1 = '';
-    private $ActDate = '20200423';
+    private $ActDate = '20201120';
     private $IndexOld = '';
 }

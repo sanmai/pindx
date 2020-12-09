@@ -464,7 +464,7 @@ final class PrefixDirectory
         ],
         363 => [
                1,
-               766,
+               767,
         ],
         364 => [
                0,
@@ -628,7 +628,7 @@ final class PrefixDirectory
         ],
         443 => [
                0,
-               970,
+               997,
         ],
         445 => [
                0,
@@ -644,7 +644,7 @@ final class PrefixDirectory
         ],
         452 => [
                0,
-               996,
+               999,
         ],
         453 => [
                0,
