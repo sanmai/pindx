@@ -17,24 +17,24 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City445;
+namespace RussianPostIndex\ByCity\City620;
 
 /**
  * @internal
  */
-final class Office445016 implements \RussianPostIndex\Record
+final class Office620872 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 445016;
-    private $OPSName = 'Тольятти 16 ППС';
-    private $OPSType = 'ППС';
-    private $OPSSubm = 445000;
-    private $Region = 'Самарская область';
+    private $Index = 620872;
+    private $OPSName = 'Екатеринбург УКД-2';
+    private $OPSType = 'УКД';
+    private $OPSSubm = 620700;
+    private $Region = 'Свердловская область';
     private $Autonom = '';
     private $Area = '';
-    private $City = 'Тольятти';
+    private $City = 'Екатеринбург';
     private $City1 = '';
-    private $ActDate = '20170623';
+    private $ActDate = '20201210';
     private $IndexOld = '';
 }
