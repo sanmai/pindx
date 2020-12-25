@@ -17,24 +17,24 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City678;
+namespace RussianPostIndex\ByCity\City143;
 
 /**
  * @internal
  */
-final class Office678222 implements \RussianPostIndex\Record
+final class Office143908 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 678222;
-    private $OPSName = 'Усун';
+    private $Index = 143908;
+    private $OPSName = 'Балашиха';
     private $OPSType = 'О';
-    private $OPSSubm = 678219;
-    private $Region = 'Саха (Якутия) Республика';
+    private $OPSSubm = 143919;
+    private $Region = 'Московская область';
     private $Autonom = '';
-    private $Area = 'Вилюйский район';
-    private $City = 'Усун';
+    private $Area = '';
+    private $City = 'Балашиха';
     private $City1 = '';
-    private $ActDate = '20201217';
+    private $ActDate = '20201224';
     private $IndexOld = '';
 }

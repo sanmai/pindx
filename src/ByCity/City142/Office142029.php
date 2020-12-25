@@ -17,24 +17,24 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City678;
+namespace RussianPostIndex\ByCity\City142;
 
 /**
  * @internal
  */
-final class Office678222 implements \RussianPostIndex\Record
+final class Office142029 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 678222;
-    private $OPSName = 'Усун';
+    private $Index = 142029;
+    private $OPSName = 'Домодедово';
     private $OPSType = 'О';
-    private $OPSSubm = 678219;
-    private $Region = 'Саха (Якутия) Республика';
+    private $OPSSubm = 142079;
+    private $Region = 'Московская область';
     private $Autonom = '';
-    private $Area = 'Вилюйский район';
-    private $City = 'Усун';
-    private $City1 = '';
-    private $ActDate = '20201217';
+    private $Area = '';
+    private $City = 'Домодедово';
+    private $City1 = 'Домодедово';
+    private $ActDate = '20201224';
     private $IndexOld = '';
 }
