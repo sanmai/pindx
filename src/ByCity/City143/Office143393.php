@@ -34,7 +34,7 @@ final class Office143393 implements \RussianPostIndex\Record
     private $Autonom = '';
     private $Area = 'Наро-Фоминский район';
     private $City = 'Наро-Фоминск';
-    private $City1 = 'Симбухово';
-    private $ActDate = '20200423';
+    private $City1 = 'Верея';
+    private $ActDate = '20210128';
     private $IndexOld = '';
 }

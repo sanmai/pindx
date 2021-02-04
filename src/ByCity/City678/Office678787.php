@@ -33,8 +33,8 @@ final class Office678787 implements \RussianPostIndex\Record
     private $Region = 'Саха (Якутия) Республика';
     private $Autonom = '';
     private $Area = 'Среднеколымский район';
-    private $City = 'Сылгы-Ыытар';
-    private $City1 = '';
-    private $ActDate = '20180702';
+    private $City = 'Среднеколымский';
+    private $City1 = 'Сылгы-Ытар';
+    private $ActDate = '20210203';
     private $IndexOld = '';
 }
