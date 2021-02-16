@@ -17,24 +17,24 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City141;
+namespace RussianPostIndex\ByCity\City679;
 
 /**
  * @internal
  */
-final class Office141180 implements \RussianPostIndex\Record
+final class Office679706 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 141180;
-    private $OPSName = 'Загорянский';
-    private $OPSType = 'О';
-    private $OPSSubm = 141000;
-    private $Region = 'Московская область';
-    private $Autonom = '';
-    private $Area = 'Щелковский район';
-    private $City = 'Щёлково';
-    private $City1 = 'Загорянский';
-    private $ActDate = '20210210';
+    private $Index = 679706;
+    private $OPSName = 'Биробиджан Кладовая Хранения Нерозданных По';
+    private $OPSType = 'Участок';
+    private $OPSSubm = 679700;
+    private $Region = '';
+    private $Autonom = 'Еврейская автономная область';
+    private $Area = '';
+    private $City = 'Биробиджан';
+    private $City1 = '';
+    private $ActDate = '20210215';
     private $IndexOld = '';
 }

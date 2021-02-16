@@ -33,8 +33,8 @@ final class Office632553 implements \RussianPostIndex\Record
     private $Region = 'Новосибирская область';
     private $Autonom = '';
     private $Area = 'Чулымский район';
-    private $City = 'Чулым';
+    private $City = 'Чулым-3';
     private $City1 = '';
-    private $ActDate = '20200423';
+    private $ActDate = '20210215';
     private $IndexOld = '';
 }

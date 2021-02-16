@@ -22,19 +22,19 @@ namespace RussianPostIndex\ByCity\City141;
 /**
  * @internal
  */
-final class Office141180 implements \RussianPostIndex\Record
+final class Office141736 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 141180;
-    private $OPSName = 'Загорянский';
+    private $Index = 141736;
+    private $OPSName = 'Лобня';
     private $OPSType = 'О';
-    private $OPSSubm = 141000;
+    private $OPSSubm = 141899;
     private $Region = 'Московская область';
     private $Autonom = '';
-    private $Area = 'Щелковский район';
-    private $City = 'Щёлково';
-    private $City1 = 'Загорянский';
-    private $ActDate = '20210210';
+    private $Area = '';
+    private $City = 'Лобня';
+    private $City1 = '';
+    private $ActDate = '20210211';
     private $IndexOld = '';
 }

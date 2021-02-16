@@ -17,24 +17,24 @@
 
 declare(strict_types=1);
 
-namespace RussianPostIndex\ByCity\City141;
+namespace RussianPostIndex\ByCity\City500;
 
 /**
  * @internal
  */
-final class Office141180 implements \RussianPostIndex\Record
+final class Office500380 implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 
-    private $Index = 141180;
-    private $OPSName = 'Загорянский';
-    private $OPSType = 'О';
-    private $OPSSubm = 141000;
-    private $Region = 'Московская область';
+    private $Index = 500380;
+    private $OPSName = 'London';
+    private $OPSType = 'ММПО';
+    private $OPSSubm = 131000;
+    private $Region = 'Москва';
     private $Autonom = '';
-    private $Area = 'Щелковский район';
-    private $City = 'Щёлково';
-    private $City1 = 'Загорянский';
-    private $ActDate = '20210210';
+    private $Area = '';
+    private $City = '';
+    private $City1 = '';
+    private $ActDate = '20210212';
     private $IndexOld = '';
 }
