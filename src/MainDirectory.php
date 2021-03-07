@@ -20,12 +20,16 @@ declare(strict_types=1);
 namespace RussianPostIndex;
 
 /**
- * Основной справочник индексов.
+ * @deprecated используйте клиент API из sanmai/pindx-client
+ *
+ * Основной справочник индексов
  */
 final class MainDirectory
 {
     /**
-     * Список всех известных индексов.
+     * @deprecated используйте клиент API из sanmai/pindx-client
+     *
+     * Список всех известных индексов
      *
      * @var array
      */
@@ -52520,7 +52524,9 @@ final class MainDirectory
     ];
 
     /**
-     * Проверяет существование почтового индекса.
+     * @deprecated используйте клиент API из sanmai/pindx-client
+     *
+     * Проверяет существование почтового индекса
      *
      * @param string|int $postalCode
      */

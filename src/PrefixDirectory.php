@@ -20,12 +20,16 @@ declare(strict_types=1);
 namespace RussianPostIndex;
 
 /**
- * Частичный справочник индексов.
+ * @deprecated используйте клиент API из sanmai/pindx-client
+ *
+ * Частичный справочник индексов
  */
 final class PrefixDirectory
 {
     /**
-     * Список всех кодов городов, и соответствующие им минимальные и максимальные номера отделений.
+     * @deprecated используйте клиент API из sanmai/pindx-client
+     *
+     * Список всех кодов городов, и соответствующие им минимальные и максимальные номера отделений
      *
      * @var array
      */
@@ -1049,7 +1053,9 @@ final class PrefixDirectory
 ];
 
     /**
-     * Проверяет существование почтового индекса.
+     * @deprecated используйте клиент API из sanmai/pindx-client
+     *
+     * Проверяет существование почтового индекса
      *
      * @param string|int $postalCode
      */
@@ -1076,6 +1082,8 @@ final class PrefixDirectory
     }
 
     /**
+     * @deprecated Используйте клиент API из sanmai/pindx-client
+     *
      * @param string|int $postalCode
      *
      * @return \RussianPostIndex\Record|null
