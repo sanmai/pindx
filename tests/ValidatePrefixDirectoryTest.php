@@ -46,6 +46,10 @@ class ValidatePrefixDirectoryTest extends TestCase
      */
     public function testPostalCodeExists($postalCode)
     {
-        $this->assertNotNull(\RussianPostIndex\PrefixDirectory::getOffice($postalCode));
+        $this->assertFileExists(sprintf(
+            'docs/json/%s/%s.json',
+            substr((string) $postalCode, 0, 3),
+            (string) $postalCode
+        ));
     }
 }
