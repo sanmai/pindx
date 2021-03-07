@@ -1,17 +1,15 @@
 # yamllint disable rule:line-length
 # yamllint disable rule:braces
 
-name: Continuous Integration
+name: Database Update
 
 on:
-  pull_request:
-  push:
-    branches:
-      - master
-      - main
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    - cron: '17 7 * * *'
 
 jobs:
-  tests:
+  update:
     runs-on: ${{ matrix.operating-system }}
 
     strategy:
@@ -21,7 +19,7 @@ jobs:
         php-version:
           - 8.0
 
-    name: PHP ${{ matrix.php-version }} CI on ${{ matrix.operating-system }}
+    name: DB Update using PHP ${{ matrix.php-version }} on ${{ matrix.operating-system }}
 
     steps:
       - name: Checkout code
@@ -52,6 +50,11 @@ jobs:
       - name: Install dependencies
         run: |
           composer update --optimize-autoloader --no-interaction --no-progress ${{ matrix.composer-flags }}
+
+      - name: Update database
+        run: |
+          make cron-clean
+          make cron
 
       - name: Run tests
         run: |
