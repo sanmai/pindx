@@ -24,7 +24,7 @@ if (!is_dir('docs/md')) {
 
 $reader = new \PIndxTools\Reader();
 $pipeline = \Pipeline\take($reader->read());
-$pipeline->map(function (\PIndxTools\Record $record) {
+$pipeline->map(function (PIndxTools\Record $record) {
     $cityCode = substr((string) $record->Index, 0, 3);
 
     if (!is_dir("docs/json/$cityCode/")) {

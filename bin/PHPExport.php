@@ -20,7 +20,7 @@ require 'vendor/autoload.php';
 
 $reader = new \PIndxTools\Reader();
 $pipeline = \Pipeline\take($reader->read());
-$pipeline->map(function (\PIndxTools\Record $record) {
+$pipeline->map(function (PIndxTools\Record $record) {
     $cityCode = substr((string) $record->Index, 0, 3);
 
     $record->namespace = "RussianPostIndex\\ByCity\\City$cityCode";

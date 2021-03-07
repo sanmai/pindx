@@ -4,10 +4,10 @@ PHP=$$(command -v php)
 PINDXZIP=https://vinfo.russianpost.ru/database/PIndx.zip
 
 .PHONY=all
-all: src/MainDirectory.php src/PrefixDirectory.php docs/json docs/json/index.json src/ByCity
+all: docs/json docs/json/index.json
 	mkdir -p build/cache
 	$(PHP) vendor/bin/php-cs-fixer fix
-	git add src/ docs/json/
+	git add docs/json/
 
 .PHONY=check
 check:
@@ -31,23 +31,12 @@ PIndx.tsv: PIndx.dbf
 	dbview -t -b -d$$'\t' PIndx.dbf | iconv -f CP866 > PIndx.tsv
 	grep -q ^0 PIndx.tsv && echo "Found a postal code beginning with a zero" || true
 
-src/MainDirectory.php: PIndx.tsv vendor/autoload.php
-	$(PHP) bin/MainDirectory.php
-
-src/PrefixDirectory.php: PIndx.tsv vendor/autoload.php
-	$(PHP) bin/PrefixDirectory.php
-
-docs/json: PIndx.tsv
+docs/json: PIndx.tsv vendor/autoload.php
 	$(PHP) bin/JSONIndex.php
 	touch --no-create docs/json/
 
-docs/json/index.json: PIndx.tsv
+docs/json/index.json: PIndx.tsv vendor/autoload.php
 	$(PHP) bin/JSONListIndex.php
-
-src/ByCity: PIndx.tsv vendor/autoload.php
-	$(PHP) bin/PHPExport.php
-	find src/ByCity -type f -print0 | xargs -r -0 -P$$(nproc) -n64 $(PHP) vendor/bin/php-cs-fixer fix --using-cache=no --quiet --config .php_cs.dist
-	touch --no-create src/ByCity/
 
 docs/md: PIndx.tsv vendor/autoload.php
 	$(PHP) bin/MarkdownIndex.php
@@ -60,7 +49,7 @@ cs:
 .PHONY=clean
 clean:
 	rm -fv PIndx.tsv PIndx.txt PIndx.dbf PIndx.zip
-	git rm -fr src/ByCity/ docs/json/
+	git rm -fr docs/json/
 
 .PHONY=cron-clean
 cron-clean: clean

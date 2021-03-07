@@ -24,7 +24,7 @@ if (!is_dir('docs/json')) {
 
 $reader = new \PIndxTools\Reader();
 $pipeline = \Pipeline\take($reader->read());
-$pipeline->map(function (\PIndxTools\Record $record) {
+$pipeline->map(function (PIndxTools\Record $record) {
     yield $record->Index;
 });
 

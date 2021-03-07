@@ -20,7 +20,7 @@ require 'vendor/autoload.php';
 
 $reader = new \PIndxTools\Reader();
 $pipeline = \Pipeline\take($reader->read());
-$pipeline->map(function (\PIndxTools\Record $record) {
+$pipeline->map(function (PIndxTools\Record $record) {
     return $record->Index;
 });
 $pipeline->map('strval');

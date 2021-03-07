@@ -4,3 +4,5 @@ composer.lock
 /PIndx.*
 
 docs/_data/last-update-date
+
+/src/	

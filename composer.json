@@ -3,16 +3,14 @@
     "type": "library",
     "description": "Эталонный справочник почтовых индексов объектов почтовой связи",
     "license": "Apache-2.0",
-    "require": {
-        "php": "^7 || ^8",
-        "guzzlehttp/guzzle": "^6.3 || ^7",
-        "jms/serializer": "^1.14 || ^2.3 || ^3.0",
-        "sanmai/pindx-client": "^0.1"
-    },
     "require-dev": {
+        "php": "^7 || ^8",
         "ergebnis/composer-normalize": "^2.8",
         "friendsofphp/php-cs-fixer": "^2.13",
+        "guzzlehttp/guzzle": "^6.3 || ^7",
+        "jms/serializer": "^1.14 || ^2.3 || ^3.0",
         "phpunit/phpunit": ">=6",
+        "sanmai/pindx-client": "^0.1",
         "sanmai/pipeline": "^0.3.3 || ^2.0 || ^3.0 || ^5.0",
         "symfony/finder": "^3.4 || ^4.1 || ^5",
         "symfony/yaml": "^3.4 || ^4.3 || ^5"
@@ -22,12 +20,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "v0.2.x-dev"
-        }
-    },
-    "autoload": {
-        "psr-4": {
-            "RussianPostIndex\\": "src/"
+            "dev-master": "v0.3.x-dev"
         }
     },
     "autoload-dev": {
