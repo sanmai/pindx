@@ -25,6 +25,9 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
+      - name: Install necessary tools
+        run: sudo apt-get install dbview
+
       - name: Setup PHP
         uses: shivammathur/setup-php@v2
         with:
