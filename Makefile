@@ -49,7 +49,7 @@ cs:
 .PHONY=clean
 clean:
 	rm -fv PIndx.tsv PIndx.txt PIndx.dbf PIndx.zip
-	git rm -r docs/json/
+	git rm -qr docs/json/
 
 .PHONY=cron-clean
 cron-clean: clean
