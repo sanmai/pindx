@@ -4,6 +4,7 @@
 name: Database Update
 
 on:
+  workflow_dispatch:
   schedule:
     # * is a special character in YAML so you have to quote this string
     - cron: '17 7 * * *'
