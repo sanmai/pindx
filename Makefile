@@ -1,5 +1,5 @@
 export PHP_CS_FIXER_IGNORE_ENV=1
-SHELL=/bin/bash -o pipefail
+SHELL=/bin/bash
 PHP=$$(command -v php)
 PINDXZIP=https://vinfo.russianpost.ru/database/PIndx.zip
 
@@ -74,6 +74,7 @@ composer.lock: composer.json
 .PHONY=cron
 cron: all test-all
 	# Downloading ...
+	elinks -version | head -n 1
 	curl -s https://vinfo.russianpost.ru/database/ops.html | \
 		elinks -no-home 1 -dump -localhost -dump-charset utf-8 -force-html -no-references -no-numbering | \
 		grep -A1 Сформирован | \
