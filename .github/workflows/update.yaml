@@ -55,17 +55,18 @@ jobs:
         run: |
           composer update --optimize-autoloader --no-interaction --no-progress ${{ matrix.composer-flags }}
 
+      - name: Install elinks
+        run: |
+          sudo apt-get install elinks
+
       - name: Update database
         run: |
           make cron-clean
           make cron
 
-      - name: Run tests
-        run: |
-          vendor/bin/phpunit
-
       - name: Commit
         uses: EndBug/add-and-commit@v7.2.1
         with:
+          default_author: github_actions
           message: Automatic build
           add: docs/json/

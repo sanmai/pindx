@@ -1,5 +1,5 @@
 export PHP_CS_FIXER_IGNORE_ENV=1
-SHELL=/bin/bash
+SHELL=/bin/bash -o pipefail
 PHP=$$(command -v php)
 PINDXZIP=https://vinfo.russianpost.ru/database/PIndx.zip
 
