@@ -16,6 +16,7 @@
  */
 
 declare(strict_types=1);
+
 require 'vendor/autoload.php';
 
 $reader = new \PIndxTools\Reader();
@@ -28,7 +29,7 @@ $mainDirectory = file_get_contents('src/MainDirectory.php');
 
 ob_start();
 echo "[\n\t\t";
-echo join(",\n\t\t", $pipeline->toArray());
+echo implode(",\n\t\t", $pipeline->toArray());
 echo "\n\t]";
 $mainDirectory = preg_replace('/INDEX_LIST = \[[^]]*\]/s', 'INDEX_LIST = '.ob_get_clean(), $mainDirectory);
 

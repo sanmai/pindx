@@ -16,6 +16,7 @@
  */
 
 declare(strict_types=1);
+
 require 'vendor/autoload.php';
 
 $reader = new \PIndxTools\Reader();
@@ -23,14 +24,14 @@ $pipeline = \Pipeline\take($reader->read());
 $pipeline->map(function (PIndxTools\Record $record) {
     $cityCode = substr((string) $record->Index, 0, 3);
 
-    $record->namespace = "RussianPostIndex\\ByCity\\City$cityCode";
-    $dir = "src/ByCity/City$cityCode";
+    $record->namespace = "RussianPostIndex\\ByCity\\City{$cityCode}";
+    $dir = "src/ByCity/City{$cityCode}";
 
     if (!is_dir($dir)) {
         exec('mkdir -p '.escapeshellarg($dir));
     }
 
-    yield "$dir/Office{$record->Index}.php" => $record;
+    yield "{$dir}/Office{$record->Index}.php" => $record;
 });
 
 $vars = array_keys(get_object_vars(new \PIndxTools\Record()));
@@ -45,7 +46,7 @@ foreach ($pipeline as $filename => $record) {
     echo "/**\n";
     echo " * @internal\n";
     echo " */\n";
-    echo "final class $className implements \RussianPostIndex\Record\n{\nuse \RussianPostIndex\Util\RecordTrait;\n\n";
+    echo "final class {$className} implements \\RussianPostIndex\\Record\n{\nuse \\RussianPostIndex\\Util\\RecordTrait;\n\n";
 
     foreach ($vars as $varName) {
         echo "private \${$varName} = ";
@@ -55,7 +56,8 @@ foreach ($pipeline as $filename => $record) {
 
     echo "\n}";
     if (!file_put_contents($filename, ob_get_clean())) {
-        echo "Failed saving $filename\n";
+        echo "Failed saving {$filename}\n";
+
         exit(1);
     }
 }

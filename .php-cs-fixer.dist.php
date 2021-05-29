@@ -16,28 +16,25 @@ See the License for the specific language governing permissions and
 limitations under the License.
 EOF;
 
-return PhpCsFixer\Config::create()
+$config = new PhpCsFixer\Config();
+$config
     ->setRiskyAllowed(true)
     ->setRules([
-        '@Symfony' => true,
-        'array_syntax' => ['syntax' => 'short'],
-        'declare_strict_types' => true,
-        'explicit_indirect_variable' => true,
-        'no_superfluous_elseif' => true,
-        'no_unreachable_default_argument_value' => true,
-        'no_useless_else' => true,
-        'no_useless_return' => true,
-        'ordered_class_elements' => false,
-        'non_printable_character' => true,
-        'ordered_imports' => true,
-        'php_unit_test_class_requires_covers' => true,
-        'phpdoc_add_missing_param_annotation' => true,
-        'phpdoc_order' => true,
-        'visibility_required' => true,
         'header_comment' => ['header' => $header, 'separate' => 'bottom', 'location' => 'after_open', 'comment_type' => 'PHPDoc'],
-        'ternary_to_null_coalescing' => true,
-        'yoda_style' => [],
+
+        '@Symfony:risky' => true,
+        '@PHP71Migration:risky' => true,
+        '@PHPUnit75Migration:risky' => true,
+        '@PhpCsFixer' => true,
+        '@PhpCsFixer:risky' => true,
+
+        'ordered_class_elements' => false,
         'phpdoc_to_comment' => false,
+        'strict_comparison' => true,
+        'comment_to_phpdoc' => true,
+        'native_function_invocation' => ['include' => ['@internal'], 'scope' => 'namespaced'],
+        'php_unit_test_case_static_method_calls' => false,
+        'yoda_style' => true,
     ])
     ->setFinder(
         PhpCsFixer\Finder::create()
@@ -45,3 +42,5 @@ return PhpCsFixer\Config::create()
     )
     ->setCacheFile(__DIR__.'/build/cache/.php_cs.cache')
 ;
+
+return $config;

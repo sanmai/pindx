@@ -16,6 +16,7 @@
  */
 
 declare(strict_types=1);
+
 require 'vendor/autoload.php';
 
 if (!is_dir('docs/md')) {
@@ -27,8 +28,8 @@ $pipeline = \Pipeline\take($reader->read());
 $pipeline->map(function (PIndxTools\Record $record) {
     $cityCode = substr((string) $record->Index, 0, 3);
 
-    if (!is_dir("docs/json/$cityCode/")) {
-        mkdir("docs/json/$cityCode/");
+    if (!is_dir("docs/json/{$cityCode}/")) {
+        mkdir("docs/json/{$cityCode}/");
     }
 
     yield "docs/md/{$record->Index}.md" => \Symfony\Component\Yaml\Yaml::dump([
@@ -40,5 +41,5 @@ $pipeline->map(function (PIndxTools\Record $record) {
 });
 
 foreach ($pipeline as $filename => $yaml) {
-    file_put_contents($filename, "---\n$yaml---\n");
+    file_put_contents($filename, "---\n{$yaml}---\n");
 }

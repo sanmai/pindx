@@ -23,10 +23,12 @@ use PHPUnit\Framework\TestCase;
 
 /**
  * @covers \PIndxTools\Record
+ *
+ * @internal
  */
-class RecordTest extends TestCase
+final class RecordTest extends TestCase
 {
-    public function testInterface()
+    public function testInterface(): void
     {
         $record = new \PIndxTools\Record();
         $record->Index = 100100;

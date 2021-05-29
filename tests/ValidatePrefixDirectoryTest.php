@@ -23,12 +23,14 @@ use PHPUnit\Framework\TestCase;
 
 /**
  * @coversNothing
+ *
+ * @internal
  */
-class ValidatePrefixDirectoryTest extends TestCase
+final class ValidatePrefixDirectoryTest extends TestCase
 {
     public function postalCodeProvider()
     {
-        if (!file_exists(\PIndxTools\Reader::TSV_SOURCE)) {
+        if (!\file_exists(\PIndxTools\Reader::TSV_SOURCE)) {
             self::markTestSkipped('No data to test with');
         }
 
@@ -44,11 +46,11 @@ class ValidatePrefixDirectoryTest extends TestCase
      *
      * @param mixed $postalCode
      */
-    public function testPostalCodeExists($postalCode)
+    public function testPostalCodeExists($postalCode): void
     {
-        $this->assertFileExists(sprintf(
+        $this->assertFileExists(\sprintf(
             'docs/json/%s/%s.json',
-            substr((string) $postalCode, 0, 3),
+            \substr((string) $postalCode, 0, 3),
             (string) $postalCode
         ));
     }

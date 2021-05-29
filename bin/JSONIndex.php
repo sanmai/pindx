@@ -16,6 +16,7 @@
  */
 
 declare(strict_types=1);
+
 require 'vendor/autoload.php';
 
 if (!is_dir('docs/json')) {
@@ -27,11 +28,11 @@ $pipeline = \Pipeline\take($reader->read());
 $pipeline->map(function (PIndxTools\Record $record) {
     $cityCode = substr((string) $record->Index, 0, 3);
 
-    if (!is_dir("docs/json/$cityCode/")) {
-        mkdir("docs/json/$cityCode/");
+    if (!is_dir("docs/json/{$cityCode}/")) {
+        mkdir("docs/json/{$cityCode}/");
     }
 
-    yield "docs/json/$cityCode/{$record->Index}.json" => $record;
+    yield "docs/json/{$cityCode}/{$record->Index}.json" => $record;
 });
 
 foreach ($pipeline as $filename => $record) {

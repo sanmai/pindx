@@ -24,7 +24,7 @@ namespace PIndxTools;
  *
  * @internal
  */
-class Record implements \RussianPostIndex\Record
+final class Record implements \RussianPostIndex\Record
 {
     use \RussianPostIndex\Util\RecordTrait;
 

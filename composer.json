@@ -4,16 +4,16 @@
     "description": "Эталонный справочник почтовых индексов объектов почтовой связи",
     "license": "Apache-2.0",
     "require-dev": {
-        "php": "^7 || ^8",
+        "php": "^7.4 || ^8",
         "ergebnis/composer-normalize": "^2.8",
-        "friendsofphp/php-cs-fixer": "^2.13 || ^3.0",
-        "guzzlehttp/guzzle": "^6.3 || ^7",
-        "jms/serializer": "^1.14 || ^2.3 || ^3.0",
-        "phpunit/phpunit": ">=6",
+        "friendsofphp/php-cs-fixer": "^3.0",
+        "guzzlehttp/guzzle": "^7",
+        "jms/serializer": "^3.0",
+        "phpunit/phpunit": "^9.5",
         "sanmai/pindx-client": "^0.1",
-        "sanmai/pipeline": "^0.3.3 || ^2.0 || ^3.0 || ^5.0",
-        "symfony/finder": "^3.4 || ^4.1 || ^5",
-        "symfony/yaml": "^3.4 || ^4.3 || ^5"
+        "sanmai/pipeline": "^5.0",
+        "symfony/finder": "^5",
+        "symfony/yaml": "^5"
     },
     "config": {
         "sort-packages": true

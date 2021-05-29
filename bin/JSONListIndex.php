@@ -16,6 +16,7 @@
  */
 
 declare(strict_types=1);
+
 require 'vendor/autoload.php';
 
 if (!is_dir('docs/json')) {
@@ -37,7 +38,7 @@ $result = $pipeline->reduce(function (array $carry, int $index) {
 }, []);
 
 foreach ($result as $cityCode => $postCodes) {
-    file_put_contents("docs/json/$cityCode.json", json_encode(array_values($postCodes), JSON_PRETTY_PRINT));
+    file_put_contents("docs/json/{$cityCode}.json", json_encode(array_values($postCodes), JSON_PRETTY_PRINT));
 }
 
 file_put_contents('docs/json/index.json', json_encode(array_keys($result), JSON_PRETTY_PRINT));

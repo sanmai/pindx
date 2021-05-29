@@ -24,9 +24,9 @@ namespace PIndxTools;
  */
 final class Reader
 {
-    const TSV_SOURCE = 'PIndx.tsv';
+    public const TSV_SOURCE = 'PIndx.tsv';
 
-    const LOWER_CASE_WORDS = [
+    public const LOWER_CASE_WORDS = [
         'Район' => 'район',
         'Область' => 'область',
         'Край' => 'край',
@@ -64,30 +64,30 @@ final class Reader
 
     public static function updateCyrillicCasing(string $input): string
     {
-        if (PHP_VERSION_ID < 70300) {
-            $input = str_replace(['"', '/'], ['"% ', '/% '], $input);
+        if (\PHP_VERSION_ID < 70300) {
+            $input = \str_replace(['"', '/'], ['"% ', '/% '], $input);
         }
 
-        $output = str_replace(array_keys(self::LOWER_CASE_WORDS), self::LOWER_CASE_WORDS, mb_convert_case($input, MB_CASE_TITLE));
+        $output = \str_replace(\array_keys(self::LOWER_CASE_WORDS), self::LOWER_CASE_WORDS, \mb_convert_case($input, MB_CASE_TITLE));
 
-        if (PHP_VERSION_ID < 70300) {
-            $output = str_replace(['"% ', '/% '], ['"', '/'], $output);
+        if (\PHP_VERSION_ID < 70300) {
+            $output = \str_replace(['"% ', '/% '], ['"', '/'], $output);
         }
 
         return $output;
     }
 
     /**
-     * @param string|resource $input
+     * @param resource|string $input
      *
      * @return \Generator|\PIndxTools\Record[]
      */
     public function read($input = self::TSV_SOURCE): \Generator
     {
-        $fields = array_keys(get_object_vars(new Record()));
+        $fields = \array_keys(\get_object_vars(new Record()));
 
-        $fh = is_resource($input) ? $input : fopen($input, 'rb');
-        while (($data = fgetcsv($fh, 2048, "\t")) !== false) {
+        $fh = \is_resource($input) ? $input : \fopen($input, 'r');
+        while (($data = \fgetcsv($fh, 2048, "\t")) !== false) {
             $record = new Record();
 
             foreach ($fields as $fieldNo => $fieldName) {
@@ -100,6 +100,6 @@ final class Reader
             yield $record;
         }
 
-        fclose($fh);
+        \fclose($fh);
     }
 }

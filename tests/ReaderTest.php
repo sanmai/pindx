@@ -23,14 +23,16 @@ use PHPUnit\Framework\TestCase;
 
 /**
  * @covers \PIndxTools\Reader
+ *
+ * @internal
  */
-class ReaderTest extends TestCase
+final class ReaderTest extends TestCase
 {
-    public function testSimpleRead()
+    public function testSimpleRead(): void
     {
-        $fh = tmpfile();
-        fwrite($fh, "101000\tМОСКВА\tО\t127950\tМОСКВА\t\t\t\t\t20110121\t\t\n");
-        rewind($fh);
+        $fh = \tmpfile();
+        \fwrite($fh, "101000\tМОСКВА\tО\t127950\tМОСКВА\t\t\t\t\t20110121\t\t\n");
+        \rewind($fh);
 
         $reader = new \PIndxTools\Reader();
         foreach ($reader->read($fh) as $rec) {
@@ -46,10 +48,10 @@ class ReaderTest extends TestCase
             continue;
         }
 
-        $this->assertFalse(is_resource($fh));
+        $this->assertIsNotResource($fh);
     }
 
-    public function testUpdateCyrillicCasing()
+    public function testUpdateCyrillicCasing(): void
     {
         $this->assertSame('Москва', \PIndxTools\Reader::updateCyrillicCasing('МОСКВА'));
         $this->assertSame('Ненецкий автономный округ', \PIndxTools\Reader::updateCyrillicCasing('НЕНЕЦКИЙ АВТОНОМНЫЙ ОКРУГ'));
@@ -60,7 +62,7 @@ class ReaderTest extends TestCase
         $this->assertSame('Казанский ЛПЦ ММПО Цех EMS', \PIndxTools\Reader::updateCyrillicCasing('КАЗАНСКИЙ ЛПЦ ММПО ЦЕХ EMS'));
     }
 
-    public function testUpdateCyrillicCasingEdgeCases()
+    public function testUpdateCyrillicCasingEdgeCases(): void
     {
         $this->assertSame('Москва ФГУП "Почта России"', \PIndxTools\Reader::updateCyrillicCasing('МОСКВА ФГУП "ПОЧТА РОССИИ"'));
         $this->assertSame('Пансионат "Почтовик"', \PIndxTools\Reader::updateCyrillicCasing('ПАНСИОНАТ "ПОЧТОВИК"'));
