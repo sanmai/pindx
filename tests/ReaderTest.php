@@ -48,7 +48,7 @@ final class ReaderTest extends TestCase
             continue;
         }
 
-        $this->assertIsNotResource($fh);
+        $this->assertIsClosedResource($fh);
     }
 
     public function testUpdateCyrillicCasing(): void
