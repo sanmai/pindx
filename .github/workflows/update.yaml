@@ -68,6 +68,10 @@ jobs:
         id: last-update-date
         run: echo "::set-output name=date::$(cat docs/_data/last-update-date)"
 
+      - name: Run tests
+        run: |
+          vendor/bin/phpunit
+
       - name: Commit
         uses: EndBug/add-and-commit@v7.2.1
         with:

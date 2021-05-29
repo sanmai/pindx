@@ -59,10 +59,6 @@ cron-clean: clean
 test: vendor/autoload.php
 	$(PHP) vendor/bin/phpunit
 
-.PHONY=test-all
-test-all: all vendor/autoload.php
-	$(PHP) vendor/bin/phpunit --stop-on-failure
-
 vendor/autoload.php: composer.lock
 	$(PHP) -v
 	composer install
@@ -72,7 +68,10 @@ composer.lock: composer.json
 	touch -r composer.lock composer.json
 
 .PHONY=cron
-cron: all test-all
+cron: all version
+
+.PHONY=version
+version:
 	# Downloading ...
 	elinks -version | head -n 1
 	curl -s https://vinfo.russianpost.ru/database/ops.html | \
