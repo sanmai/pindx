@@ -66,5 +66,6 @@ jobs:
 
       - name: Commit
         uses: EndBug/add-and-commit@v7.2.1
-        message: Automatic build
-        add: docs/json/
+        with:
+          message: Automatic build
+          add: docs/json/
