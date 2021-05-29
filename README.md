@@ -1,4 +1,6 @@
 [![JSON API](https://img.shields.io/badge/json%20api-live-green.svg)](https://www.postindexapi.ru/)
+[![Continuous Integration](https://github.com/sanmai/pindx/actions/workflows/ci.yaml/badge.svg)](https://github.com/sanmai/pindx/actions/workflows/ci.yaml)
+[![Database Update](https://github.com/sanmai/pindx/actions/workflows/update.yaml/badge.svg?event=schedule)](https://github.com/sanmai/pindx/actions/workflows/update.yaml)
 
 # Справочник почтовых индексов 
 
