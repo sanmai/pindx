@@ -62,3 +62,8 @@ jobs:
       - name: Run tests
         run: |
           vendor/bin/phpunit
+
+      - name: Commit
+        uses: EndBug/add-and-commit@v7.2.1
+        message: Automatic build
+        add: docs/json/
