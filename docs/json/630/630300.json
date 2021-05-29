@@ -1,13 +1,13 @@
 {
     "Index": 630300,
     "OPSName": "Новосибирск ЛПЦ",
-    "OPSType": "Участок",
+    "OPSType": "Сц",
     "OPSSubm": 630700,
     "Region": "Новосибирская область",
     "Autonom": "",
     "Area": "",
     "City": "Обь",
     "City1": "",
-    "ActDate": "20201126",
+    "ActDate": "20210415",
     "IndexOld": ""
 }
