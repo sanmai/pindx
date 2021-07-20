@@ -1,7 +1,7 @@
 export PHP_CS_FIXER_IGNORE_ENV=1
 SHELL=/bin/bash
 PHP=$$(command -v php)
-PINDXZIP=https://vinfo.russianpost.ru/database/PIndx.zip
+VINFO=https://www.pochta.ru/database/ops
 
 .PHONY=all
 all: docs/json docs/json/index.json
@@ -11,11 +11,11 @@ all: docs/json docs/json/index.json
 
 .PHONY=check
 check:
-	curl -I --silent --show-error --fail -o /dev/null $(PINDXZIP)
+	curl -I --silent --show-error --fail -o /dev/null $(VINFO)
 	# All clear!
 
 PIndx.zip:
-	wget $(PINDXZIP)
+	wget --content-disposition "https://www.pochta.ru$$(curl -s $(VINFO) | grep -Eo '"(/documents/[^"]+PIndx.zip[^"]+)"' | cut -f2 -d\")"
 	unzip -t PIndx.zip
 
 PIndx.dbf: PIndx.zip
@@ -74,7 +74,7 @@ cron: all version
 version:
 	# Downloading ...
 	elinks -version | head -n 1
-	curl -s https://vinfo.russianpost.ru/database/ops.html | \
+	curl -s $(VINFO) | \
 		elinks -no-home 1 -dump -localhost -dump-charset utf-8 -force-html -no-references -no-numbering | \
 		grep -A1 Сформирован | \
 		sed -E 's,([0-9]{2}).([0-9]{2}).([0-9]{4}),\3-\2-\1,g' | \
