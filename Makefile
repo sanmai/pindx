@@ -38,10 +38,6 @@ docs/json: PIndx.tsv vendor/autoload.php
 docs/json/index.json: PIndx.tsv vendor/autoload.php
 	$(PHP) bin/JSONListIndex.php
 
-docs/md: PIndx.tsv vendor/autoload.php
-	$(PHP) bin/MarkdownIndex.php
-	touch --no-create docs/md
-
 .PHONY=cs
 cs:
 	$(PHP) vendor/bin/php-cs-fixer fix -v
