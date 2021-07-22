@@ -60,12 +60,13 @@ final class ReaderTest extends TestCase
         $this->assertSame('Саха (Якутия) Республика', \PIndxTools\Reader::updateCyrillicCasing('САХА (ЯКУТИЯ) РЕСПУБЛИКА'));
         $this->assertSame('Тюменская область', \PIndxTools\Reader::updateCyrillicCasing('ТЮМЕНСКАЯ ОБЛАСТЬ'));
         $this->assertSame('Казанский ЛПЦ ММПО Цех EMS', \PIndxTools\Reader::updateCyrillicCasing('КАЗАНСКИЙ ЛПЦ ММПО ЦЕХ EMS'));
+        $this->assertSame('Москва-Почтомат (АПС)', \PIndxTools\Reader::updateCyrillicCasing('Москва-Почтомат (АПС)'));
     }
 
     public function testUpdateCyrillicCasingEdgeCases(): void
     {
         $this->assertSame('Москва ФГУП "Почта России"', \PIndxTools\Reader::updateCyrillicCasing('МОСКВА ФГУП "ПОЧТА РОССИИ"'));
         $this->assertSame('Пансионат "Почтовик"', \PIndxTools\Reader::updateCyrillicCasing('ПАНСИОНАТ "ПОЧТОВИК"'));
-        $this->assertSame('Russian Post Berlin Lc/Ao', \PIndxTools\Reader::updateCyrillicCasing('Russian Post Berlin LC/AO'));
+        $this->assertSame('Russian Post Berlin LC/AO', \PIndxTools\Reader::updateCyrillicCasing('Russian Post Berlin LC/AO'));
     }
 }

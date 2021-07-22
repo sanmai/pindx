@@ -52,7 +52,7 @@ final class Reader
         'Ппс' => 'ППС',
         'Сц ' => 'СЦ ',
         'Ти ' => 'ТИ ',
-        ' Уду' => ' УДУ',
+        'Уду' => 'УДУ',
         'Укд' => 'УКД',
         'Умсц' => 'УМСЦ',
         'Уфпс' => 'УФПС',
@@ -61,6 +61,7 @@ final class Reader
         'Ems' => 'EMS',
         'Лпц' => 'ЛПЦ',
         'Пкф' => 'ПКФ',
+        'Lc/Ao' => 'LC/AO',
     ];
 
     public static function updateCyrillicCasing(string $input): string
@@ -69,7 +70,11 @@ final class Reader
             $input = \str_replace(['"', '/'], ['"% ', '/% '], $input);
         }
 
-        $output = \str_replace(\array_keys(self::LOWER_CASE_WORDS), self::LOWER_CASE_WORDS, \mb_convert_case($input, MB_CASE_TITLE));
+        $output = \mb_convert_case($input, MB_CASE_TITLE);
+
+        foreach (self::LOWER_CASE_WORDS as $word => $replacement) {
+            $output = \preg_replace(\sprintf('#\b%s\b#u', $word), $replacement, $output);
+        }
 
         if (\PHP_VERSION_ID < 70300) {
             $output = \str_replace(['"% ', '/% '], ['"', '/'], $output);
