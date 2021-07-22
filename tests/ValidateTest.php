@@ -26,7 +26,7 @@ use PHPUnit\Framework\TestCase;
  *
  * @internal
  */
-final class ValidatePrefixDirectoryTest extends TestCase
+final class ValidateTest extends TestCase
 {
     public function postalCodeProvider()
     {
