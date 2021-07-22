@@ -76,9 +76,9 @@ version:
 	elinks -version | head -n 1
 	curl -s $(VINFO) | \
 		elinks -no-home 1 -dump -localhost -dump-charset utf-8 -force-html -no-references -no-numbering | \
-		grep -A1 Сформирован | \
+		grep -A1 .формирован | \
 		sed -E 's,([0-9]{2}).([0-9]{2}).([0-9]{4}),\3-\2-\1,g' | \
-		grep -o [0-9-]* | head -n 1 > docs/_data/last-update-date
+		grep -o [0-9]*-[0-9]*-[0-9]* | head -n 1 > docs/_data/last-update-date
 	sed s/date-updated/$$(cat docs/_data/last-update-date)/ docs/_data/status.yml.template > docs/_data/status.yml
 	git add docs/_data/status.yml
 
