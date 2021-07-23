@@ -82,7 +82,7 @@ https://www.postindexapi.ru/json/AAA/AAABBB.json
 Установка делается как обычно. Требуется PHP 7.0 и выше.
 
 ```
-composer require sanmai/pindx
+composer require sanmai/pindx-client
 ```
 
 Пример использования:
