@@ -4,6 +4,9 @@
     "description": "Эталонный справочник почтовых индексов объектов почтовой связи",
     "homepage": "https://www.postindexapi.ru/",
     "license": "Apache-2.0",
+    "require": {
+        "sanmai/pindx-client": "^0.1"
+    },
     "require-dev": {
         "php": "^7.4 || ^8",
         "ergebnis/composer-normalize": "^2.8",
@@ -12,7 +15,6 @@
         "jms/serializer": "^3.0",
         "phpunit/phpunit": "^9.5",
         "sanmai/later": "^0.1.2",
-        "sanmai/pindx-client": "^0.1",
         "sanmai/pipeline": "^5.0",
         "symfony/finder": "^5",
         "symfony/yaml": "^5",
