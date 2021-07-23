@@ -19,6 +19,7 @@ declare(strict_types=1);
 
 namespace PIndxTools;
 
+use function Later\later;
 use morphos\Russian\GeographicalNamesInflection;
 
 /**
@@ -70,8 +71,6 @@ final class Reader
         'Lc/Ao' => 'LC/AO',
     ];
 
-    private static $patterns = [];
-
     private static function makeWordBoundaryRegEx(string $word): string
     {
         return \sprintf('#\b%s\b#u', $word);
@@ -79,23 +78,28 @@ final class Reader
 
     public static function updateCyrillicCasing(string $input): string
     {
-        if ([] === self::$patterns) {
+        static $patterns;
+
+        $patterns = $patterns ?? later(function (): iterable {
+            $patterns = [];
             foreach (self::LOWER_CASE_WORDS as $word => $replacement) {
-                self::$patterns[self::makeWordBoundaryRegEx($word)] = $replacement;
+                $patterns[self::makeWordBoundaryRegEx($word)] = $replacement;
 
                 if (\mb_strtolower($replacement) !== $replacement) {
                     continue;
                 }
 
                 foreach (GeographicalNamesInflection::getCases($replacement) as $case) {
-                    self::$patterns[self::makeWordBoundaryRegEx($case)] = \mb_strtolower($case);
+                    $patterns[self::makeWordBoundaryRegEx($case)] = \mb_strtolower($case);
                 }
             }
-        }
+
+            yield $patterns;
+        });
 
         $output = \mb_convert_case($input, MB_CASE_TITLE);
 
-        foreach (self::$patterns as $regex => $replacement) {
+        foreach ($patterns->get() as $regex => $replacement) {
             $output = \preg_replace($regex, $replacement, $output);
         }
 
