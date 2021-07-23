@@ -10,10 +10,12 @@
         "guzzlehttp/guzzle": "^7",
         "jms/serializer": "^3.0",
         "phpunit/phpunit": "^9.5",
+        "sanmai/later": "^0.1.2",
         "sanmai/pindx-client": "^0.1",
         "sanmai/pipeline": "^5.0",
         "symfony/finder": "^5",
-        "symfony/yaml": "^5"
+        "symfony/yaml": "^5",
+        "wapmorgan/morphos": "^3.2"
     },
     "config": {
         "sort-packages": true

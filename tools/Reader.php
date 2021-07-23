@@ -19,6 +19,8 @@ declare(strict_types=1);
 
 namespace PIndxTools;
 
+use morphos\Russian\GeographicalNamesInflection;
+
 /**
  * @internal
  */
@@ -32,11 +34,15 @@ final class Reader
         'Край' => 'край',
         'Округ' => 'округ',
         'Автономный' => 'автономный',
-        'Автономная' => 'автономная',
         'Немецкий' => 'немецкий',
         'Национальный' => 'национальный',
 
+        'Ивц' => 'ИВЦ',
+        'Мр' => 'МР',
+        'Лц' => 'ЛЦ',
+        'См' => 'СМ',
         'Аопп' => 'АОПП',
+        'Тмц' => 'ТМЦ',
         'Апс' => 'АПС',
         'Гсп' => 'ГСП',
         'Гцмпп' => 'ГЦМПП',
@@ -64,20 +70,33 @@ final class Reader
         'Lc/Ao' => 'LC/AO',
     ];
 
+    private static $patterns = [];
+
+    private static function makeWordBoundaryRegEx(string $word): string
+    {
+        return \sprintf('#\b%s\b#u', $word);
+    }
+
     public static function updateCyrillicCasing(string $input): string
     {
-        if (\PHP_VERSION_ID < 70300) {
-            $input = \str_replace(['"', '/'], ['"% ', '/% '], $input);
+        if ([] === self::$patterns) {
+            foreach (self::LOWER_CASE_WORDS as $word => $replacement) {
+                self::$patterns[self::makeWordBoundaryRegEx($word)] = $replacement;
+
+                if (\mb_strtolower($replacement) !== $replacement) {
+                    continue;
+                }
+
+                foreach (GeographicalNamesInflection::getCases($replacement) as $case) {
+                    self::$patterns[self::makeWordBoundaryRegEx($case)] = \mb_strtolower($case);
+                }
+            }
         }
 
         $output = \mb_convert_case($input, MB_CASE_TITLE);
 
-        foreach (self::LOWER_CASE_WORDS as $word => $replacement) {
-            $output = \preg_replace(\sprintf('#\b%s\b#u', $word), $replacement, $output);
-        }
-
-        if (\PHP_VERSION_ID < 70300) {
-            $output = \str_replace(['"% ', '/% '], ['"', '/'], $output);
+        foreach (self::$patterns as $regex => $replacement) {
+            $output = \preg_replace($regex, $replacement, $output);
         }
 
         return $output;
