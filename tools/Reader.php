@@ -69,6 +69,7 @@ final class Reader
         'Лпц' => 'ЛПЦ',
         'Пкф' => 'ПКФ',
         'Lc/Ao' => 'LC/AO',
+        'Ти' => 'ТИ',
     ];
 
     private static function makeWordBoundaryRegEx(string $word): string
@@ -82,16 +83,33 @@ final class Reader
 
         $patterns = $patterns ?? later(function (): iterable {
             $patterns = [];
-            foreach (self::LOWER_CASE_WORDS as $word => $replacement) {
+
+            $generatePairs = (function () {
+                foreach (self::LOWER_CASE_WORDS as $word => $replacement) {
+                    yield $word => $replacement;
+
+                    if (\mb_strtolower($replacement) !== $replacement) {
+                        continue;
+                    }
+
+                    foreach (GeographicalNamesInflection::getCases($replacement) as $case) {
+                        yield $case => \mb_strtolower($case);
+                    }
+
+                    $replacement = \preg_replace('/[иы]й$/u', 'ая', $replacement, 1, $count);
+
+                    if (1 !== $count) {
+                        continue;
+                    }
+
+                    foreach (GeographicalNamesInflection::getCases($replacement) as $case) {
+                        yield $case => \mb_strtolower($case);
+                    }
+                }
+            })();
+
+            foreach ($generatePairs as $word => $replacement) {
                 $patterns[self::makeWordBoundaryRegEx($word)] = $replacement;
-
-                if (\mb_strtolower($replacement) !== $replacement) {
-                    continue;
-                }
-
-                foreach (GeographicalNamesInflection::getCases($replacement) as $case) {
-                    $patterns[self::makeWordBoundaryRegEx($case)] = \mb_strtolower($case);
-                }
             }
 
             yield $patterns;

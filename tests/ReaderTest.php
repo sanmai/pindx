@@ -51,24 +51,31 @@ final class ReaderTest extends TestCase
         $this->assertIsClosedResource($fh);
     }
 
-    public function testUpdateCyrillicCasing(): void
+    public function provideUpdateCyrillicCasing(): iterable
     {
-        $this->assertSame('Москва', \PIndxTools\Reader::updateCyrillicCasing('МОСКВА'));
-        $this->assertSame('Ненецкий автономный округ', \PIndxTools\Reader::updateCyrillicCasing('НЕНЕЦКИЙ АВТОНОМНЫЙ ОКРУГ'));
-        $this->assertSame('УФПС Чукотского автономного округа', \PIndxTools\Reader::updateCyrillicCasing('УФПС Чукотского Автономного Округа'));
-        $this->assertSame('Люберецкий район', \PIndxTools\Reader::updateCyrillicCasing('ЛЮБЕРЕЦКИЙ РАЙОН'));
-        $this->assertSame('Люберецкого района', \PIndxTools\Reader::updateCyrillicCasing('ЛЮБЕРЕЦКОГО РАЙОНА'));
-        $this->assertSame('Саратовская область, Красноармейский район', \PIndxTools\Reader::updateCyrillicCasing('САРАТОВСКАЯ ОБЛАСТЬ, КРАСНОАРМЕЙСКИЙ РАЙОН'));
-        $this->assertSame('Саха (Якутия) Республика', \PIndxTools\Reader::updateCyrillicCasing('САХА (ЯКУТИЯ) РЕСПУБЛИКА'));
-        $this->assertSame('Тюменская область', \PIndxTools\Reader::updateCyrillicCasing('ТЮМЕНСКАЯ ОБЛАСТЬ'));
-        $this->assertSame('Казанский ЛПЦ ММПО Цех EMS', \PIndxTools\Reader::updateCyrillicCasing('КАЗАНСКИЙ ЛПЦ ММПО ЦЕХ EMS'));
-        $this->assertSame('Москва-Почтомат (АПС)', \PIndxTools\Reader::updateCyrillicCasing('Москва-Почтомат (АПС)'));
+        yield ['Москва', 'МОСКВА'];
+
+        yield ['Ненецкий автономный округ', 'НЕНЕЦКИЙ АВТОНОМНЫЙ ОКРУГ'];
+        yield ['УФПС Чукотского автономного округа', 'УФПС Чукотского Автономного Округа'];
+        yield ['Люберецкий район', 'ЛЮБЕРЕЦКИЙ РАЙОН'];
+        yield ['Люберецкого района', 'ЛЮБЕРЕЦКОГО РАЙОНА'];
+        yield ['Саратовская область, Красноармейский район', 'САРАТОВСКАЯ ОБЛАСТЬ, КРАСНОАРМЕЙСКИЙ РАЙОН'];
+        yield ['Саха (Якутия) Республика', 'САХА (ЯКУТИЯ) РЕСПУБЛИКА'];
+        yield ['Тюменская область', 'ТЮМЕНСКАЯ ОБЛАСТЬ'];
+        yield ['Казанский ЛПЦ ММПО Цех EMS', 'КАЗАНСКИЙ ЛПЦ ММПО ЦЕХ EMS'];
+        yield ['Москва-Почтомат (АПС)', 'Москва-Почтомат (АПС)'];
+        yield ['Еврейская автономная область', 'Еврейская Автономная область'];
+
+        yield ['Москва ФГУП "Почта России"', 'МОСКВА ФГУП "ПОЧТА РОССИИ"'];
+        yield ['Пансионат "Почтовик"', 'ПАНСИОНАТ "ПОЧТОВИК"'];
+        yield ['Russian Post Berlin LC/AO', 'Russian Post Berlin LC/AO'];
     }
 
-    public function testUpdateCyrillicCasingEdgeCases(): void
+    /**
+     * @dataProvider provideUpdateCyrillicCasing
+     */
+    public function testUpdateCyrillicCasing(string $expected, string $input): void
     {
-        $this->assertSame('Москва ФГУП "Почта России"', \PIndxTools\Reader::updateCyrillicCasing('МОСКВА ФГУП "ПОЧТА РОССИИ"'));
-        $this->assertSame('Пансионат "Почтовик"', \PIndxTools\Reader::updateCyrillicCasing('ПАНСИОНАТ "ПОЧТОВИК"'));
-        $this->assertSame('Russian Post Berlin LC/AO', \PIndxTools\Reader::updateCyrillicCasing('Russian Post Berlin LC/AO'));
+        $this->assertSame($expected, \PIndxTools\Reader::updateCyrillicCasing($input));
     }
 }
