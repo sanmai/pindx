@@ -14,8 +14,12 @@ check:
 	curl -I --silent --show-error --fail -o /dev/null $(VINFO)
 	# All clear!
 
-PIndx.zip:
-	wget --content-disposition "https://www.pochta.ru$$(curl -s $(VINFO) | grep -Eo '"(/documents/[^"]+PIndx.zip[^"]+)"' | cut -f2 -d\")"
+ops.txt:
+	echo -e $$(curl -s $(VINFO)) > ops.txt
+	grep -q Эталонный ops.txt
+
+PIndx.zip: ops.txt
+	wget --content-disposition "https://www.pochta.ru$$(cat ops.txt | grep -Eo '(/documents/[^)]+PIndx.zip[^)]+)')"
 	unzip -t PIndx.zip
 
 PIndx.dbf: PIndx.zip
@@ -44,7 +48,7 @@ cs:
 
 .PHONY=clean
 clean:
-	rm -fv PIndx.tsv PIndx.txt PIndx.dbf PIndx.zip
+	rm -fv PIndx.tsv PIndx.txt PIndx.dbf PIndx.zip ops.txt
 	git rm -qr docs/json/
 
 .PHONY=cron-clean
