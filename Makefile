@@ -1,7 +1,7 @@
 export PHP_CS_FIXER_IGNORE_ENV=1
 SHELL=/bin/bash
 PHP=$$(command -v php)
-VINFO=https://www.pochta.ru/database/ops
+VINFO=https://www.pochta.ru/support/database/ops
 
 .PHONY=all
 all: docs/json docs/json/index.json
