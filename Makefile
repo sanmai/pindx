@@ -2,6 +2,7 @@ export PHP_CS_FIXER_IGNORE_ENV=1
 SHELL=/bin/bash
 PHP=$$(command -v php)
 VINFO=https://www.pochta.ru/support/database/ops
+PINDX_REGEX='(/assets[^"]+Indx_[^"]+.zip)'
 
 .PHONY=all
 all: docs/json docs/json/index.json
@@ -19,7 +20,8 @@ ops.txt:
 	grep -q Эталонный ops.txt
 
 PIndx.zip: ops.txt
-	wget --content-disposition "https://www.pochta.ru$$(cat ops.txt | grep -Eo '(/[^)]+P.Indx.zip[^)]+)')"
+	grep -Eo $(PINDX_REGEX) ops.txt
+	wget -O PIndx.zip "https://www.pochta.ru$$(cat ops.txt | grep -Eo $(PINDX_REGEX) | head -n1)"
 	unzip -t PIndx.zip
 
 PIndx.dbf: PIndx.zip
