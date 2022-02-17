@@ -19,7 +19,7 @@ ops.txt:
 	grep -q Эталонный ops.txt
 
 PIndx.zip: ops.txt
-	wget --content-disposition "https://www.pochta.ru$$(cat ops.txt | grep -Eo '(/documents/[^)]+PIndx.zip[^)]+)')"
+	wget --content-disposition "https://www.pochta.ru$$(cat ops.txt | grep -Eo '(/[^)]+P.Indx.zip[^)]+)')"
 	unzip -t PIndx.zip
 
 PIndx.dbf: PIndx.zip

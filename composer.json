@@ -21,7 +21,8 @@
         "wapmorgan/morphos": "^3.2"
     },
     "config": {
-        "sort-packages": true
+        "sort-packages": true,
+        "allow-plugins": true
     },
     "extra": {
         "branch-alias": {
