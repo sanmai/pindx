@@ -16,7 +16,8 @@ check:
 	# All clear!
 
 ops.txt:
-	echo -en $$(curl --proxy socks5://localhost:1080 -s $(VINFO)) > ops.txt
+	curl -o ops.txt $(VINFO)
+	echo -en $$(cat ops.txt) > ops.txt
 	echo -en $$(cat ops.txt) > ops.txt
 	grep -q Эталонный ops.txt
 
