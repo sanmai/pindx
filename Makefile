@@ -2,7 +2,7 @@ export PHP_CS_FIXER_IGNORE_ENV=1
 SHELL=/bin/bash
 PHP=$$(command -v php)
 VINFO=https://www.pochta.ru/support/database/ops
-PINDX_REGEX='(/assets[^"]+Indx_[^"]+.zip)'
+PINDX_REGEX='(/assets[^"]+[iI]ndx_[^"]+.zip)'
 
 .PHONY=all
 all: docs/json docs/json/index.json
@@ -16,7 +16,8 @@ check:
 	# All clear!
 
 ops.txt:
-	echo -e $$(curl -s $(VINFO)) > ops.txt
+	echo -en $$(curl --proxy socks5://localhost:1080 -s $(VINFO)) > ops.txt
+	echo -en $$(cat ops.txt) > ops.txt
 	grep -q Эталонный ops.txt
 
 PIndx.zip: ops.txt
