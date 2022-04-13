@@ -1,0 +1,47 @@
+# yamllint disable rule:line-length
+# yamllint disable rule:braces
+
+name: Database Update (Self-Hosted)
+
+on:
+  workflow_dispatch:
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    - cron: '27 7 * * *'
+  push:
+    branches:
+      - master
+      - main
+
+jobs:
+  update:
+    runs-on: self-hosted
+    name: DB Update
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Install dependencies
+        run: |
+          composer update --optimize-autoloader --no-interaction --no-progress
+
+      - name: Update database
+        run: |
+          make cron-clean
+          make cron
+
+      - name: Get date updated
+        id: last-update-date
+        run: echo "::set-output name=date::$(cat docs/_data/last-update-date)"
+
+      - name: Run tests
+        run: |
+          vendor/bin/phpunit
+
+      - name: Commit
+        uses: EndBug/add-and-commit@v7.2.1
+        with:
+          default_author: github_actions
+          message: Automatic build for ${{ steps.last-update-date.outputs.date }}
+          add: docs/json/
