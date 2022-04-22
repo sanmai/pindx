@@ -1,13 +1,13 @@
 {
     "Index": 990509,
-    "OPSName": "Москва-Почтомат (АПС)",
+    "OPSName": "Зеленоград-Почтомат (АПС)",
     "OPSType": "Почтомат",
-    "OPSSubm": 119313,
+    "OPSSubm": 101700,
     "Region": "Москва",
     "Autonom": "",
     "Area": "",
-    "City": "",
+    "City": "Зеленоград",
     "City1": "",
-    "ActDate": "20171206",
+    "ActDate": "20220314",
     "IndexOld": ""
 }
