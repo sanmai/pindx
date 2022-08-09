@@ -1,13 +1,13 @@
 {
-    "Index": 685150,
-    "OPSName": "Магадан Пвпо",
-    "OPSType": "Пвпо",
-    "OPSSubm": 685700,
+    "Index": 685972,
+    "OPSName": "Магадан-ДТИ",
+    "OPSType": "ДТИ",
+    "OPSSubm": 685000,
     "Region": "Магаданская область",
     "Autonom": "",
     "Area": "",
     "City": "Магадан",
     "City1": "",
-    "ActDate": "20180905",
+    "ActDate": "20220808",
     "IndexOld": ""
 }
