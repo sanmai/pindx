@@ -20,6 +20,7 @@ declare(strict_types=1);
 namespace PIndxTools;
 
 use function Later\later;
+
 use morphos\Russian\GeographicalNamesInflection;
 
 /**
