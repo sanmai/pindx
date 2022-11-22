@@ -1,13 +1,13 @@
 {
     "Index": 105950,
     "OPSName": "Москва МРП-1",
-    "OPSType": "П",
+    "OPSType": "МРП",
     "OPSSubm": 101700,
     "Region": "Москва",
     "Autonom": "",
     "Area": "",
     "City": "",
     "City1": "",
-    "ActDate": "20070418",
+    "ActDate": "20221107",
     "IndexOld": ""
 }
