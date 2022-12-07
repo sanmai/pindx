@@ -1,13 +1,13 @@
 {
     "Index": 614801,
-    "OPSName": "Краснокамск Удд",
-    "OPSType": "Участок",
-    "OPSSubm": 614880,
+    "OPSName": "Краснокамск УКД",
+    "OPSType": "УКД",
+    "OPSSubm": 614700,
     "Region": "Пермский край",
     "Autonom": "",
     "Area": "",
     "City": "Краснокамск",
     "City1": "",
-    "ActDate": "20220406",
+    "ActDate": "20221206",
     "IndexOld": ""
 }
