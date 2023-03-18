@@ -1,13 +1,13 @@
 {
     "Index": 102972,
     "OPSName": "МР ЛЦ Внуково Цех-2 ММПО",
-    "OPSType": "ММПО",
-    "OPSSubm": 102975,
+    "OPSType": "Цех",
+    "OPSSubm": 102976,
     "Region": "Москва",
     "Autonom": "",
     "Area": "Марушкинское",
     "City": "Шарапово",
     "City1": "",
-    "ActDate": "20230208",
+    "ActDate": "20230315",
     "IndexOld": ""
 }
