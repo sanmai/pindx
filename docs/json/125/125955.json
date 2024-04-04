@@ -1,13 +1,13 @@
 {
     "Index": 125955,
-    "OPSName": "Москва МРП-4 Цпп",
-    "OPSType": "Цех",
-    "OPSSubm": 125950,
+    "OPSName": "Москва-Цото",
+    "OPSType": "ТИ",
+    "OPSSubm": 101700,
     "Region": "Москва",
     "Autonom": "",
     "Area": "",
     "City": "",
     "City1": "",
-    "ActDate": "20070518",
+    "ActDate": "20240327",
     "IndexOld": ""
 }
