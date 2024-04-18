@@ -1,13 +1,13 @@
 {
     "Index": 633012,
     "OPSName": "Бердск Удпп-12",
-    "OPSType": "Участок",
+    "OPSType": "Удпп",
     "OPSSubm": 633200,
     "Region": "Новосибирская область",
     "Autonom": "",
     "Area": "",
     "City": "Бердск",
     "City1": "",
-    "ActDate": "20240126",
+    "ActDate": "20240409",
     "IndexOld": ""
 }

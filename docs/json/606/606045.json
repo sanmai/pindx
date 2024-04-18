@@ -1,13 +1,13 @@
 {
     "Index": 606045,
     "OPSName": "Дзержинск-Северный Удпп",
-    "OPSType": "Участок",
+    "OPSType": "Удпп",
     "OPSSubm": 606069,
     "Region": "Нижегородская область",
     "Autonom": "",
     "Area": "",
     "City": "Дзержинск",
     "City1": "",
-    "ActDate": "20210608",
+    "ActDate": "20240409",
     "IndexOld": ""
 }

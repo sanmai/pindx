@@ -1,13 +1,13 @@
 {
     "Index": 607428,
     "OPSName": "Перевоз Удпп",
-    "OPSType": "Участок",
+    "OPSType": "Удпп",
     "OPSSubm": 607279,
     "Region": "Нижегородская область",
     "Autonom": "",
     "Area": "",
     "City": "Перевоз",
     "City1": "",
-    "ActDate": "20240130",
+    "ActDate": "20240409",
     "IndexOld": ""
 }
