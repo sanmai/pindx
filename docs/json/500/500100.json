@@ -1,13 +1,13 @@
 {
     "Index": 500100,
     "OPSName": "Russian Post",
-    "OPSType": "УФПС",
+    "OPSType": "Филиал",
     "OPSSubm": 0,
     "Region": "Германия",
     "Autonom": "",
     "Area": "",
     "City": "Берлин",
     "City1": "",
-    "ActDate": "20181109",
+    "ActDate": "20240611",
     "IndexOld": ""
 }
