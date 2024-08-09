@@ -1,13 +1,13 @@
 {
-    "Index": 915934,
-    "OPSName": "Тверь-Почтомат (АПС)",
-    "OPSType": "Почтомат",
+    "Index": 170900,
+    "OPSName": "Тверь Уопк",
+    "OPSType": "Уч. Оцифровки",
     "OPSSubm": 170700,
     "Region": "Тверская область",
     "Autonom": "",
     "Area": "",
     "City": "Тверь",
     "City1": "",
-    "ActDate": "20240805",
+    "ActDate": "20240806",
     "IndexOld": ""
 }
