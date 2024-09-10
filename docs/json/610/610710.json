@@ -1,13 +1,13 @@
 {
     "Index": 610710,
     "OPSName": "ИВЦ Кировской области",
-    "OPSType": "Цех",
+    "OPSType": "ИВЦ",
     "OPSSubm": 610700,
     "Region": "Кировская область",
     "Autonom": "",
     "Area": "",
     "City": "Киров",
     "City1": "",
-    "ActDate": "20190306",
+    "ActDate": "20240902",
     "IndexOld": ""
 }

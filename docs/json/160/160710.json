@@ -1,13 +1,13 @@
 {
     "Index": 160710,
     "OPSName": "ИВЦ Вологодской области",
-    "OPSType": "Цех",
+    "OPSType": "ИВЦ",
     "OPSSubm": 160700,
     "Region": "Вологодская область",
     "Autonom": "",
     "Area": "",
     "City": "Вологда",
     "City1": "",
-    "ActDate": "20190306",
+    "ActDate": "20240902",
     "IndexOld": ""
 }

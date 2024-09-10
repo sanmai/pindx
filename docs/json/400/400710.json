@@ -1,13 +1,13 @@
 {
     "Index": 400710,
     "OPSName": "ИВЦ Волгоградской области",
-    "OPSType": "Цех",
+    "OPSType": "ИВЦ",
     "OPSSubm": 400700,
     "Region": "Волгоградская область",
     "Autonom": "",
     "Area": "",
     "City": "Волгоград",
     "City1": "",
-    "ActDate": "20190306",
+    "ActDate": "20240902",
     "IndexOld": ""
 }

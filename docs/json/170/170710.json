@@ -1,13 +1,13 @@
 {
     "Index": 170710,
     "OPSName": "ИВЦ Тверской области",
-    "OPSType": "Цех",
+    "OPSType": "ИВЦ",
     "OPSSubm": 170700,
     "Region": "Тверская область",
     "Autonom": "",
     "Area": "",
     "City": "Тверь",
     "City1": "",
-    "ActDate": "20190306",
+    "ActDate": "20240902",
     "IndexOld": ""
 }

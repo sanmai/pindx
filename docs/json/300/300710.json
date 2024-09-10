@@ -1,13 +1,13 @@
 {
     "Index": 300710,
     "OPSName": "ИВЦ Тульской области",
-    "OPSType": "Цех",
+    "OPSType": "ИВЦ",
     "OPSSubm": 300700,
     "Region": "Тульская область",
     "Autonom": "",
     "Area": "",
     "City": "Тула",
     "City1": "Косая Гора",
-    "ActDate": "20190306",
+    "ActDate": "20240902",
     "IndexOld": ""
 }

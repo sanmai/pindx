@@ -1,13 +1,13 @@
 {
     "Index": 180710,
     "OPSName": "ИВЦ Псковской области",
-    "OPSType": "Цех",
+    "OPSType": "ИВЦ",
     "OPSSubm": 180700,
     "Region": "Псковская область",
     "Autonom": "",
     "Area": "",
     "City": "Псков",
     "City1": "",
-    "ActDate": "20190306",
+    "ActDate": "20240902",
     "IndexOld": ""
 }

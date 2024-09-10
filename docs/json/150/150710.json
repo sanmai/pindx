@@ -1,13 +1,13 @@
 {
     "Index": 150710,
     "OPSName": "ИВЦ Ярославской области",
-    "OPSType": "Цех",
+    "OPSType": "ИВЦ",
     "OPSSubm": 150700,
     "Region": "Ярославская область",
     "Autonom": "",
     "Area": "",
     "City": "Ярославль",
     "City1": "",
-    "ActDate": "20190306",
+    "ActDate": "20240902",
     "IndexOld": ""
 }
