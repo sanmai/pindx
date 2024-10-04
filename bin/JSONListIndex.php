@@ -16,6 +16,8 @@
  */
 
 declare(strict_types=1);
+use PIndxTools\Reader;
+use PIndxTools\Record;
 
 require 'vendor/autoload.php';
 
@@ -23,13 +25,13 @@ if (!is_dir('docs/json')) {
     mkdir('docs/json');
 }
 
-$reader = new \PIndxTools\Reader();
+$reader = new Reader();
 $pipeline = \Pipeline\take($reader->read());
-$pipeline->map(function (PIndxTools\Record $record) {
+$pipeline->map(static function (Record $record) {
     yield $record->Index;
 });
 
-$result = $pipeline->reduce(function (array $carry, int $index) {
+$result = $pipeline->reduce(static function (array $carry, int $index) {
     $cityCode = substr((string) $index, 0, 3);
 
     $carry[$cityCode][$index] = $index;

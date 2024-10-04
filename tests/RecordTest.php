@@ -20,6 +20,7 @@ declare(strict_types=1);
 namespace Tests\PIndxTools;
 
 use PHPUnit\Framework\TestCase;
+use PIndxTools\Record;
 
 /**
  * @covers \PIndxTools\Record
@@ -30,7 +31,7 @@ final class RecordTest extends TestCase
 {
     public function testInterface(): void
     {
-        $record = new \PIndxTools\Record();
+        $record = new Record();
         $record->Index = 100100;
         $record->OPSName = 'Testing';
         $record->OPSType = 'TST';

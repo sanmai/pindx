@@ -20,6 +20,7 @@ declare(strict_types=1);
 namespace Tests\PIndxTools;
 
 use PHPUnit\Framework\TestCase;
+use PIndxTools\Reader;
 
 /**
  * @covers \PIndxTools\Reader
@@ -34,7 +35,7 @@ final class ReaderTest extends TestCase
         \fwrite($fh, "101000\tМОСКВА\tО\t127950\tМОСКВА\t\t\t\t\t20110121\t\t\n");
         \rewind($fh);
 
-        $reader = new \PIndxTools\Reader();
+        $reader = new Reader();
         foreach ($reader->read($fh) as $rec) {
             break;
         }
@@ -51,7 +52,7 @@ final class ReaderTest extends TestCase
         $this->assertIsClosedResource($fh);
     }
 
-    public function provideUpdateCyrillicCasing(): iterable
+    public static function provideUpdateCyrillicCasingCases(): iterable
     {
         yield ['Москва', 'МОСКВА'];
 
@@ -83,10 +84,10 @@ final class ReaderTest extends TestCase
     }
 
     /**
-     * @dataProvider provideUpdateCyrillicCasing
+     * @dataProvider provideUpdateCyrillicCasingCases
      */
     public function testUpdateCyrillicCasing(string $expected, string $input): void
     {
-        $this->assertSame($expected, \PIndxTools\Reader::updateCyrillicCasing($input));
+        $this->assertSame($expected, Reader::updateCyrillicCasing($input));
     }
 }

@@ -19,9 +19,9 @@ declare(strict_types=1);
 
 namespace PIndxTools;
 
-use function Later\later;
-
 use morphos\Russian\GeographicalNamesInflection;
+
+use function Later\later;
 
 /**
  * @internal
@@ -82,10 +82,10 @@ final class Reader
     {
         static $patterns;
 
-        $patterns = $patterns ?? later(function (): iterable {
+        $patterns = $patterns ?? later(static function (): iterable {
             $patterns = [];
 
-            $generatePairs = (function () {
+            $generatePairs = (static function () {
                 foreach (self::LOWER_CASE_WORDS as $word => $replacement) {
                     yield $word => $replacement;
 

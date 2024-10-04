@@ -19,6 +19,8 @@ declare(strict_types=1);
 
 namespace PIndxTools;
 
+use RussianPostIndex\Util\RecordTrait;
+
 /**
  * Данные из исходного файла.
  *
@@ -26,7 +28,7 @@ namespace PIndxTools;
  */
 final class Record implements \RussianPostIndex\Record
 {
-    use \RussianPostIndex\Util\RecordTrait;
+    use RecordTrait;
 
     /**
      * Почтовый индекс объекта почтовой связи в соответствии с действующей системой индексации.
