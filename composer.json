@@ -5,7 +5,7 @@
     "homepage": "https://sanmai.github.io/pindx/",
     "license": "Apache-2.0",
     "require": {
-        "sanmai/pindx-client": "^0.1"
+        "sanmai/pindx-client": ">=0.1"
     },
     "require-dev": {
         "php": "^7.4 || ^8",
