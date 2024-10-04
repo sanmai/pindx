@@ -11,12 +11,12 @@ turbo: true
 Данные по почтовым индексам доступны в формате JSON по адресам вида:
 
 ```
-https://www.postindexapi.ru/json/AAA/AAABBB.json
+https://sanmai.github.io/pindx/json/AAA/AAABBB.json
 ```
 
 Где `AAA` - первые три цифры индекса, `BBB` - последние три.
 
-<span id="example-json">Например, посмотрите [данные для индекса 199151](https://www.postindexapi.ru/json/199/199151.json).</span>
+<span id="example-json">Например, посмотрите [данные для индекса 199151](https://sanmai.github.io/pindx/json/199/199151.json).</span>
 
 <script>
 

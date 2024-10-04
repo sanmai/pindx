@@ -2,7 +2,7 @@
     "name": "sanmai/pindx",
     "type": "library",
     "description": "Эталонный справочник почтовых индексов объектов почтовой связи",
-    "homepage": "https://www.postindexapi.ru/",
+    "homepage": "https://sanmai.github.io/pindx/",
     "license": "Apache-2.0",
     "require": {
         "sanmai/pindx-client": "^0.1"

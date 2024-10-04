@@ -1,5 +1,5 @@
-Host: https://www.postindexapi.ru/
-Sitemap: https://www.postindexapi.ru/sitemap.xml
+Host: https://sanmai.github.io/pindx/
+Sitemap: https://sanmai.github.io/pindx/sitemap.xml
 
 User-agent: *
 Disallow: /id/
