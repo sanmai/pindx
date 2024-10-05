@@ -21,14 +21,14 @@ https://sanmai.github.io/pindx/json/AAA/AAABBB.json
 <script>
 
 (async () => {
-    let prefix = await window.fetch('/json/index.json')
+    let prefix = await window.fetch('json/index.json')
         .then(function(response) {
             return response.json();
         }).then(function(json) {
             return json[~~(Math.random() * json.length)];
         });
 
-    let index = await window.fetch('/json/' + prefix + '.json')
+    let index = await window.fetch('json/' + prefix + '.json')
         .then(function(response) {
             return response.json();
         }).then(function(json) {
