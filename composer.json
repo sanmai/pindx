@@ -13,7 +13,7 @@
         "friendsofphp/php-cs-fixer": "^3.0",
         "guzzlehttp/guzzle": "^7",
         "jms/serializer": "^3.0",
-        "phpunit/phpunit": "^9.5",
+        "phpunit/phpunit": "^9.5 || ^11.0",
         "sanmai/later": "^0.1.2",
         "sanmai/pipeline": "^5.0 || ^6.0",
         "symfony/finder": "^5",
