@@ -128,7 +128,7 @@ final class Reader
     /**
      * @param resource|string $input
      *
-     * @return \Generator|\PIndxTools\Record[]
+     * @return \Generator|Record[]
      */
     public function read($input = self::TSV_SOURCE): \Generator
     {
