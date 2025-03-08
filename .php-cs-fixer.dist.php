@@ -34,6 +34,7 @@ $config
         'comment_to_phpdoc' => true,
         'native_function_invocation' => ['include' => ['@internal'], 'scope' => 'namespaced'],
         'php_unit_test_case_static_method_calls' => false,
+        'php_unit_data_provider_method_order' => ['placement' => 'before'],
         'yoda_style' => true,
     ])
     ->setFinder(

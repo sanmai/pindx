@@ -20,8 +20,6 @@ declare(strict_types=1);
 namespace Tests\PIndxTools;
 
 use PHPUnit\Framework\TestCase;
-use PIndxTools\Reader;
-use PIndxTools\Record;
 
 /**
  * @coversNothing
@@ -30,19 +28,6 @@ use PIndxTools\Record;
  */
 final class ValidateTest extends TestCase
 {
-    public static function providePostalCodeExistsCases(): iterable
-    {
-        if (!\file_exists(Reader::TSV_SOURCE)) {
-            self::markTestSkipped('No data to test with');
-        }
-
-        $reader = new Reader();
-
-        return \Pipeline\take($reader->read())->map(static function (Record $record) {
-            return [$record->Index];
-        });
-    }
-
     /**
      * @dataProvider providePostalCodeExistsCases
      *
