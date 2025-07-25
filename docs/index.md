@@ -51,7 +51,6 @@ https://sanmai.github.io/pindx/json/AAA/AAABBB.json
             a.href = href;
             a.innerHTML = a.innerHTML.replace(/\d+/gi, index);
 
-            // Update fetch example with the actual postal code
             let fetchExample = document.getElementById('fetch-example');
             if (fetchExample) {
                 fetchExample.innerHTML = fetchExample.innerHTML.replace(/123456/g, index);
