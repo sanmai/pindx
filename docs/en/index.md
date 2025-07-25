@@ -50,7 +50,7 @@ Just replace `AAA` with the first three digits and `BBB` with the last three.
             let example = document.getElementById('example-json');
 
             let pre = document.createElement("pre");
-            pre.innerHTML = JSON.stringify(json, null, 2);
+            pre.textContent = JSON.stringify(json, null, 2);
             example.appendChild(pre);
 
             let a = example.querySelector('a');

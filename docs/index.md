@@ -44,7 +44,7 @@ https://sanmai.github.io/pindx/json/AAA/AAABBB.json
             let example = document.getElementById('example-json');
 
             let pre = document.createElement("pre");
-            pre.innerHTML = JSON.stringify(json, null, 2);
+            pre.textContent = JSON.stringify(json, null, 2);
             example.appendChild(pre);
 
             let a = example.querySelector('a');
