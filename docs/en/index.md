@@ -24,52 +24,13 @@ Just replace `AAA` with the first three digits and `BBB` with the last three.
 
 <span id="example-json">For example: [postal code 199151](https://sanmai.github.io/pindx/json/199/199151.json)</span>
 
-<script>
-
-(async () => {
-    let prefix = await window.fetch('../json/index.json')
-        .then(function(response) {
-            return response.json();
-        }).then(function(json) {
-            return json[~~(Math.random() * json.length)];
-        });
-
-    let index = await window.fetch('../json/' + prefix + '.json')
-        .then(function(response) {
-            return response.json();
-        }).then(function(json) {
-            return json[~~(Math.random() * json.length)];
-        });
-
-    let href = '../json/' + prefix + '/' + index + '.json';
-
-    window.fetch(href)
-        .then(function(response) {
-            return response.json();
-        }).then(function(json) {
-            let example = document.getElementById('example-json');
-
-            let pre = document.createElement("pre");
-            pre.textContent = JSON.stringify(json, null, 2);
-            example.appendChild(pre);
-
-            let a = example.querySelector('a');
-            a.href = href;
-            a.innerHTML = a.innerHTML.replace(/\d+/gi, index);
-
-            let fetchExample = document.getElementById('fetch-example');
-            if (fetchExample) {
-                fetchExample.innerHTML = fetchExample.innerHTML.replace(/123456/g, index);
-                fetchExample.innerHTML = fetchExample.innerHTML.replace(/123/g, prefix);
-            }
-        });
-})();
-
-</script>
+<script src="{{ site.url }}{{ site.baseurl }}/assets/js/pindx.js"></script>
 
 **CORS enabled** - call it directly from your web app. Perfect for address validation, shipping calculators, or location services.
 
 **Data source**: [Official Russian Post database](https://www.pochta.ru/support/database/ops), checked daily for updates. Current version: [{{ site.data.status.updated | date: "%B %d, %Y" }}](https://www.pochta.ru/support/database/ops).
+
+*Note: The source database link may not be accessible outside Russia. The API itself works worldwide.*
 
 [Report issues here](https://github.com/sanmai/pindx/issues/new)
 
