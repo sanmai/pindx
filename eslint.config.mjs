@@ -1,5 +1,8 @@
 export default [
     {
+        ignores: ["eslint.config.*"]
+    },
+    {
         languageOptions: {
             ecmaVersion: 2020,
             sourceType: "script",
