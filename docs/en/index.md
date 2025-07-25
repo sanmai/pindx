@@ -10,19 +10,19 @@ Last updated: {{ site.data.status.updated | date: "%B %d, %Y" }}
 
 ## What is this?
 
-This is a **free JSON API** for Russian postal codes (zip codes), based on the official database from **Russian Post** (Почта России). The API provides comprehensive information about postal offices, regions, cities, and districts across Russia.
+A **free JSON API** for Russian postal codes, built from the official **Russian Post** database. Get detailed information about any postal office, region, city, or district across Russia.
 
 ## How it works
 
-Postal code data is available in JSON format at URLs like:
+Postal code data is available as JSON at URLs like:
 
 ```
 https://sanmai.github.io/pindx/json/AAA/AAABBB.json
 ```
 
-Where `AAA` are the first three digits of the postal code, and `BBB` are the last three.
+Just replace `AAA` with the first three digits and `BBB` with the last three.
 
-<span id="example-json">For example, check out [postal code 199151 data](https://sanmai.github.io/pindx/json/199/199151.json).</span>
+<span id="example-json">For example: [postal code 199151](https://sanmai.github.io/pindx/json/199/199151.json)</span>
 
 <script>
 
@@ -67,27 +67,27 @@ Where `AAA` are the first three digits of the postal code, and `BBB` are the las
 
 </script>
 
-This API supports **CORS** (Cross-Origin Resource Sharing), so you can use it directly from web applications. Perfect for validating postal codes in address forms or building location-based services.
+**CORS enabled** - call it directly from your web app. Perfect for address validation, shipping calculators, or location services.
 
-**Data Source**: [Official postal code database](https://www.pochta.ru/support/database/ops) from the Russian Post (FGUP "Russian Post"). The database is synchronized with the official source daily. Current version: [{{ site.data.status.updated | date: "%B %d, %Y" }}](https://www.pochta.ru/support/database/ops).
+**Data source**: [Official Russian Post database](https://www.pochta.ru/support/database/ops), checked daily for updates. Current version: [{{ site.data.status.updated | date: "%B %d, %Y" }}](https://www.pochta.ru/support/database/ops).
 
 [Report issues here](https://github.com/sanmai/pindx/issues/new)
 
-### Data Fields Description
+### Response Fields
 
 | Field | Description |
 | ---- | ---- |
-| Index | Postal code according to the current indexing system |
-| OPSName | Name of the postal office |
-| OPSType | Type of postal office (О - office, ММПО - mail processing center, etc.) |
-| OPSSubm | Index of the superior postal office in hierarchy |
-| Region | Name of the region, territory, or republic |
-| Autonom | Name of autonomous region (if applicable) |
-| Area | Name of district |
-| City | Name of city or town |
-| City1 | Name of subordinate settlement (if applicable) |
-| ActDate | Date when information was last updated (YYYYMMDD format) |
-| IndexOld | Old postal code before current indexing system |
+| Index | The postal code |
+| OPSName | Post office name |
+| OPSType | Office type (О = office, ММПО = mail processing center, etc.) |
+| OPSSubm | Parent office postal code |
+| Region | Region, territory, or republic |
+| Autonom | Autonomous region (if any) |
+| Area | District name |
+| City | City or town name |
+| City1 | Sub-settlement (if any) |
+| ActDate | Last updated (YYYYMMDD) |
+| IndexOld | Legacy postal code |
 
 ## Usage Examples
 
@@ -113,7 +113,7 @@ fetch(`https://sanmai.github.io/pindx/json/${prefix}/${postalCode}.json`)
 
 </div>
 
-### Example with async/await and error handling
+### Advanced example with async/await
 
 ```javascript
 async function getPostalOffice(postalCode) {
@@ -121,7 +121,7 @@ async function getPostalOffice(postalCode) {
   const response = await fetch(`https://sanmai.github.io/pindx/json/${prefix}/${postalCode}.json`);
 
   if (response.status === 404) {
-    return null; // Postal code not found in database
+    return null; // Not found
   }
 
   if (!response.ok) {
@@ -143,25 +143,10 @@ async function getPostalOffice(postalCode) {
   
   const notFound = await getPostalOffice(invalidCode);
   if (!notFound) {
-    console.log('Postal code not found in database');
+    console.log('Not found');
   }
 })();
 
-## Why Use This API?
-
-- **100% Free** - No API keys, no rate limits, no registration
-- **Always Up-to-Date** - Synchronized daily with official Russian Post database
-- **CORS Enabled** - Use directly from web browsers
-- **Fast & Reliable** - Hosted on GitHub Pages CDN
-- **Comprehensive** - Complete Russian postal code coverage
-- **Developer Friendly** - Simple REST API with JSON responses
-
-Perfect for:
-- E-commerce address validation
-- Shipping calculators
-- Location-based services
-- Geographic data analysis
-- Russian market applications
 
 ---
 
