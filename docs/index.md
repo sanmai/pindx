@@ -89,8 +89,8 @@ https://sanmai.github.io/pindx/json/AAA/AAABBB.json
 
 ```javascript
 // Получаем данные для индекса 123456
-const postalCode = 123456;
-const prefix = postalCode.toString().substring(0, 3); // получаем первые 3 цифры: "123"
+const postalCode = "123456";
+const prefix = postalCode.substring(0, 3); // получаем первые 3 цифры: "123"
 
 fetch(`https://sanmai.github.io/pindx/json/${prefix}/${postalCode}.json`)
   .then(response => response.json())
@@ -107,7 +107,7 @@ fetch(`https://sanmai.github.io/pindx/json/${prefix}/${postalCode}.json`)
 
 ```javascript
 async function getPostalOffice(postalCode) {
-  const prefix = postalCode.toString().substring(0, 3);
+  const prefix = postalCode.substring(0, 3);
   const response = await fetch(`https://sanmai.github.io/pindx/json/${prefix}/${postalCode}.json`);
 
   if (response.status === 404) {
@@ -115,15 +115,15 @@ async function getPostalOffice(postalCode) {
   }
 
   if (!response.ok) {
-    throw new Error(response.status);
+    throw new Error(`HTTP ${response.status}: ${response.statusText}`);
   }
 
   return await response.json();
 }
 
 (async () => {
-  const validCode = 123456;
-  const invalidCode = 000000;
+  const validCode = "123456";
+  const invalidCode = "000000";
 
   const office = await getPostalOffice(validCode);
   if (office) {
