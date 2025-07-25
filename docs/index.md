@@ -50,6 +50,12 @@ https://sanmai.github.io/pindx/json/AAA/AAABBB.json
             let a = example.querySelector('a');
             a.href = href;
             a.innerHTML = a.innerHTML.replace(/\d+/gi, index);
+
+            let fetchExample = document.getElementById('fetch-example');
+            if (fetchExample) {
+                fetchExample.innerHTML = fetchExample.innerHTML.replace(/123456/g, index);
+                fetchExample.innerHTML = fetchExample.innerHTML.replace(/123/g, prefix);
+            }
         });
 })();
 
@@ -76,6 +82,62 @@ https://sanmai.github.io/pindx/json/AAA/AAABBB.json
 | City1  | Наименование подчиненного населенного пункта, в котором находится объект почтовой связи.  |
 | ActDate  | Дата актуализации информации об объекте почтовой связи.  |
 | IndexOld  | Почтовый индекс объект почтовой связи до ввода действующей системы индексации.  |
+
+## Пример использования с `fetch()`
+
+<div id="fetch-example">
+
+```javascript
+// Получаем данные для индекса 123456
+const postalCode = "123456";
+const prefix = postalCode.substring(0, 3); // получаем первые 3 цифры: "123"
+
+fetch(`https://sanmai.github.io/pindx/json/${prefix}/${postalCode}.json`)
+  .then(response => response.json())
+  .then(data => {
+    console.log('Индекс:', data.Index);
+    console.log('Регион:', data.Region);
+    console.log('Район:', data.Area);
+    console.log('Город:', data.City);
+  })
+  .catch(error => console.error('Почтовый индекс не найден:', error));
+```
+
+Ещё один пример с `async/await` и проверкой ошибок.
+
+```javascript
+async function getPostalOffice(postalCode) {
+  const prefix = postalCode.substring(0, 3);
+  const response = await fetch(`https://sanmai.github.io/pindx/json/${prefix}/${postalCode}.json`);
+
+  if (response.status === 404) {
+    return null; // Почтовый индекс не найден
+  }
+
+  if (!response.ok) {
+    throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+  }
+
+  return await response.json();
+}
+
+(async () => {
+  const validCode = "123456";
+  const invalidCode = "000000";
+
+  const office = await getPostalOffice(validCode);
+  if (office) {
+    console.log(`Найден: ${office.OPSName}, ${office.Region}`);
+  }
+  
+  const notFound = await getPostalOffice(invalidCode);
+  if (!notFound) {
+    console.log('Индекс не найден');
+  }
+})();
+```
+
+</div>
 
 ## PHP клиент для доступа к API
 
