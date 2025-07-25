@@ -90,7 +90,7 @@ https://sanmai.github.io/pindx/json/AAA/AAABBB.json
 ```javascript
 // Получаем данные для индекса 123456
 const postalCode = 123456;
-const prefix = Math.floor(postalCode / 1000); // получаем первые 3 цифры: 123
+const prefix = postalCode.toString().substring(0, 3); // получаем первые 3 цифры: "123"
 
 fetch(`https://sanmai.github.io/pindx/json/${prefix}/${postalCode}.json`)
   .then(response => response.json())
@@ -101,6 +101,40 @@ fetch(`https://sanmai.github.io/pindx/json/${prefix}/${postalCode}.json`)
     console.log('Город:', data.City);
   })
   .catch(error => console.error('Почтовый индекс не найден:', error));
+```
+
+Ещё один пример с `async/await` и проверкой ошибок.
+
+```javascript
+async function getPostalOffice(postalCode) {
+  const prefix = postalCode.toString().substring(0, 3);
+  const response = await fetch(`https://sanmai.github.io/pindx/json/${prefix}/${postalCode}.json`);
+
+  if (response.status === 404) {
+    return null; // Почтовый индекс не найден
+  }
+
+  if (!response.ok) {
+    throw new Error(response.status);
+  }
+
+  return await response.json();
+}
+
+(async () => {
+  const validCode = 123456;
+  const invalidCode = 000000;
+
+  const office = await getPostalOffice(validCode);
+  if (office) {
+    console.log(`Найден: ${office.OPSName}, ${office.Region}`);
+  }
+  
+  const notFound = await getPostalOffice(invalidCode);
+  if (!notFound) {
+    console.log('Индекс не найден');
+  }
+})();
 ```
 
 </div>
