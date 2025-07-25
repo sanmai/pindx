@@ -1,0 +1,35 @@
+---
+# yamllint disable rule:line-length
+
+name: Validate JavaScript
+
+on:
+  push:
+    branches: [master, main]
+    paths:
+      - '**/*.js'
+      - '.github/workflows/validate-js.yml'
+  pull_request:
+    branches: [master, main]
+    paths:
+      - '**/*.js'
+      - '.github/workflows/validate-js.yml'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Install ESLint
+        run: npm install -g eslint
+
+      - name: Validate JavaScript files
+        run: eslint .

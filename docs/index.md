@@ -18,48 +18,7 @@ https://sanmai.github.io/pindx/json/AAA/AAABBB.json
 
 <span id="example-json">Например, посмотрите [данные для индекса 199151](https://sanmai.github.io/pindx/json/199/199151.json).</span>
 
-<script>
-
-(async () => {
-    let prefix = await window.fetch('./json/index.json')
-        .then(function(response) {
-            return response.json();
-        }).then(function(json) {
-            return json[~~(Math.random() * json.length)];
-        });
-
-    let index = await window.fetch('./json/' + prefix + '.json')
-        .then(function(response) {
-            return response.json();
-        }).then(function(json) {
-            return json[~~(Math.random() * json.length)];
-        });
-
-    let href = './json/' + prefix + '/' + index + '.json';
-
-    window.fetch(href)
-        .then(function(response) {
-            return response.json();
-        }).then(function(json) {
-            let example = document.getElementById('example-json');
-
-            let pre = document.createElement("pre");
-            pre.textContent = JSON.stringify(json, null, 2);
-            example.appendChild(pre);
-
-            let a = example.querySelector('a');
-            a.href = href;
-            a.innerHTML = a.innerHTML.replace(/\d+/gi, index);
-
-            let fetchExample = document.getElementById('fetch-example');
-            if (fetchExample) {
-                fetchExample.innerHTML = fetchExample.innerHTML.replace(/123456/g, index);
-                fetchExample.innerHTML = fetchExample.innerHTML.replace(/123/g, prefix);
-            }
-        });
-})();
-
-</script>
+<script src="{{ site.url }}{{ site.baseurl }}/assets/js/pindx.js"></script>
 
 На этом сайте разрешены AJAX-запросы со сторонних сайтов (стоит разрешающий заголовок `Access-Control-Allow-Origin`). Например, мы можете проверять корректность ввода индекса в форме адреса.
 

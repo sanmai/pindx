@@ -20,3 +20,6 @@ lang: ru
 
 title: Бесплатное JSON API
 description: Эталонный справочник почтовых индексов объектов почтовой связи (База индексов Почты России)
+
+url: https://sanmai.github.io
+baseurl: /pindx
