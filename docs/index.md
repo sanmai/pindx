@@ -85,7 +85,7 @@ https://sanmai.github.io/pindx/json/AAA/AAABBB.json
 
 ## Пример использования с `fetch()`
 
-<div id="fetch-example">
+<div id="fetch-example" markdown="1">
 
 ```javascript
 // Получаем данные для индекса 123456
