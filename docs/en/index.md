@@ -148,6 +148,3 @@ async function getPostalOffice(postalCode) {
 })();
 
 
----
-
-🇷🇺 [Русская версия](../) | 🐙 [GitHub Repository](https://github.com/sanmai/pindx)
