@@ -10,7 +10,7 @@ Last updated: {{ site.data.status.updated | date: "%B %d, %Y" }}
 
 ## What is this?
 
-A free JSON API for Russian postal codes, built from the official Russian Post database. Get detailed information about any postal office, region, city, or district across Russia.
+A free JSON API for Russian postal codes, built from the [official Russian Post database](https://www.pochta.ru/support/database/ops). Get detailed information about any postal office, region, city, or district across Russia.
 
 ## How it works
 
@@ -28,11 +28,9 @@ Just replace `AAA` with the first three digits and `BBB` with the last three.
 
 CORS enabled - call it directly from your web app. Perfect for address validation, shipping calculators, or location services.
 
-Data source: [Official Russian Post database](https://www.pochta.ru/support/database/ops), checked daily for updates. Current version: [{{ site.data.status.updated | date: "%B %d, %Y" }}](https://www.pochta.ru/support/database/ops).
+NoteL The source database link may not be accessible outside Russia. The API itself works where GitHub Pages work.
 
-*Note: The source database link may not be accessible outside Russia. The API itself works worldwide.*
-
-[Report issues here](https://github.com/sanmai/pindx/issues/new)
+[Feel free to open an issue if anything is wrong or odd.](https://github.com/sanmai/pindx/issues/new)
 
 ### Response Fields
 
