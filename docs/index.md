@@ -100,7 +100,7 @@ fetch(`https://sanmai.github.io/pindx/json/${prefix}/${postalCode}.json`)
     console.log('Район:', data.Area);
     console.log('Город:', data.City);
   })
-  .catch(error => console.error('Ошибка:', error));
+  .catch(error => console.error('Почтовый индекс не найден:', error));
 ```
 
 </div>
