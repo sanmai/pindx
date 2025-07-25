@@ -109,3 +109,22 @@ if ($office = $client->getOffice($postalCode)) {
 ```
 
 Более подробно [в документации к библиотеке](https://github.com/sanmai/pindx#%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D1%87%D0%BD%D0%B8%D0%BA-%D0%BF%D0%BE%D1%87%D1%82%D0%BE%D0%B2%D1%8B%D1%85-%D0%B8%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%D0%BE%D0%B2).
+
+## Пример использования с `fetch()`
+
+```javascript
+// Получаем данные для индекса 123456
+const postalCode = 123456;
+const prefix = Math.floor(postalCode / 1000); // получаем первые 3 цифры: 123
+
+fetch(`https://sanmai.github.io/pindx/json/${prefix}/${postalCode}.json`)
+  .then(response => response.json())
+  .then(data => {
+    console.log('Индекс:', data.Index);
+    console.log('Название:', data.OPSName);
+    console.log('Регион:', data.Region);
+    console.log('Район:', data.Area);
+    console.log('Город:', data.City);
+  })
+  .catch(error => console.error('Ошибка:', error));
+```
