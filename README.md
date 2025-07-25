@@ -12,7 +12,7 @@
 
 ## JSON
 
-Для вашего удобства все данные из БД [также есть в виде JSON API почтовых индексов](https://sanmai.github.io/pindx/).
+Для вашего удобства все данные из БД [также есть в виде JSON API почтовых индексов](https://sanmai.github.io/pindx/) ([in English](https://sanmai.github.io/pindx/en/)).
 
 API - бесплатное, обратная ссылка - желательна. [Сами файлы.](docs/json)
 
