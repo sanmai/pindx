@@ -1,51 +1,47 @@
 (async () => {
-    // Dynamically determine the site's base URL (works for any GitHub Pages repo)
-    const pathParts = window.location.pathname.split('/').filter(part => part);
-    const repoBase = pathParts.length > 0 ? '/' + pathParts[0] : '';
-    const baseUrl = window.location.origin + repoBase + '/json/';
+    try {
+        // Dynamically determine the site's base URL (works for any GitHub Pages repo)
+        const pathParts = window.location.pathname.split('/').filter(part => part);
+        const repoBase = pathParts.length > 0 ? '/' + pathParts[0] : '';
+        const baseUrl = window.location.origin + repoBase + '/json/';
 
-    // Get a random prefix from the index
-    let prefix = await window.fetch(baseUrl + 'index.json')
-        .then(function(response) {
-            return response.json();
-        }).then(function(json) {
-            return json[~~(Math.random() * json.length)];
-        });
+        // Get a random prefix from the index
+        const indexResponse = await fetch(baseUrl + 'index.json');
+        const indexData = await indexResponse.json();
+        const prefix = indexData[~~(Math.random() * indexData.length)];
 
-    // Get a random postal code from that prefix
-    let index = await window.fetch(baseUrl + prefix + '.json')
-        .then(function(response) {
-            return response.json();
-        }).then(function(json) {
-            return json[~~(Math.random() * json.length)];
-        });
+        // Get a random postal code from that prefix
+        const prefixResponse = await fetch(baseUrl + prefix + '.json');
+        const prefixData = await prefixResponse.json();
+        const index = prefixData[~~(Math.random() * prefixData.length)];
 
-    let href = baseUrl + prefix + '/' + index + '.json';
+        const href = baseUrl + prefix + '/' + index + '.json';
 
-    // Fetch the actual postal code data
-    window.fetch(href)
-        .then(function(response) {
-            return response.json();
-        }).then(function(json) {
-            // Update the example JSON display
-            let example = document.getElementById('example-json');
-            if (example) {
-                let pre = document.createElement("pre");
-                pre.textContent = JSON.stringify(json, null, 2);
-                example.appendChild(pre);
+        // Fetch the actual postal code data
+        const dataResponse = await fetch(href);
+        const json = await dataResponse.json();
 
-                let a = example.querySelector('a');
-                if (a) {
-                    a.href = href;
-                    a.innerHTML = a.innerHTML.replace(/\d+/gi, index);
-                }
+        // Update the example JSON display
+        const example = document.getElementById('example-json');
+        if (example) {
+            const pre = document.createElement("pre");
+            pre.textContent = JSON.stringify(json, null, 2);
+            example.appendChild(pre);
+
+            const a = example.querySelector('a');
+            if (a) {
+                a.href = href;
+                a.innerHTML = a.innerHTML.replace(/\d+/gi, index);
             }
+        }
 
-            // Update the fetch example with the real postal code
-            let fetchExample = document.getElementById('fetch-example');
-            if (fetchExample) {
-                fetchExample.innerHTML = fetchExample.innerHTML.replace(/123456/g, index);
-                fetchExample.innerHTML = fetchExample.innerHTML.replace(/123/g, prefix);
-            }
-        });
+        // Update the fetch example with the real postal code
+        const fetchExample = document.getElementById('fetch-example');
+        if (fetchExample) {
+            fetchExample.innerHTML = fetchExample.innerHTML.replace(/123456/g, index);
+            fetchExample.innerHTML = fetchExample.innerHTML.replace(/123/g, prefix);
+        }
+    } catch (error) {
+        console.error('Failed to load postal code example:', error);
+    }
 })();

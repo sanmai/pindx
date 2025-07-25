@@ -1,0 +1,57 @@
+# yamllint disable rule:line-length
+# yamllint disable rule:braces
+
+name: Validate JavaScript
+
+on:
+  push:
+    branches: [ master, main ]
+    paths:
+      - '**/*.js'
+      - '.github/workflows/validate-js.yml'
+  pull_request:
+    branches: [ master, main ]
+    paths:
+      - '**/*.js'
+      - '.github/workflows/validate-js.yml'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+
+    - name: Install ESLint
+      run: npm install -g eslint
+
+    - name: Find and validate JavaScript files
+      run: |
+        echo "Finding all JavaScript files..."
+        js_files=$(find . -name "*.js" -not -path "./node_modules/*" -not -path "./.git/*")
+
+        if [ -z "$js_files" ]; then
+          echo "No JavaScript files found"
+          exit 0
+        fi
+
+        echo "Found JavaScript files:"
+        echo "$js_files"
+
+        echo -e "\nValidating JavaScript syntax..."
+        for file in $js_files; do
+          echo "Validating $file"
+          node -c "$file"
+        done
+
+        echo -e "\nRunning ESLint basic checks..."
+        for file in $js_files; do
+          echo "Linting $file"
+          eslint "$file" --no-eslintrc --env browser --env es6 --parserOptions '{"ecmaVersion": 2020}' --rules '{"no-undef": "error", "no-unused-vars": "warn", "no-console": "off"}'
+        done
