@@ -121,7 +121,6 @@ fetch(`https://sanmai.github.io/pindx/json/${prefix}/${postalCode}.json`)
   .then(response => response.json())
   .then(data => {
     console.log('Индекс:', data.Index);
-    console.log('Название:', data.OPSName);
     console.log('Регион:', data.Region);
     console.log('Район:', data.Area);
     console.log('Город:', data.City);
