@@ -1,9 +1,17 @@
 (async () => {
     try {
-        // Dynamically determine the site's base URL (works for any GitHub Pages repo)
-        const pathParts = window.location.pathname.split('/').filter(part => part);
-        const repoBase = pathParts.length > 0 ? '/' + pathParts[0] : '';
-        const baseUrl = window.location.origin + repoBase + '/json/';
+        // Determine base URL based on current domain
+        const githubPagesPattern = /^https:\/\/[^.]+\.github\.io\/([^/]+)/;
+        const match = window.location.href.match(githubPagesPattern);
+        let baseUrl;
+        if (match) {
+            // Running on GitHub Pages - use detected repo name
+            const repoName = match[1];
+            baseUrl = `/${repoName}/json/`;
+        } else {
+            // Not GitHub Pages - use current domain with /json/ (for local testing, custom domains, etc.)
+            baseUrl = `/json/`;
+        }
 
         // Get a random prefix from the index
         const indexResponse = await fetch(baseUrl + 'index.json');
