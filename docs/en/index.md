@@ -28,7 +28,7 @@ Just replace `AAA` with the first three digits and `BBB` with the last three.
 
 CORS enabled - call it directly from your web app. Perfect for address validation, shipping calculators, or location services.
 
-NoteL The source database link may not be accessible outside Russia. The API itself works where GitHub Pages work.
+Note: The source database link may not be accessible outside Russia. The API itself works where GitHub Pages work.
 
 [Feel free to open an issue if anything is wrong or odd.](https://github.com/sanmai/pindx/issues/new)
 
