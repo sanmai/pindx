@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Russian Postal Code Database - Free JSON API"
-description: "Free JSON API for Russian postal codes. Official database from Russian Post with comprehensive coverage of all regions, cities, and postal offices."
+description: "Free JSON API for Russian postal codes. Official database from Russian Post with coverage of all regions, cities, and postal offices."
 lang: en
 turbo: true
 ---
