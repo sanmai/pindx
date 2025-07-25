@@ -50,6 +50,13 @@ https://sanmai.github.io/pindx/json/AAA/AAABBB.json
             let a = example.querySelector('a');
             a.href = href;
             a.innerHTML = a.innerHTML.replace(/\d+/gi, index);
+
+            // Update fetch example with the actual postal code
+            let fetchExample = document.getElementById('fetch-example');
+            if (fetchExample) {
+                fetchExample.innerHTML = fetchExample.innerHTML.replace(/123456/g, index);
+                fetchExample.innerHTML = fetchExample.innerHTML.replace(/123/g, prefix);
+            }
         });
 })();
 
@@ -112,6 +119,8 @@ if ($office = $client->getOffice($postalCode)) {
 
 ## Пример использования с `fetch()`
 
+<div id="fetch-example">
+
 ```javascript
 // Получаем данные для индекса 123456
 const postalCode = 123456;
@@ -127,3 +136,5 @@ fetch(`https://sanmai.github.io/pindx/json/${prefix}/${postalCode}.json`)
   })
   .catch(error => console.error('Ошибка:', error));
 ```
+
+</div>
