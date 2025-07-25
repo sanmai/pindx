@@ -1,7 +1,8 @@
 (async () => {
-    // Dynamically determine the site's base URL
-    const sitePath = window.location.pathname.replace(/\/en\/?$/, '').replace(/\/$/, '');
-    const baseUrl = window.location.origin + sitePath + '/json/';
+    // Dynamically determine the site's base URL (works for any GitHub Pages repo)
+    const pathParts = window.location.pathname.split('/').filter(part => part);
+    const repoBase = pathParts.length > 0 ? '/' + pathParts[0] : '';
+    const baseUrl = window.location.origin + repoBase + '/json/';
 
     // Get a random prefix from the index
     let prefix = await window.fetch(baseUrl + 'index.json')
