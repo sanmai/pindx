@@ -8,12 +8,12 @@
         // Get a random prefix from the index
         const indexResponse = await fetch(baseUrl + 'index.json');
         const indexData = await indexResponse.json();
-        const prefix = indexData[~~(Math.random() * indexData.length)];
+        const prefix = indexData[Math.floor(Math.random() * indexData.length)];
 
         // Get a random postal code from that prefix
         const prefixResponse = await fetch(baseUrl + prefix + '.json');
         const prefixData = await prefixResponse.json();
-        const index = prefixData[~~(Math.random() * prefixData.length)];
+        const index = prefixData[Math.floor(Math.random() * prefixData.length)];
 
         const href = baseUrl + prefix + '/' + index + '.json';
 
