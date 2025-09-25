@@ -1,13 +1,13 @@
 {
     "Index": 190950,
-    "OPSName": "Санкт-Петербург Атп",
-    "OPSType": "Атп",
-    "OPSSubm": 190700,
+    "OPSName": "Санкт-Петербург Удпп-10",
+    "OPSType": "Удпп",
+    "OPSSubm": 197000,
     "Region": "Санкт-Петербург",
     "Autonom": "",
     "Area": "",
     "City": "",
     "City1": "",
-    "ActDate": "20240617",
+    "ActDate": "20250917",
     "IndexOld": ""
 }
