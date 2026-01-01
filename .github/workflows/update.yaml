@@ -5,8 +5,8 @@ name: Database Update (Self-Hosted)
 
 on:
   workflow_dispatch:
+  pull_request:
   schedule:
-    # * is a special character in YAML so you have to quote this string
     - cron: '27 7 * * *'
   push:
     branches:
@@ -15,7 +15,7 @@ on:
 
 jobs:
   update:
-    runs-on: self-hosted
+    runs-on: ubuntu-latest
     name: DB Update
 
     steps:
