@@ -22,10 +22,10 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
 
-      - name: Install dbview
+      - name: Install system packages
         uses: awalsh128/cache-apt-pkgs-action@v1
         with:
-          packages: dbview
+          packages: dbview moreutils
 
       - name: Get composer cache directory
         id: composer-cache
@@ -51,7 +51,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          composer update --optimize-autoloader --no-interaction --no-progress
+          composer install --optimize-autoloader --no-interaction --no-progress
 
       - name: Update database
         env:
@@ -59,8 +59,8 @@ jobs:
           VUSER: ${{ secrets.PINDX_USER }}
           VPASSWORD: ${{ secrets.PINDX_PASSWORD }}
         run: |
-          make cron-clean
-          make cron
+          chronic make cron-clean
+          chronic make cron
 
       - name: Get date updated
         id: last-update-date
