@@ -49,13 +49,17 @@ jobs:
           composer update --optimize-autoloader --no-interaction --no-progress
 
       - name: Update database
+        env:
+          VDOMAIN: ${{ secrets.PINDX_VDOMAIN }}
+          VUSER: ${{ secrets.PINDX_USER }}
+          VPASSWORD: ${{ secrets.PINDX_PASSWORD }}
         run: |
           make cron-clean
           make cron
 
       - name: Get date updated
         id: last-update-date
-        run: echo "::set-output name=date::$(cat docs/_data/last-update-date)"
+        run: echo "date=$(cat docs/_data/last-update-date)" >> $GITHUB_OUTPUT
 
       - name: Run tests
         run: |
