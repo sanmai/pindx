@@ -5,7 +5,6 @@ name: Database Update
 
 on:
   workflow_dispatch:
-  pull_request:
   schedule:
     - cron: '27 7 * * *'
   push:
