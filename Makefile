@@ -1,7 +1,8 @@
 export PHP_CS_FIXER_IGNORE_ENV=1
 SHELL=/bin/bash
 PHP=$$(command -v php)
-VINFO=https://www.pochta.ru/support/database/ops
+VDOMAIN=www.pochta.ru
+VINFO=https://$(VDOMAIN)/support/database/ops
 PINDX_REGEX='(/assets[^"]+[iI]ndx_[^"]+.zip)'
 
 .PHONY=all
@@ -16,14 +17,14 @@ check:
 	# All clear!
 
 ops.txt:
-	timeout -k 15 10 curl -o ops.txt $(VINFO)
+	timeout -k 15 10 curl --silent --fail -o ops.txt $(VINFO)
 	echo -en $$(cat ops.txt) > ops.txt
 	echo -en $$(cat ops.txt) > ops.txt
 	grep -q Эталонный ops.txt
 
 PIndx.zip: ops.txt
 	grep -Eo $(PINDX_REGEX) ops.txt
-	wget -O PIndx.zip "https://www.pochta.ru$$(cat ops.txt | grep -Eo $(PINDX_REGEX) | head -n1)"
+	wget -O PIndx.zip "https://$(VDOMAIN)$$(cat ops.txt | grep -Eo $(PINDX_REGEX) | head -n1)"
 	unzip -t PIndx.zip
 
 PIndx.dbf: PIndx.zip
