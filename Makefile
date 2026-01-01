@@ -30,7 +30,7 @@ ops.txt:
 
 PIndx.zip: ops.txt
 	grep -Eo $(PINDX_REGEX) ops.txt
-	wget $(WGET_AUTH) -O PIndx.zip "https://$(VDOMAIN)$$(cat ops.txt | grep -Eo $(PINDX_REGEX) | head -n1)"
+	wget -q $(WGET_AUTH) -O PIndx.zip "https://$(VDOMAIN)$$(cat ops.txt | grep -Eo $(PINDX_REGEX) | head -n1)"
 	unzip -t PIndx.zip
 
 PIndx.dbf: PIndx.zip
