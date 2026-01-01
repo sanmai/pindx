@@ -27,6 +27,10 @@ jobs:
           composer update --optimize-autoloader --no-interaction --no-progress
 
       - name: Update database
+        env:
+          VDOMAIN: ${{ secrets.PINDX_VDOMAIN }}
+          VUSER: ${{ secrets.PINDX_USER }}
+          VPASSWORD: ${{ secrets.PINDX_PASSWORD }}
         run: |
           make cron-clean
           make cron
