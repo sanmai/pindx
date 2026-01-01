@@ -33,7 +33,7 @@ jobs:
 
       - name: Get date updated
         id: last-update-date
-        run: echo "::set-output name=date::$(cat docs/_data/last-update-date)"
+        run: echo "date=$(cat docs/_data/last-update-date)" >> $GITHUB_OUTPUT
 
       - name: Run tests
         run: |
