@@ -1,12 +1,11 @@
 # yamllint disable rule:line-length
 # yamllint disable rule:braces
 
-name: Database Update (Self-Hosted)
+name: Database Update
 
 on:
   workflow_dispatch:
   schedule:
-    # * is a special character in YAML so you have to quote this string
     - cron: '27 7 * * *'
   push:
     branches:
@@ -15,16 +14,43 @@ on:
 
 jobs:
   update:
-    runs-on: self-hosted
+    runs-on: ubuntu-latest
     name: DB Update
 
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
 
+      - name: Install system packages
+        uses: awalsh128/cache-apt-pkgs-action@v1
+        with:
+          packages: dbview moreutils
+
+      - name: Get composer cache directory
+        id: composer-cache
+        run: echo "dir=$(composer config cache-files-dir)" >> $GITHUB_OUTPUT
+
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: ${{ matrix.php-version }}
+          coverage: none
+          tools: composer:v2
+
+      - name: Cache dependencies
+        uses: actions/cache@v3
+        with:
+          path: ${{ steps.composer-cache.outputs.dir }}
+          key: composer-${{ runner.os }}-${{ matrix.php-version }}-${{ hashFiles('composer.*') }}-${{ matrix.composer-flags }}
+          restore-keys: |
+            composer-${{ runner.os }}-${{ matrix.php-version }}-${{ hashFiles('composer.*') }}-
+            composer-${{ runner.os }}-${{ matrix.php-version }}-
+            composer-${{ runner.os }}-
+            composer-
+
       - name: Install dependencies
         run: |
-          composer update --optimize-autoloader --no-interaction --no-progress
+          composer install --optimize-autoloader --no-interaction --no-progress
 
       - name: Update database
         env:
@@ -32,8 +58,8 @@ jobs:
           VUSER: ${{ secrets.PINDX_USER }}
           VPASSWORD: ${{ secrets.PINDX_PASSWORD }}
         run: |
-          make cron-clean
-          make cron
+          chronic make cron-clean
+          chronic make cron
 
       - name: Get date updated
         id: last-update-date
