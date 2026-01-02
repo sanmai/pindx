@@ -1,6 +1,7 @@
 export PHP_CS_FIXER_IGNORE_ENV=1
 SHELL=/bin/bash
 PHP=$$(command -v php)
+-include .env
 VDOMAIN?=www.pochta.ru
 VUSER?=
 VPASSWORD?=
