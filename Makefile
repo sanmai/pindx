@@ -9,8 +9,9 @@ VINFO=https://$(VDOMAIN)/support/database/ops
 PINDX_REGEX='(/assets[^"]+[iI]ndx_[^"]+.zip)'
 
 # Auth flags (empty if VUSER not set)
-CURL_AUTH=$(if $(VUSER),-u "$(VUSER):$(VPASSWORD)",)
-WGET_AUTH=$(if $(VUSER),--user="$(VUSER)" --password="$(VPASSWORD)",)
+CURL_AUTH=$(if $(VUSER),-u $(VUSER):$(VPASSWORD),)
+WGET_AUTH=$(if $(VUSER),--user=$(VUSER) --password=$(VPASSWORD),)
+export CURL_AUTH WGET_AUTH VINFO
 
 .PHONY=all
 all: docs/json docs/json/index.json
@@ -20,19 +21,20 @@ all: docs/json docs/json/index.json
 
 .PHONY=check
 check:
-	curl $(CURL_AUTH) -I --silent --show-error --fail -o /dev/null $(VINFO)
+	curl $$CURL_AUTH -I --silent --show-error --fail -o /dev/null $$VINFO
 	# All clear!
 
 ops.txt:
-	timeout -k 15 10 curl $(CURL_AUTH) --silent --fail -o ops.txt $(VINFO)
+	timeout -k 15 10 curl $$CURL_AUTH --silent --fail -o ops.txt $$VINFO
 	echo -en $$(cat ops.txt) > ops.txt
 	echo -en $$(cat ops.txt) > ops.txt
 	grep -q Эталонный ops.txt
 
 PIndx.zip: ops.txt
 	grep -Eo $(PINDX_REGEX) ops.txt
-	wget -q $(WGET_AUTH) -O PIndx.zip "https://$(VDOMAIN)$$(cat ops.txt | grep -Eo $(PINDX_REGEX) | head -n1)"
-	unzip -t PIndx.zip
+	wget -q $$WGET_AUTH -O $@.tmp "https://$$VDOMAIN$$(cat ops.txt | grep -Eo $(PINDX_REGEX) | head -n1)"
+	mv $@.tmp $@
+	unzip -t $@
 
 PIndx.dbf: PIndx.zip
 	unzip -p PIndx.zip > PIndx.dbf
