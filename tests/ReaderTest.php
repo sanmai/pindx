@@ -19,6 +19,7 @@ declare(strict_types=1);
 
 namespace Tests\PIndxTools;
 
+use PHPUnit\Framework\Attributes\DataProvider;
 use PHPUnit\Framework\TestCase;
 use PIndxTools\Reader;
 
@@ -83,9 +84,7 @@ final class ReaderTest extends TestCase
         yield ['Russian Post Berlin LC/AO', 'Russian Post Berlin LC/AO'];
     }
 
-    /**
-     * @dataProvider provideUpdateCyrillicCasingCases
-     */
+    #[DataProvider('provideUpdateCyrillicCasingCases')]
     public function testUpdateCyrillicCasing(string $expected, string $input): void
     {
         $this->assertSame($expected, Reader::updateCyrillicCasing($input));
