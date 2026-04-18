@@ -34,19 +34,25 @@ final class ValidateTest extends TestCase
     public static function providePostalCodeExistsCases(): iterable
     {
         if (!\file_exists(Reader::TSV_SOURCE)) {
-            self::markTestSkipped('No data to test with');
+            yield [null];
+
+            return;
         }
 
         $reader = new Reader();
 
-        return \Pipeline\take($reader->read())->map(static function (Record $record) {
-            return [$record->Index];
-        });
+        yield from \Pipeline\take($reader->read())
+            ->cast(static fn (Record $record) => [$record->Index])
+        ;
     }
 
     #[DataProvider('providePostalCodeExistsCases')]
     public function testPostalCodeExists(mixed $postalCode): void
     {
+        if (null === $postalCode) {
+            self::markTestSkipped('No data to test with');
+        }
+
         $this->assertFileExists(\sprintf(
             'docs/json/%s/%s.json',
             \substr((string) $postalCode, 0, 3),
