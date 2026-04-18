@@ -22,7 +22,10 @@
     },
     "config": {
         "sort-packages": true,
-        "allow-plugins": true
+        "allow-plugins": true,
+        "audit": {
+            "block-insecure": false
+        }
     },
     "extra": {
         "branch-alias": {
