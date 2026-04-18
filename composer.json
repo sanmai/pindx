@@ -1,9 +1,9 @@
 {
     "name": "sanmai/pindx",
-    "type": "library",
     "description": "Эталонный справочник почтовых индексов объектов почтовой связи",
-    "homepage": "https://sanmai.github.io/pindx/",
     "license": "Apache-2.0",
+    "type": "library",
+    "homepage": "https://sanmai.github.io/pindx/",
     "require": {
         "sanmai/pindx-client": ">=0.1"
     },
@@ -13,26 +13,26 @@
         "friendsofphp/php-cs-fixer": "^3.0",
         "guzzlehttp/guzzle": "^7",
         "jms/serializer": "^3.0",
-        "phpunit/phpunit": "^9.5",
+        "phpunit/phpunit": "^13.0",
         "sanmai/later": "^0.1.2",
         "sanmai/pipeline": "^5.0 || ^6.0",
-        "symfony/yaml": "^5 || ^7",
         "symfony/finder": "^5 || ^7",
+        "symfony/yaml": "^5 || ^7",
         "wapmorgan/morphos": "^3.2"
-    },
-    "config": {
-        "sort-packages": true,
-        "allow-plugins": true
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "v0.3.x-dev"
-        }
     },
     "autoload-dev": {
         "psr-4": {
             "PIndxTools\\": "tools/",
             "Tests\\PIndxTools\\": "tests/"
+        }
+    },
+    "config": {
+        "allow-plugins": true,
+        "sort-packages": true
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "v0.3.x-dev"
         }
     }
 }

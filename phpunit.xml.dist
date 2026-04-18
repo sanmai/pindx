@@ -1,20 +1,17 @@
-<phpunit bootstrap="vendor/autoload.php"
-         convertWarningsToExceptions="true"
-         colors="true">
-
-    <testsuites>
-        <testsuite name="Main">
-            <directory>tests/</directory>
-        </testsuite>
-    </testsuites>
-
-    <filter>
-        <whitelist>
-            <directory suffix=".php">src/</directory>
-            <directory suffix=".php">tools/</directory>
-            <exclude>
-                <directory suffix=".php">src/ByCity/</directory>
-            </exclude>
-        </whitelist>
-    </filter>
+<?xml version="1.0"?>
+<phpunit bootstrap="vendor/autoload.php" colors="true" cacheDirectory=".phpunit.cache">
+  <testsuites>
+    <testsuite name="Main">
+      <directory>tests/</directory>
+    </testsuite>
+  </testsuites>
+  <source>
+    <include>
+      <directory suffix=".php">src/</directory>
+      <directory suffix=".php">tools/</directory>
+    </include>
+    <exclude>
+      <directory suffix=".php">src/ByCity/</directory>
+    </exclude>
+  </source>
 </phpunit>

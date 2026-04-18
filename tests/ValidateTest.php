@@ -19,6 +19,7 @@ declare(strict_types=1);
 
 namespace Tests\PIndxTools;
 
+use PHPUnit\Framework\Attributes\DataProvider;
 use PHPUnit\Framework\TestCase;
 use PIndxTools\Reader;
 use PIndxTools\Record;
@@ -43,12 +44,8 @@ final class ValidateTest extends TestCase
         });
     }
 
-    /**
-     * @dataProvider providePostalCodeExistsCases
-     *
-     * @param mixed $postalCode
-     */
-    public function testPostalCodeExists($postalCode): void
+    #[DataProvider('providePostalCodeExistsCases')]
+    public function testPostalCodeExists(mixed $postalCode): void
     {
         $this->assertFileExists(\sprintf(
             'docs/json/%s/%s.json',
