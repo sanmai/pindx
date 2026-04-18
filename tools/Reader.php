@@ -135,7 +135,7 @@ final class Reader
         $fields = \array_keys(\get_object_vars(new Record()));
 
         $fh = \is_resource($input) ? $input : \fopen($input, 'r');
-        while (($data = \fgetcsv($fh, 2048, "\t")) !== false) {
+        while (($data = \fgetcsv($fh, 2048, "\t", '"', '')) !== false) {
             $record = new Record();
 
             foreach ($fields as $fieldNo => $fieldName) {
