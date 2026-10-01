@@ -69,7 +69,7 @@ jobs:
           vendor/bin/phpunit
 
       - name: Commit
-        uses: EndBug/add-and-commit@v10
+        uses: EndBug/add-and-commit@v11
         with:
           default_author: github_actions
           message: Automatic build for ${{ steps.last-update-date.outputs.date }}
